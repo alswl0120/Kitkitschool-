@@ -71,6 +71,12 @@ const Count10Page = lazy(() => import('./pages/games/Count10Page'))
 const AirShapesPage = lazy(() => import('./pages/games/AirShapesPage'))
 const EqualsGreatLessPage = lazy(() => import('./pages/games/EqualsGreatLessPage'))
 const AdminPage = lazy(() => import('./pages/AdminPage'))
+const ToolsMenuPage = lazy(() => import('./pages/ToolsMenuPage'))
+const ToolsPage = lazy(() => import('./pages/ToolsPage'))
+const ShopPage = lazy(() => import('./pages/ShopPage'))
+const MyBirdPage = lazy(() => import('./pages/MyBirdPage'))
+const ColoringBookPage = lazy(() => import('./pages/ColoringBookPage'))
+const ABCPage = lazy(() => import('./pages/ABCPage'))
 
 function Loading() {
   return (
@@ -91,6 +97,12 @@ export default function App() {
       <Routes>
         <Route path="/" element={<LauncherPage />} />
         <Route path="/admin" element={<AdminPage />} />
+        <Route path="/tools" element={<ToolsMenuPage />} />
+        <Route path="/tools/dashboard" element={<ToolsPage />} />
+        <Route path="/tools/shop" element={<ShopPage />} />
+        <Route path="/tools/mybird" element={<MyBirdPage />} />
+        <Route path="/tools/coloring" element={<ColoringBookPage />} />
+        <Route path="/tools/abc" element={<ABCPage />} />
         <Route path="/coop" element={<CoopScenePage />} />
         <Route path="/coop/:levelID" element={<DaySelectPage />} />
         <Route path="/coop/:levelID/day/:day" element={<MainScenePage />} />

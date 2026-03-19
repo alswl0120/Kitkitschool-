@@ -253,7 +253,7 @@ export default function LauncherPage() {
 
           {/* Tools Button - remaining height */}
           <div
-            onClick={() => {}}
+            onClick={() => navigate('/tools')}
             style={{
               position: 'relative',
               flex: 1,

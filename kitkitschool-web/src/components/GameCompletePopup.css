@@ -1,0 +1,178 @@
+/* GameCompletePopup */
+
+.gcp-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.3s;
+  cursor: pointer;
+}
+
+.gcp-overlay--idle {
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.gcp-overlay--exit {
+  background: rgba(0, 0, 0, 0);
+  pointer-events: none;
+}
+
+/* Card */
+.gcp-card {
+  position: relative;
+  width: clamp(180px, 30vw, 340px);
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(0) rotate(-15deg);
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.gcp-card--idle,
+.gcp-card--exit {
+  transform: scale(1) rotate(0deg);
+}
+
+.gcp-card--exit {
+  transform: scale(0) rotate(10deg);
+  transition: transform 0.3s ease-in;
+}
+
+/* Rotating rings */
+.gcp-ring {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.gcp-ring--left {
+  animation: spin-left 4s linear infinite;
+}
+
+.gcp-ring--right {
+  animation: spin-right 3s linear infinite;
+}
+
+@keyframes spin-left {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(-360deg); }
+}
+
+@keyframes spin-right {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Glow */
+.gcp-glow {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+  animation: pulse-glow 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.7; transform: scale(0.95); }
+  50%       { opacity: 1;   transform: scale(1.1); }
+}
+
+/* Medal */
+.gcp-medal {
+  position: absolute;
+  width: 55%;
+  height: 55%;
+  object-fit: contain;
+  z-index: 2;
+  animation: medal-bounce 0.6s ease-out 0.3s both;
+}
+
+@keyframes medal-bounce {
+  0%   { transform: scale(0) rotate(-20deg); }
+  60%  { transform: scale(1.15) rotate(5deg); }
+  80%  { transform: scale(0.95) rotate(-2deg); }
+  100% { transform: scale(1) rotate(0deg); }
+}
+
+/* Sparkle particles */
+.gcp-sparkle {
+  position: absolute;
+  width: 16%;
+  height: 16%;
+  object-fit: contain;
+  animation: sparkle-pop 0.8s ease-out both;
+}
+
+.gcp-sparkle--1 { top: 5%;  left: 15%; animation-delay: 0.4s; }
+.gcp-sparkle--2 { top: 5%;  right: 15%; animation-delay: 0.5s; }
+.gcp-sparkle--3 { bottom: 20%; left: 8%;  animation-delay: 0.6s; }
+.gcp-sparkle--4 { bottom: 20%; right: 8%; animation-delay: 0.55s; }
+
+@keyframes sparkle-pop {
+  0%   { transform: scale(0) rotate(0deg); opacity: 0; }
+  50%  { transform: scale(1.3) rotate(180deg); opacity: 1; }
+  100% { transform: scale(1) rotate(360deg); opacity: 0.8; }
+}
+
+/* Done image */
+.gcp-done {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  object-fit: contain;
+  z-index: 3;
+  animation: done-slide 0.5s ease-out 0.6s both;
+}
+
+.gcp-done-fallback {
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(20px, 4vw, 40px);
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  white-space: nowrap;
+}
+
+@keyframes done-slide {
+  0%   { opacity: 0; transform: translateX(-50%) translateY(16px); }
+  100% { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+/* Stars badge */
+.gcp-stars-badge {
+  position: absolute;
+  top: 4%;
+  right: 4%;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: rgba(255, 200, 0, 0.92);
+  border-radius: 20px;
+  padding: 4px 10px 4px 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  z-index: 4;
+  animation: badge-pop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) 0.8s both;
+}
+
+@keyframes badge-pop {
+  0%   { transform: scale(0); }
+  100% { transform: scale(1); }
+}
+
+.gcp-stars-icon {
+  font-size: clamp(14px, 2.5vw, 22px);
+}
+
+.gcp-stars-count {
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(14px, 2.5vw, 22px);
+  font-weight: bold;
+  color: #5a3000;
+}

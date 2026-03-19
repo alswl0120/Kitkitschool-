@@ -1,6 +1,5 @@
 import { useSearchParams, useNavigate } from 'react-router-dom'
 import { useCallback, useMemo, useRef } from 'react'
-import { useCurriculum } from '../context/CurriculumContext'
 
 /**
  * Hook for shell (launcher) integration in game pages.
@@ -17,7 +16,6 @@ import { useCurriculum } from '../context/CurriculumContext'
 export function useShellParams() {
   const [searchParams] = useSearchParams()
   const navigate = useNavigate()
-  const { setGameCleared, checkAndSetDayCleared } = useCurriculum()
   const completedRef = useRef(false)
 
   const isFromShell = searchParams.get('from') === 'shell'
@@ -33,9 +31,6 @@ export function useShellParams() {
     return '/'
   }, [isFromShell, levelID, day])
 
-  // Store mutable refs to avoid dependency churn in onGameComplete
-  const checkAndSetDayClearedRef = useRef(checkAndSetDayCleared)
-  checkAndSetDayClearedRef.current = checkAndSetDayCleared
   const navigateRef = useRef(navigate)
   navigateRef.current = navigate
 
@@ -56,13 +51,11 @@ export function useShellParams() {
       return
     }
     completedRef.current = true
-    setGameCleared(levelID, day, gameIndex)
-    // Small delay so the completion overlay is visible, then navigate back
+    // Navigate back to MainScene with justCleared param so it can show the reward popup
     setTimeout(() => {
-      checkAndSetDayClearedRef.current(levelID, day)
-      navigateRef.current(returnPath)
-    }, 1500)
-  }, [isFromShell, levelID, day, gameIndex, setGameCleared, returnPath])
+      navigateRef.current(`${returnPath}?justCleared=${gameIndex}`)
+    }, 800)
+  }, [isFromShell, levelID, day, gameIndex, returnPath])
 
   const shellBack = useCallback(() => {
     navigate(returnPath)

@@ -136,6 +136,48 @@
   z-index: 10;
 }
 
+/* ⭐ Star counter – top-right */
+.main-star-counter {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(255, 200, 0, 0.88);
+  border-radius: 20px;
+  padding: 5px 14px 5px 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  z-index: 30;
+  font-family: 'TodoMainCurly', sans-serif;
+  user-select: none;
+}
+
+.main-star-icon {
+  font-size: clamp(16px, 2.5vw, 26px);
+  line-height: 1;
+}
+
+.main-star-total {
+  font-size: clamp(14px, 2.2vw, 22px);
+  font-weight: bold;
+  color: #5a2000;
+  min-width: 20px;
+  text-align: right;
+}
+
+/* just-cleared pulse on icon */
+.main-game-icon--just-cleared {
+  animation: icon-pulse 0.6s ease-out;
+}
+
+@keyframes icon-pulse {
+  0%   { transform: scale(1); }
+  40%  { transform: scale(1.25); }
+  70%  { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
 /* Back button – top-left, independent of panel */
 .main-back {
   position: absolute;
