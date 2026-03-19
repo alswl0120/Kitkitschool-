@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "levelIndex": 1,
+      "rounds": [
+        { "target": "circle",   "shapes": ["circle","square","triangle","circle","square","circle"],   "correctCount": 3 },
+        { "target": "square",   "shapes": ["triangle","square","circle","square","triangle","square"],  "correctCount": 3 },
+        { "target": "triangle", "shapes": ["triangle","circle","triangle","square","circle","triangle"],"correctCount": 3 },
+        { "target": "circle",   "shapes": ["square","circle","triangle","circle","triangle","square"],  "correctCount": 2 },
+        { "target": "triangle", "shapes": ["circle","triangle","square","triangle","circle","square"],  "correctCount": 2 },
+        { "target": "square",   "shapes": ["square","triangle","square","circle","triangle","square"],  "correctCount": 3 },
+        { "target": "circle",   "shapes": ["circle","triangle","circle","square","circle","triangle"],  "correctCount": 3 },
+        { "target": "triangle", "shapes": ["square","triangle","circle","square","triangle","circle"],  "correctCount": 2 }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "rounds": [
+        { "target": "star",      "shapes": ["star","circle","rectangle","star","triangle","square"],      "correctCount": 2 },
+        { "target": "rectangle", "shapes": ["rectangle","star","circle","rectangle","square","star"],     "correctCount": 2 },
+        { "target": "circle",    "shapes": ["triangle","circle","star","rectangle","circle","square"],    "correctCount": 2 },
+        { "target": "square",    "shapes": ["square","rectangle","star","square","circle","triangle"],    "correctCount": 2 },
+        { "target": "star",      "shapes": ["circle","star","triangle","star","rectangle","square"],      "correctCount": 2 },
+        { "target": "triangle",  "shapes": ["triangle","star","rectangle","circle","triangle","square"],  "correctCount": 2 },
+        { "target": "rectangle", "shapes": ["star","rectangle","circle","rectangle","triangle","square"], "correctCount": 2 },
+        { "target": "circle",    "shapes": ["rectangle","circle","star","circle","triangle","rectangle"], "correctCount": 2 }
+      ]
+    },
+    {
+      "levelIndex": 3,
+      "rounds": [
+        { "target": "diamond",   "shapes": ["diamond","circle","star","diamond","rectangle","triangle"],  "correctCount": 2 },
+        { "target": "star",      "shapes": ["star","diamond","rectangle","star","square","diamond"],      "correctCount": 2 },
+        { "target": "circle",    "shapes": ["diamond","circle","star","triangle","circle","rectangle"],   "correctCount": 2 },
+        { "target": "rectangle", "shapes": ["rectangle","diamond","star","circle","rectangle","diamond"], "correctCount": 2 },
+        { "target": "diamond",   "shapes": ["circle","star","diamond","rectangle","triangle","diamond"],  "correctCount": 2 },
+        { "target": "triangle",  "shapes": ["triangle","diamond","star","triangle","circle","rectangle"], "correctCount": 2 },
+        { "target": "star",      "shapes": ["diamond","star","circle","star","rectangle","triangle"],     "correctCount": 2 },
+        { "target": "square",    "shapes": ["square","diamond","rectangle","star","square","circle"],     "correctCount": 2 }
+      ]
+    }
+  ]
+}

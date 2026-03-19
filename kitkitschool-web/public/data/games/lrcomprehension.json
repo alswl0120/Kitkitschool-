@@ -1,0 +1,2030 @@
+{
+  "levels": {
+    "1": [
+      {
+        "passage": "Tom has a cat. The cat is orange.",
+        "questions": [
+          {
+            "q": "What does Tom have?",
+            "choices": [
+              "a cat",
+              "a dog",
+              "a bird",
+              "a fish"
+            ],
+            "correct": 0
+          },
+          {
+            "q": "What color is the cat?",
+            "choices": [
+              "black",
+              "white",
+              "orange",
+              "brown"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Ann has a red ball. She plays with it.",
+        "questions": [
+          {
+            "q": "What does Ann have?",
+            "choices": [
+              "a bat",
+              "a ball",
+              "a box",
+              "a bag"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What color is the ball?",
+            "choices": [
+              "blue",
+              "green",
+              "yellow",
+              "red"
+            ],
+            "correct": 3
+          }
+        ]
+      },
+      {
+        "passage": "The dog runs fast. It is a big dog.",
+        "questions": [
+          {
+            "q": "What does the dog do?",
+            "choices": [
+              "jumps",
+              "swims",
+              "runs",
+              "sleeps"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What size is the dog?",
+            "choices": [
+              "small",
+              "tiny",
+              "big",
+              "short"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Sam likes to eat apples. Apples are sweet.",
+        "questions": [
+          {
+            "q": "What does Sam like to eat?",
+            "choices": [
+              "bananas",
+              "apples",
+              "grapes",
+              "oranges"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "How do apples taste?",
+            "choices": [
+              "sour",
+              "salty",
+              "bitter",
+              "sweet"
+            ],
+            "correct": 3
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "passage": "Ben has a blue kite. He flies it in the park.",
+        "questions": [
+          {
+            "q": "What color is the kite?",
+            "choices": [
+              "red",
+              "blue",
+              "green",
+              "yellow"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Where does Ben fly his kite?",
+            "choices": [
+              "at school",
+              "at home",
+              "in the park",
+              "on the roof"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "The hen lays eggs. The eggs are white.",
+        "questions": [
+          {
+            "q": "What does the hen do?",
+            "choices": [
+              "lays eggs",
+              "eats fish",
+              "runs fast",
+              "sings songs"
+            ],
+            "correct": 0
+          },
+          {
+            "q": "What color are the eggs?",
+            "choices": [
+              "brown",
+              "yellow",
+              "white",
+              "pink"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Mia loves to read books. She reads every night.",
+        "questions": [
+          {
+            "q": "What does Mia love to do?",
+            "choices": [
+              "draw",
+              "sing",
+              "read books",
+              "play games"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "When does she read?",
+            "choices": [
+              "in the morning",
+              "every night",
+              "at noon",
+              "after school"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "passage": "The sun shines bright. It makes the day warm.",
+        "questions": [
+          {
+            "q": "What shines bright?",
+            "choices": [
+              "the moon",
+              "a lamp",
+              "the sun",
+              "a star"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What does the sun make the day?",
+            "choices": [
+              "cold",
+              "dark",
+              "wet",
+              "warm"
+            ],
+            "correct": 3
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "passage": "Jake has a pet turtle. The turtle is very slow. Jake feeds it lettuce every day.",
+        "questions": [
+          {
+            "q": "What kind of pet does Jake have?",
+            "choices": [
+              "a rabbit",
+              "a turtle",
+              "a fish",
+              "a hamster"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "How does the turtle move?",
+            "choices": [
+              "very fast",
+              "very slow",
+              "it flies",
+              "it swims only"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What does Jake feed his turtle?",
+            "choices": [
+              "bread",
+              "grass",
+              "lettuce",
+              "apples"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "It is raining outside. Lily puts on her boots. She jumps in the puddles.",
+        "questions": [
+          {
+            "q": "What is the weather like?",
+            "choices": [
+              "sunny",
+              "snowing",
+              "raining",
+              "windy"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What does Lily put on?",
+            "choices": [
+              "a hat",
+              "her boots",
+              "a coat",
+              "gloves"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What does Lily do in the puddles?",
+            "choices": [
+              "swims",
+              "sits",
+              "jumps",
+              "runs"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Max bakes a cake. He uses flour, eggs, and sugar. The cake smells good.",
+        "questions": [
+          {
+            "q": "What does Max bake?",
+            "choices": [
+              "bread",
+              "cookies",
+              "a cake",
+              "a pie"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Which ingredient does Max NOT use?",
+            "choices": [
+              "flour",
+              "eggs",
+              "sugar",
+              "milk"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "How does the cake smell?",
+            "choices": [
+              "bad",
+              "sour",
+              "strange",
+              "good"
+            ],
+            "correct": 3
+          }
+        ]
+      },
+      {
+        "passage": "Ella has a little garden. She grows red roses there. She waters them every morning.",
+        "questions": [
+          {
+            "q": "What does Ella have?",
+            "choices": [
+              "a farm",
+              "a little garden",
+              "a big yard",
+              "a greenhouse"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What color are the roses?",
+            "choices": [
+              "pink",
+              "white",
+              "yellow",
+              "red"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "When does she water the roses?",
+            "choices": [
+              "every evening",
+              "every morning",
+              "every noon",
+              "every night"
+            ],
+            "correct": 1
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "passage": "Paul went to the beach. He built a sandcastle. Then he swam in the waves. It was a fun day.",
+        "questions": [
+          {
+            "q": "Where did Paul go?",
+            "choices": [
+              "the park",
+              "the forest",
+              "the beach",
+              "the mountains"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What did Paul build?",
+            "choices": [
+              "a fort",
+              "a sandcastle",
+              "a boat",
+              "a tent"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What did Paul do after building the sandcastle?",
+            "choices": [
+              "went home",
+              "ate lunch",
+              "swam in the waves",
+              "played soccer"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Sara helps her mom cook dinner. She chops vegetables. She stirs the pot. Mom says thank you.",
+        "questions": [
+          {
+            "q": "What are Sara and her mom doing?",
+            "choices": [
+              "baking",
+              "gardening",
+              "cooking dinner",
+              "cleaning"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What does Sara chop?",
+            "choices": [
+              "fruit",
+              "meat",
+              "bread",
+              "vegetables"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "What does Mom say to Sara?",
+            "choices": [
+              "well done",
+              "thank you",
+              "good job",
+              "great work"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "passage": "A baby bird fell from its nest. Tim found it under a tree. He gently put it back in the nest. The bird was safe.",
+        "questions": [
+          {
+            "q": "What fell from the nest?",
+            "choices": [
+              "a leaf",
+              "an egg",
+              "a baby bird",
+              "a branch"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Where did Tim find the bird?",
+            "choices": [
+              "in the grass",
+              "in a bush",
+              "under a tree",
+              "near a pond"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What did Tim do with the bird?",
+            "choices": [
+              "kept it as a pet",
+              "left it alone",
+              "put it back in the nest",
+              "gave it food"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "The library is a quiet place. People go there to read books. You must not talk loudly. Rosa loves going to the library.",
+        "questions": [
+          {
+            "q": "What kind of place is the library?",
+            "choices": [
+              "noisy",
+              "quiet",
+              "busy",
+              "messy"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Why do people go to the library?",
+            "choices": [
+              "to eat",
+              "to play",
+              "to sleep",
+              "to read books"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "What must you not do in the library?",
+            "choices": [
+              "read",
+              "sit",
+              "talk loudly",
+              "borrow books"
+            ],
+            "correct": 2
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "passage": "Every autumn, leaves change color. They turn red, orange, and yellow. Then they fall to the ground. Children love to play in the leaf piles.",
+        "questions": [
+          {
+            "q": "When do leaves change color?",
+            "choices": [
+              "spring",
+              "summer",
+              "autumn",
+              "winter"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Which color is NOT mentioned for the leaves?",
+            "choices": [
+              "red",
+              "orange",
+              "purple",
+              "yellow"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What do children love to do with the leaves?",
+            "choices": [
+              "collect them",
+              "burn them",
+              "play in piles",
+              "draw on them"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Penguins live in very cold places. They cannot fly but they are great swimmers. They eat fish to survive. Penguins live in groups called colonies.",
+        "questions": [
+          {
+            "q": "Where do penguins live?",
+            "choices": [
+              "in hot deserts",
+              "in very cold places",
+              "in rain forests",
+              "in warm oceans"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What can penguins NOT do?",
+            "choices": [
+              "swim",
+              "eat fish",
+              "fly",
+              "live in groups"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What is a group of penguins called?",
+            "choices": [
+              "a flock",
+              "a herd",
+              "a pack",
+              "a colony"
+            ],
+            "correct": 3
+          }
+        ]
+      },
+      {
+        "passage": "Fire needs three things to burn: fuel, oxygen, and heat. If you remove any one of these, the fire will go out. That is why firefighters spray water on fires.",
+        "questions": [
+          {
+            "q": "How many things does fire need to burn?",
+            "choices": [
+              "two",
+              "three",
+              "four",
+              "five"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Which is NOT one of fire's three things?",
+            "choices": [
+              "fuel",
+              "oxygen",
+              "heat",
+              "water"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "Why do firefighters spray water on fires?",
+            "choices": [
+              "to clean the fire",
+              "to remove heat",
+              "to add oxygen",
+              "to add fuel"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "passage": "The moon does not make its own light. It reflects light from the sun. The moon travels around the Earth. It takes about 28 days to go all the way around.",
+        "questions": [
+          {
+            "q": "Where does the moon get its light from?",
+            "choices": [
+              "stars",
+              "the Earth",
+              "the sun",
+              "itself"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What does the moon travel around?",
+            "choices": [
+              "the sun",
+              "the stars",
+              "other planets",
+              "the Earth"
+            ],
+            "correct": 3
+          },
+          {
+            "q": "How long does the moon take to go around the Earth?",
+            "choices": [
+              "7 days",
+              "14 days",
+              "28 days",
+              "365 days"
+            ],
+            "correct": 2
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "passage": "Rosa wanted to grow a sunflower. She planted a seed in a pot of soil. She placed the pot near the window for sunlight. Every day she watered it. After two weeks, a tiny green shoot appeared.",
+        "questions": [
+          {
+            "q": "What did Rosa want to grow?",
+            "choices": [
+              "a rose",
+              "a sunflower",
+              "a cactus",
+              "a tree"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Where did Rosa place the pot?",
+            "choices": [
+              "in the dark",
+              "in the garden",
+              "near the window",
+              "on the roof"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What appeared after two weeks?",
+            "choices": [
+              "a flower",
+              "a leaf",
+              "a tiny green shoot",
+              "a root"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "The Great Wall of China is one of the longest walls in the world. It stretches over thousands of miles. People built it long ago to protect their land. Today many tourists visit the wall.",
+        "questions": [
+          {
+            "q": "What is one of the longest walls in the world?",
+            "choices": [
+              "The Berlin Wall",
+              "The Great Wall of China",
+              "Hadrian's Wall",
+              "The Stone Wall"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Why was the wall built?",
+            "choices": [
+              "for decoration",
+              "to protect their land",
+              "to mark a border for trading",
+              "to keep animals in"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Who visits the wall today?",
+            "choices": [
+              "only soldiers",
+              "only Chinese people",
+              "many tourists",
+              "only builders"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Recycling helps protect the planet. When we recycle paper, plastic, and glass, we use fewer new materials. This means we cut down fewer trees and use less energy. Even small actions can make a big difference.",
+        "questions": [
+          {
+            "q": "What does recycling help protect?",
+            "choices": [
+              "animals",
+              "the planet",
+              "buildings",
+              "schools"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What happens when we recycle?",
+            "choices": [
+              "we make more trash",
+              "we need more factories",
+              "we use fewer new materials",
+              "we use more energy"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "According to the passage, what can make a big difference?",
+            "choices": [
+              "only big actions",
+              "recycling only plastic",
+              "only large factories",
+              "even small actions"
+            ],
+            "correct": 3
+          }
+        ]
+      },
+      {
+        "passage": "Some animals sleep through the winter. This long, deep sleep is called hibernation. Bears and hedgehogs hibernate. During hibernation, their bodies slow down and they live off stored fat.",
+        "questions": [
+          {
+            "q": "What is the long, deep winter sleep called?",
+            "choices": [
+              "migration",
+              "hibernation",
+              "incubation",
+              "relaxation"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Which animal is mentioned as a hibernator?",
+            "choices": [
+              "a wolf",
+              "a fox",
+              "a bear",
+              "a deer"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What do animals live off during hibernation?",
+            "choices": [
+              "stored water",
+              "stored fat",
+              "small insects",
+              "tree roots"
+            ],
+            "correct": 1
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "passage": "Thomas Edison is known for inventing the light bulb. However, he failed over a thousand times before he succeeded. When asked about his failures, Edison said he had found many ways that did not work. His hard work changed the world and gave us electric light.",
+        "questions": [
+          {
+            "q": "What is Thomas Edison known for inventing?",
+            "choices": [
+              "the telephone",
+              "the radio",
+              "the light bulb",
+              "the television"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "How did Edison describe his many failures?",
+            "choices": [
+              "as terrible mistakes",
+              "as ways that did not work",
+              "as wasted time",
+              "as other people's fault"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What was the result of Edison's hard work?",
+            "choices": [
+              "he became very rich",
+              "he helped the world get electric light",
+              "he built great buildings",
+              "he won many prizes"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What does the passage tell us about success?",
+            "choices": [
+              "it comes easily",
+              "it requires no practice",
+              "it can take many attempts",
+              "only smart people succeed"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Rainforests are found near the equator where the weather is hot and wet. They are home to more than half of all plant and animal species on Earth. Unfortunately, rainforests are being cut down for farming and building. Scientists warn that losing them could harm our entire planet.",
+        "questions": [
+          {
+            "q": "Where are rainforests found?",
+            "choices": [
+              "near the poles",
+              "in cold mountains",
+              "near the equator",
+              "in dry deserts"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What fraction of plant and animal species live in rainforests?",
+            "choices": [
+              "a quarter",
+              "a third",
+              "more than half",
+              "almost all"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Why are rainforests being cut down?",
+            "choices": [
+              "for medicine",
+              "for farming and building",
+              "for research",
+              "for tourism"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What could happen if rainforests are lost?",
+            "choices": [
+              "weather would improve",
+              "animals would adapt easily",
+              "it could harm our entire planet",
+              "we would find new forests"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Water moves in a never-ending cycle called the water cycle. The sun heats water in rivers and oceans, turning it into water vapor that rises into the sky. The vapor cools and forms clouds. Eventually the water falls back to the ground as rain or snow.",
+        "questions": [
+          {
+            "q": "What powers the water cycle?",
+            "choices": [
+              "the wind",
+              "the moon",
+              "the sun",
+              "gravity alone"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What happens to water when it is heated by the sun?",
+            "choices": [
+              "it disappears",
+              "it turns to vapor and rises",
+              "it becomes heavier",
+              "it falls as rain immediately"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What do clouds form from?",
+            "choices": [
+              "dust particles",
+              "cooled water vapor",
+              "warm air rising",
+              "ocean spray"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "How does water return to the ground?",
+            "choices": [
+              "as fog",
+              "as steam",
+              "as vapor",
+              "as rain or snow"
+            ],
+            "correct": 3
+          }
+        ]
+      },
+      {
+        "passage": "Helen Keller was blind and deaf from the age of nineteen months. Despite this, she learned to read, write, and speak. Her teacher, Anne Sullivan, worked patiently to help her understand language. Helen grew up to write books and give speeches around the world.",
+        "questions": [
+          {
+            "q": "When did Helen Keller become blind and deaf?",
+            "choices": [
+              "at birth",
+              "at age five",
+              "at nineteen months",
+              "as a teenager"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Who helped Helen learn language?",
+            "choices": [
+              "her mother",
+              "a doctor",
+              "Anne Sullivan",
+              "her father"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What did Helen achieve as an adult?",
+            "choices": [
+              "she became a painter",
+              "she wrote books and gave speeches",
+              "she became a teacher herself",
+              "she invented a new language"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What is the main message of this passage?",
+            "choices": [
+              "blind people cannot learn",
+              "hard work can overcome great challenges",
+              "teachers are not important",
+              "being deaf is the biggest challenge"
+            ],
+            "correct": 1
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "passage": "Frogs live near ponds and lakes. They jump to catch insects. Frogs are green and slippery.",
+        "questions": [
+          { "q": "Where do frogs live?", "choices": ["in deserts", "near ponds and lakes", "in trees", "underground"], "correct": 1 },
+          { "q": "How do frogs catch insects?", "choices": ["they swim after them", "they fly", "they jump", "they dig"], "correct": 2 },
+          { "q": "What do frogs look like?", "choices": ["red and rough", "blue and smooth", "green and slippery", "yellow and fuzzy"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Clouds are made of tiny water drops. Dark clouds often bring rain. White clouds mean the sky is clear.",
+        "questions": [
+          { "q": "What are clouds made of?", "choices": ["smoke", "dust", "tiny water drops", "air bubbles"], "correct": 2 },
+          { "q": "What do dark clouds often bring?", "choices": ["snow only", "sunshine", "rain", "wind only"], "correct": 2 },
+          { "q": "What do white clouds mean?", "choices": ["a storm is coming", "the sky is clear", "it will rain soon", "it is very cold"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Dan goes to school by bus. The bus is yellow. He sits with his friend, Leo.",
+        "questions": [
+          { "q": "How does Dan go to school?", "choices": ["by car", "by bike", "by bus", "on foot"], "correct": 2 },
+          { "q": "What color is the bus?", "choices": ["red", "blue", "green", "yellow"], "correct": 3 },
+          { "q": "Who does Dan sit with on the bus?", "choices": ["his sister", "his teacher", "Leo", "his mom"], "correct": 2 }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "passage": "Birds build nests in spring. They use twigs and leaves. The nest holds their eggs.",
+        "questions": [
+          { "q": "When do birds build nests?", "choices": ["in winter", "in autumn", "in spring", "in summer"], "correct": 2 },
+          { "q": "What do birds use to build nests?", "choices": ["mud and stones", "twigs and leaves", "grass and flowers", "sand and shells"], "correct": 1 },
+          { "q": "What does the nest hold?", "choices": ["food", "water", "the bird's eggs", "small insects"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Kim helps set the table for dinner. She puts out forks, knives, and plates. Then the family eats together.",
+        "questions": [
+          { "q": "What does Kim help with?", "choices": ["cooking dinner", "washing dishes", "setting the table", "buying food"], "correct": 2 },
+          { "q": "Which item does Kim NOT put out?", "choices": ["forks", "knives", "plates", "cups"], "correct": 3 },
+          { "q": "What does the family do after the table is set?", "choices": ["watch TV", "eat together", "go for a walk", "clean the kitchen"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Snow falls in winter. It covers the ground in white. Children make snowballs and snowmen.",
+        "questions": [
+          { "q": "When does snow fall?", "choices": ["in spring", "in summer", "in autumn", "in winter"], "correct": 3 },
+          { "q": "What color does snow make the ground?", "choices": ["grey", "white", "silver", "blue"], "correct": 1 },
+          { "q": "What do children make with snow?", "choices": ["sand castles and forts", "snowballs and snowmen", "boats and bridges", "gardens and paths"], "correct": 1 }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "passage": "Bees live in a hive. They make honey from flowers. Honey is sweet and sticky.",
+        "questions": [
+          { "q": "Where do bees live?", "choices": ["in a nest in the ground", "in a hive", "in a tree hole only", "under rocks"], "correct": 1 },
+          { "q": "What do bees use to make honey?", "choices": ["leaves", "water", "flowers", "fruit"], "correct": 2 },
+          { "q": "How is honey described?", "choices": ["sour and thin", "bitter and runny", "salty and thick", "sweet and sticky"], "correct": 3 }
+        ]
+      },
+      {
+        "passage": "Joe wakes up early. He brushes his teeth and washes his face. Then he eats breakfast before school.",
+        "questions": [
+          { "q": "When does Joe wake up?", "choices": ["late", "at noon", "early", "after lunch"], "correct": 2 },
+          { "q": "What does Joe do first after waking up?", "choices": ["eats breakfast", "gets dressed", "brushes his teeth and washes his face", "packs his bag"], "correct": 2 },
+          { "q": "What does Joe do before going to school?", "choices": ["plays outside", "reads a book", "eats breakfast", "watches TV"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Fish live underwater. They breathe through gills. Some fish are colorful and swim in coral reefs.",
+        "questions": [
+          { "q": "Where do fish live?", "choices": ["on land", "in trees", "underwater", "in the air"], "correct": 2 },
+          { "q": "How do fish breathe?", "choices": ["through lungs", "through their skin", "through gills", "through their mouths only"], "correct": 2 },
+          { "q": "Where do some colorful fish swim?", "choices": ["in rivers only", "in coral reefs", "in frozen lakes", "in muddy ponds"], "correct": 1 }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "passage": "The market is busy on Saturday. People buy fresh fruit and vegetables. The colors are bright and beautiful.",
+        "questions": [
+          { "q": "When is the market busy?", "choices": ["Monday", "Wednesday", "Friday", "Saturday"], "correct": 3 },
+          { "q": "What do people buy at the market?", "choices": ["clothes and shoes", "toys and games", "fresh fruit and vegetables", "books and pencils"], "correct": 2 },
+          { "q": "How are the colors at the market described?", "choices": ["dull and dark", "bright and beautiful", "plain and simple", "grey and brown"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "A caterpillar eats leaves every day. It grows bigger and bigger. Then it wraps itself in a cocoon.",
+        "questions": [
+          { "q": "What does a caterpillar eat?", "choices": ["fruit", "flowers", "leaves", "insects"], "correct": 2 },
+          { "q": "What happens as the caterpillar keeps eating?", "choices": ["it gets smaller", "it grows bigger and bigger", "it changes color", "it flies away"], "correct": 1 },
+          { "q": "What does the caterpillar wrap itself in?", "choices": ["a leaf", "a flower", "a web", "a cocoon"], "correct": 3 }
+        ]
+      },
+      {
+        "passage": "Grandma bakes bread every Sunday. The bread is warm and soft. The whole house smells wonderful.",
+        "questions": [
+          { "q": "When does Grandma bake bread?", "choices": ["every Saturday", "every Sunday", "every Friday", "every Monday"], "correct": 1 },
+          { "q": "How is the bread described?", "choices": ["hard and cold", "warm and soft", "dry and crumbly", "thin and crispy"], "correct": 1 },
+          { "q": "What does the bread make the house smell?", "choices": ["strange", "bad", "wonderful", "smoky"], "correct": 2 }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "passage": "Mia visited her grandmother on a farm. There were chickens, goats, and a big brown horse. Grandmother showed Mia how to collect eggs from the hens. Mia carried six eggs carefully back to the house.",
+        "questions": [
+          { "q": "Where did Mia visit?", "choices": ["a zoo", "a farm", "a park", "a school"], "correct": 1 },
+          { "q": "Who showed Mia how to collect eggs?", "choices": ["her mother", "a farmer", "her grandmother", "her friend"], "correct": 2 },
+          { "q": "How many eggs did Mia carry back?", "choices": ["four", "five", "six", "seven"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Carlos found a big puddle after the rain. He put on his rubber boots and splashed in it. His little sister watched from the porch and laughed. Soon she put on her boots too and joined him.",
+        "questions": [
+          { "q": "What did Carlos find after the rain?", "choices": ["a frog", "a big puddle", "a rainbow", "a muddy path"], "correct": 1 },
+          { "q": "Where did his sister watch from?", "choices": ["the window", "the garden", "the porch", "the doorstep"], "correct": 2 },
+          { "q": "What did the sister do in the end?", "choices": ["stayed inside", "went to bed", "put on her boots and joined Carlos", "called their mother"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The school library has thousands of books. Students can borrow up to three books at a time. Mrs. Green, the librarian, helps students find the books they need. The library is open every day except Sunday.",
+        "questions": [
+          { "q": "Who helps students find books?", "choices": ["the principal", "Mrs. Green", "the teacher", "an older student"], "correct": 1 },
+          { "q": "How many books can students borrow at a time?", "choices": ["one", "two", "three", "five"], "correct": 2 },
+          { "q": "When is the library closed?", "choices": ["Saturday", "Sunday", "Monday", "Friday"], "correct": 1 }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "passage": "Every morning, the baker wakes up before sunrise. He mixes flour, water, and yeast to make dough. He shapes the dough into loaves and puts them in a hot oven. By the time the town wakes up, fresh bread is ready.",
+        "questions": [
+          { "q": "When does the baker wake up?", "choices": ["at noon", "after sunrise", "before sunrise", "at midnight"], "correct": 2 },
+          { "q": "What does the baker use to make dough?", "choices": ["flour, milk, and sugar", "flour, water, and yeast", "eggs, butter, and flour", "water, salt, and sugar"], "correct": 1 },
+          { "q": "When is the bread ready?", "choices": ["at noon", "before midnight", "by the time the town wakes up", "in the afternoon"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Elephants are the largest land animals on Earth. They live in groups called herds. The oldest female, called the matriarch, leads the herd. Elephants use their long trunks to drink water and pick up food.",
+        "questions": [
+          { "q": "What are groups of elephants called?", "choices": ["packs", "flocks", "herds", "colonies"], "correct": 2 },
+          { "q": "Who leads an elephant herd?", "choices": ["the biggest male", "the youngest elephant", "the oldest female", "the strongest elephant"], "correct": 2 },
+          { "q": "What do elephants use their trunks for?", "choices": ["making sounds only", "swimming only", "drinking water and picking up food", "building shelters"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Sophie loved painting with watercolors. One afternoon she painted a picture of the garden outside her window. She used green for the grass, yellow for the flowers, and blue for the sky. When it dried, she gave the painting to her dad as a gift.",
+        "questions": [
+          { "q": "What did Sophie love to do?", "choices": ["draw with pencils", "paint with watercolors", "make clay models", "take photographs"], "correct": 1 },
+          { "q": "What did she paint a picture of?", "choices": ["the beach", "her classroom", "the garden outside her window", "her family"], "correct": 2 },
+          { "q": "Who did Sophie give the painting to?", "choices": ["her teacher", "her mom", "her friend", "her dad"], "correct": 3 }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "passage": "Volcanoes are mountains that can erupt. When a volcano erupts, hot melted rock called lava flows out. Lava is extremely hot and can reach over a thousand degrees. Some volcanoes erupt often, while others have been quiet for thousands of years.",
+        "questions": [
+          { "q": "What is lava?", "choices": ["hot ash", "hot melted rock", "boiling water", "hot steam"], "correct": 1 },
+          { "q": "How hot can lava get?", "choices": ["over one hundred degrees", "over five hundred degrees", "over a thousand degrees", "exactly two hundred degrees"], "correct": 2 },
+          { "q": "What does the passage say about some volcanoes?", "choices": ["they erupt every day", "they are all active", "some have been quiet for thousands of years", "all volcanoes erupt at the same time"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The town held a spring festival in the park. There were games, food stalls, and a big parade. Emma and her brother wore colorful costumes. They marched with the school band and played their instruments loudly.",
+        "questions": [
+          { "q": "Where was the spring festival held?", "choices": ["at school", "in the town hall", "in the park", "on the main street"], "correct": 2 },
+          { "q": "What did Emma and her brother wear?", "choices": ["school uniforms", "sports clothes", "colorful costumes", "raincoats"], "correct": 2 },
+          { "q": "What did they march with?", "choices": ["the dance team", "the school band", "a group of clowns", "the fire fighters"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Camels are well suited to life in the desert. They can go many days without drinking water. Their humps store fat, not water, which gives them energy. Wide, flat feet help them walk on soft sand without sinking.",
+        "questions": [
+          { "q": "Where do camels live?", "choices": ["in forests", "near rivers", "in the desert", "in cold mountains"], "correct": 2 },
+          { "q": "What is stored in a camel's hump?", "choices": ["water", "fat", "food", "air"], "correct": 1 },
+          { "q": "What do wide flat feet help camels do?", "choices": ["run faster", "swim better", "walk on soft sand without sinking", "climb rocks"], "correct": 2 }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "passage": "Tomas moved to a new school in September. He felt nervous on his first day. A girl named Priya sat next to him and showed him around. By lunchtime, Tomas was feeling much better and had made his first new friend.",
+        "questions": [
+          { "q": "When did Tomas move to the new school?", "choices": ["January", "June", "August", "September"], "correct": 3 },
+          { "q": "How did Tomas feel on his first day?", "choices": ["excited", "angry", "nervous", "happy"], "correct": 2 },
+          { "q": "Who helped Tomas on his first day?", "choices": ["his teacher", "a boy named Alex", "a girl named Priya", "his mom"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Dolphins are very intelligent animals. They live in the ocean and breathe air through a blowhole on top of their heads. Dolphins communicate with each other using clicks and whistles. They often swim in groups called pods.",
+        "questions": [
+          { "q": "How do dolphins breathe?", "choices": ["through gills", "through their mouth only", "through a blowhole", "through their skin"], "correct": 2 },
+          { "q": "How do dolphins communicate?", "choices": ["with howls and roars", "with clicks and whistles", "with body movements only", "with splashing"], "correct": 1 },
+          { "q": "What is a group of dolphins called?", "choices": ["a herd", "a school", "a colony", "a pod"], "correct": 3 }
+        ]
+      },
+      {
+        "passage": "In winter, some trees lose all their leaves. These trees are called deciduous. The leaves change color before they fall. In spring, new leaves grow back on the branches.",
+        "questions": [
+          { "q": "What are trees called that lose their leaves in winter?", "choices": ["evergreen", "tropical", "deciduous", "seasonal"], "correct": 2 },
+          { "q": "What happens to leaves before they fall?", "choices": ["they shrink", "they turn white", "they change color", "they dry up immediately"], "correct": 2 },
+          { "q": "When do new leaves grow back?", "choices": ["in summer", "in winter", "in autumn", "in spring"], "correct": 3 }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "passage": "One morning, Aisha found a small turtle in the backyard. First, she found a box and put some grass in it. Then she carefully picked up the turtle and placed it inside. Next, she gave it a dish of water. Finally, she called her dad to help her return the turtle safely to the pond nearby.",
+        "questions": [
+          { "q": "Where did Aisha find the turtle?", "choices": ["in the park", "in the front yard", "in the backyard", "near the pond"], "correct": 2 },
+          { "q": "What did Aisha do first after finding the turtle?", "choices": ["called her dad", "gave it water", "found a box and put grass in it", "carried it to the pond"], "correct": 2 },
+          { "q": "Why did Aisha call her dad?", "choices": ["she was scared of the turtle", "to show him the turtle", "to help return the turtle to the pond", "to buy a cage for the turtle"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Plants need four things to grow: sunlight, water, soil, and air. Sunlight gives plants energy to make food. Water carries nutrients from the soil to all parts of the plant. Without enough of any one of these things, a plant will become weak and may die.",
+        "questions": [
+          { "q": "How many things do plants need to grow?", "choices": ["two", "three", "four", "five"], "correct": 2 },
+          { "q": "What does sunlight give to plants?", "choices": ["water", "nutrients", "energy to make food", "soil minerals"], "correct": 2 },
+          { "q": "What happens if a plant does not get enough of what it needs?", "choices": ["it grows faster", "it changes color only", "it becomes weak and may die", "it grows bigger roots"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Maya forgot her lunch at home. Because she had no food, she felt hungry all morning. Her friend Lily noticed Maya looked sad and shared half of her sandwich. Maya was very grateful and thanked Lily. The next day, Maya brought an extra snack to share with Lily.",
+        "questions": [
+          { "q": "Why did Maya feel hungry?", "choices": ["she did not like the school food", "she forgot her lunch at home", "she was ill", "she gave her lunch away"], "correct": 1 },
+          { "q": "What did Lily do to help?", "choices": ["bought Maya a meal", "took Maya home", "shared half of her sandwich", "told the teacher"], "correct": 2 },
+          { "q": "How did Maya show gratitude the next day?", "choices": ["she bought Lily a gift", "she wrote Lily a letter", "she brought an extra snack to share", "she made Lily's lunch"], "correct": 2 }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "passage": "Thunder and lightning happen during storms. First, electricity builds up inside storm clouds. Then it flashes as lightning through the sky. The lightning heats the air around it so fast that the air expands and makes the loud booming sound we call thunder. Lightning always comes before thunder because light travels faster than sound.",
+        "questions": [
+          { "q": "What builds up inside storm clouds first?", "choices": ["water", "wind", "electricity", "ice"], "correct": 2 },
+          { "q": "What causes the booming sound of thunder?", "choices": ["clouds crashing together", "rain hitting the ground", "air expanding rapidly when heated by lightning", "wind rushing through the clouds"], "correct": 2 },
+          { "q": "Why does lightning come before thunder?", "choices": ["lightning is stronger than thunder", "light travels faster than sound", "thunder takes time to form", "sound travels faster than light"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Ben wanted to build a birdhouse. He asked his grandfather for help. First, they drew a plan on paper. Next, they measured and cut pieces of wood. Then they nailed the pieces together. Finally, Ben painted the birdhouse bright red. He hung it in the garden, and a robin moved in the following week.",
+        "questions": [
+          { "q": "Who helped Ben build the birdhouse?", "choices": ["his father", "his uncle", "his grandfather", "his neighbor"], "correct": 2 },
+          { "q": "What was the first step in building the birdhouse?", "choices": ["cutting the wood", "painting it", "drawing a plan on paper", "hanging it in the garden"], "correct": 2 },
+          { "q": "What bird moved into the birdhouse?", "choices": ["a sparrow", "a robin", "a bluebird", "a wren"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Deserts are very dry places. They receive very little rain each year. Because of this, only certain plants and animals can survive there. Cacti store water in their thick stems. Some desert animals sleep during the hot day and come out at night when it is cooler.",
+        "questions": [
+          { "q": "Why are deserts hard to live in?", "choices": ["they are too cold", "they receive very little rain", "they have no sunlight", "they have too many animals"], "correct": 1 },
+          { "q": "Where do cacti store water?", "choices": ["in their roots", "in their leaves", "in their thick stems", "in their flowers"], "correct": 2 },
+          { "q": "Why do some desert animals come out at night?", "choices": ["to find plants", "because they sleep at night", "because it is cooler at night", "because there is more food at night"], "correct": 2 }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "passage": "Rosa wanted to run in the school race but she had never trained before. She decided to practice every morning. Each day she ran a little farther. After two weeks of hard work, she entered the race. Rosa did not win, but she finished and felt very proud. She learned that practice makes you better.",
+        "questions": [
+          { "q": "Why did Rosa start practicing?", "choices": ["her teacher told her to", "she wanted to run in the school race", "her friend dared her", "she wanted to get fit"], "correct": 1 },
+          { "q": "How did Rosa's running change each day?", "choices": ["she ran faster each time", "she ran with different friends", "she ran a little farther", "she rested more often"], "correct": 2 },
+          { "q": "What lesson did Rosa learn?", "choices": ["winning is everything", "running is too hard", "practice makes you better", "it is best to give up"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Owls are birds that hunt at night. Their large eyes help them see in the dark. They have soft feathers that let them fly silently so their prey cannot hear them coming. Owls eat mice, rabbits, and small birds. They swallow small animals whole and later spit out the bones and fur in a pellet.",
+        "questions": [
+          { "q": "When do owls hunt?", "choices": ["early morning", "in the afternoon", "at night", "at midday"], "correct": 2 },
+          { "q": "Why can owls fly silently?", "choices": ["they have very small wings", "they have soft feathers", "they fly very high up", "they glide on warm air"], "correct": 1 },
+          { "q": "What do owls spit out after eating?", "choices": ["digested food", "water", "leftover meat", "a pellet of bones and fur"], "correct": 3 }
+        ]
+      },
+      {
+        "passage": "The seasons change because the Earth tilts as it travels around the sun. When a part of the Earth tilts toward the sun, that part gets more sunlight and has summer. When it tilts away, it gets less sunlight and has winter. This is why summer and winter happen at different times in the northern and southern parts of the world.",
+        "questions": [
+          { "q": "Why do seasons change?", "choices": ["the sun gets hotter and cooler", "the moon blocks the sun", "the Earth tilts as it travels around the sun", "clouds block sunlight"], "correct": 2 },
+          { "q": "What causes summer in a part of the Earth?", "choices": ["it tilts away from the sun", "it is closest to the moon", "it tilts toward the sun and gets more sunlight", "it has fewer clouds"], "correct": 2 },
+          { "q": "What does the passage explain about summer and winter worldwide?", "choices": ["they happen at the same time everywhere", "they happen at different times in north and south", "only the north has winter", "summer lasts all year near the equator"], "correct": 1 }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "passage": "Grace loved to bake. One afternoon she decided to make cookies for her neighbor, old Mr. Hill, who had been sick. She mixed the batter, cut the cookies into star shapes, and baked them until golden. She packed them in a box with a note saying Get well soon. Mr. Hill was so happy he had tears in his eyes.",
+        "questions": [
+          { "q": "Why did Grace make cookies for Mr. Hill?", "choices": ["it was his birthday", "he had been sick", "he asked her to", "she wanted to learn baking"], "correct": 1 },
+          { "q": "What shape did Grace cut the cookies into?", "choices": ["circles", "hearts", "stars", "squares"], "correct": 2 },
+          { "q": "How did Mr. Hill react when he received the cookies?", "choices": ["he was surprised but quiet", "he was unhappy", "he was so happy he had tears in his eyes", "he asked for more"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Rivers begin as tiny streams high up in mountains. As water flows downhill, small streams join together and the river grows wider. Rivers carry water all the way to the sea or a lake. People and animals depend on rivers for drinking water, and farmers use river water to grow crops.",
+        "questions": [
+          { "q": "Where do rivers begin?", "choices": ["in the sea", "in flat valleys", "as tiny streams high up in mountains", "in underground lakes"], "correct": 2 },
+          { "q": "What happens as the river flows downhill?", "choices": ["it gets slower and disappears", "small streams join and the river grows wider", "it turns into a lake", "it flows back uphill"], "correct": 1 },
+          { "q": "What do farmers use river water for?", "choices": ["making electricity", "washing roads", "growing crops", "building dams only"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Ivan forgot his homework on the day the teacher collected it. He felt embarrassed. He thought about making up an excuse, but instead he told his teacher the truth. His teacher appreciated his honesty and gave him until the next day to bring it in. Ivan remembered that being honest was always the right choice.",
+        "questions": [
+          { "q": "How did Ivan feel when he forgot his homework?", "choices": ["happy", "embarrassed", "angry", "confused"], "correct": 1 },
+          { "q": "What did Ivan decide to do?", "choices": ["make up an excuse", "copy a friend's work", "tell his teacher the truth", "stay home"], "correct": 2 },
+          { "q": "What lesson did Ivan learn?", "choices": ["it is okay to lie sometimes", "teachers are always strict", "being honest is always the right choice", "homework is not important"], "correct": 2 }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "passage": "The Amazon rainforest is often called the lungs of the Earth. It produces a large amount of the oxygen we breathe. The forest is home to millions of species of plants, insects, birds, and mammals. Scientists believe there are still many species in the Amazon that have never been discovered. Protecting the Amazon is important for life on our entire planet.",
+        "questions": [
+          { "q": "Why is the Amazon called the lungs of the Earth?", "choices": ["it is shaped like lungs", "it produces a large amount of oxygen", "it breathes in carbon dioxide only", "it is the oldest forest on Earth"], "correct": 1 },
+          { "q": "What do scientists believe about species in the Amazon?", "choices": ["all species have been found", "many species are extinct", "many species have never been discovered", "only insects live there"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["the Amazon is a nice place to visit", "the Amazon is large", "protecting the Amazon is important for life on Earth", "scientists study the Amazon every year"], "correct": 2 },
+          { "q": "What can we infer about the Amazon from the passage?", "choices": ["it is not very important", "it is a dry place", "it is very rich in life and vital to the planet", "it has few plant species"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Amara always sat alone at lunch. She was shy and found it hard to talk to other children. One day, a new student named Jess sat next to her and asked what book Amara was reading. They started talking and discovered they both loved adventure stories. From that day on, they ate lunch together every day and became best friends.",
+        "questions": [
+          { "q": "Why did Amara sit alone at lunch?", "choices": ["she preferred to eat alone", "other children were unkind", "she was shy and found it hard to talk to others", "she arrived at lunch late every day"], "correct": 2 },
+          { "q": "What did Amara and Jess discover they had in common?", "choices": ["the same favorite food", "the same teacher", "they both loved adventure stories", "they lived on the same street"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["shy children cannot make friends", "a small act of kindness can start a great friendship", "new students always make friends quickly", "books cause people to ignore others"], "correct": 1 },
+          { "q": "What can we infer about Jess from the passage?", "choices": ["Jess was also shy", "Jess was friendly and kind", "Jess did not enjoy reading", "Jess had many other friends already"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Spiders are not insects. Insects have six legs, but spiders have eight. Spiders also have two body parts, while insects have three. Most spiders spin webs made of silk to catch prey. Spider silk is incredibly strong for its size — stronger than steel of the same thickness.",
+        "questions": [
+          { "q": "How many legs do spiders have?", "choices": ["six", "seven", "eight", "ten"], "correct": 2 },
+          { "q": "How many body parts does a spider have?", "choices": ["one", "two", "three", "four"], "correct": 1 },
+          { "q": "What is remarkable about spider silk?", "choices": ["it is very light and colorful", "it dissolves in water", "it is stronger than steel of the same thickness", "it glows in the dark"], "correct": 2 },
+          { "q": "What is the main idea of the first two sentences?", "choices": ["spiders are dangerous", "spiders are more like insects than people think", "spiders are different from insects", "all bugs have eight legs"], "correct": 2 }
+        ]
+      }
+    ],
+    "22": [
+      {
+        "passage": "Every community needs helpers. Firefighters put out fires and rescue people. Doctors and nurses help the sick get well. Teachers help children learn. Police officers keep neighborhoods safe. Without these helpers, life in a community would be very difficult. We should appreciate all the people who help keep our communities safe and healthy.",
+        "questions": [
+          { "q": "What is the main idea of this passage?", "choices": ["firefighters are the most important helpers", "every community needs many kinds of helpers", "police officers are more important than teachers", "helpers only work in big cities"], "correct": 1 },
+          { "q": "What do teachers do for the community?", "choices": ["keep neighborhoods safe", "help children learn", "put out fires", "help the sick"], "correct": 1 },
+          { "q": "What can we infer from the passage?", "choices": ["helpers do not need to be thanked", "communities can manage without helpers", "each type of helper plays an important role", "only adults need helpers"], "correct": 2 },
+          { "q": "Which helper is described as keeping neighborhoods safe?", "choices": ["doctors", "teachers", "firefighters", "police officers"], "correct": 3 }
+        ]
+      },
+      {
+        "passage": "Polar bears are built for life in the Arctic. Their thick white fur keeps them warm and helps them blend into the snow. Under their fur, a layer of fat keeps them insulated from the freezing water. Polar bears are excellent swimmers and can swim for many hours without stopping. They hunt seals by waiting quietly near holes in the ice.",
+        "questions": [
+          { "q": "What helps polar bears blend into the snow?", "choices": ["their white skin", "their white fur", "the snow on their back", "their pale eyes"], "correct": 1 },
+          { "q": "What keeps polar bears insulated in freezing water?", "choices": ["their fur alone", "a layer of fat under their fur", "special waterproof skin", "their large size"], "correct": 1 },
+          { "q": "How do polar bears hunt seals?", "choices": ["by chasing them through water", "by digging under the ice", "by waiting quietly near holes in the ice", "by calling out to attract them"], "correct": 2 },
+          { "q": "What can we infer about polar bears from the passage?", "choices": ["they struggle to survive in the Arctic", "they eat only plants", "their body is perfectly adapted to a cold environment", "they rarely swim"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Healthy eating gives our bodies the energy they need to grow and stay well. Fruits and vegetables give us vitamins and minerals. Whole grains give us energy that lasts throughout the day. Protein from foods like eggs, beans, and fish helps build our muscles. Drinking plenty of water keeps all our body systems working properly.",
+        "questions": [
+          { "q": "What do fruits and vegetables provide?", "choices": ["protein and fat", "vitamins and minerals", "energy for muscles", "carbohydrates and fiber"], "correct": 1 },
+          { "q": "What does protein help to build?", "choices": ["bones", "muscles", "organs", "blood"], "correct": 1 },
+          { "q": "What is the main idea of this passage?", "choices": ["fruits are the most important food", "drinking water is all you need", "different foods give our bodies different important things", "whole grains are better than protein"], "correct": 2 },
+          { "q": "What can we infer about water from the passage?", "choices": ["we only need water sometimes", "water is not as important as food", "water plays a vital role in keeping the body healthy", "drinking water is optional"], "correct": 2 }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "passage": "The International Space Station, or ISS, orbits the Earth about 400 kilometers above the ground. Astronauts from many different countries live and work there. They conduct science experiments that are impossible to do on Earth. Living in space is challenging because everything is weightless, so astronauts must exercise every day to keep their muscles strong.",
+        "questions": [
+          { "q": "How high above the Earth does the ISS orbit?", "choices": ["40 kilometers", "400 kilometers", "4000 kilometers", "40000 kilometers"], "correct": 1 },
+          { "q": "Why do astronauts exercise every day in space?", "choices": ["to pass the time", "because it is required by law", "to keep their muscles strong in weightlessness", "to test new equipment"], "correct": 2 },
+          { "q": "What is the main purpose of living on the ISS?", "choices": ["to watch the Earth from above", "to conduct science experiments impossible on Earth", "to build new spaceships", "to practice flying"], "correct": 1 },
+          { "q": "What does the passage imply about life in space?", "choices": ["it is easy and comfortable", "it is dangerous and not worth doing", "it presents unique challenges that need special solutions", "astronauts have no free time"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Long ago, Native Americans used smoke signals to send messages across great distances. They would build a fire and then use a wet blanket to create puffs of smoke. The pattern of puffs carried the message. Today, people send messages instantly by phone or internet, but smoke signals show that humans have always found clever ways to communicate.",
+        "questions": [
+          { "q": "How did Native Americans create smoke signals?", "choices": ["by setting large fires on hilltops", "by using a wet blanket to create puffs of smoke", "by burning colored wood", "by waving torches"], "correct": 1 },
+          { "q": "What carried the message in smoke signals?", "choices": ["the color of the smoke", "the size of the fire", "the pattern of smoke puffs", "the direction of the wind"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["smoke signals are better than phones", "communication technology has not changed much", "humans have always found clever ways to communicate", "Native Americans were the best communicators"], "correct": 2 },
+          { "q": "What can we infer about smoke signals?", "choices": ["they only worked in bad weather", "they were a very effective solution for long-distance communication", "they were never used outside North America", "only chiefs could read them"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "A food web shows how energy passes from one living thing to another in nature. Plants capture energy from the sun. Insects eat the plants. Frogs eat the insects. Snakes eat the frogs. Eagles eat the snakes. If one part of the food web disappears, all the other parts are affected. This shows how all living things are connected.",
+        "questions": [
+          { "q": "Where does energy in a food web originally come from?", "choices": ["soil", "rain", "the sun", "wind"], "correct": 2 },
+          { "q": "What happens if one part of a food web disappears?", "choices": ["nothing changes", "only the plants are affected", "all other parts are affected", "only the animals at the top are affected"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["eagles are the most important part of nature", "plants are the only important living things", "all living things in nature are connected", "food webs are only found in forests"], "correct": 2 },
+          { "q": "In the food web described, what do frogs eat?", "choices": ["plants", "snakes", "insects", "eagles"], "correct": 2 }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "passage": "Scientists have discovered that trees in a forest communicate with each other underground. They do this through a network of fungi connected to their roots. Through this network, trees can share water and nutrients with weaker trees nearby. Some scientists have called this the wood wide web. This remarkable discovery shows that trees may cooperate rather than simply compete.",
+        "questions": [
+          { "q": "How do trees in a forest communicate?", "choices": ["through their leaves in the wind", "through chemicals in rain water", "through a network of fungi connected to their roots", "through sound waves in the soil"], "correct": 2 },
+          { "q": "What have scientists nicknamed this network?", "choices": ["the forest network", "the root web", "the wood wide web", "the fungi highway"], "correct": 2 },
+          { "q": "What does the discovery suggest about trees?", "choices": ["trees compete fiercely with each other", "trees may cooperate with each other", "trees only share with the same species", "trees communicate only in summer"], "correct": 1 },
+          { "q": "What is the main idea of this passage?", "choices": ["fungi destroy trees", "trees are not intelligent", "trees cooperate in surprising ways through underground networks", "scientists do not understand forests well"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "In ancient Egypt, cats were considered sacred animals. Egyptians believed cats had special powers to protect their homes from evil spirits. Hurting a cat was a serious crime. When a family's cat died, people would shave their eyebrows as a sign of mourning. Cats were sometimes mummified and buried with great care.",
+        "questions": [
+          { "q": "Why were cats special in ancient Egypt?", "choices": ["they were used to catch fish", "they were believed to protect homes from evil spirits", "they were symbols of royalty only", "they were used in religious ceremonies only"], "correct": 1 },
+          { "q": "What did Egyptians do when a family cat died?", "choices": ["they built a statue", "they held a feast", "they shaved their eyebrows", "they painted a picture of the cat"], "correct": 2 },
+          { "q": "What can we infer about cats in ancient Egypt?", "choices": ["they were treated as common pets", "they were feared by most people", "they were deeply respected and valued", "they were rarely seen in homes"], "correct": 2 },
+          { "q": "What does the passage suggest happened to cats after death?", "choices": ["they were released into the wild", "they were left in the desert", "they were mummified and buried carefully", "they were given to priests"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Many people think bats are scary, but they are actually very helpful animals. Bats eat thousands of insects every night, including mosquitoes that bother humans. Some bats pollinate flowers just like bees do. Others spread seeds by eating fruit and dropping the seeds in new places. Without bats, our ecosystem would be much less healthy.",
+        "questions": [
+          { "q": "How many insects can bats eat?", "choices": ["dozens a night", "hundreds a week", "thousands every night", "millions a year"], "correct": 2 },
+          { "q": "What do some bats do that is similar to bees?", "choices": ["make honey", "build hives", "pollinate flowers", "sting insects"], "correct": 2 },
+          { "q": "How do bats spread seeds?", "choices": ["by carrying them in their claws", "by eating fruit and dropping seeds in new places", "by pushing seeds into the soil", "by spitting seeds out while flying"], "correct": 1 },
+          { "q": "What is the main idea of this passage?", "choices": ["bats are dangerous to humans", "bats are scary but harmless", "bats play many valuable roles in the ecosystem", "bats eat too many insects"], "correct": 2 }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "passage": "Marie Curie was one of the greatest scientists in history. She was the first woman to win a Nobel Prize and the only person ever to win Nobel Prizes in two different sciences — physics and chemistry. She discovered two new elements: polonium and radium. Her work with radioactivity changed medicine and science forever, even though the dangers of radiation were not known in her time.",
+        "questions": [
+          { "q": "What was Marie Curie the first woman to do?", "choices": ["teach at a university", "discover an element", "win a Nobel Prize", "work in a laboratory"], "correct": 2 },
+          { "q": "How many Nobel Prizes did Marie Curie win?", "choices": ["one", "two", "three", "four"], "correct": 1 },
+          { "q": "Which elements did she discover?", "choices": ["radium and uranium", "polonium and radium", "helium and polonium", "carbon and radium"], "correct": 1 },
+          { "q": "What does the passage imply about Marie Curie?", "choices": ["she knew about the dangers of radiation", "she stopped working after her first prize", "she made great contributions despite working in dangerous conditions", "she was not recognized during her lifetime"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Lighthouses are tall towers built near the sea. They have a bright flashing light at the top that warns ships about dangerous rocks and shallow water. Before GPS, sailors depended on lighthouses to navigate safely at night or in foggy weather. Many old lighthouses are now tourist attractions. They remind us of a time when a simple light could save many lives.",
+        "questions": [
+          { "q": "Where are lighthouses built?", "choices": ["on high mountains", "in cities", "near the sea", "in harbors only"], "correct": 2 },
+          { "q": "What did sailors use before GPS to navigate at night?", "choices": ["star charts only", "radio signals", "lighthouses", "maps of the ocean"], "correct": 2 },
+          { "q": "What are many old lighthouses used for today?", "choices": ["they are still used for navigation", "they are tourist attractions", "they have been torn down", "they are used by the military"], "correct": 1 },
+          { "q": "What is the main idea of this passage?", "choices": ["lighthouses are no longer needed", "GPS is better than lighthouses", "lighthouses played an important role in keeping sailors safe", "all lighthouses are ancient"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Gold has been valuable to humans for thousands of years. It does not rust or tarnish, so it stays shiny forever. It is rare, which makes it expensive. Gold is soft enough to be shaped into coins, jewelry, and art. Today, gold is also used in electronics because it conducts electricity very well. This ancient metal remains important in the modern world.",
+        "questions": [
+          { "q": "Why does gold stay shiny forever?", "choices": ["it is coated with a special layer", "it does not rust or tarnish", "it reflects all light", "it is polished regularly"], "correct": 1 },
+          { "q": "Why is gold expensive?", "choices": ["it is very heavy", "it is difficult to melt", "it is rare", "it is found only underground"], "correct": 2 },
+          { "q": "How is gold used in modern electronics?", "choices": ["as a coating to prevent damage", "to store data", "because it conducts electricity very well", "because it is lightweight"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["gold is only valuable as jewelry", "gold has unique properties that make it useful through history to today", "gold should be used more in electronics", "ancient uses of gold are the most important"], "correct": 1 }
+        ]
+      }
+    ],
+    "26": [
+      {
+        "passage": "Dogs and cats are both popular pets, but they are very different animals. Dogs are pack animals and love to be with their owners all the time. They need daily walks and lots of attention. Cats, on the other hand, are more independent. They are happy to spend time alone and often groom themselves. Dogs tend to be louder, while cats are usually quiet. Both animals can be loving companions, but caring for each one is a different experience.",
+        "questions": [
+          { "q": "How are dogs described in the passage?", "choices": ["independent and quiet", "pack animals that love to be with their owners", "animals that prefer to be alone", "very similar to cats"], "correct": 1 },
+          { "q": "How are cats different from dogs according to the passage?", "choices": ["cats need more walks", "cats are louder than dogs", "cats are more independent and groom themselves", "cats need more attention"], "correct": 2 },
+          { "q": "What do dogs and cats have in common?", "choices": ["they both need daily walks", "they are both very loud", "they can both be loving companions", "they both prefer to be alone"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["dogs make better pets than cats", "dogs and cats are both popular but have very different needs", "cats are easier to care for than dogs", "all pets need the same kind of care"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "City life and country life are very different ways of living. Cities are crowded with people, cars, and tall buildings. There are many shops, restaurants, and entertainment choices nearby. In the country, the land is open and quiet. Nature is all around, with fields, forests, and clean air. City people often have more job opportunities, while country people may enjoy a slower and more peaceful way of life. Both have advantages and disadvantages depending on what a person values most.",
+        "questions": [
+          { "q": "How is city life described in the passage?", "choices": ["open and quiet", "crowded with people, cars, and buildings", "surrounded by forests and fields", "slow and peaceful"], "correct": 1 },
+          { "q": "What advantage of country life does the passage mention?", "choices": ["more job opportunities", "more shops and restaurants", "a slower and more peaceful way of life", "better schools"], "correct": 2 },
+          { "q": "What advantage of city life does the passage mention?", "choices": ["clean air", "more space", "fields and forests nearby", "more job opportunities"], "correct": 3 },
+          { "q": "What does the passage suggest about choosing where to live?", "choices": ["city life is always better", "country life is always better", "neither is better — it depends on what a person values", "most people prefer cities"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Summer and winter holidays both have their charms. In summer, children enjoy long days, warm sunshine, trips to the beach, and playing outdoors. Winter holidays bring festive decorations, cozy indoor activities, warm drinks, and time spent with family around the holidays. Summer adventures tend to be energetic and active, while winter celebrations are often warm and quiet. Both seasons offer special moments that children and families look forward to each year.",
+        "questions": [
+          { "q": "What activities does the passage associate with summer holidays?", "choices": ["cozy indoor activities and warm drinks", "festive decorations and family time", "long days, beach trips, and outdoor play", "quiet moments by the fire"], "correct": 2 },
+          { "q": "How are winter celebrations described compared to summer?", "choices": ["more energetic and active", "less enjoyable than summer", "often warm and quiet", "very similar to summer"], "correct": 2 },
+          { "q": "What do summer and winter holidays have in common?", "choices": ["both involve the beach", "both offer special moments families look forward to", "both are active and energetic", "both happen at the same time of year"], "correct": 1 },
+          { "q": "What is the author's overall view of summer and winter holidays?", "choices": ["summer is clearly better", "winter is clearly better", "both seasons have their own special charms", "neither season is worth celebrating"], "correct": 2 }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "passage": "Books and films are two ways to experience a story. Books allow readers to use their imagination to picture the characters and settings. Reading can be done at any pace — you can slow down to enjoy a description or quickly skip ahead. Films, on the other hand, show you exactly what the director imagined. They bring stories to life with music, acting, and visual effects. Books often include more detail, while films are usually more exciting to watch. Many people enjoy both, each for different reasons.",
+        "questions": [
+          { "q": "What advantage of books does the passage mention?", "choices": ["they have music and sound", "they let readers use their imagination", "they are faster to finish than films", "they always have pictures"], "correct": 1 },
+          { "q": "What advantage of films does the passage mention?", "choices": ["they include more details than books", "you can read them at your own pace", "they bring stories to life with music and acting", "they are easier to make than books"], "correct": 2 },
+          { "q": "How does the passage compare the detail in books versus films?", "choices": ["films have more detail", "books and films have equal detail", "books often include more detail", "films include no detail at all"], "correct": 2 },
+          { "q": "What is the main point the author makes about books and films?", "choices": ["books are always better than films", "films are always better than books", "books and films each have different qualities that people enjoy", "most people only like films"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Ancient Egyptian and ancient Roman civilizations were both powerful empires. The Egyptians built great pyramids and developed one of the first writing systems called hieroglyphics. The Romans built roads and aqueducts that are still partly standing today. Both civilizations valued art, architecture, and military power. However, the Romans built a much larger empire that stretched across three continents, while Egypt was centered in North Africa and the Middle East.",
+        "questions": [
+          { "q": "What writing system did the Egyptians develop?", "choices": ["Latin", "hieroglyphics", "cuneiform", "alphabet"], "correct": 1 },
+          { "q": "What did the Romans build that is still partly standing today?", "choices": ["pyramids and temples", "bridges and castles", "roads and aqueducts", "walls and towers"], "correct": 2 },
+          { "q": "How were the two civilizations similar?", "choices": ["both built pyramids", "both used hieroglyphics", "both valued art, architecture, and military power", "both were centered in North Africa"], "correct": 2 },
+          { "q": "How was the Roman Empire different from ancient Egypt?", "choices": ["Rome did not value art", "Egypt had a larger empire", "Rome built a much larger empire across three continents", "Rome did not have a writing system"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Solar energy and wind energy are two important sources of clean power. Solar panels capture energy from sunlight and turn it into electricity. Wind turbines capture energy from moving air. Both produce energy without creating pollution or using up resources like coal or oil. Solar panels work best in sunny places, while wind turbines work best in open, windy areas. Together, these two sources of renewable energy can help reduce our dependence on fossil fuels.",
+        "questions": [
+          { "q": "How do solar panels produce electricity?", "choices": ["by capturing energy from wind", "by burning fuel", "by capturing energy from sunlight", "by storing energy from water"], "correct": 2 },
+          { "q": "Where do wind turbines work best?", "choices": ["in sunny desert areas", "near the ocean only", "in cold mountainous regions", "in open, windy areas"], "correct": 3 },
+          { "q": "What do solar and wind energy have in common?", "choices": ["both work best in deserts", "both produce energy without pollution", "both need sunlight to work", "both use the same technology"], "correct": 1 },
+          { "q": "What is the main message of this passage?", "choices": ["wind energy is better than solar energy", "solar and wind energy are clean alternatives to fossil fuels", "fossil fuels are cleaner than renewable energy", "solar panels work everywhere"], "correct": 1 }
+        ]
+      }
+    ],
+    "28": [
+      {
+        "passage": "Public libraries and bookshops both let people access books, but they are very different places. In a library, books are free to borrow — you just need a library card. Libraries also offer quiet reading rooms, internet access, and sometimes community events. Bookshops sell books, so you keep what you buy. They often have a cozy atmosphere with coffee shops nearby. Libraries are better for people who want to read many different books without spending money, while bookshops are perfect for people who want to own and collect their favorite stories.",
+        "questions": [
+          { "q": "What do you need to borrow books from a library?", "choices": ["a student card", "a library card", "money", "a form of identification"], "correct": 1 },
+          { "q": "What does a bookshop offer that a library does not?", "choices": ["internet access", "reading rooms", "community events", "books you can keep after buying"], "correct": 3 },
+          { "q": "Who does the passage say libraries are better for?", "choices": ["people who love only one type of book", "people who want to own and collect books", "people who want to read many books without spending money", "people who prefer coffee shops"], "correct": 2 },
+          { "q": "What do libraries and bookshops have in common?", "choices": ["both sell books", "both lend books for free", "both give access to books", "both have community events"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Wolves and domestic dogs are closely related — dogs descended from wolves thousands of years ago. Both animals are intelligent and social. However, wolves live in the wild in packs and hunt large animals for food. Dogs have been bred over thousands of years to live with humans. They have learned to understand human gestures and emotions in ways that wolves cannot. Dogs come in hundreds of different shapes and sizes, while wolves all look broadly similar.",
+        "questions": [
+          { "q": "Where did domestic dogs originally come from?", "choices": ["from foxes", "from wolves", "from jackals", "they were always separate animals"], "correct": 1 },
+          { "q": "How do wolves and dogs differ in how they live?", "choices": ["wolves live with humans and dogs live in the wild", "wolves hunt large animals in packs while dogs live with humans", "wolves are not social but dogs are", "wolves and dogs live the same way"], "correct": 1 },
+          { "q": "What can dogs do that wolves cannot?", "choices": ["hunt large animals", "live in groups", "understand human gestures and emotions", "communicate with each other"], "correct": 2 },
+          { "q": "What is one way wolves and dogs are similar?", "choices": ["both hunt large animals", "both come in hundreds of shapes and sizes", "both are intelligent and social", "both live in the wild"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Traditional markets and supermarkets offer very different shopping experiences. In a traditional market, vendors sell fresh fruits, vegetables, meats, and handmade goods. You can often bargain with sellers to get a better price. The atmosphere is lively and social. Supermarkets have fixed prices and a much wider variety of packaged goods. They are open for longer hours and are often more convenient. Many people enjoy the social experience of markets but appreciate the convenience of supermarkets.",
+        "questions": [
+          { "q": "What can shoppers do in traditional markets that they cannot in supermarkets?", "choices": ["buy packaged goods", "shop late at night", "bargain with sellers", "use a shopping cart"], "correct": 2 },
+          { "q": "What advantage do supermarkets have over traditional markets?", "choices": ["fresher food", "a more social atmosphere", "fixed lower prices", "longer opening hours and greater convenience"], "correct": 3 },
+          { "q": "What do both traditional markets and supermarkets offer?", "choices": ["bargaining with sellers", "handmade goods only", "a place to buy food and other items", "a lively social atmosphere"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["supermarkets are better than markets", "traditional markets are old-fashioned", "both types of shops have their own advantages", "most people prefer supermarkets"], "correct": 2 }
+        ]
+      }
+    ],
+    "29": [
+      {
+        "passage": "Humans have explored the deepest parts of the ocean, but much of the sea floor remains a mystery. The deep ocean is completely dark, under enormous pressure, and very cold. Yet life thrives there. Strange creatures like anglerfish, giant squid, and glowing jellyfish have adapted to these extreme conditions. Some deep-sea creatures make their own light in a process called bioluminescence. Scientists believe there may be millions of species in the deep ocean that have never been seen by humans.",
+        "questions": [
+          { "q": "What conditions exist in the deep ocean?", "choices": ["warm, bright, and low pressure", "cold, dark, and high pressure", "warm, dark, and low pressure", "cold, bright, and low pressure"], "correct": 1 },
+          { "q": "What is bioluminescence?", "choices": ["a type of deep-sea plant", "the process of creatures making their own light", "a chemical found in ocean water", "a type of pressure deep creatures experience"], "correct": 1 },
+          { "q": "What do scientists believe about deep-sea species?", "choices": ["all species have been discovered", "there are very few species there", "millions of species may have never been seen by humans", "deep-sea species are mostly similar to surface creatures"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["humans have fully explored the ocean", "the deep ocean is empty and lifeless", "the deep ocean is a mysterious world full of extraordinary life", "only anglerfish live in the deep ocean"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Throughout history, explorers have set out on dangerous journeys to discover unknown lands. Christopher Columbus sailed west from Europe in 1492 and reached the Americas. Roald Amundsen became the first person to reach the South Pole in 1911. More recently, explorers have turned to space. Neil Armstrong became the first person to walk on the Moon in 1969. Each of these explorations changed how humans understood the world, and each required enormous courage and determination.",
+        "questions": [
+          { "q": "What did Christopher Columbus discover when he sailed west from Europe?", "choices": ["a new route to Asia", "the Americas", "the South Pole", "an unknown ocean"], "correct": 1 },
+          { "q": "Who was the first person to reach the South Pole?", "choices": ["Christopher Columbus", "Neil Armstrong", "Roald Amundsen", "James Cook"], "correct": 2 },
+          { "q": "What was significant about Neil Armstrong's achievement?", "choices": ["he sailed around the world", "he discovered the Americas", "he was the first person to reach the South Pole", "he was the first person to walk on the Moon"], "correct": 3 },
+          { "q": "What quality did all these explorers share?", "choices": ["they all worked for governments", "they all used the same technology", "they all showed enormous courage and determination", "they all explored the same places"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Plastic pollution is one of the biggest environmental problems of our time. Every year, millions of tons of plastic end up in the ocean. Sea animals can mistake plastic bags for jellyfish and swallow them, which can be deadly. Tiny pieces of plastic called microplastics have been found in fish, drinking water, and even in human blood. Many countries are now banning single-use plastics such as straws and bags. Each of us can help by using reusable bags and bottles.",
+        "questions": [
+          { "q": "What problem can plastic bags cause for sea animals?", "choices": ["they block sunlight from reaching coral", "animals can mistake them for jellyfish and swallow them", "they destroy fish eggs", "they clog fish gills"], "correct": 1 },
+          { "q": "What are microplastics?", "choices": ["plastic that floats on the surface of water", "large pieces of plastic in the ocean", "tiny pieces of plastic", "plastic used in medicine"], "correct": 2 },
+          { "q": "What are many countries doing about single-use plastics?", "choices": ["encouraging people to use more", "taxing companies that make them", "banning items like straws and bags", "melting them down into new products"], "correct": 2 },
+          { "q": "What can individuals do to help with plastic pollution?", "choices": ["avoid going near the ocean", "only use plastic that is recycled", "use reusable bags and bottles", "stop eating fish"], "correct": 2 }
+        ]
+      }
+    ],
+    "30": [
+      {
+        "passage": "The human brain is the most complex organ in the known universe. It contains about 86 billion nerve cells called neurons. These neurons communicate with each other through electrical and chemical signals, forming trillions of connections. Different parts of the brain control different functions — the frontal lobe handles decision-making, while the cerebellum controls movement and balance. Scientists are still working to understand how the brain creates memories, emotions, and consciousness. Despite centuries of study, many mysteries of the brain remain unsolved.",
+        "questions": [
+          { "q": "How many neurons does the human brain contain?", "choices": ["about a million", "about a billion", "about 86 billion", "about a trillion"], "correct": 2 },
+          { "q": "What does the frontal lobe control?", "choices": ["movement and balance", "vision", "decision-making", "memory storage"], "correct": 2 },
+          { "q": "What do neurons use to communicate?", "choices": ["light signals", "electrical and chemical signals", "sound waves", "physical touch between cells"], "correct": 1 },
+          { "q": "What does the passage suggest about our understanding of the brain?", "choices": ["scientists fully understand the brain", "the brain is simple and well understood", "many mysteries of the brain remain unsolved", "no one studies the brain anymore"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The history of music stretches back thousands of years. Ancient people used drums, flutes, and stringed instruments long before written history. Music was used in religious ceremonies, to celebrate harvests, and to tell stories. Over centuries, music evolved into classical, folk, jazz, rock, and countless other styles. Today, digital technology allows anyone to create and share music instantly with the world. Despite all the changes, music still serves the same ancient purpose: to bring people together and express what words cannot.",
+        "questions": [
+          { "q": "What did ancient people use music for?", "choices": ["only entertainment", "religious ceremonies, harvests, and storytelling", "trading with other groups", "teaching children only"], "correct": 1 },
+          { "q": "What has digital technology changed about music?", "choices": ["it has made music more complex", "it allows anyone to create and share music instantly", "it has replaced all traditional instruments", "it has made music less popular"], "correct": 1 },
+          { "q": "According to the passage, what purpose has music always served?", "choices": ["to make people rich", "to teach people about history", "to bring people together and express what words cannot", "to accompany religious ceremonies only"], "correct": 2 },
+          { "q": "What is the main idea of this passage?", "choices": ["modern music is better than ancient music", "music has changed completely and lost its original purpose", "music has evolved over time but always connected people", "digital music is replacing all other forms"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Climate change is causing the Earth's temperatures to rise. This is mainly due to greenhouse gases, such as carbon dioxide, released by burning fossil fuels. As temperatures rise, ice caps melt and sea levels rise, threatening coastal cities. Weather patterns become more extreme, with stronger storms and longer droughts. Scientists warn that without major changes to how we produce and use energy, the effects will become much worse. Many governments and companies are now investing in renewable energy and cleaner technologies to address this global challenge.",
+        "questions": [
+          { "q": "What is the main cause of rising temperatures on Earth?", "choices": ["the sun getting hotter", "greenhouse gases from burning fossil fuels", "volcanic eruptions worldwide", "cutting down forests only"], "correct": 1 },
+          { "q": "What happens to sea levels as temperatures rise?", "choices": ["they fall", "they stay the same", "they rise as ice caps melt", "they become saltier"], "correct": 2 },
+          { "q": "What are governments and companies doing to address climate change?", "choices": ["moving coastal cities", "stopping all energy use", "investing in renewable energy and cleaner technologies", "studying the problem only"], "correct": 2 },
+          { "q": "What does the passage imply about climate change?", "choices": ["it is not a serious problem", "it has already been solved", "it is a serious challenge that requires action", "only scientists need to worry about it"], "correct": 2 }
+        ]
+      }
+    ],
+    "31": [
+      {
+        "passage": "Every spring, millions of salmon swim upstream from the ocean to the rivers where they were born. This journey can be hundreds of miles long and is full of danger. The salmon must leap up waterfalls and avoid bears waiting at the water's edge. They do not eat during this journey, surviving on stored energy. When they finally reach their birthplace, they lay their eggs in the gravel beds of the river. Most adult salmon die soon after, but their bodies become food for the forest ecosystem. Scientists have found that the nutrients from salmon bodies can be found in trees growing far from the river, carried there by animals that eat the fish.",
+        "questions": [
+          { "q": "Where do salmon go every spring?", "choices": ["from rivers to the ocean", "from the ocean to the rivers where they were born", "from small rivers to large rivers", "from cold waters to warm tropical seas"], "correct": 1 },
+          { "q": "What do salmon survive on during their upstream journey?", "choices": ["small insects they catch", "freshwater plants", "stored energy — they do not eat", "smaller fish along the way"], "correct": 2 },
+          { "q": "What happens to most adult salmon after they lay their eggs?", "choices": ["they swim back to the ocean", "they rest for the winter", "they are caught by humans", "they die soon after"], "correct": 3 },
+          { "q": "How do salmon benefit the forest ecosystem?", "choices": ["they clean the river water", "their eggs feed birds only", "nutrients from their bodies reach trees far from the river", "they prevent flooding in the forest"], "correct": 2 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to argue that salmon fishing should stop", "to explain and highlight the remarkable journey and role of salmon", "to warn readers about bears", "to describe all types of fish migration"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "The invention of the smartphone has changed almost every aspect of daily life. People can now communicate instantly across the world, access any information in seconds, and navigate unfamiliar cities with ease. Smartphones have also created new problems. Many people struggle to put down their phones and focus on the real world around them. Studies show that too much screen time can affect sleep and mental health, especially in young people. While smartphones offer incredible convenience, learning to use them wisely is one of the most important challenges of our time.",
+        "questions": [
+          { "q": "According to the passage, what can people do with smartphones that was difficult before?", "choices": ["only make phone calls", "communicate instantly worldwide, access information, and navigate cities", "read books and newspapers", "watch only live television"], "correct": 1 },
+          { "q": "What problem do many people have with smartphones?", "choices": ["they are too expensive to afford", "they break easily", "people struggle to put them down and focus on the real world", "they make communication slower"], "correct": 2 },
+          { "q": "What health effects does the passage mention from too much screen time?", "choices": ["vision problems only", "hearing loss", "effects on sleep and mental health", "physical pain from carrying phones"], "correct": 2 },
+          { "q": "What does the author suggest about smartphones?", "choices": ["they should be banned for young people", "they are entirely negative devices", "they are entirely positive devices", "they are powerful but must be used wisely"], "correct": 3 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to convince readers to stop using phones", "to explain both the benefits and challenges smartphones bring", "to describe how smartphones are made", "to compare old and new phones"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "The ancient Olympic Games began in Greece around 776 BC. They were held every four years in the city of Olympia as a tribute to the god Zeus. Only Greek men were allowed to compete. Events included running, wrestling, chariot racing, and the discus throw. The modern Olympic Games were revived in 1896 in Athens. Today, thousands of athletes from nearly every country in the world participate. Women began competing in the Olympics in 1900. The Games now represent international friendship, fair competition, and the celebration of human achievement.",
+        "questions": [
+          { "q": "Where did the ancient Olympic Games take place?", "choices": ["Athens", "Sparta", "Olympia", "Rome"], "correct": 2 },
+          { "q": "Who was allowed to compete in the ancient Olympics?", "choices": ["men and women from all countries", "only Greek men", "only soldiers", "anyone from Greece"], "correct": 1 },
+          { "q": "When were the modern Olympics revived?", "choices": ["776 BC", "1776", "1896", "1900"], "correct": 2 },
+          { "q": "When did women begin competing in the Olympics?", "choices": ["776 BC", "1896", "1900", "1945"], "correct": 2 },
+          { "q": "What does the author suggest the modern Olympics represent?", "choices": ["the power of Greece over other nations", "international friendship, fair competition, and human achievement", "only physical strength and speed", "the history of ancient Greek religion"], "correct": 1 }
+        ]
+      }
+    ],
+    "32": [
+      {
+        "passage": "For thousands of years, people have kept journals and diaries. From ancient records carved in stone to handwritten notebooks, humans have always felt the need to record their thoughts and experiences. Famous journals like those of Anne Frank and Leonardo da Vinci have given us important windows into history and the human mind. Today, many people keep digital journals or blogs. Research suggests that regular journaling can reduce stress, improve memory, and help people process their emotions. Whether in a notebook or on a screen, the act of writing down our thoughts remains a powerful tool for self-understanding.",
+        "questions": [
+          { "q": "What are two famous journals mentioned in the passage?", "choices": ["those of Shakespeare and Newton", "those of Anne Frank and Leonardo da Vinci", "those of Columbus and Amundsen", "those of Edison and Curie"], "correct": 1 },
+          { "q": "What health benefits does the passage say journaling can provide?", "choices": ["better eyesight and faster reading", "stronger muscles and better sleep", "reduced stress, improved memory, and processing emotions", "improved social skills and language learning"], "correct": 2 },
+          { "q": "How has journaling changed in modern times?", "choices": ["people no longer journal", "people only use ancient methods", "many people now keep digital journals or blogs", "journals are now only for famous people"], "correct": 2 },
+          { "q": "What does the author suggest is the main value of journaling?", "choices": ["it makes people famous", "it is a powerful tool for self-understanding", "it only helps with memory", "it is useful only for writers"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to argue that digital journals are better than paper ones", "to explain the history and benefits of keeping journals", "to describe the life of Anne Frank", "to convince people to become famous writers"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Many children dream of becoming astronauts. It takes years of hard study in subjects like mathematics, physics, and engineering. Astronauts also need to be in excellent physical health and must train for hundreds of hours to handle emergencies in space. Living in space is very different from life on Earth. Astronauts must eat specially packaged food and sleep in small compartments with sleeping bags attached to the wall so they do not float away. Despite the challenges, those who reach space often describe it as a life-changing experience that gives them a new perspective on Earth and humanity.",
+        "questions": [
+          { "q": "What subjects do aspiring astronauts need to study?", "choices": ["history and languages", "art and music", "mathematics, physics, and engineering", "biology and medicine only"], "correct": 2 },
+          { "q": "Why do astronauts sleep in bags attached to the wall?", "choices": ["to stay warm in space", "because there are no beds available", "so they do not float away in weightlessness", "because it is the most comfortable position"], "correct": 2 },
+          { "q": "How do astronauts who reach space often describe the experience?", "choices": ["terrifying and dangerous", "boring and routine", "life-changing with a new perspective on Earth", "disappointing after all the training"], "correct": 2 },
+          { "q": "What does the passage suggest about becoming an astronaut?", "choices": ["anyone can become one with a little effort", "it requires great dedication but is deeply rewarding", "it is not worth the hard work", "only scientists can become astronauts"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to discourage children from wanting to be astronauts", "to describe life in space and what it takes to get there", "to explain how rockets work", "to compare astronauts and pilots"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Fairy tales have been told around the world for thousands of years. Stories like Cinderella and Sleeping Beauty existed in many cultures long before they were written down. These stories were not just entertainment — they carried moral lessons about kindness, courage, and the consequences of greed. Brothers Grimm collected and published many European fairy tales in the 1800s, though their original versions were often darker than the stories we know today. Over time, fairy tales have been adapted into films, books, and plays. They continue to teach children about right and wrong while sparking their imagination.",
+        "questions": [
+          { "q": "What was the original purpose of fairy tales beyond entertainment?", "choices": ["to record historical events", "to teach language and grammar", "to carry moral lessons about kindness, courage, and greed", "to explain natural events like thunder"], "correct": 2 },
+          { "q": "Who collected and published European fairy tales in the 1800s?", "choices": ["Hans Christian Andersen", "Brothers Grimm", "Charles Perrault", "Walt Disney"], "correct": 1 },
+          { "q": "How were the original versions of fairy tales different from what we know today?", "choices": ["they were shorter", "they had no characters", "they were often darker", "they had happy endings only"], "correct": 2 },
+          { "q": "What does the author say fairy tales continue to do today?", "choices": ["replace modern storytelling", "teach children right from wrong and spark imagination", "only entertain without moral lessons", "describe historical events"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to argue that fairy tales are too dark for children", "to explore the history and lasting value of fairy tales", "to compare stories from different cultures", "to describe only the Brothers Grimm"], "correct": 1 }
+        ]
+      }
+    ],
+    "33": [
+      {
+        "passage": "Many people do not realize that the food they throw away has a large environmental impact. When food ends up in a landfill, it breaks down without oxygen and releases methane, a powerful greenhouse gas. Around one third of all food produced in the world is wasted. Growing food uses vast amounts of water, land, and energy, so wasting it is also wasting those resources. Simple actions like planning meals carefully, storing food properly, and composting leftovers can significantly reduce food waste. By wasting less food, we can save money, protect resources, and help fight climate change.",
+        "questions": [
+          { "q": "What gas does food release when it breaks down in a landfill?", "choices": ["carbon dioxide", "oxygen", "methane", "nitrogen"], "correct": 2 },
+          { "q": "What fraction of all food produced in the world is wasted?", "choices": ["one quarter", "one third", "one half", "two thirds"], "correct": 1 },
+          { "q": "What does the passage say wasting food also wastes?", "choices": ["money only", "time and packaging", "the water, land, and energy used to grow it", "workers' efforts only"], "correct": 2 },
+          { "q": "What are three actions the passage suggests to reduce food waste?", "choices": ["buying less, cooking less, and eating out more", "planning meals, storing food properly, and composting leftovers", "growing your own food, buying organic food, and eating less", "recycling packaging, cooking slowly, and freezing everything"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to explain how landfills work", "to compare different countries' food habits", "to inform readers about food waste and encourage action", "to argue that composting is the only solution"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The Arctic and the Antarctic may seem similar because both are covered in ice and snow, but they are very different places. The Arctic is an ocean covered by sea ice, surrounded by land. The Antarctic is a continent — a massive landmass covered in an ice sheet up to four kilometers thick. The Arctic is home to polar bears, Arctic foxes, and indigenous human communities. The Antarctic has no native human population, but it is home to penguins, seals, and millions of seabirds. Both regions are warming faster than the rest of the planet, and scientists study them closely to understand global climate change.",
+        "questions": [
+          { "q": "What is the Arctic?", "choices": ["a continent surrounded by ocean", "a desert covered in ice", "an ocean covered by sea ice, surrounded by land", "a large frozen island"], "correct": 2 },
+          { "q": "How thick can the ice sheet over Antarctica be?", "choices": ["up to one kilometer", "up to two kilometers", "up to four kilometers", "up to ten kilometers"], "correct": 2 },
+          { "q": "What is one difference in wildlife between the Arctic and the Antarctic?", "choices": ["only the Arctic has seals", "polar bears live in the Antarctic", "penguins live in the Antarctic while polar bears live in the Arctic", "only the Antarctic has birds"], "correct": 2 },
+          { "q": "What do the Arctic and Antarctic have in common?", "choices": ["both have large human populations", "both have polar bears", "both are warming faster than the rest of the planet", "both are continents"], "correct": 2 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to explain why we should visit the poles", "to compare and contrast the Arctic and Antarctic", "to argue that climate change is only affecting polar regions", "to describe only the animals of each region"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Throughout history, art has been a way for humans to communicate ideas and emotions that words sometimes cannot express. Cave paintings from over 40,000 years ago show that early humans felt the need to create images of their world. Ancient Egyptian art depicted gods and pharaohs to express religious beliefs and power. Renaissance painters like Leonardo da Vinci and Michelangelo created works that celebrated the human form and mind. Today, art continues to take new forms — from graffiti on city walls to digital works created by computers. Regardless of the style or period, art reflects the values and concerns of the society that created it.",
+        "questions": [
+          { "q": "How old are the earliest cave paintings mentioned in the passage?", "choices": ["over 4,000 years ago", "over 10,000 years ago", "over 40,000 years ago", "over 100,000 years ago"], "correct": 2 },
+          { "q": "What did ancient Egyptian art express?", "choices": ["the beauty of nature", "stories of war and adventure", "religious beliefs and power", "family life and daily routines"], "correct": 2 },
+          { "q": "Which Renaissance painters are mentioned?", "choices": ["Rembrandt and Raphael", "Picasso and Monet", "Leonardo da Vinci and Michelangelo", "Van Gogh and Degas"], "correct": 2 },
+          { "q": "What does the author say art always reflects?", "choices": ["the skills of the individual artist", "the values and concerns of the society that created it", "the religious beliefs of all cultures", "only the emotions of the artist"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to argue that ancient art is better than modern art", "to explain the history of art and its universal importance", "to describe only Renaissance painting", "to promote digital art"], "correct": 1 }
+        ]
+      }
+    ],
+    "34": [
+      {
+        "passage": "Languages are far more than just words. They shape the way we see and think about the world. Some languages have words that capture ideas that no single word in English can express. The Japanese word 'komorebi' describes sunlight filtering through leaves. The German word 'schadenfreude' describes the feeling of pleasure at someone else's misfortune. Linguists who study endangered languages rush to document them before they disappear, because each language contains a unique way of understanding human experience. When a language dies, a whole worldview goes with it.",
+        "questions": [
+          { "q": "What does the Japanese word 'komorebi' describe?", "choices": ["rain falling through leaves", "sunlight filtering through leaves", "wind moving through grass", "moonlight on water"], "correct": 1 },
+          { "q": "What does 'schadenfreude' mean?", "choices": ["deep sadness at someone's loss", "pleasure at someone else's misfortune", "guilt after doing something wrong", "joy shared with a friend"], "correct": 1 },
+          { "q": "Why do linguists rush to document endangered languages?", "choices": ["to translate them into English", "to teach them in schools", "because each contains a unique way of understanding human experience", "to create dictionaries for tourists"], "correct": 2 },
+          { "q": "What does the author mean when saying 'a whole worldview goes with it' when a language dies?", "choices": ["the country where the language is spoken disappears", "all speakers of the language die", "a unique way of seeing and understanding the world is lost", "the history of the language is forgotten"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["English is the most important language", "languages are merely tools for communication", "every language holds a unique and valuable way of understanding the world", "linguists should focus on common languages only"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The Wright Brothers, Orville and Wilbur, were bicycle shop owners who dreamed of building a flying machine. They studied how birds used their wings and applied what they learned to their designs. After many failed attempts, they achieved the world's first successful powered airplane flight on December 17, 1903, in Kitty Hawk, North Carolina. The flight lasted only 12 seconds and covered about 37 meters. Yet this brief moment changed transportation forever. Within decades, airplanes shrank the world by allowing people to cross oceans in hours rather than weeks.",
+        "questions": [
+          { "q": "What was the Wright Brothers' original occupation?", "choices": ["inventors at a university", "military engineers", "bicycle shop owners", "aviation researchers"], "correct": 2 },
+          { "q": "How did the Wright Brothers learn about flight?", "choices": ["by reading books on aviation", "by studying how birds used their wings", "by asking scientists for help", "by studying weather patterns"], "correct": 1 },
+          { "q": "When and where did the first successful powered flight take place?", "choices": ["December 17, 1903, in Kitty Hawk, North Carolina", "July 4, 1901, in Washington D.C.", "March 5, 1905, in Dayton, Ohio", "January 1, 1900, in Paris, France"], "correct": 0 },
+          { "q": "What was remarkable about the first flight?", "choices": ["it was very long and covered many miles", "it was secret and not recorded", "it lasted only 12 seconds yet changed transportation forever", "it was done without an engine"], "correct": 2 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to describe bicycles and aviation technology", "to honor the Wright Brothers and explain the impact of their invention", "to argue that the Wright Brothers were lucky", "to compare air travel with sea travel"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Every generation faces challenges that seem impossible to overcome, yet history shows that humans consistently find solutions. In the early 1900s, diseases like smallpox and polio killed and disabled millions. Thanks to vaccines, smallpox has been completely eradicated from the world. Polio is close to being eliminated. In the 20th century, the world faced the terrible destruction of two World Wars, yet nations came together afterward to build international organizations aimed at preventing future conflicts. Climate change is today's great challenge, and while the task seems enormous, the same human creativity and cooperation that solved past problems gives reason for hope.",
+        "questions": [
+          { "q": "What has completely eradicated smallpox?", "choices": ["better hygiene practices", "quarantine programs", "vaccines", "natural immunity"], "correct": 2 },
+          { "q": "What did nations build after the two World Wars?", "choices": ["larger armies", "new weapons systems", "international organizations aimed at preventing future conflicts", "trade agreements only"], "correct": 2 },
+          { "q": "What does the author identify as today's great challenge?", "choices": ["war between nations", "disease outbreaks", "climate change", "poverty and hunger"], "correct": 2 },
+          { "q": "What does the author suggest gives reason for hope about climate change?", "choices": ["that scientists have already solved it", "that governments will force people to change", "that human creativity and cooperation have solved great problems before", "that the problem is smaller than it appears"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["modern problems are worse than historical ones", "humans are powerless against great challenges", "human creativity and cooperation can overcome even the greatest challenges", "vaccines and wars are the defining events of history"], "correct": 2 }
+        ]
+      }
+    ],
+    "35": [
+      {
+        "passage": "Honeybees are remarkable creatures that play a vital role in our food supply. A single bee colony can contain up to 60,000 bees, all working together in a highly organized society. Worker bees collect nectar from flowers and bring it back to the hive, where it is turned into honey. While visiting flowers, bees transfer pollen from one plant to another — a process called pollination that allows plants to reproduce. It is estimated that one third of all the food humans eat depends on pollination by bees and other insects. Scientists have been alarmed by a rapid decline in bee populations due to pesticides, habitat loss, and disease. Protecting bees is not just about saving an interesting animal — it is about protecting the world's food supply.",
+        "questions": [
+          { "q": "How many bees can a single colony contain?", "choices": ["up to 6,000", "up to 60,000", "up to 600,000", "up to 6,000,000"], "correct": 1 },
+          { "q": "What is pollination?", "choices": ["the process of making honey from nectar", "the process of bees returning to the hive", "the transfer of pollen from one plant to another allowing reproduction", "the building of a new bee colony"], "correct": 2 },
+          { "q": "What fraction of human food depends on pollination?", "choices": ["one quarter", "one third", "one half", "two thirds"], "correct": 1 },
+          { "q": "What has caused a rapid decline in bee populations?", "choices": ["too many flowers in certain areas", "bees moving to warmer climates", "pesticides, habitat loss, and disease", "changes in bee behavior"], "correct": 2 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to describe how honey is made", "to explain why bees should be protected because they are vital to our food supply", "to compare bees with other insects", "to argue that pesticides are always harmful"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "The history of chocolate is far more interesting than most people realize. Chocolate comes from the cacao tree, which grows in tropical regions. Ancient Mayan and Aztec civilizations prized cacao beans so highly that they used them as currency. They made a bitter, spiced drink from cacao — quite unlike the sweet chocolate we enjoy today. When Spanish explorers brought cacao back to Europe in the 1500s, sugar was added, and sweet chocolate became extremely popular with European royalty. Over centuries, the process was refined until solid chocolate bars were developed in the 19th century. Today, chocolate is one of the world's most loved foods, enjoyed in over 50 different forms.",
+        "questions": [
+          { "q": "What tree does chocolate come from?", "choices": ["the coconut tree", "the maple tree", "the cacao tree", "the vanilla tree"], "correct": 2 },
+          { "q": "How did ancient Mayan and Aztec civilizations use cacao beans?", "choices": ["as decoration", "as currency", "as medicine only", "as a sweetener in cooking"], "correct": 1 },
+          { "q": "What did Spanish explorers add to cacao to make it sweet?", "choices": ["honey", "spices", "milk", "sugar"], "correct": 3 },
+          { "q": "When were solid chocolate bars developed?", "choices": ["in the 1500s", "in the 1600s", "in the 1700s", "in the 19th century"], "correct": 3 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to convince readers to eat more chocolate", "to trace the surprising history of chocolate from ancient cultures to today", "to compare Mayan and Aztec cultures", "to explain how cacao trees grow"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "Throughout history, women have had to fight hard for equal rights. In many countries, women were not allowed to vote, own property, or work in most professions until the 20th century. Suffragettes in Britain and the United States campaigned for decades for women's right to vote, winning that right in 1918 and 1920 respectively. Despite great progress, challenges remain. Women still earn less than men in many countries, and are underrepresented in leadership positions. However, more women than ever hold positions of political and scientific leadership today. The fight for equality is ongoing, and every generation builds on the progress made by those who came before.",
+        "questions": [
+          { "q": "What were suffragettes campaigning for?", "choices": ["equal pay for all workers", "women's right to vote", "women's right to own businesses", "equal education for boys and girls"], "correct": 1 },
+          { "q": "When did women win the right to vote in the United States?", "choices": ["1918", "1920", "1930", "1945"], "correct": 1 },
+          { "q": "What challenge does the passage say women still face today?", "choices": ["they cannot vote in some countries", "they earn more than men in all countries", "they earn less than men in many countries and are underrepresented in leadership", "there are no challenges left"], "correct": 2 },
+          { "q": "What does the author mean by 'every generation builds on the progress made by those who came before'?", "choices": ["history repeats itself with no progress", "change happens slowly and each era improves on the last", "older generations are more important than younger ones", "women have solved all problems of inequality"], "correct": 1 },
+          { "q": "What is the theme of this passage?", "choices": ["women should not work outside the home", "the fight for women's equality has made progress but continues", "men and women are already fully equal in all countries", "voting is the only right that matters"], "correct": 1 }
+        ]
+      }
+    ],
+    "36": [
+      {
+        "passage": "Some of the most important scientific discoveries in history have happened by accident. Alexander Fleming discovered penicillin in 1928 when he noticed that mold had grown on one of his bacterial cultures and was killing the bacteria around it. This led to the development of antibiotics, which have saved hundreds of millions of lives. Percy Spencer discovered that microwaves could heat food when a chocolate bar in his pocket melted near a radar device. George de Mestral invented Velcro after noticing how burr seeds stuck to his dog's fur. These discoveries remind us that curiosity and observation can turn unexpected events into world-changing inventions.",
+        "questions": [
+          { "q": "How did Alexander Fleming discover penicillin?", "choices": ["he was deliberately searching for it in his lab", "he noticed mold killing bacteria in one of his cultures", "he found it while studying plant diseases", "it was discovered by a team of scientists working together"], "correct": 1 },
+          { "q": "What led Percy Spencer to discover that microwaves could heat food?", "choices": ["he was testing new cooking technologies", "he was experimenting with heat waves", "a chocolate bar in his pocket melted near a radar device", "he noticed food getting warm near a television"], "correct": 2 },
+          { "q": "What inspired the invention of Velcro?", "choices": ["the way lizards climb walls", "the grip of suction cups", "burr seeds sticking to a dog's fur", "the pattern of a spider's web"], "correct": 2 },
+          { "q": "What does the author suggest these accidental discoveries have in common?", "choices": ["they all involved food", "they were all discovered in the same century", "they resulted from curiosity and careful observation of unexpected events", "they were all discovered by the same scientist"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["scientists should only follow planned experiments", "the best discoveries happen without any planning", "curiosity and observation can turn accidents into world-changing discoveries", "only trained scientists can make important discoveries"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The ocean covers more than seventy percent of the Earth's surface and plays a crucial role in regulating our planet's climate. Ocean currents act like a giant conveyor belt, moving warm water from the tropics toward the poles and cold water back. This circulation keeps temperatures livable across the globe. Oceans also absorb about a quarter of the carbon dioxide humans release, slowing the pace of climate change. However, as more carbon dioxide dissolves in seawater, it makes the ocean more acidic — a process called ocean acidification that threatens coral reefs and shellfish. Protecting the ocean is essential to protecting life on Earth.",
+        "questions": [
+          { "q": "What percentage of the Earth's surface does the ocean cover?", "choices": ["more than fifty percent", "more than sixty percent", "more than seventy percent", "more than eighty percent"], "correct": 2 },
+          { "q": "What do ocean currents do for the planet?", "choices": ["they create storms and hurricanes", "they move water to maintain livable temperatures across the globe", "they carry pollution away from coastlines", "they produce the oxygen we breathe"], "correct": 1 },
+          { "q": "What is ocean acidification?", "choices": ["the warming of the ocean surface", "the cooling of deep ocean water", "the process of the ocean becoming more acidic as it absorbs carbon dioxide", "the loss of salt in ocean water"], "correct": 2 },
+          { "q": "What does ocean acidification threaten?", "choices": ["ocean currents", "coral reefs and shellfish", "fish that swim near the surface", "the ice at the poles"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to explain the beauty of the ocean", "to compare different oceans around the world", "to inform readers about the ocean's vital role and the threats it faces", "to argue that fishing should be stopped"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Public speaking is a skill that many people find terrifying. Studies suggest that fear of public speaking is more common than the fear of death. However, great speakers are not born — they are made through practice, preparation, and experience. One important technique is to know your material so well that anxiety decreases. Making eye contact with the audience helps create a connection. Using pauses effectively can make a speech more powerful than rushing through every word. Perhaps most importantly, understanding that the audience generally wants you to succeed can help calm nerves. Like any skill, public speaking improves the more you practice it.",
+        "questions": [
+          { "q": "According to studies, how common is the fear of public speaking?", "choices": ["it is rarer than most other fears", "it is the least common fear", "it is more common than the fear of death", "it affects only shy people"], "correct": 2 },
+          { "q": "What does the author say helps decrease anxiety during a speech?", "choices": ["speaking very quickly", "avoiding eye contact", "knowing your material very well", "memorizing every word exactly"], "correct": 2 },
+          { "q": "Why does the author suggest using pauses during a speech?", "choices": ["pauses give the speaker time to remember their notes", "pauses confuse the audience and create suspense", "pauses can make a speech more powerful than rushing", "pauses help the audience take notes"], "correct": 2 },
+          { "q": "What does the author say about public speakers — are they born or made?", "choices": ["great speakers are born with a natural talent", "great speakers are made through practice and experience", "speaking ability cannot be improved", "only certain personality types can speak well publicly"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to describe famous public speakers in history", "to argue that public speaking is unnecessary", "to offer practical advice and encouragement for improving public speaking", "to explain why most people fear public speaking"], "correct": 2 }
+        ]
+      }
+    ],
+    "37": [
+      {
+        "passage": "Music has been used throughout history as a form of protest and social change. During the civil rights movement in America, songs like 'We Shall Overcome' became powerful symbols of hope and solidarity. In South Africa, music was a crucial part of the struggle against apartheid. Bob Dylan's songs of the 1960s challenged war and injustice, speaking to millions of young people. More recently, musicians around the world have used their platforms to raise awareness about climate change, poverty, and inequality. The power of music lies not just in its sound, but in its ability to unite people around a shared cause and give a voice to those who feel unheard.",
+        "questions": [
+          { "q": "What role did songs like 'We Shall Overcome' play in the civil rights movement?", "choices": ["they were used to entertain soldiers", "they were symbols of hope and solidarity", "they were written to teach children about history", "they were used in political debates"], "correct": 1 },
+          { "q": "Who is mentioned as a musician who challenged war and injustice in the 1960s?", "choices": ["Elvis Presley", "The Beatles", "Bob Dylan", "Louis Armstrong"], "correct": 2 },
+          { "q": "What issues have modern musicians raised awareness about?", "choices": ["only climate change", "music education and arts funding", "climate change, poverty, and inequality", "space exploration and science"], "correct": 2 },
+          { "q": "According to the author, where does the power of music truly lie?", "choices": ["in the technical skill of musicians", "in its ability to entertain large audiences", "in its ability to unite people and give voice to the unheard", "in how much money it generates"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["music is primarily for entertainment", "music has always been a tool for social change and giving people a voice", "only famous musicians can influence society", "protest music is less effective than political speeches"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "The story of Helen Keller is one of the most remarkable stories of human determination ever told. Struck by illness at nineteen months old, she became both deaf and blind. Her world was one of silence and darkness with no way to communicate. Then at age seven, her teacher Anne Sullivan arrived and began the patient work of reaching her. The breakthrough came when Anne held Helen's hand under running water and spelled 'water' into her palm. Helen suddenly understood that everything had a name — and a world opened up to her. She went on to learn multiple languages, graduate from college, write twelve books, and campaign for the rights of people with disabilities worldwide. Her life demonstrates that with the right support and an unbreakable will, barriers once thought impossible can be overcome.",
+        "questions": [
+          { "q": "At what age did Anne Sullivan begin working with Helen?", "choices": ["at nineteen months", "at age four", "at age seven", "at age ten"], "correct": 2 },
+          { "q": "What was the key moment of breakthrough in Helen's learning?", "choices": ["when she learned to read a book in Braille", "when she learned sign language from Anne", "when Anne spelled 'water' into her palm under running water", "when she first heard music"], "correct": 2 },
+          { "q": "What did Helen Keller go on to achieve as an adult?", "choices": ["she became a teacher for the blind only", "she learned one language and wrote one book", "she learned multiple languages, graduated from college, wrote books, and campaigned for disability rights", "she became a scientist who studied disabilities"], "correct": 2 },
+          { "q": "What does the phrase 'a world opened up to her' mean in the passage?", "choices": ["Helen began to see and hear again", "Helen realized everything had a name and she could begin to learn and communicate", "Helen was taken to travel the world", "Helen met many new people for the first time"], "correct": 1 },
+          { "q": "What is the theme of this passage?", "choices": ["teachers are more important than students", "disabilities prevent people from achieving success", "with determination and the right support, extraordinary things are possible", "Helen Keller was lucky to meet Anne Sullivan"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "The concept of zero is so familiar today that it is hard to imagine a world without it. Yet zero did not exist in ancient Greek or Roman mathematics. The concept was developed in India around the 5th century and later brought to Europe by Arab scholars. Without zero, modern mathematics, science, and computers would be impossible. Zero allows us to write large numbers efficiently, perform complex calculations, and is fundamental to the binary code — sequences of zeros and ones — that all digital technology is built on. The humble zero is arguably one of the most important ideas in the history of human civilization.",
+        "questions": [
+          { "q": "Which ancient civilizations did NOT have the concept of zero?", "choices": ["Indian and Arab civilizations", "Chinese and Egyptian civilizations", "Greek and Roman civilizations", "Mayan and Aztec civilizations"], "correct": 2 },
+          { "q": "Where was the concept of zero developed?", "choices": ["in ancient Greece", "in ancient Rome", "in ancient Egypt", "in India around the 5th century"], "correct": 3 },
+          { "q": "How is zero used in digital technology?", "choices": ["it represents missing data", "it is fundamental to binary code — sequences of zeros and ones", "it is used only in basic calculations", "it stores information in computers directly"], "correct": 1 },
+          { "q": "What does the author mean by calling zero 'arguably one of the most important ideas in history'?", "choices": ["zero is a simple idea that anyone could have invented", "zero is often overlooked despite its massive impact on civilization", "zero is important only to mathematicians", "zero was never controversial among scholars"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to explain how to use zero in arithmetic", "to trace the origin of all mathematics", "to reveal the surprising importance of zero in human civilization", "to compare Indian and Arab mathematical traditions"], "correct": 2 }
+        ]
+      }
+    ],
+    "38": [
+      {
+        "passage": "Imagination is one of humanity's greatest gifts. It allows us to solve problems that have never been encountered before, to create art and music, and to envision futures that do not yet exist. Scientists use imagination to form hypotheses about how the universe works. Engineers imagine buildings and machines before a single piece is built. Writers and artists imagine worlds and emotions that move millions of people. Yet imagination is not just the domain of artists and scientists — every time a child figures out a new way to play, or an ordinary person finds a creative solution to a problem, imagination is at work. Nurturing imagination in children may be one of the most important things we can do to prepare them for an unknown future.",
+        "questions": [
+          { "q": "How do scientists use imagination according to the passage?", "choices": ["to write stories about space", "to draw pictures of the universe", "to form hypotheses about how the universe works", "to imagine new forms of art"], "correct": 2 },
+          { "q": "What does the author say about imagination — is it only for artists and scientists?", "choices": ["yes, only creative professionals use imagination", "no, imagination is used by everyone including children and ordinary people", "it depends on how intelligent a person is", "yes, children do not really use imagination"], "correct": 1 },
+          { "q": "Why does the author say nurturing imagination in children is important?", "choices": ["because children will become artists", "because imagination helps children perform better on tests", "because imagination prepares children for an unknown future", "because imagination makes children better at sports"], "correct": 2 },
+          { "q": "What does the phrase 'envision futures that do not yet exist' mean?", "choices": ["to predict the future using science", "to see visions from the past", "to imagine possibilities and ideas that have not happened yet", "to dream while sleeping"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["imagination is only useful for creative people", "education should focus only on facts and knowledge", "imagination is a universal human gift that is vital for solving problems and shaping the future", "scientists are more imaginative than artists"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Forests are among the most important ecosystems on Earth, yet they are disappearing at an alarming rate. Each year, millions of hectares of forest are destroyed for farming, logging, and urban development. Forests absorb carbon dioxide and release oxygen, helping regulate the planet's climate. They are home to about eighty percent of the world's land-based species of animals, plants, and insects. Forests also protect watersheds — the lands that collect and filter rainwater — providing clean drinking water to billions of people. Indigenous communities around the world have lived in and depended on forests for thousands of years, and their knowledge of forest ecosystems is invaluable. Saving forests requires international cooperation, policy change, and the respect of indigenous rights.",
+        "questions": [
+          { "q": "Why are forests disappearing?", "choices": ["due to natural wildfires only", "because of farming, logging, and urban development", "because of disease destroying trees", "due to changes in rainfall patterns"], "correct": 1 },
+          { "q": "What percentage of the world's land-based species live in forests?", "choices": ["about fifty percent", "about sixty percent", "about seventy percent", "about eighty percent"], "correct": 3 },
+          { "q": "What role do forests play in providing drinking water?", "choices": ["forests create new rivers", "forests desalinate ocean water", "forests protect watersheds that collect and filter rainwater", "forests pump underground water to the surface"], "correct": 2 },
+          { "q": "Why does the passage say indigenous knowledge is invaluable?", "choices": ["indigenous people own the rights to all forests", "indigenous knowledge of forest ecosystems has developed over thousands of years", "indigenous people know how to use forest resources to make money", "indigenous knowledge helps scientists develop new medicines only"], "correct": 1 },
+          { "q": "What is the author's purpose in this passage?", "choices": ["to argue that logging should be completely banned", "to describe the beauty of forests for tourists", "to explain why forests matter and urge action to save them", "to compare forests in different parts of the world"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Failure is something most people try to avoid, yet the greatest achievements in history have often come after repeated failures. Thomas Edison made thousands of unsuccessful attempts before inventing a working light bulb. J.K. Rowling's Harry Potter manuscript was rejected by twelve publishers before being accepted. Michael Jordan, widely considered the greatest basketball player of all time, was cut from his high school basketball team. Each of these people faced failure not as the end of their journey, but as part of the process of learning and improving. They shared a quality that psychologists today call resilience — the ability to recover from setbacks and keep going. Research shows that resilience can be developed through practice, and that how we think about failure determines whether it stops us or helps us grow.",
+        "questions": [
+          { "q": "How many publishers rejected the Harry Potter manuscript before it was accepted?", "choices": ["three", "five", "twelve", "twenty"], "correct": 2 },
+          { "q": "What happened to Michael Jordan at his high school?", "choices": ["he was the team captain", "he was cut from the basketball team", "he was injured and could not play", "he was not interested in basketball then"], "correct": 1 },
+          { "q": "What is resilience as defined in the passage?", "choices": ["the ability to avoid failure", "natural talent that prevents mistakes", "the ability to recover from setbacks and keep going", "a quality that only some people are born with"], "correct": 2 },
+          { "q": "What does research show about resilience?", "choices": ["resilience cannot be learned", "only successful people have resilience", "resilience can be developed through practice", "resilience is only useful in sports"], "correct": 2 },
+          { "q": "What is the theme of this passage?", "choices": ["successful people never fail", "failure is something to be avoided at all costs", "failure is a natural and necessary part of achieving great things", "only certain people can develop resilience"], "correct": 2 }
+        ]
+      }
+    ],
+    "39": [
+      {
+        "passage": "The night sky has inspired humans since the beginning of time. Ancient civilizations studied the stars to tell the time, navigate the seas, and mark the seasons for planting crops. The Egyptians aligned their great pyramids with certain stars. Greek and Arab astronomers mapped the heavens and laid the foundations for modern astronomy. When Galileo turned his telescope toward the sky in 1609, he discovered that Jupiter had moons — proof that not everything orbited the Earth. Today, powerful telescopes and space probes send back images of galaxies billions of light-years away. Yet the night sky remains as mysterious as ever, full of unanswered questions about black holes, dark matter, and whether life exists elsewhere in the universe.",
+        "questions": [
+          { "q": "How did ancient civilizations use the stars?", "choices": ["only for religious purposes", "to tell time, navigate, and mark seasons for planting", "to predict weather only", "to communicate over long distances"], "correct": 1 },
+          { "q": "What did Galileo discover when he turned his telescope to the sky?", "choices": ["a new planet beyond Saturn", "that the sun was the center of the universe", "that Jupiter had moons", "that stars were much larger than the sun"], "correct": 2 },
+          { "q": "What does Galileo's discovery about Jupiter's moons prove according to the passage?", "choices": ["that Jupiter was the largest planet", "that the moon could be reached by telescope", "that not everything orbited the Earth", "that other planets had life on them"], "correct": 2 },
+          { "q": "What questions does the passage say the night sky still holds?", "choices": ["questions about the age of the sun", "questions about black holes, dark matter, and life elsewhere in the universe", "questions about why stars twinkle", "questions about how our moon was formed"], "correct": 1 },
+          { "q": "What is the theme of this passage?", "choices": ["modern technology has answered all questions about space", "the night sky has always inspired curiosity and continues to hold mysteries", "astronomy is too complex for ordinary people to understand", "ancient astronomers knew more than modern scientists"], "correct": 1 }
+        ]
+      },
+      {
+        "passage": "The idea of home is one of the most powerful concepts in human experience. A home is not simply a building — it is a place of safety, belonging, and memory. For many people around the world, the concept of home is deeply tied to family, food, language, and tradition. Refugees and displaced people who are forced to leave their homes often describe a profound sense of loss — not just of possessions, but of identity. Writers and poets throughout history have explored the theme of home and longing in their work. Yet many have also shown that home can be recreated — that communities, friendships, and shared values can build new homes in new places. The human spirit's ability to create belonging, even after great loss, speaks to our deepest need for connection.",
+        "questions": [
+          { "q": "According to the passage, what makes a home more than just a building?", "choices": ["its size and design", "its location in a city", "that it is a place of safety, belonging, and memory", "that it was built by the people who live in it"], "correct": 2 },
+          { "q": "What do refugees often experience when forced to leave their homes?", "choices": ["excitement about new opportunities", "relief at leaving difficult situations", "a profound sense of loss of possessions and identity", "happiness at meeting new people"], "correct": 2 },
+          { "q": "What does the passage say writers and poets have shown about home?", "choices": ["home is impossible to recreate once lost", "home can only exist in the place you were born", "home can be recreated through community, friendship, and shared values", "home is only important to certain cultures"], "correct": 2 },
+          { "q": "What does the author mean by 'the human spirit's ability to create belonging, even after great loss'?", "choices": ["humans always find their way back to their original homes", "humans can rebuild a sense of home and connection even after losing everything", "the human spirit is stronger than any physical building", "belonging only comes from owning a house"], "correct": 1 },
+          { "q": "What is the theme of this passage?", "choices": ["home is only a physical place and nothing more", "losing a home is something people cannot recover from", "the concept of home is deeply human and can be rebuilt through connection and community", "refugees should always be helped to return to their original homes"], "correct": 2 }
+        ]
+      },
+      {
+        "passage": "Kindness is sometimes seen as a soft or unimportant quality, but research increasingly shows that it is one of the most powerful forces in human society. Studies have found that acts of kindness release feel-good chemicals in the brains of both the giver and the receiver — and even in people who simply witness an act of kindness. Schools that teach empathy and cooperation alongside academic subjects report lower rates of bullying and higher student wellbeing. In business, leaders who show genuine kindness and care for their employees tend to build more loyal and productive teams. In communities, small regular acts of kindness — helping a neighbor, volunteering, or simply listening — build the social trust that holds societies together. Far from being weakness, kindness may be the quality that civilization depends on most.",
+        "questions": [
+          { "q": "What do studies show happens in the brains of people who witness an act of kindness?", "choices": ["nothing changes in bystanders", "they feel competitive", "feel-good chemicals are released", "they feel anxious"], "correct": 2 },
+          { "q": "What do schools that teach empathy alongside academics report?", "choices": ["lower academic test scores", "more complex social problems", "lower rates of bullying and higher student wellbeing", "fewer students interested in learning"], "correct": 2 },
+          { "q": "What does the passage say about leaders who show genuine kindness to employees?", "choices": ["they tend to be less respected", "they build more loyal and productive teams", "they are taken advantage of by employees", "they earn less than strict leaders"], "correct": 1 },
+          { "q": "What examples of kindness in communities does the passage give?", "choices": ["building houses and starting businesses", "donating large sums of money", "helping a neighbor, volunteering, or simply listening", "organizing large public events"], "correct": 2 },
+          { "q": "What is the author's argument in this passage?", "choices": ["kindness is a nice but unimportant quality", "kindness is overrated in modern society", "kindness is a powerful force that holds individuals and societies together", "only organized charities can make a real difference"], "correct": 2 }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "passage": "Coral reefs are sometimes called the rainforests of the sea. They cover less than one percent of the ocean floor, yet they support about twenty-five percent of all marine life. Corals are actually tiny animals that build hard skeletons of calcium. Rising ocean temperatures cause corals to expel the algae living inside them, turning them white — a process known as bleaching.",
+        "questions": [
+          {
+            "q": "Why are coral reefs compared to rainforests?",
+            "choices": [
+              "both are found on land",
+              "both support a huge variety of life",
+              "both are cold environments",
+              "both are made of plants"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "What percentage of the ocean floor do coral reefs cover?",
+            "choices": [
+              "less than one percent",
+              "about five percent",
+              "twenty-five percent",
+              "half the ocean floor"
+            ],
+            "correct": 0
+          },
+          {
+            "q": "What are corals made of?",
+            "choices": [
+              "plant material",
+              "rock deposits",
+              "hard calcium skeletons",
+              "compressed sand"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What causes coral bleaching?",
+            "choices": [
+              "cool ocean temperatures",
+              "too much sunlight directly",
+              "corals expelling algae due to warm water",
+              "chemicals from ships"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "The invention of the printing press by Johannes Gutenberg around 1440 changed history. Before the printing press, books had to be copied by hand, making them rare and expensive. With the printing press, books could be made quickly and cheaply. This meant that knowledge spread faster, more people learned to read, and new ideas could travel across countries.",
+        "questions": [
+          {
+            "q": "Who invented the printing press?",
+            "choices": [
+              "Leonardo da Vinci",
+              "Isaac Newton",
+              "Johannes Gutenberg",
+              "Benjamin Franklin"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Why were books rare before the printing press?",
+            "choices": [
+              "paper was scarce",
+              "only kings could own books",
+              "they had to be copied by hand",
+              "there was nothing to write about"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What happened after the printing press was invented?",
+            "choices": [
+              "fewer people could read",
+              "books became rare",
+              "knowledge spread faster",
+              "writing became harder"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What can we infer from the passage about the printing press?",
+            "choices": [
+              "it had little impact on society",
+              "it made books more expensive",
+              "it helped new ideas travel widely",
+              "it was quickly forgotten"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "passage": "Migration is a remarkable journey that many animals make each year. Arctic terns fly from the Arctic to the Antarctic and back — a round trip of nearly forty thousand miles. Monarch butterflies travel from Canada to Mexico to escape the cold winter. Scientists believe animals navigate using landmarks, the stars, or Earth's magnetic field.",
+        "questions": [
+          {
+            "q": "What is migration?",
+            "choices": [
+              "when animals change their color",
+              "a yearly journey many animals make",
+              "when animals hibernate in winter",
+              "animals growing larger over time"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "How far do Arctic terns travel in a round trip?",
+            "choices": [
+              "ten thousand miles",
+              "twenty thousand miles",
+              "forty thousand miles",
+              "one hundred thousand miles"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "Why do Monarch butterflies travel to Mexico?",
+            "choices": [
+              "to find food in summer",
+              "to lay eggs in warm sand",
+              "to escape the cold winter",
+              "to find new flowers"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "How might animals navigate during migration according to scientists?",
+            "choices": [
+              "by following other animals",
+              "by using landmarks, stars, or Earth's magnetic field",
+              "by following rivers only",
+              "by smelling the air"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "passage": "Our sense of smell is closely linked to memory and emotion. When we smell something, the signal travels directly to the part of the brain that processes emotions and memories. This is why a certain smell can instantly take you back to a childhood memory. Scientists call this the Proust phenomenon, named after a writer who described experiencing vivid memories triggered by smell.",
+        "questions": [
+          {
+            "q": "What is our sense of smell closely linked to?",
+            "choices": [
+              "sight and hearing",
+              "memory and emotion",
+              "taste and touch",
+              "balance and movement"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Where does the smell signal travel in the brain?",
+            "choices": [
+              "to the area that controls movement",
+              "to the area that processes sound",
+              "to the part that processes emotions and memories",
+              "to the part that controls hunger"
+            ],
+            "correct": 2
+          },
+          {
+            "q": "What is the Proust phenomenon?",
+            "choices": [
+              "a new type of brain surgery",
+              "vivid memories triggered by smell",
+              "a scientific test for emotions",
+              "a way to improve memory"
+            ],
+            "correct": 1
+          },
+          {
+            "q": "Why was the phenomenon named after Proust?",
+            "choices": [
+              "he discovered the science of smell",
+              "he was a scientist who studied memory",
+              "he was a writer who described smell-triggered memories",
+              "he invented a new method of therapy"
+            ],
+            "correct": 2
+          }
+        ]
+      }
+    ]
+  }
+}

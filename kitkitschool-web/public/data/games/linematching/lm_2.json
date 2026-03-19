@@ -1,0 +1,113 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": true,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/sortingSuccess/car_",
+                "succ": "LineMatching/Images/sortingSuccess/car.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/crayon_",
+                "succ": "LineMatching/Images/sortingSuccess/crayon.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/glove_",
+                "succ": "LineMatching/Images/sortingSuccess/glove.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/cup_",
+                "succ": "LineMatching/Images/sortingSuccess/cup.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/cap_",
+                "succ": "LineMatching/Images/sortingSuccess/cap.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/button_",
+                "succ": "LineMatching/Images/sortingSuccess/button.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/candy_",
+                "succ": "LineMatching/Images/sortingSuccess/candy.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/socks_",
+                "succ": "LineMatching/Images/sortingSuccess/socks.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/robot_",
+                "succ": "LineMatching/Images/sortingSuccess/robot.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/train_",
+                "succ": "LineMatching/Images/sortingSuccess/train.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/doll_",
+                "succ": "LineMatching/Images/sortingSuccess/doll.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/horse_",
+                "succ": "LineMatching/Images/sortingSuccess/horse.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/triangleruler_",
+                "succ": "LineMatching/Images/sortingSuccess/triangleruler.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/scissors_",
+                "succ": "LineMatching/Images/sortingSuccess/scissors.png"
+            },
+            {
+                "nor": "LineMatching/Images/sortingSuccess/note_",
+                "succ": "LineMatching/Images/sortingSuccess/note.png"
+            }
+        ],
+        "UseColorCount": 4,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "blue.png",
+            "green.png",
+            "orange.png",
+            "yellow.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/shoes/shoes_",
+                "succ": "LineMatching/Images/shoes/shoes_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/balloon/balloon_",
+                "succ": "LineMatching/Images/balloon/balloon_succ_"
+            }
+        ],
+        "UseColorCount": 4,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "blue.png",
+            "orange.png",
+            "purple.png",
+            "red.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    }
+}

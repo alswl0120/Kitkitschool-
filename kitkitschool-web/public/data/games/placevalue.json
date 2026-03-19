@@ -1,0 +1,274 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {"target": 23, "hundreds": 0, "tens": 2, "ones": 3},
+        {"target": 15, "hundreds": 0, "tens": 1, "ones": 5},
+        {"target": 41, "hundreds": 0, "tens": 4, "ones": 1},
+        {"target": 32, "hundreds": 0, "tens": 3, "ones": 2},
+        {"target": 64, "hundreds": 0, "tens": 6, "ones": 4}
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {"target": 56, "hundreds": 0, "tens": 5, "ones": 6},
+        {"target": 74, "hundreds": 0, "tens": 7, "ones": 4},
+        {"target": 89, "hundreds": 0, "tens": 8, "ones": 9},
+        {"target": 67, "hundreds": 0, "tens": 6, "ones": 7},
+        {"target": 93, "hundreds": 0, "tens": 9, "ones": 3}
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {"target": 123, "hundreds": 1, "tens": 2, "ones": 3},
+        {"target": 245, "hundreds": 2, "tens": 4, "ones": 5},
+        {"target": 317, "hundreds": 3, "tens": 1, "ones": 7},
+        {"target": 432, "hundreds": 4, "tens": 3, "ones": 2},
+        {"target": 561, "hundreds": 5, "tens": 6, "ones": 1}
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {"target": 536, "hundreds": 5, "tens": 3, "ones": 6},
+        {"target": 748, "hundreds": 7, "tens": 4, "ones": 8},
+        {"target": 629, "hundreds": 6, "tens": 2, "ones": 9},
+        {"target": 853, "hundreds": 8, "tens": 5, "ones": 3},
+        {"target": 972, "hundreds": 9, "tens": 7, "ones": 2}
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {"target": 901, "hundreds": 9, "tens": 0, "ones": 1},
+        {"target": 780, "hundreds": 7, "tens": 8, "ones": 0},
+        {"target": 560, "hundreds": 5, "tens": 6, "ones": 0},
+        {"target": 430, "hundreds": 4, "tens": 3, "ones": 0},
+        {"target": 250, "hundreds": 2, "tens": 5, "ones": 0}
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {"target": 405, "hundreds": 4, "tens": 0, "ones": 5},
+        {"target": 307, "hundreds": 3, "tens": 0, "ones": 7},
+        {"target": 602, "hundreds": 6, "tens": 0, "ones": 2},
+        {"target": 809, "hundreds": 8, "tens": 0, "ones": 9},
+        {"target": 104, "hundreds": 1, "tens": 0, "ones": 4}
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {"target": 111, "hundreds": 1, "tens": 1, "ones": 1},
+        {"target": 222, "hundreds": 2, "tens": 2, "ones": 2},
+        {"target": 333, "hundreds": 3, "tens": 3, "ones": 3},
+        {"target": 444, "hundreds": 4, "tens": 4, "ones": 4},
+        {"target": 555, "hundreds": 5, "tens": 5, "ones": 5}
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {"target": 199, "hundreds": 1, "tens": 9, "ones": 9},
+        {"target": 891, "hundreds": 8, "tens": 9, "ones": 1},
+        {"target": 478, "hundreds": 4, "tens": 7, "ones": 8},
+        {"target": 763, "hundreds": 7, "tens": 6, "ones": 3},
+        {"target": 924, "hundreds": 9, "tens": 2, "ones": 4}
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {"target": 11, "hundreds": 0, "tens": 1, "ones": 1},
+        {"target": 24, "hundreds": 0, "tens": 2, "ones": 4},
+        {"target": 33, "hundreds": 0, "tens": 3, "ones": 3},
+        {"target": 42, "hundreds": 0, "tens": 4, "ones": 2},
+        {"target": 51, "hundreds": 0, "tens": 5, "ones": 1}
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {"target": 17, "hundreds": 0, "tens": 1, "ones": 7},
+        {"target": 26, "hundreds": 0, "tens": 2, "ones": 6},
+        {"target": 35, "hundreds": 0, "tens": 3, "ones": 5},
+        {"target": 48, "hundreds": 0, "tens": 4, "ones": 8},
+        {"target": 63, "hundreds": 0, "tens": 6, "ones": 3}
+      ]
+    },
+    {
+      "level": 11,
+      "problems": [
+        {"target": 19, "hundreds": 0, "tens": 1, "ones": 9},
+        {"target": 37, "hundreds": 0, "tens": 3, "ones": 7},
+        {"target": 55, "hundreds": 0, "tens": 5, "ones": 5},
+        {"target": 72, "hundreds": 0, "tens": 7, "ones": 2},
+        {"target": 84, "hundreds": 0, "tens": 8, "ones": 4}
+      ]
+    },
+    {
+      "level": 12,
+      "problems": [
+        {"target": 46, "hundreds": 0, "tens": 4, "ones": 6},
+        {"target": 58, "hundreds": 0, "tens": 5, "ones": 8},
+        {"target": 71, "hundreds": 0, "tens": 7, "ones": 1},
+        {"target": 83, "hundreds": 0, "tens": 8, "ones": 3},
+        {"target": 97, "hundreds": 0, "tens": 9, "ones": 7}
+      ]
+    },
+    {
+      "level": 13,
+      "problems": [
+        {"target": 29, "hundreds": 0, "tens": 2, "ones": 9},
+        {"target": 44, "hundreds": 0, "tens": 4, "ones": 4},
+        {"target": 61, "hundreds": 0, "tens": 6, "ones": 1},
+        {"target": 78, "hundreds": 0, "tens": 7, "ones": 8},
+        {"target": 95, "hundreds": 0, "tens": 9, "ones": 5}
+      ]
+    },
+    {
+      "level": 14,
+      "problems": [
+        {"target": 38, "hundreds": 0, "tens": 3, "ones": 8},
+        {"target": 52, "hundreds": 0, "tens": 5, "ones": 2},
+        {"target": 69, "hundreds": 0, "tens": 6, "ones": 9},
+        {"target": 86, "hundreds": 0, "tens": 8, "ones": 6},
+        {"target": 99, "hundreds": 0, "tens": 9, "ones": 9}
+      ]
+    },
+    {
+      "level": 15,
+      "problems": [
+        {"target": 112, "hundreds": 1, "tens": 1, "ones": 2},
+        {"target": 134, "hundreds": 1, "tens": 3, "ones": 4},
+        {"target": 221, "hundreds": 2, "tens": 2, "ones": 1},
+        {"target": 143, "hundreds": 1, "tens": 4, "ones": 3},
+        {"target": 231, "hundreds": 2, "tens": 3, "ones": 1}
+      ]
+    },
+    {
+      "level": 16,
+      "problems": [
+        {"target": 156, "hundreds": 1, "tens": 5, "ones": 6},
+        {"target": 263, "hundreds": 2, "tens": 6, "ones": 3},
+        {"target": 314, "hundreds": 3, "tens": 1, "ones": 4},
+        {"target": 182, "hundreds": 1, "tens": 8, "ones": 2},
+        {"target": 247, "hundreds": 2, "tens": 4, "ones": 7}
+      ]
+    },
+    {
+      "level": 17,
+      "problems": [
+        {"target": 308, "hundreds": 3, "tens": 0, "ones": 8},
+        {"target": 275, "hundreds": 2, "tens": 7, "ones": 5},
+        {"target": 391, "hundreds": 3, "tens": 9, "ones": 1},
+        {"target": 416, "hundreds": 4, "tens": 1, "ones": 6},
+        {"target": 324, "hundreds": 3, "tens": 2, "ones": 4}
+      ]
+    },
+    {
+      "level": 18,
+      "problems": [
+        {"target": 438, "hundreds": 4, "tens": 3, "ones": 8},
+        {"target": 362, "hundreds": 3, "tens": 6, "ones": 2},
+        {"target": 419, "hundreds": 4, "tens": 1, "ones": 9},
+        {"target": 283, "hundreds": 2, "tens": 8, "ones": 3},
+        {"target": 457, "hundreds": 4, "tens": 5, "ones": 7}
+      ]
+    },
+    {
+      "level": 19,
+      "problems": [
+        {"target": 490, "hundreds": 4, "tens": 9, "ones": 0},
+        {"target": 375, "hundreds": 3, "tens": 7, "ones": 5},
+        {"target": 462, "hundreds": 4, "tens": 6, "ones": 2},
+        {"target": 318, "hundreds": 3, "tens": 1, "ones": 8},
+        {"target": 447, "hundreds": 4, "tens": 4, "ones": 7}
+      ]
+    },
+    {
+      "level": 20,
+      "problems": [
+        {"target": 501, "hundreds": 5, "tens": 0, "ones": 1},
+        {"target": 483, "hundreds": 4, "tens": 8, "ones": 3},
+        {"target": 356, "hundreds": 3, "tens": 5, "ones": 6},
+        {"target": 429, "hundreds": 4, "tens": 2, "ones": 9},
+        {"target": 497, "hundreds": 4, "tens": 9, "ones": 7}
+      ]
+    },
+    {
+      "level": 21,
+      "problems": [
+        {"target": 512, "hundreds": 5, "tens": 1, "ones": 2},
+        {"target": 634, "hundreds": 6, "tens": 3, "ones": 4},
+        {"target": 521, "hundreds": 5, "tens": 2, "ones": 1},
+        {"target": 643, "hundreds": 6, "tens": 4, "ones": 3},
+        {"target": 571, "hundreds": 5, "tens": 7, "ones": 1}
+      ]
+    },
+    {
+      "level": 22,
+      "problems": [
+        {"target": 658, "hundreds": 6, "tens": 5, "ones": 8},
+        {"target": 714, "hundreds": 7, "tens": 1, "ones": 4},
+        {"target": 582, "hundreds": 5, "tens": 8, "ones": 2},
+        {"target": 697, "hundreds": 6, "tens": 9, "ones": 7},
+        {"target": 743, "hundreds": 7, "tens": 4, "ones": 3}
+      ]
+    },
+    {
+      "level": 23,
+      "problems": [
+        {"target": 706, "hundreds": 7, "tens": 0, "ones": 6},
+        {"target": 825, "hundreds": 8, "tens": 2, "ones": 5},
+        {"target": 619, "hundreds": 6, "tens": 1, "ones": 9},
+        {"target": 731, "hundreds": 7, "tens": 3, "ones": 1},
+        {"target": 864, "hundreds": 8, "tens": 6, "ones": 4}
+      ]
+    },
+    {
+      "level": 24,
+      "problems": [
+        {"target": 938, "hundreds": 9, "tens": 3, "ones": 8},
+        {"target": 762, "hundreds": 7, "tens": 6, "ones": 2},
+        {"target": 819, "hundreds": 8, "tens": 1, "ones": 9},
+        {"target": 673, "hundreds": 6, "tens": 7, "ones": 3},
+        {"target": 947, "hundreds": 9, "tens": 4, "ones": 7}
+      ]
+    },
+    {
+      "level": 25,
+      "problems": [
+        {"target": 590, "hundreds": 5, "tens": 9, "ones": 0},
+        {"target": 870, "hundreds": 8, "tens": 7, "ones": 0},
+        {"target": 650, "hundreds": 6, "tens": 5, "ones": 0},
+        {"target": 730, "hundreds": 7, "tens": 3, "ones": 0},
+        {"target": 960, "hundreds": 9, "tens": 6, "ones": 0}
+      ]
+    },
+    {
+      "level": 26,
+      "problems": [
+        {"target": 503, "hundreds": 5, "tens": 0, "ones": 3},
+        {"target": 708, "hundreds": 7, "tens": 0, "ones": 8},
+        {"target": 604, "hundreds": 6, "tens": 0, "ones": 4},
+        {"target": 907, "hundreds": 9, "tens": 0, "ones": 7},
+        {"target": 802, "hundreds": 8, "tens": 0, "ones": 2}
+      ]
+    },
+    {
+      "level": 27,
+      "problems": [
+        {"target": 987, "hundreds": 9, "tens": 8, "ones": 7},
+        {"target": 876, "hundreds": 8, "tens": 7, "ones": 6},
+        {"target": 765, "hundreds": 7, "tens": 6, "ones": 5},
+        {"target": 654, "hundreds": 6, "tens": 5, "ones": 4},
+        {"target": 999, "hundreds": 9, "tens": 9, "ones": 9}
+      ]
+    }
+  ]
+}

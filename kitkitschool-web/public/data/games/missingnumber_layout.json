@@ -1,0 +1,226 @@
+{
+  "_meta": {
+    "description": "MissingNumber game layout — extracted from C++ + actual PNG dimensions",
+    "designResolution": "2560×1800",
+    "coordinateSystem": "Canvas: Y=0 at top, increases downward",
+    "sources": [
+      "C++ TextToNumberStage.cpp: question pos, button layout",
+      "C++ MainDepot.cpp: gameSize, fontSize, fontColor",
+      "C++ AnswerTextButton.cpp: button text pos, press behavior",
+      "PNG headers: all asset dimensions"
+    ],
+    "generatedAt": "2026-03-09T07:37:27.653Z"
+  },
+  "assets": {
+    "back_image": {
+      "w": 3202,
+      "h": 1800
+    },
+    "egg_01": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_02": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_03": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_04": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_05": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_01_top": {
+      "w": 304,
+      "h": 154
+    },
+    "egg_01_bottom": {
+      "w": 340,
+      "h": 340
+    },
+    "crack_01": {
+      "w": 340,
+      "h": 432
+    },
+    "crack_02": {
+      "w": 340,
+      "h": 432
+    },
+    "crack_03": {
+      "w": 340,
+      "h": 432
+    },
+    "crack_04": {
+      "w": 340,
+      "h": 432
+    },
+    "egg_number_image": {
+      "w": 828,
+      "h": 112
+    },
+    "egg_lamp": {
+      "w": 145,
+      "h": 50
+    },
+    "lamp_light_01": {
+      "w": 1218,
+      "h": 706
+    },
+    "lamp_light_02": {
+      "w": 758,
+      "h": 620
+    },
+    "lamp_light_03": {
+      "w": 44,
+      "h": 44
+    },
+    "animal_bird": {
+      "w": 266,
+      "h": 272
+    },
+    "cloud": {
+      "w": 72,
+      "h": 66
+    },
+    "nest": {
+      "w": 420,
+      "h": 180
+    },
+    "nest_back": {
+      "w": 420,
+      "h": 180
+    },
+    "nest_shadow": {
+      "w": 464,
+      "h": 136
+    },
+    "card_slot_question_mark_normal": {
+      "w": 70,
+      "h": 117
+    },
+    "card_slot_question_mark_selected": {
+      "w": 70,
+      "h": 115
+    },
+    "card_forsingledigit": {
+      "w": 244,
+      "h": 336
+    },
+    "card_forthreedigit": {
+      "w": 478,
+      "h": 336
+    },
+    "card_slot_empty": {
+      "w": 214,
+      "h": 292
+    },
+    "card_slot_selected": {
+      "w": 214,
+      "h": 292
+    },
+    "card_slot_empty_forthreedigit": {
+      "w": 412,
+      "h": 292
+    },
+    "card_slot_selected_forthreedigit": {
+      "w": 412,
+      "h": 292
+    },
+    "digital_quiz_button_answer_large_normal": {
+      "w": 700,
+      "h": 442
+    },
+    "digital_quiz_button_answer_large_touch": {
+      "w": 700,
+      "h": 442
+    },
+    "digital_quiz_button_answer_medium_normal": {
+      "w": 400,
+      "h": 442
+    },
+    "digital_quiz_button_answer_medium_touch": {
+      "w": 400,
+      "h": 442
+    },
+    "digital_quiz_button_answer_small_normal": {
+      "w": 194,
+      "h": 442
+    },
+    "digital_quiz_button_answer_small_touch": {
+      "w": 194,
+      "h": 442
+    }
+  },
+  "egg": {
+    "width": 340,
+    "height": 432,
+    "scale": 1,
+    "centerY": 600,
+    "gap": 82
+  },
+  "eggTop": {
+    "width": 304,
+    "height": 154
+  },
+  "eggBottom": {
+    "width": 340,
+    "height": 340,
+    "cupCenterY": 664.8
+  },
+  "numberSprite": {
+    "totalWidth": 828,
+    "height": 112,
+    "digitWidth": 82.8,
+    "scale1": 2.053,
+    "scale2": 1.643,
+    "scale3": 1.163
+  },
+  "questionMark": {
+    "width": 70,
+    "height": 117,
+    "scale": 1.292
+  },
+  "lamp": {
+    "width": 145,
+    "height": 50,
+    "y": 10,
+    "centerX": 1280
+  },
+  "lampLight1": {
+    "width": 1218,
+    "height": 706,
+    "y": 60,
+    "centerX": 1280,
+    "alpha": 0.5
+  },
+  "buttons": {
+    "y_cocos": 113,
+    "fontSize": 180,
+    "fontColor": "23,163,232",
+    "fontColorPress": "204,235,255",
+    "textOffsetY": 5,
+    "pressOffsetY": -5,
+    "pressAlpha": 0.5,
+    "large": {
+      "w": 700,
+      "h": 442,
+      "margin": 104
+    },
+    "medium": {
+      "w": 400,
+      "h": 442,
+      "margin": 70
+    },
+    "small": {
+      "w": 194,
+      "h": 442,
+      "margin": 40
+    }
+  }
+}

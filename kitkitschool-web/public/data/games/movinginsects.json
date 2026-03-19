@@ -1,0 +1,2876 @@
+{
+  "game": "movinginsects",
+  "levels": [
+    {
+      "level": 1,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            }
+          ]
+        },
+        {
+          "workSet": 6,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 7,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            }
+          ]
+        },
+        {
+          "workSet": 8,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 6,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 7,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 8,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 8
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 7
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 3,
+              "answer": 6
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 6,
+              "answer": 7
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 5,
+              "answer": 8
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 4,
+              "answer": 8
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 7
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 4,
+              "answer": 7
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 6,
+              "answer": 9
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 6
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 5,
+              "answer": 9
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 6,
+              "answer": 8
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 9
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 5,
+              "answer": 7
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 9
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 7
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 5,
+              "answer": 6
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 5,
+              "answer": 8
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 4,
+              "answer": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 3,
+              "answer": 0
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 4,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 2,
+              "answer": 5
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 4,
+              "answer": 0
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 6,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 5,
+              "answer": 2
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 6,
+              "answer": 1
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 6,
+              "answer": 0
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 0
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 5,
+              "answer": 2
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 4,
+              "answer": 0
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 0
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 0
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 6,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 0
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 0
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 5,
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 5,
+              "answer": 6
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 9
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 5,
+              "answer": 8
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 9
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 3,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 9
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 7
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 5,
+              "answer": 9
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 6,
+              "answer": 9
+            }
+          ]
+        },
+        {
+          "workSet": 6,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 5,
+              "answer": 7
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 6,
+              "answer": 7
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 4,
+              "answer": 7
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 7
+            }
+          ]
+        },
+        {
+          "workSet": 7,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 4,
+              "answer": 8
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 6,
+              "answer": 8
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 5,
+              "answer": 7
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "workSet": 8,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 6,
+              "answer": 9
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 9,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 5,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 8,
+              "answer": 2
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 7,
+              "answer": 3
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 6,
+              "answer": 4
+            },
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 6,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 9,
+              "answer": 1
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 7,
+              "answer": 3
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 8,
+              "answer": 2
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 5,
+              "answer": 5
+            },
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 9,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 8,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 5,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 7,
+              "answer": 3
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 6,
+              "answer": 4
+            },
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 6,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 5,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 8,
+              "answer": 2
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 7,
+              "answer": 3
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 9,
+              "answer": 1
+            },
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 6,
+              "answer": 4
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 8,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 2,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 9,
+              "answer": 1
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 5,
+              "answer": 5
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 10,
+              "rhs": 7,
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "workSets": [
+        {
+          "workSet": 1,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 8,
+              "answer": 9
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 2,
+              "answer": 6
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 5,
+              "answer": 3
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 7,
+              "rhs": 1,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 8
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 2
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 1
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 6,
+              "answer": 2
+            },
+            {
+              "work": 10,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 6,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 2,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 1
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 4,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 6,
+              "answer": 8
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 5,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 3,
+              "answer": 6
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 7,
+              "rhs": 2,
+              "answer": 9
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 1
+            },
+            {
+              "work": 8,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 2,
+              "answer": 6
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 10,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 6,
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "workSet": 3,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 1,
+              "answer": 8
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 6
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 3,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 4,
+              "answer": 7
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 3,
+              "answer": 6
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 5,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 7,
+              "answer": 2
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 9,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 10,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 5,
+              "answer": 7
+            }
+          ]
+        },
+        {
+          "workSet": 4,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 2,
+              "answer": 7
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 2,
+              "answer": 7
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 7,
+              "answer": 9
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 1
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 1,
+              "answer": 7
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 1,
+              "answer": 7
+            },
+            {
+              "work": 8,
+              "op": "PLUS",
+              "lhs": 5,
+              "rhs": 4,
+              "answer": 9
+            },
+            {
+              "work": 9,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 6,
+              "answer": 9
+            },
+            {
+              "work": 10,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 6,
+              "answer": 7
+            }
+          ]
+        },
+        {
+          "workSet": 5,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 8,
+              "rhs": 1,
+              "answer": 9
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 3,
+              "answer": 5
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 4,
+              "answer": 2
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 5,
+              "answer": 9
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 4,
+              "answer": 8
+            },
+            {
+              "work": 7,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 5,
+              "answer": 1
+            },
+            {
+              "work": 8,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 1,
+              "answer": 2
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 10,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 7,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 6,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 9
+            },
+            {
+              "work": 2,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 3,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 5
+            },
+            {
+              "work": 4,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 5,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 5,
+              "answer": 8
+            },
+            {
+              "work": 6,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 4,
+              "answer": 6
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 2,
+              "answer": 3
+            },
+            {
+              "work": 8,
+              "op": "MINUS",
+              "lhs": 5,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 10,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 8,
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "workSet": 7,
+          "problems": [
+            {
+              "work": 1,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 5,
+              "answer": 2
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 1,
+              "answer": 6
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 1,
+              "answer": 4
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 4,
+              "rhs": 1,
+              "answer": 3
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 7,
+              "rhs": 4,
+              "answer": 3
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 7,
+              "answer": 8
+            },
+            {
+              "work": 8,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 3,
+              "answer": 4
+            },
+            {
+              "work": 9,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 2,
+              "answer": 5
+            },
+            {
+              "work": 10,
+              "op": "PLUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 8
+            }
+          ]
+        },
+        {
+          "workSet": 8,
+          "problems": [
+            {
+              "work": 1,
+              "op": "PLUS",
+              "lhs": 1,
+              "rhs": 4,
+              "answer": 5
+            },
+            {
+              "work": 2,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 3,
+              "answer": 3
+            },
+            {
+              "work": 3,
+              "op": "MINUS",
+              "lhs": 6,
+              "rhs": 2,
+              "answer": 4
+            },
+            {
+              "work": 4,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 5,
+              "answer": 8
+            },
+            {
+              "work": 5,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 3,
+              "answer": 6
+            },
+            {
+              "work": 6,
+              "op": "MINUS",
+              "lhs": 9,
+              "rhs": 6,
+              "answer": 3
+            },
+            {
+              "work": 7,
+              "op": "PLUS",
+              "lhs": 4,
+              "rhs": 3,
+              "answer": 7
+            },
+            {
+              "work": 8,
+              "op": "PLUS",
+              "lhs": 3,
+              "rhs": 6,
+              "answer": 9
+            },
+            {
+              "work": 9,
+              "op": "MINUS",
+              "lhs": 8,
+              "rhs": 5,
+              "answer": 3
+            },
+            {
+              "work": 10,
+              "op": "PLUS",
+              "lhs": 2,
+              "rhs": 2,
+              "answer": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

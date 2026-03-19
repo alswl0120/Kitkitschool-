@@ -1,0 +1,159 @@
+{
+    "ObjectCount": 12,
+    "ProblemCount": 16,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 4,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/object/rubbercone.png",
+                "succ": "LineMatching/Images/object/rubbercone_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/dice.png",
+                "succ": "LineMatching/Images/object/dice_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/can.png",
+                "succ": "LineMatching/Images/object/can_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/basketball.png",
+                "succ": "LineMatching/Images/object/basketball_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/solidFigure/cone_blue.png",
+                "succ": "LineMatching/Images/solidFigure/cone_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/cube_blue.png",
+                "succ": "LineMatching/Images/solidFigure/cube_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/cylinder_blue.png",
+                "succ": "LineMatching/Images/solidFigure/cylinder_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/sphere_blue.png",
+                "succ": "LineMatching/Images/solidFigure/sphere_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/object/cap.png",
+                "succ": "LineMatching/Images/object/cap_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/present.png",
+                "succ": "LineMatching/Images/object/present_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/battery.png",
+                "succ": "LineMatching/Images/object/battery_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/object/orange.png",
+                "succ": "LineMatching/Images/object/orange_succ.png"
+            }
+        ],
+        "RightColors": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 6,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/solidFigure/cylinder_red.png",
+                "succ": "LineMatching/Images/solidFigure/cylinder_red_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/cone_red.png",
+                "succ": "LineMatching/Images/solidFigure/cone_red_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/longcube_red.png",
+                "succ": "LineMatching/Images/solidFigure/longcube_red_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/star_red.png",
+                "succ": "LineMatching/Images/solidFigure/star_red_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/pentagon_red.png",
+                "succ": "LineMatching/Images/solidFigure/pentagon_red_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/hexagon_red.png",
+                "succ": "LineMatching/Images/solidFigure/hexagon_red_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/solidFigure/cylinder_purple.png",
+                "succ": "LineMatching/Images/solidFigure/cylinder_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/cone_purple.png",
+                "succ": "LineMatching/Images/solidFigure/cone_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/longcube_purple.png",
+                "succ": "LineMatching/Images/solidFigure/longcube_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/star_purple.png",
+                "succ": "LineMatching/Images/solidFigure/star_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/pentagon_purple.png",
+                "succ": "LineMatching/Images/solidFigure/pentagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/hexagon_purple.png",
+                "succ": "LineMatching/Images/solidFigure/hexagon_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/solidFigure/cylinder_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/cylinder_diagonal_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/cone_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/cone_diagonal_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/longcube_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/longcube_diagonal_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/star_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/star_diagonal_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/pentagon_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/pentagon_diagonal_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/solidFigure/hexagon_diagonal.png",
+                "succ": "LineMatching/Images/solidFigure/hexagon_diagonal_succ.png"
+            }
+        ],
+        "RightColors": []
+    }
+}

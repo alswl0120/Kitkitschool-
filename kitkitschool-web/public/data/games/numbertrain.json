@@ -1,0 +1,184 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {"target": 1, "cars": [1, 3, 5], "correct": 0},
+        {"target": 3, "cars": [2, 3, 5], "correct": 1},
+        {"target": 5, "cars": [1, 4, 5], "correct": 2},
+        {"target": 2, "cars": [2, 4, 5], "correct": 0},
+        {"target": 4, "cars": [1, 4, 3], "correct": 1}
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {"target": 6, "cars": [4, 6, 9], "correct": 1},
+        {"target": 8, "cars": [8, 3, 10], "correct": 0},
+        {"target": 10, "cars": [7, 5, 10], "correct": 2},
+        {"target": 3, "cars": [3, 6, 9], "correct": 0},
+        {"target": 7, "cars": [4, 7, 2], "correct": 1}
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {"target": 9, "cars": [9, 5, 2], "correct": 0},
+        {"target": 4, "cars": [7, 4, 10], "correct": 1},
+        {"target": 1, "cars": [5, 8, 1], "correct": 2},
+        {"target": 6, "cars": [3, 6, 9], "correct": 1},
+        {"target": 10, "cars": [2, 7, 10], "correct": 2}
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {"target": 12, "cars": [12, 7, 18], "correct": 0},
+        {"target": 15, "cars": [9, 15, 20], "correct": 1},
+        {"target": 20, "cars": [11, 16, 20], "correct": 2},
+        {"target": 8, "cars": [8, 14, 19], "correct": 0},
+        {"target": 17, "cars": [13, 17, 5], "correct": 1}
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {"target": 14, "cars": [6, 14, 20], "correct": 1},
+        {"target": 19, "cars": [19, 10, 3], "correct": 0},
+        {"target": 11, "cars": [7, 15, 11], "correct": 2},
+        {"target": 16, "cars": [16, 4, 9], "correct": 0},
+        {"target": 13, "cars": [8, 13, 18], "correct": 1}
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {"target": 18, "cars": [10, 18, 5], "correct": 1},
+        {"target": 6, "cars": [6, 14, 20], "correct": 0},
+        {"target": 15, "cars": [9, 4, 15], "correct": 2},
+        {"target": 12, "cars": [12, 17, 8], "correct": 0},
+        {"target": 20, "cars": [11, 20, 3], "correct": 1}
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {"target": 25, "cars": [25, 38, 14], "correct": 0},
+        {"target": 42, "cars": [17, 42, 50], "correct": 1},
+        {"target": 50, "cars": [33, 19, 50], "correct": 2},
+        {"target": 31, "cars": [31, 45, 22], "correct": 0},
+        {"target": 47, "cars": [36, 47, 10], "correct": 1}
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {"target": 35, "cars": [20, 35, 48], "correct": 1},
+        {"target": 50, "cars": [50, 28, 12], "correct": 0},
+        {"target": 43, "cars": [15, 30, 43], "correct": 2},
+        {"target": 28, "cars": [28, 41, 17], "correct": 0},
+        {"target": 36, "cars": [22, 36, 49], "correct": 1}
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {"target": 49, "cars": [33, 49, 12], "correct": 1},
+        {"target": 22, "cars": [22, 38, 45], "correct": 0},
+        {"target": 44, "cars": [30, 16, 44], "correct": 2},
+        {"target": 37, "cars": [37, 24, 50], "correct": 0},
+        {"target": 18, "cars": [26, 18, 42], "correct": 1}
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {"target": 41, "cars": [41, 27, 13], "correct": 0},
+        {"target": 29, "cars": [14, 29, 46], "correct": 1},
+        {"target": 50, "cars": [35, 21, 50], "correct": 2},
+        {"target": 33, "cars": [33, 19, 47], "correct": 0},
+        {"target": 45, "cars": [16, 45, 30], "correct": 1}
+      ]
+    },
+    {
+      "level": 11,
+      "problems": [
+        {"target": 21, "cars": [21, 15, 28], "correct": 0},
+        {"target": 26, "cars": [18, 26, 30], "correct": 1},
+        {"target": 30, "cars": [12, 24, 30], "correct": 2},
+        {"target": 23, "cars": [23, 17, 29], "correct": 0},
+        {"target": 27, "cars": [19, 27, 13], "correct": 1}
+      ]
+    },
+    {
+      "level": 12,
+      "problems": [
+        {"target": 24, "cars": [16, 24, 30], "correct": 1},
+        {"target": 28, "cars": [28, 20, 14], "correct": 0},
+        {"target": 22, "cars": [17, 13, 22], "correct": 2},
+        {"target": 25, "cars": [25, 18, 29], "correct": 0},
+        {"target": 30, "cars": [11, 30, 25], "correct": 1}
+      ]
+    },
+    {
+      "level": 13,
+      "problems": [
+        {"target": 29, "cars": [29, 21, 16], "correct": 0},
+        {"target": 23, "cars": [17, 23, 28], "correct": 1},
+        {"target": 27, "cars": [20, 14, 27], "correct": 2},
+        {"target": 22, "cars": [22, 26, 18], "correct": 0},
+        {"target": 25, "cars": [13, 25, 30], "correct": 1}
+      ]
+    },
+    {
+      "level": 14,
+      "problems": [
+        {"target": 26, "cars": [19, 26, 30], "correct": 1},
+        {"target": 21, "cars": [21, 28, 24], "correct": 0},
+        {"target": 29, "cars": [15, 23, 29], "correct": 2},
+        {"target": 24, "cars": [24, 27, 20], "correct": 0},
+        {"target": 28, "cars": [22, 28, 17], "correct": 1}
+      ]
+    },
+    {
+      "level": 15,
+      "problems": [
+        {"target": 32, "cars": [32, 44, 50], "correct": 0},
+        {"target": 40, "cars": [28, 40, 50], "correct": 1},
+        {"target": 50, "cars": [35, 42, 50], "correct": 2},
+        {"target": 38, "cars": [38, 45, 31], "correct": 0},
+        {"target": 46, "cars": [33, 46, 28], "correct": 1}
+      ]
+    },
+    {
+      "level": 16,
+      "problems": [
+        {"target": 43, "cars": [36, 43, 50], "correct": 1},
+        {"target": 35, "cars": [35, 48, 27], "correct": 0},
+        {"target": 47, "cars": [30, 39, 47], "correct": 2},
+        {"target": 41, "cars": [41, 34, 49], "correct": 0},
+        {"target": 50, "cars": [37, 50, 44], "correct": 1}
+      ]
+    },
+    {
+      "level": 17,
+      "problems": [
+        {"target": 39, "cars": [39, 45, 31], "correct": 0},
+        {"target": 48, "cars": [33, 48, 40], "correct": 1},
+        {"target": 34, "cars": [42, 27, 34], "correct": 2},
+        {"target": 44, "cars": [44, 37, 50], "correct": 0},
+        {"target": 36, "cars": [29, 36, 49], "correct": 1}
+      ]
+    },
+    {
+      "level": 18,
+      "problems": [
+        {"target": 45, "cars": [38, 45, 32], "correct": 1},
+        {"target": 33, "cars": [33, 47, 41], "correct": 0},
+        {"target": 50, "cars": [43, 36, 50], "correct": 2},
+        {"target": 42, "cars": [42, 35, 48], "correct": 0},
+        {"target": 37, "cars": [31, 37, 44], "correct": 1}
+      ]
+    }
+  ]
+}

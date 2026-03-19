@@ -1,0 +1,190 @@
+/* CoopScene – Egg course selection */
+
+.coop-loading {
+  width: 100vw;
+  height: 100vh;
+  background: #1a1a2e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 24px;
+}
+
+.coop-root {
+  width: 100vw;
+  height: 100vh;
+  background: #2d5a27;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.coop-container {
+  position: relative;
+  /* Fill viewport width, letterbox by height */
+  width: 100%;
+  max-width: calc(100vh * 2560 / 1800);
+  aspect-ratio: 2560 / 1800;
+  overflow: hidden;
+}
+
+.coop-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.coop-back {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'TodoMainCurly', sans-serif;
+}
+
+.coop-back:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* ─── Level slot – display:contents so children position relative
+       to .coop-container directly ─── */
+.coop-slot {
+  display: contents;
+}
+
+/* ─── Bird image ───
+   Positioned absolutely with per-bird inline styles:
+     left, bottom, width, transform (per-bird anchor) */
+.coop-bird-img {
+  position: absolute;
+  /* left, bottom, width, transform set by inline style */
+  height: auto;
+  z-index: 3;
+  object-fit: contain;
+  cursor: pointer;
+  transition: filter 0.15s;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+.coop-slot--open .coop-bird-img:hover {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3)) brightness(1.15);
+}
+
+/* ─── Egg image ───
+   Positioned with inline styles, uniform anchor (0.5, 0.05) */
+.coop-egg {
+  position: absolute;
+  /* left, bottom, width, transform set by inline style */
+  height: auto;
+  z-index: 3;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* ─── Progress ring ─── */
+.coop-progress-ring {
+  position: absolute;
+  /* left, bottom, width, height set by inline style */
+  transform: translate(-50%, 50%);
+  z-index: 4;
+  pointer-events: none;
+}
+
+.coop-ring-svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.coop-ring-bg {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.2);
+  stroke-width: 2;
+}
+
+.coop-ring-fill {
+  fill: none;
+  stroke: #FFD700;
+  stroke-width: 2.5;
+  stroke-linecap: round;
+}
+
+/* ─── Nest ───
+   ANCHOR_MIDDLE_BOTTOM → translateX(-50%), bottom edge at position */
+.coop-nest {
+  position: absolute;
+  /* left, bottom, width set by inline style */
+  transform: translateX(-50%);
+  height: auto;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* ─── Wood panel with label ───
+   ANCHOR_MIDDLE_BOTTOM → translateX(-50%) */
+.coop-panel-wrap {
+  position: absolute;
+  /* left, bottom, width set by inline style */
+  transform: translateX(-50%);
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: filter 0.15s;
+}
+
+.coop-slot--open .coop-panel-wrap:hover {
+  filter: brightness(1.15);
+}
+
+.coop-panel-img {
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+.coop-panel-label {
+  position: absolute;
+  /* Overlay the full panel and center text vertically + horizontally */
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* small upward offset matching C++ label y = panelCenter - 5 */
+  padding-bottom: 4px;
+  text-align: center;
+  color: #FFFCEC;
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(9px, 1.1vw, 16px);
+  pointer-events: none;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  line-height: 1;
+  padding: 0 4px 4px;
+  /* Must be above the panel image */
+  z-index: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ─── Locked state ─── */
+.coop-slot--locked .coop-bird-img,
+.coop-slot--locked .coop-egg,
+.coop-slot--locked .coop-nest,
+.coop-slot--locked .coop-panel-wrap {
+  opacity: 0.6;
+  cursor: default;
+}

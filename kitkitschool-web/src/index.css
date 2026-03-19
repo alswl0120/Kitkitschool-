@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'TodoMainCurly';
+  src: url('/assets/launcher/TodoMainCurly.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TodoSchoolV2';
+  src: url('/assets/fonts/TodoSchoolV2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aileron-Regular';
+  src: url('/assets/fonts/Aileron-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Andika';
+  src: url('/assets/fonts/andika-r.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #2B2E33;
+  font-family: 'TodoMainCurly', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+  font-family: inherit;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

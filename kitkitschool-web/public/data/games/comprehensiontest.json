@@ -1,0 +1,91 @@
+{
+  "levels": {
+    "1": {
+      "passage": "The cat sat on the mat. The cat is big. The mat is red.",
+      "questions": [
+        {"question":"Where did the cat sit?","choices":["On a chair","On the mat","On the bed","On the floor"],"answer":1},
+        {"question":"What color is the mat?","choices":["Blue","Green","Red","Yellow"],"answer":2},
+        {"question":"What is big?","choices":["The mat","The dog","The cat","The hat"],"answer":2}
+      ]
+    },
+    "2": {
+      "passage": "Tom has a dog. The dog is brown. Tom and his dog play in the park every day.",
+      "questions": [
+        {"question":"What pet does Tom have?","choices":["A cat","A dog","A bird","A fish"],"answer":1},
+        {"question":"What color is the dog?","choices":["White","Black","Brown","Gray"],"answer":2},
+        {"question":"Where do they play?","choices":["At home","At school","In the park","At the beach"],"answer":2}
+      ]
+    },
+    "3": {
+      "passage": "It is raining today. Sara has a red umbrella. She walks to school with her umbrella.",
+      "questions": [
+        {"question":"What is the weather?","choices":["Sunny","Rainy","Snowy","Windy"],"answer":1},
+        {"question":"Umbrella color?","choices":["Blue","Yellow","Red","Green"],"answer":2},
+        {"question":"Where is Sara going?","choices":["Home","Park","School","Store"],"answer":2}
+      ]
+    },
+    "4": {
+      "passage": "Ben likes to read books. His favorite book is about animals. He reads every night before bed.",
+      "questions": [
+        {"question":"What does Ben like?","choices":["Games","Reading","TV","Drawing"],"answer":1},
+        {"question":"Book topic?","choices":["Cars","Animals","Space","Food"],"answer":1},
+        {"question":"When does he read?","choices":["Morning","After lunch","Before bed","At school"],"answer":2},
+        {"question":"How often?","choices":["Weekly","Every night","Sometimes","Never"],"answer":1}
+      ]
+    },
+    "5": {
+      "passage": "The sun is a star. It gives us light and heat. Plants need sunlight to grow. Without the sun, Earth would be cold and dark.",
+      "questions": [
+        {"question":"What is the sun?","choices":["A planet","A star","A moon","A cloud"],"answer":1},
+        {"question":"Sun gives us?","choices":["Food","Light and heat","Rain","Wind"],"answer":1},
+        {"question":"Plants need?","choices":["Water","Soil","Sunlight","Air"],"answer":2},
+        {"question":"Without sun?","choices":["Rain","No change","Cold and dark","Windy"],"answer":2}
+      ]
+    },
+    "6": {
+      "passage": "Maria has a garden. She grows flowers and vegetables. She waters the plants every morning. The tomatoes are her favorite.",
+      "questions": [
+        {"question":"Maria has?","choices":["A pet","A garden","A pool","A bike"],"answer":1},
+        {"question":"What grows?","choices":["Only flowers","Only vegs","Both","Trees"],"answer":2},
+        {"question":"When water?","choices":["Night","Afternoon","Morning","Weekly"],"answer":2},
+        {"question":"Favorite?","choices":["Roses","Carrots","Tomatoes","Sunflowers"],"answer":2}
+      ]
+    },
+    "7": {
+      "passage": "Whales are the largest animals on Earth. They live in the ocean. Some whales can sing songs. Baby whales drink milk from their mothers.",
+      "questions": [
+        {"question":"Where do whales live?","choices":["Rivers","Ocean","Land","Lakes"],"answer":1},
+        {"question":"Some whales can?","choices":["Fly","Walk","Sing","Climb"],"answer":2},
+        {"question":"Baby whales drink?","choices":["Water","Juice","Milk","Nothing"],"answer":2},
+        {"question":"How big?","choices":["Small","Medium","Largest","Smallest"],"answer":2}
+      ]
+    },
+    "8": {
+      "passage": "The water cycle is important for life. Water evaporates from oceans when heated by the sun. It forms clouds. Then it falls as rain or snow.",
+      "questions": [
+        {"question":"What heats water?","choices":["Moon","Sun","Wind","Fire"],"answer":1},
+        {"question":"Forms in sky?","choices":["Stars","Rainbows","Clouds","Birds"],"answer":2},
+        {"question":"Falls back as?","choices":["Dust","Rocks","Rain or snow","Leaves"],"answer":2},
+        {"question":"Why important?","choices":["Fun","For life","Building","Sleep"],"answer":1}
+      ]
+    },
+    "9": {
+      "passage": "Honeybees collect nectar from flowers to make honey. A beehive can have up to 60,000 bees. The queen bee lays all the eggs.",
+      "questions": [
+        {"question":"Bees collect?","choices":["Pollen","Nectar","Leaves","Seeds"],"answer":1},
+        {"question":"Make from nectar?","choices":["Wax","Silk","Honey","Sugar"],"answer":2},
+        {"question":"Hive size?","choices":["100","1,000","10,000","60,000"],"answer":3},
+        {"question":"Who lays eggs?","choices":["Workers","Queen","Males","All"],"answer":1}
+      ]
+    },
+    "10": {
+      "passage": "The Great Wall of China was built over centuries to protect from invaders. It stretches over 13,000 miles.",
+      "questions": [
+        {"question":"Where is it?","choices":["Japan","India","China","Korea"],"answer":2},
+        {"question":"Why built?","choices":["Fun","Trade","Protection","Farming"],"answer":2},
+        {"question":"How long?","choices":["100mi","1,000mi","5,000mi","13,000+mi"],"answer":3},
+        {"question":"How long to build?","choices":["1 year","10 years","Centuries","1 month"],"answer":2}
+      ]
+    }
+  }
+}

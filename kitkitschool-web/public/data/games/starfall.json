@@ -1,0 +1,122 @@
+{
+    "language": "english",
+    "language_code": "en",
+    "defaults": {
+        "target_hit_count": 10,
+        "prelude_duration": 0.5,
+        "target_falling_duration": 10.0,
+        "word_regen_cooltime": 2.0
+    },
+    "levels": [
+        {
+            "level_number": 1,
+            "target_hit_count": 15,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "a","e","i","o","u"
+            ]
+        },
+        {
+            "level_number": 2,
+            "target_hit_count": 15,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "q", "w", "r", "t", "s", "d", "f", "g", "z", "x", "c", "v"
+            ]
+        },
+        {
+            "level_number": 3,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "y", "h", "j", "k", "l", "p", "b", "n", "m"
+            ]
+        },
+        {
+            "level_number": 4,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "q", "w", "r", "t", "s", "d", "f", "g", "z", "x", "c", "v", "y", "p", "h", "j", "k", "l", "b", "n", "m"
+            ]
+        },
+        {
+            "level_number": 5,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "a", "e", "i", "o", "u", "q", "w", "r", "t", "s", "d", "f", "g", "z", "x", "c", "v", "y", "p", "h", "j", "k", "l", "b", "n", "m"
+            ]
+        },
+        {
+            "level_number": 6,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "go", "in", "if", "by", "we", "my", "at", "no", "is", "he", "or", "be", "on", "am", "as", "up", "it", "me"
+            ]
+        },
+        {
+            "level_number": 7,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "one", "two", "ten", "six",
+                "him", "her", "you", "she", "our", "his", "the",
+                "and", "but", "are",
+                "run", "eat", "see", "end", "set", "let", "get",
+                "not", "hot", "fun", "can",
+                "mom", "man", "dad", "boy", "kid",
+                "sun", "red", "big", "bad", "sad"
+            ]
+        },
+        {
+            "level_number": 8,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "wow", "why", "who", "was", "how",
+                "now", "too", "way", "out", "any",
+                "old", "new", "fat", "all", "far", "own",
+                "try", "zip", "got", "has", "ran", "ask", "fly",
+                "cow", "pig", "rat", "fox", "ant", "bee", "bat", "dog", "cat", "bug",
+                "bed", "bag", "box", "bus", "day", "sea", "net", "leg", "jam"
+            ]
+        },
+        {
+            "level_number": 9,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "give", "live", "open", "good", "have", "read",
+                "make", "work", "look", "play", "food", "game",
+                "body", "shop", "cake", "farm", "come", "want",
+                "sing", "cook", "know", "easy", "your", "fast",
+                "tiny", "blue", "cold", "full", "long", "hard",
+                "late", "last", "same", "that", "many", "more"
+            ]
+        },
+        {
+            "level_number": 10,
+            "target_hit_count": 10,
+            "target_falling_duration": 18.0,
+            "word_regen_cooltime": 6.0,
+            "words": [
+                "boat", "city", "fish", "milk", "time", "face", "land", "rain",
+                "moon", "year", "plan", "land", "find", "door", "wood", "feet",
+                "over", "back", "also", "both", "else", "very", "into", "upon",
+                "when", "with", "well", "just", "much", "grow", "bend", "find",
+                "hurt", "pull", "draw", "went", "wish", "call", "care", "must", "dark", "warm"
+            ]
+        }
+    ]
+}

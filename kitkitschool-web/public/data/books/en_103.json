@@ -1,0 +1,62 @@
+{
+  "title": "Big and Small",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "An"}, {"text": "elephant"}, {"text": "is"}, {"text": "big."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "A"}, {"text": "mouse"}, {"text": "is"}, {"text": "small."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "A"}, {"text": "tree"}, {"text": "is"}, {"text": "big."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "A"}, {"text": "flower"}, {"text": "is"}, {"text": "small."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 5,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "Big"}, {"text": "and"}, {"text": "small"}, {"text": "-"}, {"text": "all"}, {"text": "beautiful!"}
+          ]
+        }]
+      }]
+    }
+  ]
+}

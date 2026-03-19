@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "en_a",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter A",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_a_thumbnail.png",
+    "foldername": "en_a"
+  },
+  {
+    "id": "en_b",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter B",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_b_thumbnail.png",
+    "foldername": "en_b"
+  },
+  {
+    "id": "en_c",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter C",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_c_thumbnail.png",
+    "foldername": "en_c"
+  },
+  {
+    "id": "en_d",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter D",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_d_thumbnail.png",
+    "foldername": "en_d"
+  },
+  {
+    "id": "en_e",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter E",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_e_thumbnail.png",
+    "foldername": "en_e"
+  },
+  {
+    "id": "en_f",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter F",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_f_thumbnail.png",
+    "foldername": "en_f"
+  },
+  {
+    "id": "en_g",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter G",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_g_thumbnail.png",
+    "foldername": "en_g"
+  },
+  {
+    "id": "en_h",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter H",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_h_thumbnail.png",
+    "foldername": "en_h"
+  },
+  {
+    "id": "en_i",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter I",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_i_thumbnail.png",
+    "foldername": "en_i"
+  },
+  {
+    "id": "en_j",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter J",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_j_thumbnail.png",
+    "foldername": "en_j"
+  },
+  {
+    "id": "en_k",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter K",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_k_thumbnail.png",
+    "foldername": "en_k"
+  },
+  {
+    "id": "en_l",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter L",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_l_thumbnail.png",
+    "foldername": "en_l"
+  },
+  {
+    "id": "en_m",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter M",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_m_thumbnail.png",
+    "foldername": "en_m"
+  },
+  {
+    "id": "en_n",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter N",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_n_thumbnail.png",
+    "foldername": "en_n"
+  },
+  {
+    "id": "en_o",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter O",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_o_thumbnail.png",
+    "foldername": "en_o"
+  },
+  {
+    "id": "en_p",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter P",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_p_thumbnail.png",
+    "foldername": "en_p"
+  },
+  {
+    "id": "en_q",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter Q",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_q_thumbnail.png",
+    "foldername": "en_q"
+  },
+  {
+    "id": "en_r",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter R",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_r_thumbnail.png",
+    "foldername": "en_r"
+  },
+  {
+    "id": "en_s",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter S",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_s_thumbnail.png",
+    "foldername": "en_s"
+  },
+  {
+    "id": "en_t",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter T",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_t_thumbnail.png",
+    "foldername": "en_t"
+  },
+  {
+    "id": "en_u",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter U",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_u_thumbnail.png",
+    "foldername": "en_u"
+  },
+  {
+    "id": "en_v",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter V",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_v_thumbnail.png",
+    "foldername": "en_v"
+  },
+  {
+    "id": "en_w",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter W",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_w_thumbnail.png",
+    "foldername": "en_w"
+  },
+  {
+    "id": "en_x",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter X",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_x_thumbnail.png",
+    "foldername": "en_x"
+  },
+  {
+    "id": "en_y",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter Y",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_y_thumbnail.png",
+    "foldername": "en_y"
+  },
+  {
+    "id": "en_z",
+    "category": "cate_1",
+    "categoryName": "Alphabet Books",
+    "title": "Letter Z",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_z_thumbnail.png",
+    "foldername": "en_z"
+  },
+  {
+    "id": "en_111",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "I Can…",
+    "author": "Written by: Mike Jaffe Illustrated by: Josh McGill",
+    "thumbnail": "/assets/library/book_en_111_thumbnail.png",
+    "foldername": "en_111"
+  },
+  {
+    "id": "en_101",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Animals",
+    "author": "Written by: Mike Jaffe Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_101_thumbnail.png",
+    "foldername": "en_101"
+  },
+  {
+    "id": "en_112",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "I Feel…",
+    "author": "Written by: Mike Jaffe Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_112_thumbnail.png",
+    "foldername": "en_112"
+  },
+  {
+    "id": "en_102",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Yummy Foods",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_102_thumbnail.png",
+    "foldername": "en_102"
+  },
+  {
+    "id": "en_103",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Big and Small",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Chris Rooney",
+    "thumbnail": "/assets/library/book_en_103_thumbnail.png",
+    "foldername": "en_103"
+  },
+  {
+    "id": "en_105",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Baby",
+    "author": "Written by: Mike Jaffe Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_105_thumbnail.png",
+    "foldername": "en_105"
+  },
+  {
+    "id": "en_104",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "I See Shapes",
+    "author": "Written by: Mike Jaffe Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_104_thumbnail.png",
+    "foldername": "en_104"
+  },
+  {
+    "id": "en_109",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Our Sky",
+    "author": "Written by: Pam Vachatimanont Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_109_thumbnail.png",
+    "foldername": "en_109"
+  },
+  {
+    "id": "en_106",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "I Love Colors",
+    "author": "Original title: Rangi za upinde Written by: Caren Echesa, Jesse Breytenbach Adapted by: Mike Jaffe Illustrated by: Jesse Breytenbach",
+    "thumbnail": "/assets/library/book_en_106_thumbnail.png",
+    "foldername": "en_106"
+  },
+  {
+    "id": "en_107",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "How Many People?",
+    "author": "Written by: Mike Jaffe Illustrated by: Jose Galeano",
+    "thumbnail": "/assets/library/book_en_107_thumbnail.png",
+    "foldername": "en_107"
+  },
+  {
+    "id": "en_224",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Watch Me Go!",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_224_thumbnail.png",
+    "foldername": "en_224"
+  },
+  {
+    "id": "en_108",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Three Clothes",
+    "author": "Written by: Simone Yingst Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_108_thumbnail.png",
+    "foldername": "en_108"
+  },
+  {
+    "id": "en_208",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Hello, Animals",
+    "author": "Written by: Simone Yingst Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_208_thumbnail.png",
+    "foldername": "en_208"
+  },
+  {
+    "id": "en_219",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Cat and Mouse",
+    "author": "Original title: Cube Cat, Cone Cat Written by: Praba Ram, Sheela Preuitt Source: StoryWeaver by Pratham Books Adapted by: Mia Malhotra Illustrated by: Rajiv Eipe",
+    "thumbnail": "/assets/library/book_en_219_thumbnail.png",
+    "foldername": "en_219"
+  },
+  {
+    "id": "en_216",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Ten Trees",
+    "author": "Original title: Every Tree Counts Written by: Praba Ram, Sheela Preuitt Source: StoryWeaver by Pratham Books Adapted by: Mia Malhotra Illustrated by: Sangeetha Kadur",
+    "thumbnail": "/assets/library/book_en_216_thumbnail.png",
+    "foldername": "en_216"
+  },
+  {
+    "id": "en_202",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "This is My Face",
+    "author": "Written by: Zack Kushner Illustrated by: Heleen Steyn",
+    "thumbnail": "/assets/library/book_en_202_thumbnail.png",
+    "foldername": "en_202"
+  },
+  {
+    "id": "en_206",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "A Family",
+    "author": "Written by: Zack Kushner Illustrated by: Lisa Steyn",
+    "thumbnail": "/assets/library/book_en_206_thumbnail.png",
+    "foldername": "en_206"
+  },
+  {
+    "id": "en_201",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Let’s Go!",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_201_thumbnail.png",
+    "foldername": "en_201"
+  },
+  {
+    "id": "en_222",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Who Wants to Play?",
+    "author": "Original title: Hide and Seek Written by: Kanchan Bannerjee Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Harshvardhan Gantha",
+    "thumbnail": "/assets/library/book_en_222_thumbnail.png",
+    "foldername": "en_222"
+  },
+  {
+    "id": "en_210",
+    "category": "cate_2",
+    "categoryName": "New Readers",
+    "title": "Ready to Learn",
+    "author": "Written by: Zack Kushner Illustrated by: Heleen Steyn",
+    "thumbnail": "/assets/library/book_en_210_thumbnail.png",
+    "foldername": "en_210"
+  },
+  {
+    "id": "en_223",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Small Animals, Large Animals",
+    "author": "Written by: Zack Kushner Illustrated by: Chris Rooney",
+    "thumbnail": "/assets/library/book_en_223_thumbnail.png",
+    "foldername": "en_223"
+  },
+  {
+    "id": "en_221",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "I Am Me",
+    "author": "Original title: What Makes You Special Written by: Nalini Sorensen Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Greystroke",
+    "thumbnail": "/assets/library/book_en_221_thumbnail.png",
+    "foldername": "en_221"
+  },
+  {
+    "id": "en_226",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "My Body",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_226_thumbnail.png",
+    "foldername": "en_226"
+  },
+  {
+    "id": "en_227",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "What Do I Like?",
+    "author": "Written by: Pam Vachatimanont Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_227_thumbnail.png",
+    "foldername": "en_227"
+  },
+  {
+    "id": "en_209",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Who Has Teeth?",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_209_thumbnail.png",
+    "foldername": "en_209"
+  },
+  {
+    "id": "en_204",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Oh, Rats.",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Josh McGill",
+    "thumbnail": "/assets/library/book_en_204_thumbnail.png",
+    "foldername": "en_204"
+  },
+  {
+    "id": "en_230",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "We Say It Every Day!",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_230_thumbnail.png",
+    "foldername": "en_230"
+  },
+  {
+    "id": "en_229",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "How is the Weather?",
+    "author": "Written by: Minnie Mills Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_229_thumbnail.png",
+    "foldername": "en_229"
+  },
+  {
+    "id": "en_228",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "I See the World",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_228_thumbnail.png",
+    "foldername": "en_228"
+  },
+  {
+    "id": "en_203",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Animal Sounds",
+    "author": "Written by: Mike Jaffe Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_203_thumbnail.png",
+    "foldername": "en_203"
+  },
+  {
+    "id": "en_220",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Sleepyhead",
+    "author": "Original title: Bheema, the sleepyhead Written by: Rajesh Khar Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Shweta Mohapatra",
+    "thumbnail": "/assets/library/book_en_220_thumbnail.png",
+    "foldername": "en_220"
+  },
+  {
+    "id": "en_212",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Five Mangoes",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_212_thumbnail.png",
+    "foldername": "en_212"
+  },
+  {
+    "id": "en_231",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Neema's Day",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_231_thumbnail.png",
+    "foldername": "en_231"
+  },
+  {
+    "id": "en_207",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Tree",
+    "author": "Written by: Mike Jaffe Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_207_thumbnail.png",
+    "foldername": "en_207"
+  },
+  {
+    "id": "en_211",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Crocodile",
+    "author": "Written by: Zack Kushner Illustrated by: Daniel Galeano",
+    "thumbnail": "/assets/library/book_en_211_thumbnail.png",
+    "foldername": "en_211"
+  },
+  {
+    "id": "en_213",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "I Can Help",
+    "author": "Written by: Mary Malhotra Illustrated by: Josh McGill",
+    "thumbnail": "/assets/library/book_en_213_thumbnail.png",
+    "foldername": "en_213"
+  },
+  {
+    "id": "en_218",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "We Can Make Friends",
+    "author": "Original title: Paper Play Written by: Mala Kumar  Source: StoryWeaver by Pratham Books Adapted by: Mia Malhotra Illustrated by: Ruchi Shah",
+    "thumbnail": "/assets/library/book_en_218_thumbnail.png",
+    "foldername": "en_218"
+  },
+  {
+    "id": "en_225",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Can I?",
+    "author": "Written by: Mary Malhotra Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_225_thumbnail.png",
+    "foldername": "en_225"
+  },
+  {
+    "id": "en_232",
+    "category": "cate_3",
+    "categoryName": "Early Readers",
+    "title": "Hamisi's Bicycle",
+    "author": "Written by: Lucy Geay Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_232_thumbnail.png",
+    "foldername": "en_232"
+  },
+  {
+    "id": "en_234",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Rain!",
+    "author": "Written by: Minnie Mills Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_234_thumbnail.png",
+    "foldername": "en_234"
+  },
+  {
+    "id": "en_233",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Squirrel and Seed",
+    "author": "Written by: Simone Yingst Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_233_thumbnail.png",
+    "foldername": "en_233"
+  },
+  {
+    "id": "en_217",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "My Raincoat",
+    "author": "Original title: The Red Raincoat Written by: Praba Ram, Sheela Preuitt Source: StoryWeaver by Pratham Books Adapted by: Mia Malhotra Illustrated by: Zinab Tambawalla",
+    "thumbnail": "/assets/library/book_en_217_thumbnail.png",
+    "foldername": "en_217"
+  },
+  {
+    "id": "en_306",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "I Can Do It",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_306_thumbnail.png",
+    "foldername": "en_306"
+  },
+  {
+    "id": "en_302",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "From Head to Foot",
+    "author": "Written by: Zack Kushner Illustrated by: Lisa Steyn",
+    "thumbnail": "/assets/library/book_en_302_thumbnail.png",
+    "foldername": "en_302"
+  },
+  {
+    "id": "en_332",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Neema at Home",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_332_thumbnail.png",
+    "foldername": "en_332"
+  },
+  {
+    "id": "en_333",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Tina and the Ball",
+    "author": "Written by: Simone Yingst Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_333_thumbnail.png",
+    "foldername": "en_333"
+  },
+  {
+    "id": "en_309",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "All Kinds of Animals",
+    "author": "Written by: Zack Kushner Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_309_thumbnail.png",
+    "foldername": "en_309"
+  },
+  {
+    "id": "en_310",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "We Have Mangoes",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_310_thumbnail.png",
+    "foldername": "en_310"
+  },
+  {
+    "id": "en_215",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Cats Everywhere",
+    "author": "Original title: Wild Cat! Wild Cat! Written by: Sejal Mehta Source: StoryWeaver by Pratham Books Adapted by: Mia Malhotra Illustrated by: Rohan Chakravarty",
+    "thumbnail": "/assets/library/book_en_215_thumbnail.png",
+    "foldername": "en_215"
+  },
+  {
+    "id": "en_317",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Are We All the Same?",
+    "author": "Original title: Why is Nita Upside Down? Written by: Roxana Bouwer, Emma Hearne, and Sarah Bouwer Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Sarah Bouwer",
+    "thumbnail": "/assets/library/book_en_317_thumbnail.png",
+    "foldername": "en_317"
+  },
+  {
+    "id": "en_214",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Counting Animals",
+    "author": "Original title: Counting Animals Written by: Clare Verbeek, Thembani Dladla, Zanele Buthelezi Adapted by: Pam Vachatimanont Illustrated by: Rob Owen",
+    "thumbnail": "/assets/library/book_en_214_thumbnail.png",
+    "foldername": "en_214"
+  },
+  {
+    "id": "en_205",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "The World",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Daniel Galeano",
+    "thumbnail": "/assets/library/book_en_205_thumbnail.png",
+    "foldername": "en_205"
+  },
+  {
+    "id": "en_312",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Helping My Mom",
+    "author": "Written by: Zack Kushner Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_312_thumbnail.png",
+    "foldername": "en_312"
+  },
+  {
+    "id": "en_303",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "My Ball",
+    "author": "Written by: Zack Kushner Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_303_thumbnail.png",
+    "foldername": "en_303"
+  },
+  {
+    "id": "en_335",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Paul and the Goat",
+    "author": "Written by: Simone Yingst Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_335_thumbnail.png",
+    "foldername": "en_335"
+  },
+  {
+    "id": "en_345",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "My Five Senses",
+    "author": "Written by: Mary Malhotra Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_345_thumbnail.png",
+    "foldername": "en_345"
+  },
+  {
+    "id": "en_339",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Building Signs",
+    "author": "Written by: Lucy Geay Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_339_thumbnail.png",
+    "foldername": "en_339"
+  },
+  {
+    "id": "en_341",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "How Do You Feel?",
+    "author": "Written by: Mary Malhotra Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_341_thumbnail.png",
+    "foldername": "en_341"
+  },
+  {
+    "id": "en_334",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Opposites",
+    "author": "Written by: Mary Malhotra Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_334_thumbnail.png",
+    "foldername": "en_334"
+  },
+  {
+    "id": "en_328",
+    "category": "cate_4",
+    "categoryName": "Beginning Readers",
+    "title": "Colors on the Street",
+    "author": "Original title: Colours on the Street Written by: Mala Kumar  Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Priya Kuriyan",
+    "thumbnail": "/assets/library/book_en_328_thumbnail.png",
+    "foldername": "en_328"
+  },
+  {
+    "id": "en_307",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "A Letter for My Friend",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_307_thumbnail.png",
+    "foldername": "en_307"
+  },
+  {
+    "id": "en_340",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Cooking Beans with Neema",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_340_thumbnail.png",
+    "foldername": "en_340"
+  },
+  {
+    "id": "en_311",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Cats are Friends",
+    "author": "Written by: Zack Kushner Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_311_thumbnail.png",
+    "foldername": "en_311"
+  },
+  {
+    "id": "en_301",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Where Is My Cat?",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_301_thumbnail.png",
+    "foldername": "en_301"
+  },
+  {
+    "id": "en_305",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Where is My Bat?",
+    "author": "Original title: Wapi kigoe changu? Written by: Meera Tendolkar, Madhav Chavan Source: www.africanstorybook.org Adapted by: Pam Vachatimanont Illustrated by: Rijuta Ghate",
+    "thumbnail": "/assets/library/book_en_305_thumbnail.png",
+    "foldername": "en_305"
+  },
+  {
+    "id": "en_316",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Learn About Lions!",
+    "author": "Original title: Lion's Written by: Eli Haynes Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Jayaprakash Bojan",
+    "thumbnail": "/assets/library/book_en_316_thumbnail.png",
+    "foldername": "en_316"
+  },
+  {
+    "id": "en_344",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Amana Clinic",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_344_thumbnail.png",
+    "foldername": "en_344"
+  },
+  {
+    "id": "en_337",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Farida Goes to the Market",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_337_thumbnail.png",
+    "foldername": "en_337"
+  },
+  {
+    "id": "en_338",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Catherine in the Dark",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_338_thumbnail.png",
+    "foldername": "en_338"
+  },
+  {
+    "id": "en_342",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Where is Mama?",
+    "author": "Written by: Mary Malhotra Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_342_thumbnail.png",
+    "foldername": "en_342"
+  },
+  {
+    "id": "en_329",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "The Cock and the Worm",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_329_thumbnail.png",
+    "foldername": "en_329"
+  },
+  {
+    "id": "en_314",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Our Cow",
+    "author": "Original title: Ng'ombe wetu Pendo Written by: Ruth Odondi Adapted by: Zack Kushner Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_314_thumbnail.png",
+    "foldername": "en_314"
+  },
+  {
+    "id": "en_325",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Little Painters",
+    "author": "Original title: Little Painters Written by: Cheryl Rao Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Tanvi Bhat",
+    "thumbnail": "/assets/library/book_en_325_thumbnail.png",
+    "foldername": "en_325"
+  },
+  {
+    "id": "en_343",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Like an Elephant",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_343_thumbnail.png",
+    "foldername": "en_343"
+  },
+  {
+    "id": "en_346",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Neema at the Clinic",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_346_thumbnail.png",
+    "foldername": "en_346"
+  },
+  {
+    "id": "en_347",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Our Friend the Cow",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_347_thumbnail.png",
+    "foldername": "en_347"
+  },
+  {
+    "id": "en_349",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Kelvin and Baba",
+    "author": "Written by: Mary Malhotra Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_349_thumbnail.png",
+    "foldername": "en_349"
+  },
+  {
+    "id": "en_315",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "One Sun",
+    "author": "Original title: Sayari Jua ya Saba Written by: Kamundi Mutugi Adapted by: Mary Malhotra Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_315_thumbnail.png",
+    "foldername": "en_315"
+  },
+  {
+    "id": "en_355",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "I Have All I Need",
+    "author": "Written by: Zack Kushner Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_355_thumbnail.png",
+    "foldername": "en_355"
+  },
+  {
+    "id": "en_322",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "Airplanes and Birds",
+    "author": "Original title: How Do Aeroplanes Fly? Written by: Aditi Sarawagi Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Lavanya Karthik",
+    "thumbnail": "/assets/library/book_en_322_thumbnail.png",
+    "foldername": "en_322"
+  },
+  {
+    "id": "en_336",
+    "category": "cate_5",
+    "categoryName": "Skilled Readers",
+    "title": "English Book",
+    "author": "KitKit School by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_336_thumbnail.png",
+    "foldername": "en_336"
+  },
+  {
+    "id": "en_348",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Neema’s Journey to the Market",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_348_thumbnail.png",
+    "foldername": "en_348"
+  },
+  {
+    "id": "en_353",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "A Home for Bug",
+    "author": "Written by: Mary Malhotra Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_353_thumbnail.png",
+    "foldername": "en_353"
+  },
+  {
+    "id": "en_350",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Neema Helps Her Friends",
+    "author": "Written by: Lucy Geay Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_350_thumbnail.png",
+    "foldername": "en_350"
+  },
+  {
+    "id": "en_419",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Edith and Her Book",
+    "author": "Written by: Simone Yingst Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_419_thumbnail.png",
+    "foldername": "en_419"
+  },
+  {
+    "id": "en_354",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Learn About the Senses",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_354_thumbnail.png",
+    "foldername": "en_354"
+  },
+  {
+    "id": "en_330",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Tasty Foods",
+    "author": "Written by: Simone Yingst Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_330_thumbnail.png",
+    "foldername": "en_330"
+  },
+  {
+    "id": "en_313",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Where are the Shapes?",
+    "author": "Written by: Pam Vachatimanont Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_313_thumbnail.png",
+    "foldername": "en_313"
+  },
+  {
+    "id": "en_318",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Up and Down",
+    "author": "Original title: I Can Climb! Written by: Mini Shrinivasan Source: StoryWeaver by Pratham Books Adapted by: Lucy Geay Illustrated by: Deval Maniar",
+    "thumbnail": "/assets/library/book_en_318_thumbnail.png",
+    "foldername": "en_318"
+  },
+  {
+    "id": "en_351",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Birds and Airplanes Fly",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_351_thumbnail.png",
+    "foldername": "en_351"
+  },
+  {
+    "id": "en_352",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Growing Food",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_352_thumbnail.png",
+    "foldername": "en_352"
+  },
+  {
+    "id": "en_420",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "This is My Body",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_420_thumbnail.png",
+    "foldername": "en_420"
+  },
+  {
+    "id": "en_421",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Market Day",
+    "author": "Written by: Simone Yingst Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_421_thumbnail.png",
+    "foldername": "en_421"
+  },
+  {
+    "id": "en_324",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Can We Be Friends?",
+    "author": "Original title: Is There Anyone Like Me? Written by: Fred Strydom Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Jess Jardim-Wedepohl",
+    "thumbnail": "/assets/library/book_en_324_thumbnail.png",
+    "foldername": "en_324"
+  },
+  {
+    "id": "en_304",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Rainbow",
+    "author": "Original title: Rangi za upinde Written by: Caren Echesa, Jesse Breytenbach Adapted by: Pam Vachatimanont Illustrated by: Jesse Breytenbach",
+    "thumbnail": "/assets/library/book_en_304_thumbnail.png",
+    "foldername": "en_304"
+  },
+  {
+    "id": "en_402",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Playing",
+    "author": "Original title: Marafiki Written by: Zimbili Dlamini, Hlengiwe Zondi, Ursula Nafula, and Catherine Groenewald Adapted by: Mary Malhotra Illustrated by: Catherine Croenewald",
+    "thumbnail": "/assets/library/book_en_402_thumbnail.png",
+    "foldername": "en_402"
+  },
+  {
+    "id": "en_423",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Be the Beat",
+    "author": "Written by: Zack Kushner Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_423_thumbnail.png",
+    "foldername": "en_423"
+  },
+  {
+    "id": "en_425",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Can You Picture That?",
+    "author": "Written by: Zack Kushner Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_425_thumbnail.png",
+    "foldername": "en_425"
+  },
+  {
+    "id": "en_426",
+    "category": "cate_6",
+    "categoryName": "Experienced Readers",
+    "title": "Life in the Ocean",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_426_thumbnail.png",
+    "foldername": "en_426"
+  },
+  {
+    "id": "en_422",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Easy Addition",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_422_thumbnail.png",
+    "foldername": "en_422"
+  },
+  {
+    "id": "en_321",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Some Fruits Grow on Trees",
+    "author": "Original title: A Walk Among Trees Written by: Nimret Handa Source: StoryWeaver by Pratham Books Adapted by: Simone Yingst Illustrated by: Nimret Handa",
+    "thumbnail": "/assets/library/book_en_321_thumbnail.png",
+    "foldername": "en_321"
+  },
+  {
+    "id": "en_308",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Let's Learn About Shapes!",
+    "author": "Written by: Mike Jaffe Illustrated by: Dalrae Kim",
+    "thumbnail": "/assets/library/book_en_308_thumbnail.png",
+    "foldername": "en_308"
+  },
+  {
+    "id": "en_320",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Come Fishing",
+    "author": "Original title: My Fish!\" \"No, my fish! Written by: Suraj J Menon Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Soumya Menon",
+    "thumbnail": "/assets/library/book_en_320_thumbnail.png",
+    "foldername": "en_320"
+  },
+  {
+    "id": "en_406",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Animals of the Sea",
+    "author": "Original title: Inhabitants of the Sea Written by: Payoshni Saraf Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Muniza Shariq & Sangeeta Das",
+    "thumbnail": "/assets/library/book_en_406_thumbnail.png",
+    "foldername": "en_406"
+  },
+  {
+    "id": "en_319",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Lost Crocodile",
+    "author": "Original title: Ghum-Ghum Gharial’s Glorious Adventure Written by: Aparna Kapur Source: StoryWeaver by Pratham Books Adapted by: Lucy Geay Illustrated by: Roshan Kurichiyanil",
+    "thumbnail": "/assets/library/book_en_319_thumbnail.png",
+    "foldername": "en_319"
+  },
+  {
+    "id": "en_326",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Little Sock Finds Home",
+    "author": "Original title: Little Sock and the Tiny Creatures Written by: Jon Keevy Source: StoryWeaver by Pratham Books Adapted by: Simone Yingst Illustrated by: Lili Probart",
+    "thumbnail": "/assets/library/book_en_326_thumbnail.png",
+    "foldername": "en_326"
+  },
+  {
+    "id": "en_424",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Let's Learn About the Clock",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_424_thumbnail.png",
+    "foldername": "en_424"
+  },
+  {
+    "id": "en_427",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Simple Subtraction",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_427_thumbnail.png",
+    "foldername": "en_427"
+  },
+  {
+    "id": "en_323",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Big Elephant and Small Rabbit",
+    "author": "Original title: Playtime Written by: Manisha Chaudhry Source: StoryWeaver by Pratham Books Adapted by: Mike Jaffe Illustrated by: Ajit Narayan",
+    "thumbnail": "/assets/library/book_en_323_thumbnail.png",
+    "foldername": "en_323"
+  },
+  {
+    "id": "en_414",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Directions in the Letter",
+    "author": "Written by: Mary Malhotra Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_414_thumbnail.png",
+    "foldername": "en_414"
+  },
+  {
+    "id": "en_415",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Life in the Forest",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_415_thumbnail.png",
+    "foldername": "en_415"
+  },
+  {
+    "id": "en_327",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "In The Forest",
+    "author": "Original title: Up World, Down World Written by: Padmaparna Ghosh Source: StoryWeaver by Pratham Books Adapted by: Lucy Geay Illustrated by: Sunaina Coelho",
+    "thumbnail": "/assets/library/book_en_327_thumbnail.png",
+    "foldername": "en_327"
+  },
+  {
+    "id": "en_401",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "The Mouse and the Lion",
+    "author": "Written by: Mary Malhotra Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_401_thumbnail.png",
+    "foldername": "en_401"
+  },
+  {
+    "id": "en_416",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Let's Do Math!",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_416_thumbnail.png",
+    "foldername": "en_416"
+  },
+  {
+    "id": "en_403",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "How Many Legs?",
+    "author": "Written by: Mary Malhotra Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_403_thumbnail.png",
+    "foldername": "en_403"
+  },
+  {
+    "id": "en_405",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Night and Day",
+    "author": "Original title: Usiku unaingia kijijini Written by: Robert Ekula, Ursula Nafula, and Wiehan de Jager Adapted by: Zack Kushner Illustrated by: Wiehan de Jager",
+    "thumbnail": "/assets/library/book_en_405_thumbnail.png",
+    "foldername": "en_405"
+  },
+  {
+    "id": "en_408",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "A Rainy Birthday",
+    "author": "Original title: The Day It Rained Fish Written by: Ramendra Kumar Source: StoryWeaver by Pratham Books Adapted by: Lucy Geay Illustrated by: Delwyn Remedios",
+    "thumbnail": "/assets/library/book_en_408_thumbnail.png",
+    "foldername": "en_408"
+  },
+  {
+    "id": "en_417",
+    "category": "cate_7",
+    "categoryName": "Advanced Readers",
+    "title": "Can You Multiply?",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_417_thumbnail.png",
+    "foldername": "en_417"
+  },
+  {
+    "id": "en_407",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "The Confident Fawn",
+    "author": "Original title: Smile Please! Written by: Manisha Chaudhry Source: StoryWeaver by Pratham Books Adapted by: Pam Vachatimanont Illustrated by: Ajit Narayan",
+    "thumbnail": "/assets/library/book_en_407_thumbnail.png",
+    "foldername": "en_407"
+  },
+  {
+    "id": "en_411",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Hungry Animals",
+    "author": "Original title: Who Ate All That Up? Written by: Sejal Mehta Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Rohan Chakravarty",
+    "thumbnail": "/assets/library/book_en_411_thumbnail.png",
+    "foldername": "en_411"
+  },
+  {
+    "id": "en_331",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Time and the Sun",
+    "author": "Written by: Mike Jaffe Illustrated by: Nigel Sussman",
+    "thumbnail": "/assets/library/book_en_331_thumbnail.png",
+    "foldername": "en_331"
+  },
+  {
+    "id": "en_404",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Nia and the Dirt Monsters",
+    "author": "Original title: Bunty na Bubbly Written by: Sorit Gupto and Brigid Simiyu Adapted by: Mary Malhotra Illustrated by: Sorit Gupto",
+    "thumbnail": "/assets/library/book_en_404_thumbnail.png",
+    "foldername": "en_404"
+  },
+  {
+    "id": "en_410",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Night Animals",
+    "author": "Original title: Goodnight, Tinku Written by: Preethi Nambiar Source: StoryWeaver by Pratham Books Adapted by: Lucy Geay Illustrated by: Sonal Goyal & Sumit Sakhuja",
+    "thumbnail": "/assets/library/book_en_410_thumbnail.png",
+    "foldername": "en_410"
+  },
+  {
+    "id": "en_418",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "In the Coconut Tree",
+    "author": "Written by: Zack Kushner Illustrated by: Katie Kleinbaum",
+    "thumbnail": "/assets/library/book_en_418_thumbnail.png",
+    "foldername": "en_418"
+  },
+  {
+    "id": "en_412",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Wangari Maathai",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_412_thumbnail.png",
+    "foldername": "en_412"
+  },
+  {
+    "id": "en_409",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Shaaban and the Dancing Dinosaur",
+    "author": "Original title: Singing in the Rain Written by: Mala Kumar, Manisha Chaudhry Source: StoryWeaver by Pratham Books Adapted by: Mary Malhotra Illustrated by: Rajiv Eipe",
+    "thumbnail": "/assets/library/book_en_409_thumbnail.png",
+    "foldername": "en_409"
+  },
+  {
+    "id": "en_413",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "To the Moon!",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_413_thumbnail.png",
+    "foldername": "en_413"
+  },
+  {
+    "id": "en_502",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Lucy’s Walk",
+    "author": "Written by: Mary Malhotra Illustrated by: Tory DeOrian",
+    "thumbnail": "/assets/library/book_en_502_thumbnail.png",
+    "foldername": "en_502"
+  },
+  {
+    "id": "en_504",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Don't Give Up!",
+    "author": "Written by: Mary Malhotra Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_504_thumbnail.png",
+    "foldername": "en_504"
+  },
+  {
+    "id": "en_506",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Lion and Elephant",
+    "author": "Original title: Ndovu na vyura Written by: Ingrid Schechter, Caren Echesa, and Amir Bachir António Necas Adapted by: Mary Malhotra Illustrated by: Amir Bachir António Necas",
+    "thumbnail": "/assets/library/book_en_506_thumbnail.png",
+    "foldername": "en_506"
+  },
+  {
+    "id": "en_501",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "How Can I Get to School?",
+    "author": "Written by: Zack Kushner Illustrated by: JC Hernandez",
+    "thumbnail": "/assets/library/book_en_501_thumbnail.png",
+    "foldername": "en_501"
+  },
+  {
+    "id": "en_510",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "What is Rain?",
+    "author": "Written by: Mike Jaffe Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_510_thumbnail.png",
+    "foldername": "en_510"
+  },
+  {
+    "id": "en_503",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Don’t Get Mad, Maddie!",
+    "author": "Original title: Angry Akku Written by: Vinayak Varma Source: StoryWeaver by Pratham Books Adapted by: Zack Kushner Illustrated by: Vinayak Varma",
+    "thumbnail": "/assets/library/book_en_503_thumbnail.png",
+    "foldername": "en_503"
+  },
+  {
+    "id": "en_509",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Understanding Elephants",
+    "author": "Written by: Zack Kushner Photo by Enuma, Inc.",
+    "thumbnail": "/assets/library/book_en_509_thumbnail.png",
+    "foldername": "en_509"
+  },
+  {
+    "id": "en_507",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "Tall Tumo",
+    "author": "Written by: Mike Jaffe Illustrated by: Nesia Anindita",
+    "thumbnail": "/assets/library/book_en_507_thumbnail.png",
+    "foldername": "en_507"
+  },
+  {
+    "id": "en_508",
+    "category": "cate_8",
+    "categoryName": "Expert Readers",
+    "title": "A Happy Kingdom",
+    "author": "Original title: Maguru apatiana miguu Written by: Mutugi Kamundi, Ursula Nafula, Wiehan de Jager Adapted by: Mary Malhotra Illustrated by: Wiehan de Jager",
+    "thumbnail": "/assets/library/book_en_508_thumbnail.png",
+    "foldername": "en_508"
+  }
+]

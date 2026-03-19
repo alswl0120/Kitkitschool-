@@ -1,0 +1,44 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+.vite/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env
+*.local
+
+# Extracted APK data (6GB+ raw source, not needed for runtime)
+downloads/
+
+# Claude Code session data
+.claude/
+
+# Large binary assets (copy from APK source via scripts/)
+public/assets/
+# Exception: SVG assets created directly in this repo (not from APK)
+!public/assets/games/labeling/

@@ -1,0 +1,158 @@
+{
+  "title": "Letter D",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "D"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "for"
+                },
+                {
+                  "text": "dog."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Dog"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "D."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Drum"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "D."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Door"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "D."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Duck"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "D."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Can"
+                },
+                {
+                  "text": "you"
+                },
+                {
+                  "text": "find"
+                },
+                {
+                  "text": "more"
+                },
+                {
+                  "text": "D"
+                },
+                {
+                  "text": "words?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

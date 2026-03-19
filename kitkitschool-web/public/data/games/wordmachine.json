@@ -1,0 +1,1716 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/bat.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "bed",
+              "goodImage": "images/bed.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/bed.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "cat",
+              "goodImage": "images/cat.png",
+              "badImage": "images/pig.png",
+              "sound": "en/legit/cat.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "man",
+              "goodImage": "images/man.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/man.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/pig.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/pig.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/bug.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "sun",
+              "goodImage": "images/sun.png",
+              "badImage": "images/mom.png",
+              "sound": "en/legit/sun.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "mom",
+              "goodImage": "images/mom.png",
+              "badImage": "images/bed.png",
+              "sound": "en/legit/mom.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/bat.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/bug.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "bed",
+              "goodImage": "images/bed.png",
+              "badImage": "images/sun.png",
+              "sound": "en/legit/bed.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/pig.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/bug.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/cat.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "mom",
+              "goodImage": "images/mom.png",
+              "badImage": "images/sun.png",
+              "sound": "en/legit/mom.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "man",
+              "goodImage": "images/man.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/man.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "cat",
+              "goodImage": "images/cat.png",
+              "badImage": "images/bug.png",
+              "sound": "en/legit/cat.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/pig.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/bat.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/sun.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "cat",
+              "goodImage": "images/cat.png",
+              "badImage": "images/mom.png",
+              "sound": "en/legit/cat.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "man",
+              "goodImage": "images/man.png",
+              "badImage": "images/bug.png",
+              "sound": "en/legit/man.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "mom",
+              "goodImage": "images/mom.png",
+              "badImage": "images/pig.png",
+              "sound": "en/legit/mom.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/pig.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "sun",
+              "goodImage": "images/sun.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/sun.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/bug.png",
+              "sound": "en/legit/bat.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "sun",
+              "goodImage": "images/sun.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/sun.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/bed.png",
+              "sound": "en/legit/bat.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "cat",
+              "goodImage": "images/cat.png",
+              "badImage": "images/bed.png",
+              "sound": "en/legit/cat.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/cat.png",
+              "sound": "en/legit/bug.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "mom",
+              "goodImage": "images/mom.png",
+              "badImage": "images/bed.png",
+              "sound": "en/legit/mom.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "bed",
+              "goodImage": "images/bed.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/bed.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/pig.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 6,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "cat",
+              "goodImage": "images/cat.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/cat.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "bed",
+              "goodImage": "images/bed.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/bed.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/bed.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/cat.png",
+              "sound": "en/legit/bug.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/pig.png",
+              "sound": "en/legit/bat.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "man",
+              "goodImage": "images/man.png",
+              "badImage": "images/cow.png",
+              "sound": "en/legit/man.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "sun",
+              "goodImage": "images/sun.png",
+              "badImage": "images/mom.png",
+              "sound": "en/legit/sun.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 7,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "cow",
+              "goodImage": "images/cow.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/cow.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "pig",
+              "goodImage": "images/pig.png",
+              "badImage": "images/bug.png",
+              "sound": "en/legit/pig.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "man",
+              "goodImage": "images/man.png",
+              "badImage": "images/mom.png",
+              "sound": "en/legit/man.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "bed",
+              "goodImage": "images/bed.png",
+              "badImage": "images/mom.png",
+              "sound": "en/legit/bed.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "bat",
+              "goodImage": "images/bat.png",
+              "badImage": "images/cat.png",
+              "sound": "en/legit/bat.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "bug",
+              "goodImage": "images/bug.png",
+              "badImage": "images/man.png",
+              "sound": "en/legit/bug.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "mom",
+              "goodImage": "images/mom.png",
+              "badImage": "images/bat.png",
+              "sound": "en/legit/mom.m4a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "ball",
+              "goodImage": "images/ball.png",
+              "badImage": "images/city.png",
+              "sound": "en/legit/ball.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "corn",
+              "goodImage": "images/corn.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/corn.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "farm",
+              "goodImage": "images/farm.png",
+              "badImage": "images/book.png",
+              "sound": "en/legit/farm.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "tree",
+              "goodImage": "images/tree.png",
+              "badImage": "images/door.png",
+              "sound": "en/legit/tree.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "roof",
+              "goodImage": "images/roof.png",
+              "badImage": "images/city.png",
+              "sound": "en/legit/roof.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "news",
+              "goodImage": "images/news.png",
+              "badImage": "images/fish.png",
+              "sound": "en/legit/news.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "milk",
+              "goodImage": "images/milk.png",
+              "badImage": "images/gift.png",
+              "sound": "en/legit/milk.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "fish",
+              "goodImage": "images/fish.png",
+              "badImage": "images/tree.png",
+              "sound": "en/legit/fish.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "ball",
+              "goodImage": "images/ball.png",
+              "badImage": "images/tree.png",
+              "sound": "en/legit/ball.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "door",
+              "goodImage": "images/door.png",
+              "badImage": "images/fish.png",
+              "sound": "en/legit/door.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "milk",
+              "goodImage": "images/milk.png",
+              "badImage": "images/tree.png",
+              "sound": "en/legit/milk.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "duck",
+              "goodImage": "images/duck.png",
+              "badImage": "images/door.png",
+              "sound": "en/legit/duck.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "fire",
+              "goodImage": "images/fire.png",
+              "badImage": "images/door.png",
+              "sound": "en/legit/fire.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "book",
+              "goodImage": "images/book.png",
+              "badImage": "images/frog.png",
+              "sound": "en/legit/book.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "farm",
+              "goodImage": "images/farm.png",
+              "badImage": "images/lion.png",
+              "sound": "en/legit/farm.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "frog",
+              "goodImage": "images/frog.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/frog.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "city",
+              "goodImage": "images/city.png",
+              "badImage": "images/gift.png",
+              "sound": "en/legit/city.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "nest",
+              "goodImage": "images/nest.png",
+              "badImage": "images/duck.png",
+              "sound": "en/legit/nest.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "fire",
+              "goodImage": "images/fire.png",
+              "badImage": "images/face.png",
+              "sound": "en/legit/fire.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "door",
+              "goodImage": "images/door.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/door.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "news",
+              "goodImage": "images/news.png",
+              "badImage": "images/frog.png",
+              "sound": "en/legit/news.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "face",
+              "goodImage": "images/face.png",
+              "badImage": "images/fish.png",
+              "sound": "en/legit/face.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "baby",
+              "goodImage": "images/baby.png",
+              "badImage": "images/farm.png",
+              "sound": "en/legit/baby.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "tree",
+              "goodImage": "images/tree.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/tree.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "nest",
+              "goodImage": "images/nest.png",
+              "badImage": "images/ball.png",
+              "sound": "en/legit/nest.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "news",
+              "goodImage": "images/news.png",
+              "badImage": "images/corn.png",
+              "sound": "en/legit/news.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "duck",
+              "goodImage": "images/duck.png",
+              "badImage": "images/corn.png",
+              "sound": "en/legit/duck.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "gift",
+              "goodImage": "images/gift.png",
+              "badImage": "images/face.png",
+              "sound": "en/legit/gift.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "book",
+              "goodImage": "images/book.png",
+              "badImage": "images/farm.png",
+              "sound": "en/legit/book.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "gift",
+              "goodImage": "images/gift.png",
+              "badImage": "images/city.png",
+              "sound": "en/legit/gift.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "rain",
+              "goodImage": "images/rain.png",
+              "badImage": "images/baby.png",
+              "sound": "en/legit/rain.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "fire",
+              "goodImage": "images/fire.png",
+              "badImage": "images/baby.png",
+              "sound": "en/legit/fire.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "nest",
+              "goodImage": "images/nest.png",
+              "badImage": "images/lion.png",
+              "sound": "en/legit/nest.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "rain",
+              "goodImage": "images/rain.png",
+              "badImage": "images/face.png",
+              "sound": "en/legit/rain.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "corn",
+              "goodImage": "images/corn.png",
+              "badImage": "images/city.png",
+              "sound": "en/legit/corn.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 6,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "door",
+              "goodImage": "images/door.png",
+              "badImage": "images/face.png",
+              "sound": "en/legit/door.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "corn",
+              "goodImage": "images/corn.png",
+              "badImage": "images/baby.png",
+              "sound": "en/legit/corn.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "milk",
+              "goodImage": "images/milk.png",
+              "badImage": "images/news.png",
+              "sound": "en/legit/milk.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "baby",
+              "goodImage": "images/baby.png",
+              "badImage": "images/fish.png",
+              "sound": "en/legit/baby.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "face",
+              "goodImage": "images/face.png",
+              "badImage": "images/nest.png",
+              "sound": "en/legit/face.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "city",
+              "goodImage": "images/city.png",
+              "badImage": "images/ball.png",
+              "sound": "en/legit/city.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "fire",
+              "goodImage": "images/fire.png",
+              "badImage": "images/tree.png",
+              "sound": "en/legit/fire.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 7,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "farm",
+              "goodImage": "images/farm.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/farm.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "book",
+              "goodImage": "images/book.png",
+              "badImage": "images/door.png",
+              "sound": "en/legit/book.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "news",
+              "goodImage": "images/news.png",
+              "badImage": "images/fish.png",
+              "sound": "en/legit/news.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "baby",
+              "goodImage": "images/baby.png",
+              "badImage": "images/door.png",
+              "sound": "en/legit/baby.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "face",
+              "goodImage": "images/face.png",
+              "badImage": "images/rain.png",
+              "sound": "en/legit/face.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "tree",
+              "goodImage": "images/tree.png",
+              "badImage": "images/song.png",
+              "sound": "en/legit/tree.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "ball",
+              "goodImage": "images/ball.png",
+              "badImage": "images/lion.png",
+              "sound": "en/legit/ball.m4a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "radio",
+              "goodImage": "images/radio.png",
+              "badImage": "images/grape.png",
+              "sound": "en/legit/radio.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "shoes",
+              "goodImage": "images/shoes.png",
+              "badImage": "images/clock.png",
+              "sound": "en/legit/shoes.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "house",
+              "goodImage": "images/house.png",
+              "badImage": "images/clock.png",
+              "sound": "en/legit/house.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "books",
+              "goodImage": "images/books.png",
+              "badImage": "images/stick.png",
+              "sound": "en/legit/books.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "lemon",
+              "goodImage": "images/lemon.png",
+              "badImage": "images/clock.png",
+              "sound": "en/legit/lemon.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "train",
+              "goodImage": "images/train.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/train.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "clock",
+              "goodImage": "images/clock.png",
+              "badImage": "images/stick.png",
+              "sound": "en/legit/clock.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "woman",
+              "goodImage": "images/woman.png",
+              "badImage": "images/river.png",
+              "sound": "en/legit/woman.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "train",
+              "goodImage": "images/train.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/train.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "hippo",
+              "goodImage": "images/hippo.png",
+              "badImage": "images/color.png",
+              "sound": "en/legit/hippo.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "books",
+              "goodImage": "images/books.png",
+              "badImage": "images/house.png",
+              "sound": "en/legit/books.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "books",
+              "goodImage": "images/books.png",
+              "badImage": "images/river.png",
+              "sound": "en/legit/books.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "brick",
+              "goodImage": "images/brick.png",
+              "badImage": "images/water.png",
+              "sound": "en/legit/brick.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "color",
+              "goodImage": "images/color.png",
+              "badImage": "images/train.png",
+              "sound": "en/legit/color.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "shoes",
+              "goodImage": "images/shoes.png",
+              "badImage": "images/hippo.png",
+              "sound": "en/legit/shoes.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "hippo",
+              "goodImage": "images/hippo.png",
+              "badImage": "images/shoes.png",
+              "sound": "en/legit/hippo.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "radio",
+              "goodImage": "images/radio.png",
+              "badImage": "images/hippo.png",
+              "sound": "en/legit/radio.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "money",
+              "goodImage": "images/money.png",
+              "badImage": "images/heart.png",
+              "sound": "en/legit/money.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "chair",
+              "goodImage": "images/chair.png",
+              "badImage": "images/shark.png",
+              "sound": "en/legit/chair.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "books",
+              "goodImage": "images/books.png",
+              "badImage": "images/chair.png",
+              "sound": "en/legit/books.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "grape",
+              "goodImage": "images/grape.png",
+              "badImage": "images/river.png",
+              "sound": "en/legit/grape.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "house",
+              "goodImage": "images/house.png",
+              "badImage": "images/radio.png",
+              "sound": "en/legit/house.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "heart",
+              "goodImage": "images/heart.png",
+              "badImage": "images/shark.png",
+              "sound": "en/legit/heart.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "train",
+              "goodImage": "images/train.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/train.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "clock",
+              "goodImage": "images/clock.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/clock.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "color",
+              "goodImage": "images/color.png",
+              "badImage": "images/stick.png",
+              "sound": "en/legit/color.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "woman",
+              "goodImage": "images/woman.png",
+              "badImage": "images/hippo.png",
+              "sound": "en/legit/woman.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "shark",
+              "goodImage": "images/shark.png",
+              "badImage": "images/grape.png",
+              "sound": "en/legit/shark.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "house",
+              "goodImage": "images/house.png",
+              "badImage": "images/stick.png",
+              "sound": "en/legit/house.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "heart",
+              "goodImage": "images/heart.png",
+              "badImage": "images/train.png",
+              "sound": "en/legit/heart.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "grape",
+              "goodImage": "images/grape.png",
+              "badImage": "images/river.png",
+              "sound": "en/legit/grape.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "color",
+              "goodImage": "images/color.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/color.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "books",
+              "goodImage": "images/books.png",
+              "badImage": "images/grape.png",
+              "sound": "en/legit/books.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "river",
+              "goodImage": "images/river.png",
+              "badImage": "images/grape.png",
+              "sound": "en/legit/river.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "stick",
+              "goodImage": "images/stick.png",
+              "badImage": "images/lemon.png",
+              "sound": "en/legit/stick.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 6,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "hippo",
+              "goodImage": "images/hippo.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/hippo.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "woman",
+              "goodImage": "images/woman.png",
+              "badImage": "images/hippo.png",
+              "sound": "en/legit/woman.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "grape",
+              "goodImage": "images/grape.png",
+              "badImage": "images/woman.png",
+              "sound": "en/legit/grape.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "train",
+              "goodImage": "images/train.png",
+              "badImage": "images/shark.png",
+              "sound": "en/legit/train.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "lemon",
+              "goodImage": "images/lemon.png",
+              "badImage": "images/books.png",
+              "sound": "en/legit/lemon.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "water",
+              "goodImage": "images/water.png",
+              "badImage": "images/grape.png",
+              "sound": "en/legit/water.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "brick",
+              "goodImage": "images/brick.png",
+              "badImage": "images/clock.png",
+              "sound": "en/legit/brick.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 7,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "train",
+              "goodImage": "images/train.png",
+              "badImage": "images/color.png",
+              "sound": "en/legit/train.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "radio",
+              "goodImage": "images/radio.png",
+              "badImage": "images/woman.png",
+              "sound": "en/legit/radio.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "river",
+              "goodImage": "images/river.png",
+              "badImage": "images/shoes.png",
+              "sound": "en/legit/river.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "house",
+              "goodImage": "images/house.png",
+              "badImage": "images/radio.png",
+              "sound": "en/legit/house.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "heart",
+              "goodImage": "images/heart.png",
+              "badImage": "images/river.png",
+              "sound": "en/legit/heart.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "shoes",
+              "goodImage": "images/shoes.png",
+              "badImage": "images/hippo.png",
+              "sound": "en/legit/shoes.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "color",
+              "goodImage": "images/color.png",
+              "badImage": "images/clock.png",
+              "sound": "en/legit/color.m4a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "tomato",
+              "goodImage": "images/tomato.png",
+              "badImage": "images/bottle.png",
+              "sound": "en/legit/tomato.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "friend",
+              "goodImage": "images/friend.png",
+              "badImage": "images/rabbit.png",
+              "sound": "en/legit/friend.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "rocket",
+              "goodImage": "images/rocket.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/rocket.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "donkey",
+              "goodImage": "images/donkey.png",
+              "badImage": "images/number.png",
+              "sound": "en/legit/donkey.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "bottle",
+              "goodImage": "images/bottle.png",
+              "badImage": "images/banana.png",
+              "sound": "en/legit/bottle.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "cookie",
+              "goodImage": "images/cookie.png",
+              "badImage": "images/bottle.png",
+              "sound": "en/legit/cookie.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "desert",
+              "goodImage": "images/desert.png",
+              "badImage": "images/school.png",
+              "sound": "en/legit/desert.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "friend",
+              "goodImage": "images/friend.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/friend.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "rabbit",
+              "goodImage": "images/rabbit.png",
+              "badImage": "images/number.png",
+              "sound": "en/legit/rabbit.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "forest",
+              "goodImage": "images/forest.png",
+              "badImage": "images/police.png",
+              "sound": "en/legit/forest.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "potato",
+              "goodImage": "images/potato.png",
+              "badImage": "images/ground.png",
+              "sound": "en/legit/potato.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "tomato",
+              "goodImage": "images/tomato.png",
+              "badImage": "images/rabbit.png",
+              "sound": "en/legit/tomato.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "square",
+              "goodImage": "images/square.png",
+              "badImage": "images/friend.png",
+              "sound": "en/legit/square.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "number",
+              "goodImage": "images/number.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/number.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "friend",
+              "goodImage": "images/friend.png",
+              "badImage": "images/donkey.png",
+              "sound": "en/legit/friend.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "forest",
+              "goodImage": "images/forest.png",
+              "badImage": "images/candy.png",
+              "sound": "en/legit/forest.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "school",
+              "goodImage": "images/school.png",
+              "badImage": "images/market.png",
+              "sound": "en/legit/school.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "police",
+              "goodImage": "images/police.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/police.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "number",
+              "goodImage": "images/number.png",
+              "badImage": "images/friend.png",
+              "sound": "en/legit/number.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "pillow",
+              "goodImage": "images/pillow.png",
+              "badImage": "images/police.png",
+              "sound": "en/legit/pillow.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "basket",
+              "goodImage": "images/basket.png",
+              "badImage": "images/square.png",
+              "sound": "en/legit/basket.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "pillow",
+              "goodImage": "images/pillow.png",
+              "badImage": "images/ground.png",
+              "sound": "en/legit/pillow.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "desert",
+              "goodImage": "images/desert.png",
+              "badImage": "images/basket.png",
+              "sound": "en/legit/desert.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "market",
+              "goodImage": "images/market.png",
+              "badImage": "images/number.png",
+              "sound": "en/legit/market.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "banana",
+              "goodImage": "images/banana.png",
+              "badImage": "images/rocket.png",
+              "sound": "en/legit/banana.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "friend",
+              "goodImage": "images/friend.png",
+              "badImage": "images/donkey.png",
+              "sound": "en/legit/friend.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "number",
+              "goodImage": "images/number.png",
+              "badImage": "images/tomato.png",
+              "sound": "en/legit/number.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "forest",
+              "goodImage": "images/forest.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/forest.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "family",
+              "goodImage": "images/family.png",
+              "badImage": "images/potato.png",
+              "sound": "en/legit/family.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "police",
+              "goodImage": "images/police.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/police.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "pillow",
+              "goodImage": "images/pillow.png",
+              "badImage": "images/bottle.png",
+              "sound": "en/legit/pillow.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "bottle",
+              "goodImage": "images/bottle.png",
+              "badImage": "images/family.png",
+              "sound": "en/legit/bottle.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "desert",
+              "goodImage": "images/desert.png",
+              "badImage": "images/rabbit.png",
+              "sound": "en/legit/desert.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "ground",
+              "goodImage": "images/ground.png",
+              "badImage": "images/number.png",
+              "sound": "en/legit/ground.m4a"
+            },
+            {
+              "problem": 7,
+              "type": "LEGIT",
+              "word": "rabbit",
+              "goodImage": "images/rabbit.png",
+              "badImage": "images/donkey.png",
+              "sound": "en/legit/rabbit.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 6,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "pillow",
+              "goodImage": "images/pillow.png",
+              "badImage": "images/school.png",
+              "sound": "en/legit/pillow.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "banana",
+              "goodImage": "images/banana.png",
+              "badImage": "images/cookie.png",
+              "sound": "en/legit/banana.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "square",
+              "goodImage": "images/square.png",
+              "badImage": "images/tomato.png",
+              "sound": "en/legit/square.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "pencil",
+              "goodImage": "images/pencil.png",
+              "badImage": "images/number.png",
+              "sound": "en/legit/pencil.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "forest",
+              "goodImage": "images/forest.png",
+              "badImage": "images/basket.png",
+              "sound": "en/legit/forest.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "basket",
+              "goodImage": "images/basket.png",
+              "badImage": "images/candy.png",
+              "sound": "en/legit/basket.m4a"
+            }
+          ]
+        },
+        {
+          "worksheet": 7,
+          "problems": [
+            {
+              "problem": 1,
+              "type": "LEGIT",
+              "word": "tomato",
+              "goodImage": "images/tomato.png",
+              "badImage": "images/basket.png",
+              "sound": "en/legit/tomato.m4a"
+            },
+            {
+              "problem": 2,
+              "type": "LEGIT",
+              "word": "police",
+              "goodImage": "images/police.png",
+              "badImage": "images/family.png",
+              "sound": "en/legit/police.m4a"
+            },
+            {
+              "problem": 3,
+              "type": "LEGIT",
+              "word": "basket",
+              "goodImage": "images/basket.png",
+              "badImage": "images/pillow.png",
+              "sound": "en/legit/basket.m4a"
+            },
+            {
+              "problem": 4,
+              "type": "LEGIT",
+              "word": "forest",
+              "goodImage": "images/forest.png",
+              "badImage": "images/market.png",
+              "sound": "en/legit/forest.m4a"
+            },
+            {
+              "problem": 5,
+              "type": "LEGIT",
+              "word": "square",
+              "goodImage": "images/square.png",
+              "badImage": "images/rocket.png",
+              "sound": "en/legit/square.m4a"
+            },
+            {
+              "problem": 6,
+              "type": "LEGIT",
+              "word": "rabbit",
+              "goodImage": "images/rabbit.png",
+              "badImage": "images/donkey.png",
+              "sound": "en/legit/rabbit.m4a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" width="340" height="340">
+  <!-- Sky -->
+  <rect width="340" height="340" fill="#BBDEFB" rx="20"/>
+  <circle cx="55" cy="55" r="30" fill="white" opacity="0.7"/>
+  <circle cx="85" cy="45" r="35" fill="white" opacity="0.7"/>
+  <circle cx="115" cy="55" r="28" fill="white" opacity="0.7"/>
+
+  <!-- Ground -->
+  <rect x="0" y="295" width="340" height="45" rx="0" fill="#81C784"/>
+  <path d="M0 295 Q170 282 340 295" stroke="#66BB6A" stroke-width="3" fill="none"/>
+
+  <!-- Chimney label (72%=245, 20%=68) -->
+  <rect x="228" y="48" width="36" height="72" rx="5" fill="#B71C1C"/>
+  <rect x="224" y="48" width="44" height="14" rx="5" fill="#C62828"/>
+  <!-- Smoke -->
+  <circle cx="246" cy="36" r="9" fill="#ECEFF1" opacity="0.75"/>
+  <circle cx="252" cy="25" r="7" fill="#ECEFF1" opacity="0.55"/>
+  <circle cx="248" cy="15" r="6" fill="#ECEFF1" opacity="0.35"/>
+
+  <!-- Roof – peak at (170, 38) near label (50%=170, 12%=41) -->
+  <polygon points="25,158 170,38 315,158" fill="#E53935"/>
+  <!-- Roof outline -->
+  <polygon points="25,158 170,38 315,158" fill="none" stroke="#C62828" stroke-width="3"/>
+  <!-- Shingles -->
+  <path d="M58 150 Q170 55 282 150" stroke="#C62828" stroke-width="2" fill="none" opacity="0.45"/>
+  <path d="M40 154 Q170 46 300 154" stroke="#C62828" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <!-- Eave bottom line -->
+  <line x1="25" y1="158" x2="315" y2="158" stroke="#B71C1C" stroke-width="6"/>
+
+  <!-- Walls -->
+  <rect x="35" y="154" width="270" height="141" fill="#FFF9C4"/>
+  <rect x="35" y="154" width="270" height="141" fill="none" stroke="#F9A825" stroke-width="3"/>
+
+  <!-- Brick texture (subtle) -->
+  <line x1="35" y1="180" x2="305" y2="180" stroke="#F9A825" stroke-width="1" opacity="0.3"/>
+  <line x1="35" y1="206" x2="305" y2="206" stroke="#F9A825" stroke-width="1" opacity="0.3"/>
+  <line x1="35" y1="232" x2="305" y2="232" stroke="#F9A825" stroke-width="1" opacity="0.3"/>
+  <line x1="35" y1="258" x2="305" y2="258" stroke="#F9A825" stroke-width="1" opacity="0.3"/>
+
+  <!-- Window left – center near label (28%=95, 55%=187) -->
+  <rect x="55" y="168" width="80" height="68" rx="6" fill="#81D4FA"/>
+  <rect x="55" y="168" width="80" height="68" rx="6" fill="none" stroke="#F9A825" stroke-width="3"/>
+  <line x1="95" y1="168" x2="95" y2="236" stroke="#F9A825" stroke-width="3"/>
+  <line x1="55" y1="202" x2="135" y2="202" stroke="#F9A825" stroke-width="3"/>
+  <!-- Glass reflection -->
+  <path d="M62 174 L82 194 L62 194 Z" fill="white" opacity="0.4"/>
+  <!-- Window sill -->
+  <rect x="50" y="234" width="90" height="8" rx="3" fill="#F9A825"/>
+
+  <!-- Window right -->
+  <rect x="205" y="168" width="80" height="68" rx="6" fill="#81D4FA"/>
+  <rect x="205" y="168" width="80" height="68" rx="6" fill="none" stroke="#F9A825" stroke-width="3"/>
+  <line x1="245" y1="168" x2="245" y2="236" stroke="#F9A825" stroke-width="3"/>
+  <line x1="205" y1="202" x2="285" y2="202" stroke="#F9A825" stroke-width="3"/>
+  <path d="M212 174 L232 194 L212 194 Z" fill="white" opacity="0.4"/>
+  <rect x="200" y="234" width="90" height="8" rx="3" fill="#F9A825"/>
+
+  <!-- Door – center near label (55%=187, 72%=245) -->
+  <rect x="152" y="212" width="66" height="83" rx="10" fill="#795548"/>
+  <rect x="152" y="212" width="66" height="83" rx="10" fill="none" stroke="#5D4037" stroke-width="3"/>
+  <!-- Door arch -->
+  <path d="M152 228 Q185 205 218 228" fill="#8D6E63" stroke="none"/>
+  <!-- Door knob -->
+  <circle cx="208" cy="258" r="7" fill="#FFC107"/>
+  <circle cx="208" cy="258" r="4" fill="#FF8F00"/>
+  <!-- Door panel -->
+  <rect x="160" y="218" width="50" height="30" rx="5" fill="#8D6E63" opacity="0.6"/>
+  <!-- Door step -->
+  <rect x="144" y="293" width="82" height="10" rx="4" fill="#A1887F"/>
+
+  <!-- Garden bushes -->
+  <circle cx="48" cy="295" r="20" fill="#4CAF50"/>
+  <circle cx="65" cy="285" r="18" fill="#388E3C"/>
+  <circle cx="292" cy="295" r="20" fill="#4CAF50"/>
+  <circle cx="275" cy="285" r="18" fill="#388E3C"/>
+  <circle cx="52" cy="272" r="7" fill="#E91E63"/>
+  <circle cx="69" cy="267" r="7" fill="#FF5722"/>
+  <circle cx="288" cy="272" r="7" fill="#E91E63"/>
+  <circle cx="271" cy="267" r="7" fill="#FF5722"/>
+</svg>

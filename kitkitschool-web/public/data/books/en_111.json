@@ -1,0 +1,82 @@
+{
+  "title": "I Can…",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "run!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "jump!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "swim!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "climb!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 5,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "sing!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 6,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "dance!"}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 7,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "I"}, {"text": "can"}, {"text": "do"}, {"text": "many"}, {"text": "things!"}
+          ]
+        }]
+      }]
+    }
+  ]
+}

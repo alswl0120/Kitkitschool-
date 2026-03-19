@@ -1,0 +1,191 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "theme": "Fruits",
+      "problems": [
+        { "emoji": "🍎", "leftCount": 2, "rightCount": 3, "operation": "add", "question": "How many apples in total?", "answer": 5, "choices": [3, 4, 5, 6] },
+        { "emoji": "🍌", "leftCount": 1, "rightCount": 4, "operation": "add", "question": "How many bananas in total?", "answer": 5, "choices": [4, 5, 6, 7] },
+        { "emoji": "🍊", "leftCount": 3, "rightCount": 3, "operation": "add", "question": "How many oranges in total?", "answer": 6, "choices": [5, 6, 7, 8] },
+        { "emoji": "🍇", "leftCount": 2, "rightCount": 4, "operation": "add", "question": "How many grapes in total?", "answer": 6, "choices": [4, 5, 6, 7] },
+        { "emoji": "🍓", "leftCount": 1, "rightCount": 3, "operation": "add", "question": "How many strawberries in total?", "answer": 4, "choices": [3, 4, 5, 6] }
+      ]
+    },
+    {
+      "level": 2,
+      "theme": "Animals",
+      "problems": [
+        { "emoji": "🐱", "leftCount": 3, "rightCount": 5, "operation": "add", "question": "How many cats in total?", "answer": 8, "choices": [6, 7, 8, 9] },
+        { "emoji": "🐶", "leftCount": 4, "rightCount": 4, "operation": "add", "question": "How many dogs in total?", "answer": 8, "choices": [7, 8, 9, 10] },
+        { "emoji": "🐸", "leftCount": 2, "rightCount": 6, "operation": "add", "question": "How many frogs in total?", "answer": 8, "choices": [6, 7, 8, 9] },
+        { "emoji": "🐰", "leftCount": 5, "rightCount": 3, "operation": "add", "question": "How many rabbits in total?", "answer": 8, "choices": [7, 8, 9, 10] },
+        { "emoji": "🦆", "leftCount": 4, "rightCount": 5, "operation": "add", "question": "How many ducks in total?", "answer": 9, "choices": [7, 8, 9, 10] }
+      ]
+    },
+    {
+      "level": 3,
+      "theme": "Stars & Moons",
+      "problems": [
+        { "emoji": "⭐", "leftCount": 4, "rightCount": 6, "operation": "add", "question": "How many stars in total?", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "emoji": "🌙", "leftCount": 5, "rightCount": 5, "operation": "add", "question": "How many moons in total?", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "emoji": "⭐", "leftCount": 3, "rightCount": 7, "operation": "add", "question": "How many stars in total?", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "emoji": "💫", "leftCount": 6, "rightCount": 4, "operation": "add", "question": "How many sparkles in total?", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "emoji": "🌟", "leftCount": 7, "rightCount": 3, "operation": "add", "question": "How many glowing stars in total?", "answer": 10, "choices": [8, 9, 10, 11] }
+      ]
+    },
+    {
+      "level": 4,
+      "theme": "Flowers (Subtraction)",
+      "problems": [
+        { "emoji": "🌸", "leftCount": 7, "rightCount": 3, "operation": "sub", "question": "If 3 flowers are hidden, how many are left?", "answer": 4, "choices": [3, 4, 5, 6] },
+        { "emoji": "🌺", "leftCount": 8, "rightCount": 2, "operation": "sub", "question": "If 2 flowers are hidden, how many are left?", "answer": 6, "choices": [4, 5, 6, 7] },
+        { "emoji": "🌼", "leftCount": 9, "rightCount": 4, "operation": "sub", "question": "If 4 flowers are hidden, how many are left?", "answer": 5, "choices": [3, 4, 5, 6] },
+        { "emoji": "🌷", "leftCount": 6, "rightCount": 2, "operation": "sub", "question": "If 2 flowers are hidden, how many are left?", "answer": 4, "choices": [2, 3, 4, 5] },
+        { "emoji": "🌸", "leftCount": 10, "rightCount": 5, "operation": "sub", "question": "If 5 flowers are hidden, how many are left?", "answer": 5, "choices": [3, 4, 5, 6] }
+      ]
+    },
+    {
+      "level": 5,
+      "theme": "Bugs (Subtraction)",
+      "problems": [
+        { "emoji": "🐛", "leftCount": 8, "rightCount": 3, "operation": "sub", "question": "If 3 bugs crawled away, how many remain?", "answer": 5, "choices": [4, 5, 6, 7] },
+        { "emoji": "🐝", "leftCount": 9, "rightCount": 6, "operation": "sub", "question": "If 6 bees flew away, how many remain?", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "emoji": "🦋", "leftCount": 7, "rightCount": 4, "operation": "sub", "question": "If 4 butterflies flew away, how many remain?", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "emoji": "🐞", "leftCount": 10, "rightCount": 7, "operation": "sub", "question": "If 7 ladybugs hid, how many are left?", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "emoji": "🐛", "leftCount": 6, "rightCount": 1, "operation": "sub", "question": "If 1 bug crawled away, how many remain?", "answer": 5, "choices": [4, 5, 6, 7] }
+      ]
+    },
+    {
+      "level": 6,
+      "theme": "Balloons",
+      "problems": [
+        { "emoji": "🎈", "leftCount": 8, "rightCount": 7, "operation": "add", "question": "How many balloons in total?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🎈", "leftCount": 9, "rightCount": 9, "operation": "add", "question": "How many balloons in total?", "answer": 18, "choices": [16, 17, 18, 19] },
+        { "emoji": "🎈", "leftCount": 7, "rightCount": 8, "operation": "add", "question": "How many balloons in total?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🎈", "leftCount": 6, "rightCount": 9, "operation": "add", "question": "How many balloons in total?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🎈", "leftCount": 10, "rightCount": 8, "operation": "add", "question": "How many balloons in total?", "answer": 18, "choices": [16, 17, 18, 19] }
+      ]
+    },
+    {
+      "level": 7,
+      "theme": "Candy",
+      "problems": [
+        { "emoji": "🍬", "leftCount": 9, "rightCount": 8, "operation": "add", "question": "How many candies in total?", "answer": 17, "choices": [15, 16, 17, 18] },
+        { "emoji": "🍭", "leftCount": 10, "rightCount": 10, "operation": "add", "question": "How many lollipops in total?", "answer": 20, "choices": [18, 19, 20, 21] },
+        { "emoji": "🍫", "leftCount": 7, "rightCount": 9, "operation": "add", "question": "How many chocolates in total?", "answer": 16, "choices": [14, 15, 16, 17] },
+        { "emoji": "🍬", "leftCount": 8, "rightCount": 8, "operation": "add", "question": "How many candies in total?", "answer": 16, "choices": [14, 15, 16, 17] },
+        { "emoji": "🍭", "leftCount": 6, "rightCount": 7, "operation": "add", "question": "How many lollipops in total?", "answer": 13, "choices": [11, 12, 13, 14] }
+      ]
+    },
+    {
+      "level": 8,
+      "theme": "Mixed Challenge",
+      "problems": [
+        { "emoji": "🍎", "leftCount": 12, "rightCount": 5, "operation": "sub", "question": "If 5 apples are taken away, how many remain?", "answer": 7, "choices": [5, 6, 7, 8] },
+        { "emoji": "⭐", "leftCount": 9, "rightCount": 8, "operation": "add", "question": "How many stars in total?", "answer": 17, "choices": [15, 16, 17, 18] },
+        { "emoji": "🐱", "leftCount": 15, "rightCount": 6, "operation": "sub", "question": "If 6 cats ran away, how many remain?", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "emoji": "🎈", "leftCount": 8, "rightCount": 9, "operation": "add", "question": "How many balloons in total?", "answer": 17, "choices": [15, 16, 17, 18] },
+        { "emoji": "🍬", "leftCount": 20, "rightCount": 8, "operation": "sub", "question": "If 8 candies are eaten, how many are left?", "answer": 12, "choices": [10, 11, 12, 13] }
+      ]
+    },
+    {
+      "level": 9,
+      "theme": "School Supplies (2-digit Addition)",
+      "problems": [
+        { "emoji": "✏️", "leftCount": 12, "rightCount": 15, "operation": "add", "question": "There are 12 pencils in one box and 15 in another. How many pencils in total?", "answer": 27, "choices": [25, 26, 27, 28] },
+        { "emoji": "📚", "leftCount": 21, "rightCount": 14, "operation": "add", "question": "There are 21 books on one shelf and 14 on another. How many books are there?", "answer": 35, "choices": [33, 34, 35, 36] },
+        { "emoji": "🖊️", "leftCount": 18, "rightCount": 11, "operation": "add", "question": "A student has 18 pens and gets 11 more. How many pens does the student have?", "answer": 29, "choices": [27, 28, 29, 30] },
+        { "emoji": "📐", "leftCount": 13, "rightCount": 16, "operation": "add", "question": "There are 13 rulers in one drawer and 16 in another. How many rulers in total?", "answer": 29, "choices": [27, 28, 29, 30] },
+        { "emoji": "✏️", "leftCount": 24, "rightCount": 12, "operation": "add", "question": "A class has 24 crayons and buys 12 more. How many crayons are there now?", "answer": 36, "choices": [34, 35, 36, 37] }
+      ]
+    },
+    {
+      "level": 10,
+      "theme": "Sports (2-digit Addition)",
+      "problems": [
+        { "emoji": "⚽", "leftCount": 23, "rightCount": 14, "operation": "add", "question": "Team A scored 23 points and Team B scored 14. What is the total score?", "answer": 37, "choices": [35, 36, 37, 38] },
+        { "emoji": "🏀", "leftCount": 31, "rightCount": 18, "operation": "add", "question": "In two games a player scored 31 and 18 points. How many points in total?", "answer": 49, "choices": [47, 48, 49, 50] },
+        { "emoji": "🎾", "leftCount": 26, "rightCount": 13, "operation": "add", "question": "A store has 26 tennis balls and gets 13 more. How many balls are there?", "answer": 39, "choices": [37, 38, 39, 40] },
+        { "emoji": "⚾", "leftCount": 15, "rightCount": 22, "operation": "add", "question": "There are 15 baseballs in one bag and 22 in another. How many baseballs in total?", "answer": 37, "choices": [35, 36, 37, 38] },
+        { "emoji": "🏐", "leftCount": 34, "rightCount": 15, "operation": "add", "question": "A gym has 34 volleyballs and 15 more are brought in. How many volleyballs are there?", "answer": 49, "choices": [47, 48, 49, 50] }
+      ]
+    },
+    {
+      "level": 11,
+      "theme": "Food Stand (2-digit Subtraction)",
+      "problems": [
+        { "emoji": "🍕", "leftCount": 35, "rightCount": 12, "operation": "sub", "question": "A stand had 35 slices of pizza and sold 12. How many slices are left?", "answer": 23, "choices": [21, 22, 23, 24] },
+        { "emoji": "🌮", "leftCount": 48, "rightCount": 25, "operation": "sub", "question": "There were 48 tacos and 25 were eaten. How many tacos remain?", "answer": 23, "choices": [21, 22, 23, 24] },
+        { "emoji": "🥪", "leftCount": 50, "rightCount": 17, "operation": "sub", "question": "A lunch box had 50 sandwiches and 17 were given out. How many are left?", "answer": 33, "choices": [31, 32, 33, 34] },
+        { "emoji": "🍔", "leftCount": 42, "rightCount": 18, "operation": "sub", "question": "A restaurant made 42 burgers and sold 18. How many burgers are left?", "answer": 24, "choices": [22, 23, 24, 25] },
+        { "emoji": "🍩", "leftCount": 60, "rightCount": 24, "operation": "sub", "question": "A bakery had 60 doughnuts and sold 24. How many doughnuts are left?", "answer": 36, "choices": [34, 35, 36, 37] }
+      ]
+    },
+    {
+      "level": 12,
+      "theme": "Farm (2-digit Subtraction)",
+      "problems": [
+        { "emoji": "🐄", "leftCount": 55, "rightCount": 23, "operation": "sub", "question": "A farm had 55 cows and 23 were moved to another field. How many cows remain?", "answer": 32, "choices": [30, 31, 32, 33] },
+        { "emoji": "🐑", "leftCount": 47, "rightCount": 15, "operation": "sub", "question": "There were 47 sheep in a pen. 15 were taken out. How many sheep are still in the pen?", "answer": 32, "choices": [30, 31, 32, 33] },
+        { "emoji": "🐓", "leftCount": 63, "rightCount": 31, "operation": "sub", "question": "A farmer had 63 chickens and sold 31. How many chickens does the farmer have now?", "answer": 32, "choices": [30, 31, 32, 33] },
+        { "emoji": "🥕", "leftCount": 74, "rightCount": 42, "operation": "sub", "question": "A garden grew 74 carrots and the farmer picked 42. How many carrots are still in the ground?", "answer": 32, "choices": [30, 31, 32, 33] },
+        { "emoji": "🌽", "leftCount": 58, "rightCount": 26, "operation": "sub", "question": "There were 58 ears of corn and 26 were harvested. How many are left?", "answer": 32, "choices": [30, 31, 32, 33] }
+      ]
+    },
+    {
+      "level": 13,
+      "theme": "Library (2-digit Mixed)",
+      "problems": [
+        { "emoji": "📖", "leftCount": 45, "rightCount": 33, "operation": "add", "question": "A library has 45 fiction books and 33 non-fiction books. How many books in total?", "answer": 78, "choices": [76, 77, 78, 79] },
+        { "emoji": "📚", "leftCount": 82, "rightCount": 35, "operation": "sub", "question": "A library had 82 books checked out. 35 were returned. How many are still checked out?", "answer": 47, "choices": [45, 46, 47, 48] },
+        { "emoji": "📗", "leftCount": 27, "rightCount": 46, "operation": "add", "question": "There are 27 green books and 46 blue books on a shelf. How many books in total?", "answer": 73, "choices": [71, 72, 73, 74] },
+        { "emoji": "📕", "leftCount": 91, "rightCount": 54, "operation": "sub", "question": "A shelf had 91 books. A librarian moved 54 to another shelf. How many books remain?", "answer": 37, "choices": [35, 36, 37, 38] },
+        { "emoji": "📘", "leftCount": 38, "rightCount": 41, "operation": "add", "question": "One student read 38 pages in the morning and 41 pages in the afternoon. How many pages in total?", "answer": 79, "choices": [77, 78, 79, 80] }
+      ]
+    },
+    {
+      "level": 14,
+      "theme": "Bakery (Multi-step)",
+      "problems": [
+        { "emoji": "🧁", "leftCount": 24, "rightCount": 12, "operation": "add", "question": "A baker made 24 cupcakes in the morning and 12 in the afternoon. She then sold 18. How many are left?", "answer": 18, "choices": [16, 17, 18, 19] },
+        { "emoji": "🍞", "leftCount": 30, "rightCount": 20, "operation": "add", "question": "A baker baked 30 loaves on Monday and 20 on Tuesday. She sold 35 loaves. How many are left?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🥐", "leftCount": 15, "rightCount": 25, "operation": "add", "question": "A shop had 15 croissants and baked 25 more. Then 28 were sold. How many croissants are left?", "answer": 12, "choices": [10, 11, 12, 13] },
+        { "emoji": "🍰", "leftCount": 40, "rightCount": 10, "operation": "sub", "question": "A bakery had 40 cakes. They sold 10 in the morning and 15 in the afternoon. How many cakes are left?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🍪", "leftCount": 50, "rightCount": 20, "operation": "sub", "question": "A jar had 50 cookies. A class ate 20 cookies, then 13 more. How many cookies are left?", "answer": 17, "choices": [15, 16, 17, 18] }
+      ]
+    },
+    {
+      "level": 15,
+      "theme": "Zoo (Multi-step)",
+      "problems": [
+        { "emoji": "🦁", "leftCount": 6, "rightCount": 4, "operation": "add", "question": "A zoo had 6 lions. 4 cubs were born. Then 3 lions were moved. How many lions are at the zoo?", "answer": 7, "choices": [5, 6, 7, 8] },
+        { "emoji": "🐘", "leftCount": 8, "rightCount": 5, "operation": "add", "question": "A safari park had 8 elephants and received 5 more. 6 elephants were then transferred. How many remain?", "answer": 7, "choices": [5, 6, 7, 8] },
+        { "emoji": "🐧", "leftCount": 20, "rightCount": 15, "operation": "add", "question": "A zoo has 20 penguins in one enclosure and 15 in another. 9 are moved to a new exhibit. How many penguins are left in the original enclosures?", "answer": 26, "choices": [24, 25, 26, 27] },
+        { "emoji": "🦒", "leftCount": 12, "rightCount": 3, "operation": "sub", "question": "A wildlife park had 12 giraffes. 3 were sent to another zoo and 2 calves were born. How many giraffes are there now?", "answer": 11, "choices": [9, 10, 11, 12] },
+        { "emoji": "🐒", "leftCount": 25, "rightCount": 10, "operation": "sub", "question": "There were 25 monkeys. 10 moved to a new habitat. Then 8 more joined. How many monkeys are there in total?", "answer": 23, "choices": [21, 22, 23, 24] }
+      ]
+    },
+    {
+      "level": 16,
+      "theme": "Multiplication - Groups",
+      "problems": [
+        { "emoji": "🍎", "leftCount": 3, "rightCount": 4, "operation": "mul", "question": "There are 3 bags with 4 apples each. How many apples are there in total?", "answer": 12, "choices": [10, 11, 12, 13] },
+        { "emoji": "🐟", "leftCount": 5, "rightCount": 3, "operation": "mul", "question": "There are 5 tanks with 3 fish in each. How many fish are there?", "answer": 15, "choices": [13, 14, 15, 16] },
+        { "emoji": "🌷", "leftCount": 4, "rightCount": 6, "operation": "mul", "question": "A florist has 4 vases with 6 flowers each. How many flowers are there in total?", "answer": 24, "choices": [22, 23, 24, 25] },
+        { "emoji": "🍬", "leftCount": 2, "rightCount": 8, "operation": "mul", "question": "There are 2 bags with 8 candies each. How many candies in total?", "answer": 16, "choices": [14, 15, 16, 17] },
+        { "emoji": "🚗", "leftCount": 6, "rightCount": 4, "operation": "mul", "question": "There are 6 cars with 4 wheels each. How many wheels are there in total?", "answer": 24, "choices": [22, 23, 24, 25] }
+      ]
+    },
+    {
+      "level": 17,
+      "theme": "Multiplication - Arrays",
+      "problems": [
+        { "emoji": "⭐", "leftCount": 5, "rightCount": 5, "operation": "mul", "question": "Stars are arranged in 5 rows with 5 in each row. How many stars are there?", "answer": 25, "choices": [23, 24, 25, 26] },
+        { "emoji": "🌼", "leftCount": 3, "rightCount": 7, "operation": "mul", "question": "Flowers are planted in 3 rows with 7 in each row. How many flowers are there?", "answer": 21, "choices": [19, 20, 21, 22] },
+        { "emoji": "🔵", "leftCount": 4, "rightCount": 8, "operation": "mul", "question": "Dots are arranged in 4 rows with 8 in each row. How many dots are there?", "answer": 32, "choices": [30, 31, 32, 33] },
+        { "emoji": "🍪", "leftCount": 6, "rightCount": 5, "operation": "mul", "question": "Cookies are placed in 6 rows with 5 in each row. How many cookies are there?", "answer": 30, "choices": [28, 29, 30, 31] },
+        { "emoji": "🐛", "leftCount": 7, "rightCount": 3, "operation": "mul", "question": "Caterpillars are in 7 jars with 3 in each jar. How many caterpillars are there?", "answer": 21, "choices": [19, 20, 21, 22] }
+      ]
+    }
+  ]
+}

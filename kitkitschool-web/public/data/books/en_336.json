@@ -1,0 +1,89 @@
+{
+  "title": "English Book",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 24,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "This"
+                },
+                {
+                  "text": "book"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "part"
+                },
+                {
+                  "text": "of"
+                },
+                {
+                  "text": "the"
+                },
+                {
+                  "text": "KitKit"
+                },
+                {
+                  "text": "School"
+                },
+                {
+                  "text": "library."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "The"
+                },
+                {
+                  "text": "original"
+                },
+                {
+                  "text": "content"
+                },
+                {
+                  "text": "requires"
+                },
+                {
+                  "text": "the"
+                },
+                {
+                  "text": "full"
+                },
+                {
+                  "text": "asset"
+                },
+                {
+                  "text": "package."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

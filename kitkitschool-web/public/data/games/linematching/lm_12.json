@@ -1,0 +1,141 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 4,
+        "UseOneObject": false,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/necklace/necklace1_",
+                "succ": "LineMatching/Images/necklace/necklace1_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/necklace/necklace2_",
+                "succ": "LineMatching/Images/necklace/necklace2_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/necklace/necklace3_",
+                "succ": "LineMatching/Images/necklace/necklace3_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/necklace/necklace4_",
+                "succ": "LineMatching/Images/necklace/necklace4_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/necklace/necklace5_",
+                "succ": "LineMatching/Images/necklace/necklace5_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/necklace/necklace6_",
+                "succ": "LineMatching/Images/necklace/necklace6_succ_"
+            }
+        ],
+        "UseColorCount": 2,
+        "UseOneColor": true,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "piece.png",
+            "set.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/woodBlock/woodBlock_",
+                "succ": "LineMatching/Images/woodBlock/woodBlock_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/numbers/",
+                "succ": "LineMatching/Images/numbers/"
+            }
+        ],
+        "UseColorCount": 8,
+        "UseOneColor": false,
+        "Nor_Succ_Same": false,
+        "UseColors": {
+            "0": [
+                {
+                    "nor": "3.png",
+                    "succ": "3.png"
+                },
+                {
+                    "nor": "4.png",
+                    "succ": "4.png"
+                },
+                {
+                    "nor": "5.png",
+                    "succ": "5.png"
+                },
+                {
+                    "nor": "6.png",
+                    "succ": "6.png"
+                },
+                {
+                    "nor": "7.png",
+                    "succ": "7.png"
+                },
+                {
+                    "nor": "8.png",
+                    "succ": "8.png"
+                },
+                {
+                    "nor": "9.png",
+                    "succ": "9.png"
+                },
+                {
+                    "nor": "10.png",
+                    "succ": "10.png"
+                }
+            ],
+            "1": [
+                {
+                    "nor": "3_object_red.png",
+                    "succ": "3_object_succ.png"
+                },
+                {
+                    "nor": "4_object_red.png",
+                    "succ": "4_object_succ.png"
+                },
+                {
+                    "nor": "5_object_red.png",
+                    "succ": "5_object_succ.png"
+                },
+                {
+                    "nor": "6_object_red.png",
+                    "succ": "6_object_succ.png"
+                },
+                {
+                    "nor": "7_object_red.png",
+                    "succ": "7_object_succ.png"
+                },
+                {
+                    "nor": "8_object_red.png",
+                    "succ": "8_object_succ.png"
+                },
+                {
+                    "nor": "9_object_red.png",
+                    "succ": "9_object_succ.png"
+                },
+                {
+                    "nor": "10_object_red.png",
+                    "succ": "10_object_succ.png"
+                }
+            ],
+            "Max": 8,
+            "Choice": 4
+        },
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    }
+}

@@ -1,0 +1,3462 @@
+{
+  "game": "animalpuzzle",
+  "description": "Animal Puzzle - jigsaw-style animal puzzles with increasing complexity",
+  "totalLevels": 40,
+  "totalPuzzles": 54,
+  "levels": {
+    "1": [
+      {
+        "languageTag": "en-US",
+        "level": 1,
+        "puzzleIndex": 1,
+        "text": "Bird",
+        "folderName": "level_pre/level1/puzzle1_bird/",
+        "background": "ap2_puzzle1_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "bird.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle1_bird_puzzle",
+            "posX": 825,
+            "posY": 95,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 1,
+        "puzzleIndex": 2,
+        "text": "Lizard",
+        "folderName": "level_pre/level1/puzzle2_lizard/",
+        "background": "ap2_puzzle2_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "lizard.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle2_lizard_puzzle",
+            "posX": 340,
+            "posY": 250,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "languageTag": "en-US",
+        "level": 2,
+        "puzzleIndex": 1,
+        "text": "Lizard",
+        "folderName": "level_pre/level1/puzzle2_lizard/",
+        "background": "ap2_puzzle2_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "lizard.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle2_lizard_puzzle",
+            "posX": 340,
+            "posY": 250,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 2,
+        "puzzleIndex": 2,
+        "text": "Bird",
+        "folderName": "level_pre/level1/puzzle1_bird/",
+        "background": "ap2_puzzle1_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "bird.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle1_bird_puzzle",
+            "posX": 825,
+            "posY": 95,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "languageTag": "en-US",
+        "level": 3,
+        "puzzleIndex": 1,
+        "text": "Turtle",
+        "folderName": "level_pre/level1/puzzle3_turtle/",
+        "background": "ap2_puzzle3_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "turtle.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle3_turtle_puzzle",
+            "posX": 548,
+            "posY": 156,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 3,
+        "puzzleIndex": 2,
+        "text": "Mouse",
+        "folderName": "level_pre/level1/puzzle4_mouse/",
+        "background": "ap2_puzzle4_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "mouse.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle4_mouse_puzzle",
+            "posX": 428,
+            "posY": 56,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "languageTag": "en-US",
+        "level": 4,
+        "puzzleIndex": 1,
+        "text": "Mouse",
+        "folderName": "level_pre/level1/puzzle4_mouse/",
+        "background": "ap2_puzzle4_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "mouse.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle4_mouse_puzzle",
+            "posX": 428,
+            "posY": 56,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 4,
+        "puzzleIndex": 2,
+        "text": "Turtle",
+        "folderName": "level_pre/level1/puzzle3_turtle/",
+        "background": "ap2_puzzle3_background.jpg",
+        "pieceCount": 1,
+        "mask": null,
+        "sound": "turtle.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle3_turtle_puzzle",
+            "posX": 548,
+            "posY": 156,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "languageTag": "en-US",
+        "level": 5,
+        "puzzleIndex": 1,
+        "text": "Ball and Dog",
+        "folderName": "level_pre/level2/puzzle5_ball_dog/",
+        "background": "ap2_puzzle5_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "ball_and_dog.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle5_ball_puzzle",
+            "posX": 154,
+            "posY": 78,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle5_dog_puzzle",
+            "posX": 906,
+            "posY": 78,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 5,
+        "puzzleIndex": 2,
+        "text": "Mom Penguin and Baby Penguin",
+        "folderName": "level_pre/level2/puzzle6_mom_babypenguin/",
+        "background": "ap2_puzzle6_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "mom_penguin_and_baby_penguin.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle6_baby_puzzle",
+            "posX": 1444,
+            "posY": 88,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle6_mom_puzzle",
+            "posX": 374,
+            "posY": 30,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "languageTag": "en-US",
+        "level": 6,
+        "puzzleIndex": 1,
+        "text": "Mom Penguin and Baby Penguin",
+        "folderName": "level_pre/level2/puzzle6_mom_babypenguin/",
+        "background": "ap2_puzzle6_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "mom_penguin_and_baby_penguin.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle6_baby_puzzle",
+            "posX": 1444,
+            "posY": 88,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle6_mom_puzzle",
+            "posX": 374,
+            "posY": 30,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 6,
+        "puzzleIndex": 2,
+        "text": "Ball and Dog",
+        "folderName": "level_pre/level2/puzzle5_ball_dog/",
+        "background": "ap2_puzzle5_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "ball_and_dog.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle5_ball_puzzle",
+            "posX": 154,
+            "posY": 78,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle5_dog_puzzle",
+            "posX": 906,
+            "posY": 78,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "languageTag": "en-US",
+        "level": 7,
+        "puzzleIndex": 1,
+        "text": "Cat and Butterfly",
+        "folderName": "level_pre/level2/puzzle7_cat_butterfly/",
+        "background": "ap2_puzzle7_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "cat_and_butterfly.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle7_butterfly_puzzle",
+            "posX": 1280,
+            "posY": 698,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle7_cat_puzzle",
+            "posX": 72,
+            "posY": 54,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 7,
+        "puzzleIndex": 2,
+        "text": "Rabbit and Flower",
+        "folderName": "level_pre/level2/puzzle8_rabbit_flower/",
+        "background": "ap2_puzzle8_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "rabbit_and_flower.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle8_flower_puzzle",
+            "posX": 572,
+            "posY": 106,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle8_rabbit_puzzle",
+            "posX": 1228,
+            "posY": 66,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "languageTag": "en-US",
+        "level": 8,
+        "puzzleIndex": 1,
+        "text": "Rabbit and Flower",
+        "folderName": "level_pre/level2/puzzle8_rabbit_flower/",
+        "background": "ap2_puzzle8_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "rabbit_and_flower.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle8_flower_puzzle",
+            "posX": 572,
+            "posY": 106,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle8_rabbit_puzzle",
+            "posX": 1228,
+            "posY": 66,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 8,
+        "puzzleIndex": 2,
+        "text": "Cat and Butterfly",
+        "folderName": "level_pre/level2/puzzle7_cat_butterfly/",
+        "background": "ap2_puzzle7_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "cat_and_butterfly.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle7_butterfly_puzzle",
+            "posX": 1280,
+            "posY": 698,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle7_cat_puzzle",
+            "posX": 72,
+            "posY": 54,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "languageTag": "en-US",
+        "level": 9,
+        "puzzleIndex": 1,
+        "text": "Pig",
+        "folderName": "level_pre/level3/puzzle9_pig/",
+        "background": "ap2_puzzle9_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle9_mask.png",
+        "sound": "pig.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle9_pig1_puzzle",
+            "posX": 635,
+            "posY": 250,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle9_pig2_puzzle",
+            "posX": 1118,
+            "posY": 165,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 9,
+        "puzzleIndex": 2,
+        "text": "Goat",
+        "folderName": "level_pre/level3/puzzle10_goat/",
+        "background": "ap2_puzzle10_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle10_mask.png",
+        "sound": "goat.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle10_goat1_puzzle",
+            "posX": 590,
+            "posY": 154,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle10_goat2_puzzle",
+            "posX": 1345,
+            "posY": 110,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "languageTag": "en-US",
+        "level": 10,
+        "puzzleIndex": 1,
+        "text": "Goat",
+        "folderName": "level_pre/level3/puzzle10_goat/",
+        "background": "ap2_puzzle10_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle10_mask.png",
+        "sound": "goat.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle10_goat1_puzzle",
+            "posX": 590,
+            "posY": 154,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle10_goat2_puzzle",
+            "posX": 1345,
+            "posY": 110,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 10,
+        "puzzleIndex": 2,
+        "text": "Pig",
+        "folderName": "level_pre/level3/puzzle9_pig/",
+        "background": "ap2_puzzle9_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle9_mask.png",
+        "sound": "pig.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle9_pig1_puzzle",
+            "posX": 635,
+            "posY": 250,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle9_pig2_puzzle",
+            "posX": 1118,
+            "posY": 165,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "languageTag": "en-US",
+        "level": 11,
+        "puzzleIndex": 1,
+        "text": "Gazelle",
+        "folderName": "level_pre/level3/puzzle11_gazelle/",
+        "background": "ap2_puzzle11_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle11_mask.png",
+        "sound": "gazelle.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle11_gazelle1_puzzle",
+            "posX": 726,
+            "posY": 566,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle11_gazelle2_puzzle",
+            "posX": 690,
+            "posY": 0,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 11,
+        "puzzleIndex": 2,
+        "text": "Zebra",
+        "folderName": "level_pre/level3/puzzle12_zebra/",
+        "background": "ap2_puzzle12_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle12_mask.png",
+        "sound": "zebra.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle12_zebra1_puzzle",
+            "posX": 570,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle12_zebra2_puzzle",
+            "posX": 1030,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "languageTag": "en-US",
+        "level": 12,
+        "puzzleIndex": 1,
+        "text": "Zebra",
+        "folderName": "level_pre/level3/puzzle12_zebra/",
+        "background": "ap2_puzzle12_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle12_mask.png",
+        "sound": "zebra.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle12_zebra1_puzzle",
+            "posX": 570,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle12_zebra2_puzzle",
+            "posX": 1030,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 12,
+        "puzzleIndex": 2,
+        "text": "Gazelle",
+        "folderName": "level_pre/level3/puzzle11_gazelle/",
+        "background": "ap2_puzzle11_background.jpg",
+        "pieceCount": 2,
+        "mask": "_ap2_puzzle11_mask.png",
+        "sound": "gazelle.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap2_puzzle11_gazelle1_puzzle",
+            "posX": 726,
+            "posY": 566,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap2_puzzle11_gazelle2_puzzle",
+            "posX": 690,
+            "posY": 0,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "languageTag": "en-US",
+        "level": 13,
+        "puzzleIndex": 1,
+        "text": "Meerkats",
+        "folderName": "level1/puzzle1/",
+        "background": "ap_puzzle1_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "meerkats.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle1_meerkat1_puzzle",
+            "posX": 630,
+            "posY": 168,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle1_meerkat2_puzzle",
+            "posX": 1348,
+            "posY": 110,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 13,
+        "puzzleIndex": 2,
+        "text": "Bugs",
+        "folderName": "level1/puzzle2/",
+        "background": "ap_puzzle2_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "bugs.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle2_ladybug1_puzzle",
+            "posX": 250,
+            "posY": 424,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle2_ladybug2_puzzle",
+            "posX": 1390,
+            "posY": 188,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "languageTag": "en-US",
+        "level": 14,
+        "puzzleIndex": 1,
+        "text": "Bugs",
+        "folderName": "level1/puzzle2/",
+        "background": "ap_puzzle2_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "bugs.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle2_ladybug1_puzzle",
+            "posX": 250,
+            "posY": 424,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle2_ladybug2_puzzle",
+            "posX": 1390,
+            "posY": 188,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      },
+      {
+        "languageTag": "en-US",
+        "level": 14,
+        "puzzleIndex": 2,
+        "text": "Meerkats",
+        "folderName": "level1/puzzle1/",
+        "background": "ap_puzzle1_background.jpg",
+        "pieceCount": 2,
+        "mask": null,
+        "sound": "meerkats.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle1_meerkat1_puzzle",
+            "posX": 630,
+            "posY": 168,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle1_meerkat2_puzzle",
+            "posX": 1348,
+            "posY": 110,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "languageTag": "en-US",
+        "level": 15,
+        "puzzleIndex": 1,
+        "text": "Birds",
+        "folderName": "level1/puzzle3/",
+        "background": "ap_puzzle3_background.jpg",
+        "pieceCount": 3,
+        "mask": null,
+        "sound": "birds.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle3_bird1_puzzle",
+            "posX": 405,
+            "posY": 28,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle3_bird2_puzzle",
+            "posX": 973,
+            "posY": 356,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle3_bird3_puzzle",
+            "posX": 1829,
+            "posY": -35,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "languageTag": "en-US",
+        "level": 16,
+        "puzzleIndex": 1,
+        "text": "Elephants",
+        "folderName": "level1/puzzle4/",
+        "background": "ap_puzzle4_background.jpg",
+        "pieceCount": 3,
+        "mask": null,
+        "sound": "elephants.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle4_elephant1_puzzle",
+            "posX": 146,
+            "posY": 96,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle4_elephant2_puzzle",
+            "posX": 1056,
+            "posY": 173,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle4_elephant3_puzzle",
+            "posX": 1736,
+            "posY": 96,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "languageTag": "en-US",
+        "level": 17,
+        "puzzleIndex": 1,
+        "text": "Eagle",
+        "folderName": "level2/puzzle5/",
+        "background": "ap_puzzle5_background.jpg",
+        "pieceCount": 3,
+        "mask": "_ap_puzzle5_mask.png",
+        "sound": "eagle.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle5_eagle1_puzzle",
+            "posX": 106,
+            "posY": 236,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle5_eagle2_puzzle",
+            "posX": 730,
+            "posY": 166,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle5_eagle3_puzzle",
+            "posX": 1115,
+            "posY": 530,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "languageTag": "en-US",
+        "level": 18,
+        "puzzleIndex": 1,
+        "text": "Squirrel",
+        "folderName": "level2/puzzle6/",
+        "background": "ap_puzzle6_background.jpg",
+        "pieceCount": 3,
+        "mask": "_ap_puzzle6_mask.png",
+        "sound": "squirrel.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle6_squirrel1_puzzle",
+            "posX": 780,
+            "posY": 504,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle6_squirrel2_puzzle",
+            "posX": 1016,
+            "posY": 0,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle6_squirrel3_puzzle",
+            "posX": 1492,
+            "posY": 280,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "languageTag": "en-US",
+        "level": 19,
+        "puzzleIndex": 1,
+        "text": "Cow",
+        "folderName": "level2/puzzle7/",
+        "background": "ap_puzzle7_background.jpg",
+        "pieceCount": 4,
+        "mask": "_ap_puzzle7_mask.png",
+        "sound": "cow.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle7_cow1_puzzle",
+            "posX": 436,
+            "posY": 580,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle7_cow2_puzzle",
+            "posX": 760,
+            "posY": 22,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle7_cow3_puzzle",
+            "posX": 1184,
+            "posY": 580,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle7_cow4_puzzle",
+            "posX": 1302,
+            "posY": 72,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "languageTag": "en-US",
+        "level": 20,
+        "puzzleIndex": 1,
+        "text": "Hyena",
+        "folderName": "level2/puzzle8/",
+        "background": "ap_puzzle8_background.jpg",
+        "pieceCount": 4,
+        "mask": "_ap_puzzle8_mask.png",
+        "sound": "hyena.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle8_hyena1_puzzle",
+            "posX": 394,
+            "posY": 668,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle8_hyena2_puzzle",
+            "posX": 930,
+            "posY": 572,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle8_hyena3_puzzle",
+            "posX": 394,
+            "posY": 58,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle8_hyena4_puzzle",
+            "posX": 791,
+            "posY": 30,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "languageTag": "en-US",
+        "level": 21,
+        "puzzleIndex": 1,
+        "text": "Monkeys and Crocodile",
+        "folderName": "level3/puzzle9/",
+        "background": "ap_puzzle9_background.jpg",
+        "pieceCount": 5,
+        "mask": "_ap_puzzle9_mask.png",
+        "sound": "monkeys_and_crocodile.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle9_crocodile_puzzle",
+            "posX": 710,
+            "posY": 0,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle9_monkey1_puzzle",
+            "posX": 474,
+            "posY": 530,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle9_monkey2_puzzle",
+            "posX": 654,
+            "posY": 616,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle9_monkey3_puzzle",
+            "posX": 1510,
+            "posY": 442,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle9_monkey4_puzzle",
+            "posX": 1966,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "22": [
+      {
+        "languageTag": "en-US",
+        "level": 22,
+        "puzzleIndex": 1,
+        "text": "Cacti and Camels",
+        "folderName": "level3/puzzle10/",
+        "background": "ap_puzzle10_background.jpg",
+        "pieceCount": 5,
+        "mask": "_ap_puzzle10_mask.png",
+        "sound": "cacti_and_camels.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle10_bush1_puzzle",
+            "posX": 22,
+            "posY": 300,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle10_bush2_puzzle",
+            "posX": 352,
+            "posY": 684,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle10_bush3_puzzle",
+            "posX": 1696,
+            "posY": 30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle10_camel1_puzzle",
+            "posX": 550,
+            "posY": 162,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle10_camel2_puzzle",
+            "posX": 1235,
+            "posY": 290,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "languageTag": "en-US",
+        "level": 23,
+        "puzzleIndex": 1,
+        "text": "Chickens",
+        "folderName": "level3/puzzle11/",
+        "background": "ap_puzzle11_background.jpg",
+        "pieceCount": 6,
+        "mask": "_ap_puzzle11_mask.png",
+        "sound": "chickens.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle11_chicken1_puzzle",
+            "posX": 120,
+            "posY": 376,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle11_chicken2_puzzle",
+            "posX": 610,
+            "posY": 126,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle11_chicken3_puzzle",
+            "posX": 1030,
+            "posY": 270,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle11_chicken4_puzzle",
+            "posX": 1236,
+            "posY": 240,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle11_chicken5_puzzle",
+            "posX": 1468,
+            "posY": 208,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle11_chicken6_puzzle",
+            "posX": 1912,
+            "posY": 294,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "languageTag": "en-US",
+        "level": 24,
+        "puzzleIndex": 1,
+        "text": "Bees",
+        "folderName": "level3/puzzle12/",
+        "background": "ap_puzzle12_background.jpg",
+        "pieceCount": 6,
+        "mask": "_ap_puzzle12_mask.png",
+        "sound": "bees.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle12_bee1_puzzle",
+            "posX": 143,
+            "posY": 735,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle12_bee2_puzzle",
+            "posX": 206,
+            "posY": 36,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle12_bee3_puzzle",
+            "posX": 1034,
+            "posY": -20,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle12_bee4_puzzle",
+            "posX": 1444,
+            "posY": 418,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle12_beehive1_puzzle",
+            "posX": 918,
+            "posY": 732,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle12_beehive2_puzzle",
+            "posX": 1853,
+            "posY": 87,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "languageTag": "en-US",
+        "level": 25,
+        "puzzleIndex": 1,
+        "text": "Hippo",
+        "folderName": "level4/puzzle13/",
+        "background": "ap_puzzle13_background.jpg",
+        "pieceCount": 6,
+        "mask": "_ap_puzzle13_mask.png",
+        "sound": "hippo.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle13_hippo1_puzzle",
+            "posX": 380,
+            "posY": 140,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle13_hippo2_puzzle",
+            "posX": 602,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle13_hippo3_puzzle",
+            "posX": 824,
+            "posY": 266,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle13_hippo4_puzzle",
+            "posX": 960,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle13_hippo5_puzzle",
+            "posX": 1187,
+            "posY": 98,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle13_hippo6_puzzle",
+            "posX": 1426,
+            "posY": 202,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "26": [
+      {
+        "languageTag": "en-US",
+        "level": 26,
+        "puzzleIndex": 1,
+        "text": "Octopus",
+        "folderName": "level4/puzzle14/",
+        "background": "ap_puzzle14_background.jpg",
+        "pieceCount": 6,
+        "mask": "_ap_puzzle14_mask.png",
+        "sound": "octopus.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle14_octopus1_puzzle",
+            "posX": 530,
+            "posY": 218,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle14_octopus2_puzzle",
+            "posX": 992,
+            "posY": 618,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle14_octopus3_puzzle",
+            "posX": 1280,
+            "posY": 618,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle14_octopus4_puzzle",
+            "posX": 1280,
+            "posY": 214,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle14_octopus5_puzzle",
+            "posX": 1280,
+            "posY": 182,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle14_octopus6_puzzle",
+            "posX": 748,
+            "posY": 58,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "languageTag": "en-US",
+        "level": 27,
+        "puzzleIndex": 1,
+        "text": "Lion",
+        "folderName": "level4/puzzle15/",
+        "background": "ap_puzzle15_background.jpg",
+        "pieceCount": 8,
+        "mask": "_ap_puzzle15_mask.png",
+        "sound": "lion.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle15_lion1_puzzle",
+            "posX": 854,
+            "posY": 726,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle15_lion2_puzzle",
+            "posX": 678,
+            "posY": 458,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle15_lion3_puzzle",
+            "posX": 678,
+            "posY": 278,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle15_lion4_puzzle",
+            "posX": 544,
+            "posY": 76,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle15_lion5_puzzle",
+            "posX": 984,
+            "posY": 374,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle15_lion6_puzzle",
+            "posX": 1127,
+            "posY": 112,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle15_lion7_puzzle",
+            "posX": 1288,
+            "posY": 279,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle15_lion8_puzzle",
+            "posX": 1460,
+            "posY": 90,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "28": [
+      {
+        "languageTag": "en-US",
+        "level": 28,
+        "puzzleIndex": 1,
+        "text": "Gecko",
+        "folderName": "level4/puzzle16/",
+        "background": "ap_puzzle16_background.jpg",
+        "pieceCount": 8,
+        "mask": "_ap_puzzle16_mask.png",
+        "sound": "gecko.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle16_gecko1_puzzle",
+            "posX": 842,
+            "posY": 770,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle16_gecko2_puzzle",
+            "posX": 1104,
+            "posY": 918,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle16_gecko3_puzzle",
+            "posX": 1064,
+            "posY": 696,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle16_gecko4_puzzle",
+            "posX": 1408,
+            "posY": 670,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle16_gecko5_puzzle",
+            "posX": 1700,
+            "posY": 520,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle16_gecko6_puzzle",
+            "posX": 1536,
+            "posY": 284,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle16_gecko7_puzzle",
+            "posX": 1810,
+            "posY": 138,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle16_gecko8_puzzle",
+            "posX": 1536,
+            "posY": 70,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "29": [
+      {
+        "languageTag": "en-US",
+        "level": 29,
+        "puzzleIndex": 1,
+        "text": "Swans",
+        "folderName": "level5/puzzle17/",
+        "background": "ap_puzzle17_background.png",
+        "pieceCount": 12,
+        "mask": null,
+        "sound": "swans.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle17_puzzle1",
+            "posX": 0,
+            "posY": 828,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle17_puzzle2",
+            "posX": 602,
+            "posY": 828,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle17_puzzle3",
+            "posX": 1204,
+            "posY": 828,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle17_puzzle4",
+            "posX": 1806,
+            "posY": 828,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle17_puzzle5",
+            "posX": 0,
+            "posY": 396,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle17_puzzle6",
+            "posX": 602,
+            "posY": 396,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle17_puzzle7",
+            "posX": 1204,
+            "posY": 396,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle17_puzzle8",
+            "posX": 1806,
+            "posY": 396,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle17_puzzle9",
+            "posX": 0,
+            "posY": -36,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle17_puzzle10",
+            "posX": 602,
+            "posY": -36,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle17_puzzle11",
+            "posX": 1204,
+            "posY": -36,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle17_puzzle12",
+            "posX": 1806,
+            "posY": -36,
+            "depth": "ap_puzzle17_puzzledepth",
+            "shadow": "ap_puzzle17_puzzleshadow"
+          }
+        ]
+      }
+    ],
+    "30": [
+      {
+        "languageTag": "en-US",
+        "level": 30,
+        "puzzleIndex": 1,
+        "text": "Bears",
+        "folderName": "level5/puzzle18/",
+        "background": "ap_puzzle18_background.png",
+        "pieceCount": 12,
+        "mask": null,
+        "sound": "bears.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle18_puzzle1",
+            "posX": 0,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle18_puzzle2",
+            "posX": 565,
+            "posY": 675,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle18_puzzle3",
+            "posX": 979,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle18_puzzle4",
+            "posX": 1764,
+            "posY": 675,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle18_puzzle5",
+            "posX": 0,
+            "posY": 245,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle18_puzzle6",
+            "posX": 377,
+            "posY": 382,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle18_puzzle7",
+            "posX": 1165,
+            "posY": 245,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle18_puzzle8",
+            "posX": 1580,
+            "posY": 382,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle18_puzzle9",
+            "posX": 0,
+            "posY": -31,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle18_puzzle10",
+            "posX": 565,
+            "posY": -31,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle18_puzzle11",
+            "posX": 979,
+            "posY": -31,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle18_puzzle12",
+            "posX": 1764,
+            "posY": -31,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "31": [
+      {
+        "languageTag": "en-US",
+        "level": 31,
+        "puzzleIndex": 1,
+        "text": "Giraffes",
+        "folderName": "level5/puzzle19/",
+        "background": "ap_puzzle19_background.png",
+        "pieceCount": 12,
+        "mask": null,
+        "sound": "giraffes.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle19_puzzle1",
+            "posX": 0,
+            "posY": 833,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle19_puzzle2",
+            "posX": 495,
+            "posY": 833,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle19_puzzle3",
+            "posX": 1095,
+            "posY": 833,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle19_puzzle4",
+            "posX": 1698,
+            "posY": 833,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle19_puzzle5",
+            "posX": 0,
+            "posY": 400,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle19_puzzle6",
+            "posX": 598,
+            "posY": 400,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle19_puzzle7",
+            "posX": 1199,
+            "posY": 400,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle19_puzzle8",
+            "posX": 1797,
+            "posY": 400,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle19_puzzle9",
+            "posX": 0,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle19_puzzle10",
+            "posX": 495,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle19_puzzle11",
+            "posX": 1095,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle19_puzzle12",
+            "posX": 1698,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "32": [
+      {
+        "languageTag": "en-US",
+        "level": 32,
+        "puzzleIndex": 1,
+        "text": "Frog",
+        "folderName": "level5/puzzle20/",
+        "background": "ap_puzzle20_background.png",
+        "pieceCount": 12,
+        "mask": null,
+        "sound": "frog.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle20_puzzle1",
+            "posX": 0,
+            "posY": 828,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle20_puzzle2",
+            "posX": 602,
+            "posY": 828,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle20_puzzle3",
+            "posX": 1204,
+            "posY": 828,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle20_puzzle4",
+            "posX": 1806,
+            "posY": 828,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle20_puzzle5",
+            "posX": 0,
+            "posY": 396,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle20_puzzle6",
+            "posX": 602,
+            "posY": 396,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle20_puzzle7",
+            "posX": 1204,
+            "posY": 396,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle20_puzzle8",
+            "posX": 1806,
+            "posY": 396,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle20_puzzle9",
+            "posX": 0,
+            "posY": -36,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle20_puzzle10",
+            "posX": 602,
+            "posY": -36,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle20_puzzle11",
+            "posX": 1204,
+            "posY": -36,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle20_puzzle12",
+            "posX": 1806,
+            "posY": -36,
+            "depth": "ap_puzzle20_puzzledepth",
+            "shadow": "ap_puzzle20_puzzleshadow"
+          }
+        ]
+      }
+    ],
+    "33": [
+      {
+        "languageTag": "en-US",
+        "level": 33,
+        "puzzleIndex": 1,
+        "text": "Chickens",
+        "folderName": "level6/puzzle21/",
+        "background": "ap_puzzle21_backgroundpuzzle.png",
+        "pieceCount": 18,
+        "mask": null,
+        "sound": "chickens.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle21_puzzle1_",
+            "posX": 0,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle21_puzzle2_",
+            "posX": 292,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle21_puzzle3",
+            "posX": 799,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle21_puzzle4",
+            "posX": 1099,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle21_puzzle5",
+            "posX": 1603,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle21_puzzle6",
+            "posX": 1898,
+            "posY": 832,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle21_puzzle7_",
+            "posX": 0,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle7_9_11depth",
+            "shadow": "ap_puzzle21_puzzle7_9_11shadow"
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle21_puzzle8_",
+            "posX": 400,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle8_10_12depth",
+            "shadow": "ap_puzzle21_puzzle8_10_12shadow"
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle21_puzzle9",
+            "posX": 799,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle7_9_11depth",
+            "shadow": "ap_puzzle21_puzzle7_9_11shadow"
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle21_puzzle10",
+            "posX": 1203,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle8_10_12depth",
+            "shadow": "ap_puzzle21_puzzle8_10_12shadow"
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle21_puzzle11",
+            "posX": 1603,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle7_9_11depth",
+            "shadow": "ap_puzzle21_puzzle7_9_11shadow"
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle21_puzzle12",
+            "posX": 2007,
+            "posY": 400,
+            "depth": "ap_puzzle21_puzzle8_10_12depth",
+            "shadow": "ap_puzzle21_puzzle8_10_12shadow"
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle21_puzzle13",
+            "posX": 0,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle21_puzzle14",
+            "posX": 292,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle21_puzzle15",
+            "posX": 799,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle21_puzzle16",
+            "posX": 1099,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle21_puzzle17",
+            "posX": 1603,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle1_3_5_13_15_17depth",
+            "shadow": "ap_puzzle21_puzzle1_3_5_13_15_17shadow"
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle21_puzzle18",
+            "posX": 1898,
+            "posY": -32,
+            "depth": "ap_puzzle21_puzzle2_4_6_14_16_18depth",
+            "shadow": "ap_puzzle21_puzzle2_4_6_14_16_18shadow"
+          }
+        ]
+      }
+    ],
+    "34": [
+      {
+        "languageTag": "en-US",
+        "level": 34,
+        "puzzleIndex": 1,
+        "text": "Cow",
+        "folderName": "level6/puzzle22/",
+        "background": "ap_puzzle22_backgroundpuzzle.png",
+        "pieceCount": 18,
+        "mask": null,
+        "sound": "cow.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle22_puzzle1",
+            "posX": 0,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle22_puzzle2",
+            "posX": 374,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle22_puzzle3",
+            "posX": 650,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle22_puzzle4",
+            "posX": 1177,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle22_puzzle5",
+            "posX": 1450,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle22_puzzle6",
+            "posX": 1973,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle22_puzzle7",
+            "posX": 0,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle22_puzzle8",
+            "posX": 247,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle22_puzzle9",
+            "posX": 776,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle22_puzzle10",
+            "posX": 1049,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle22_puzzle11",
+            "posX": 1583,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle22_puzzle12",
+            "posX": 1853,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle22_puzzle13",
+            "posX": 0,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle22_puzzle14",
+            "posX": 374,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle22_puzzle15",
+            "posX": 650,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle22_puzzle16",
+            "posX": 1177,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle22_puzzle17",
+            "posX": 1450,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle22_puzzle18",
+            "posX": 1973,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "35": [
+      {
+        "languageTag": "en-US",
+        "level": 35,
+        "puzzleIndex": 1,
+        "text": "Bees",
+        "folderName": "level6/puzzle23/",
+        "background": "ap_puzzle23_backgroundpuzzle.png",
+        "pieceCount": 18,
+        "mask": null,
+        "sound": "bees.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle23_puzzle1",
+            "posX": 0,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle23_puzzle2",
+            "posX": 401,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle23_puzzle3",
+            "posX": 802,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle23_puzzle4",
+            "posX": 1203,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle23_puzzle5",
+            "posX": 1604,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle23_puzzle6",
+            "posX": 2005,
+            "posY": 826,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle23_puzzle7",
+            "posX": 0,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle23_puzzle8",
+            "posX": 401,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle23_puzzle9",
+            "posX": 802,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle23_puzzle10",
+            "posX": 1203,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle23_puzzle11",
+            "posX": 1604,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle23_puzzle12",
+            "posX": 2005,
+            "posY": 396,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle23_puzzle13",
+            "posX": 0,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle23_puzzle14",
+            "posX": 401,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle23_puzzle15",
+            "posX": 802,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle23_puzzle16",
+            "posX": 1203,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle23_puzzle17",
+            "posX": 1604,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle23_puzzle18",
+            "posX": 2005,
+            "posY": -36,
+            "depth": "ap_puzzle23_puzzledepth",
+            "shadow": "ap_puzzle23_puzzleshadow"
+          }
+        ]
+      }
+    ],
+    "36": [
+      {
+        "languageTag": "en-US",
+        "level": 36,
+        "puzzleIndex": 1,
+        "text": "Birds",
+        "folderName": "level6/puzzle24/",
+        "background": "ap_puzzle24_backgroundpuzzle.png",
+        "pieceCount": 18,
+        "mask": null,
+        "sound": "birds.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle24_puzzle1",
+            "posX": 0,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle24_puzzle2",
+            "posX": 374,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle24_puzzle3",
+            "posX": 650,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle24_puzzle4",
+            "posX": 1177,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle24_puzzle5",
+            "posX": 1450,
+            "posY": 816,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle24_puzzle6",
+            "posX": 1973,
+            "posY": 672,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle24_puzzle7",
+            "posX": 0,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle24_puzzle8",
+            "posX": 247,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle24_puzzle9",
+            "posX": 776,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle24_puzzle10",
+            "posX": 1049,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle24_puzzle11",
+            "posX": 1583,
+            "posY": 237,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle24_puzzle12",
+            "posX": 1853,
+            "posY": 381,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle24_puzzle13",
+            "posX": 0,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle24_puzzle14",
+            "posX": 374,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle24_puzzle15",
+            "posX": 650,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle24_puzzle16",
+            "posX": 1177,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle24_puzzle17",
+            "posX": 1450,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle24_puzzle18",
+            "posX": 1973,
+            "posY": -29,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "37": [
+      {
+        "languageTag": "en-US",
+        "level": 37,
+        "puzzleIndex": 1,
+        "text": "Elephants",
+        "folderName": "level7/puzzle25/",
+        "background": "ap_puzzle25_background.png",
+        "pieceCount": 24,
+        "mask": null,
+        "sound": "elephants.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle25_puzzle1",
+            "posX": 0,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle25_puzzle2",
+            "posX": 401,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle25_puzzle3",
+            "posX": 802,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle25_puzzle4",
+            "posX": 1203,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle25_puzzle5",
+            "posX": 1604,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle25_puzzle6",
+            "posX": 2005,
+            "posY": 942,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle25_puzzle7",
+            "posX": 0,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle25_puzzle8",
+            "posX": 401,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle25_puzzle9",
+            "posX": 802,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle25_puzzle10",
+            "posX": 1203,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle25_puzzle11",
+            "posX": 1604,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle25_puzzle12",
+            "posX": 2005,
+            "posY": 617,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle25_puzzle13",
+            "posX": 0,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle25_puzzle14",
+            "posX": 401,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle25_puzzle15",
+            "posX": 802,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle25_puzzle16",
+            "posX": 1203,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle25_puzzle17",
+            "posX": 1604,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle25_puzzle18",
+            "posX": 2005,
+            "posY": 292,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 19,
+            "filenamePrefix": "ap_puzzle25_puzzle19",
+            "posX": 0,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 20,
+            "filenamePrefix": "ap_puzzle25_puzzle20",
+            "posX": 401,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 21,
+            "filenamePrefix": "ap_puzzle25_puzzle21",
+            "posX": 802,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 22,
+            "filenamePrefix": "ap_puzzle25_puzzle22",
+            "posX": 1203,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 23,
+            "filenamePrefix": "ap_puzzle25_puzzle23",
+            "posX": 1604,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          },
+          {
+            "pieceNumber": 24,
+            "filenamePrefix": "ap_puzzle25_puzzle24",
+            "posX": 2005,
+            "posY": -30,
+            "depth": "ap_puzzle25_puzzledepth",
+            "shadow": "ap_puzzle25_puzzleshadow"
+          }
+        ]
+      }
+    ],
+    "38": [
+      {
+        "languageTag": "en-US",
+        "level": 38,
+        "puzzleIndex": 1,
+        "text": "Lion",
+        "folderName": "level7/puzzle26/",
+        "background": "ap_puzzle26_background.png",
+        "pieceCount": 24,
+        "mask": null,
+        "sound": "lion.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle26_puzzle1",
+            "posX": 0,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle26_puzzle2",
+            "posX": 302,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle26_puzzle3",
+            "posX": 710,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle26_puzzle4",
+            "posX": 1110,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle26_puzzle5",
+            "posX": 1514,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle26_puzzle6",
+            "posX": 1912,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle26_puzzle7",
+            "posX": 0,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle26_puzzle8",
+            "posX": 401,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle26_puzzle9",
+            "posX": 798,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle26_puzzle10",
+            "posX": 1200,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle26_puzzle11",
+            "posX": 1601,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle26_puzzle12",
+            "posX": 2005,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle26_puzzle13",
+            "posX": 0,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle26_puzzle14",
+            "posX": 302,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle26_puzzle15",
+            "posX": 710,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle26_puzzle16",
+            "posX": 1110,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle26_puzzle17",
+            "posX": 1514,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle26_puzzle18",
+            "posX": 1912,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 19,
+            "filenamePrefix": "ap_puzzle26_puzzle19",
+            "posX": 0,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 20,
+            "filenamePrefix": "ap_puzzle26_puzzle20",
+            "posX": 401,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 21,
+            "filenamePrefix": "ap_puzzle26_puzzle21",
+            "posX": 798,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 22,
+            "filenamePrefix": "ap_puzzle26_puzzle22",
+            "posX": 1200,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 23,
+            "filenamePrefix": "ap_puzzle26_puzzle23",
+            "posX": 1601,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 24,
+            "filenamePrefix": "ap_puzzle26_puzzle24",
+            "posX": 2005,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "39": [
+      {
+        "languageTag": "en-US",
+        "level": 39,
+        "puzzleIndex": 1,
+        "text": "Monkeys and Crocodile",
+        "folderName": "level7/puzzle27/",
+        "background": "ap_puzzle27_background.png",
+        "pieceCount": 24,
+        "mask": null,
+        "sound": "monkeys_and_crocodile.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle27_puzzle1",
+            "posX": 0,
+            "posY": 928,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle27_puzzle2",
+            "posX": 382,
+            "posY": 824,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle27_puzzle3",
+            "posX": 651,
+            "posY": 928,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle27_puzzle4",
+            "posX": 1184,
+            "posY": 824,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle27_puzzle5",
+            "posX": 1453,
+            "posY": 928,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle27_puzzle6",
+            "posX": 1980,
+            "posY": 824,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle27_puzzle7",
+            "posX": 0,
+            "posY": 501,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle27_puzzle8",
+            "posX": 248,
+            "posY": 608,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle27_puzzle9",
+            "posX": 782,
+            "posY": 501,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle27_puzzle10",
+            "posX": 1051,
+            "posY": 608,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle27_puzzle11",
+            "posX": 1585,
+            "posY": 501,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle27_puzzle12",
+            "posX": 1856,
+            "posY": 608,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle27_puzzle13",
+            "posX": 0,
+            "posY": 279,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle27_puzzle14",
+            "posX": 382,
+            "posY": 176,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle27_puzzle15",
+            "posX": 651,
+            "posY": 279,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle27_puzzle16",
+            "posX": 1184,
+            "posY": 176,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle27_puzzle17",
+            "posX": 1453,
+            "posY": 279,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle27_puzzle18",
+            "posX": 1980,
+            "posY": 176,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 19,
+            "filenamePrefix": "ap_puzzle27_puzzle19",
+            "posX": 0,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 20,
+            "filenamePrefix": "ap_puzzle27_puzzle20",
+            "posX": 248,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 21,
+            "filenamePrefix": "ap_puzzle27_puzzle21",
+            "posX": 782,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 22,
+            "filenamePrefix": "ap_puzzle27_puzzle22",
+            "posX": 1051,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 23,
+            "filenamePrefix": "ap_puzzle27_puzzle23",
+            "posX": 1585,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 24,
+            "filenamePrefix": "ap_puzzle27_puzzle24",
+            "posX": 1856,
+            "posY": -34,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ],
+    "40": [
+      {
+        "languageTag": "en-US",
+        "level": 40,
+        "puzzleIndex": 1,
+        "text": "Cacti and Camels",
+        "folderName": "level7/puzzle28/",
+        "background": "ap_puzzle28_background.png",
+        "pieceCount": 24,
+        "mask": null,
+        "sound": "cacti_and_camels.m4a",
+        "pieces": [
+          {
+            "pieceNumber": 1,
+            "filenamePrefix": "ap_puzzle28_puzzle1",
+            "posX": 0,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 2,
+            "filenamePrefix": "ap_puzzle28_puzzle2",
+            "posX": 302,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 3,
+            "filenamePrefix": "ap_puzzle28_puzzle3",
+            "posX": 710,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 4,
+            "filenamePrefix": "ap_puzzle28_puzzle4",
+            "posX": 1110,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 5,
+            "filenamePrefix": "ap_puzzle28_puzzle5",
+            "posX": 1514,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 6,
+            "filenamePrefix": "ap_puzzle28_puzzle6",
+            "posX": 1912,
+            "posY": 942,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 7,
+            "filenamePrefix": "ap_puzzle28_puzzle7",
+            "posX": 0,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 8,
+            "filenamePrefix": "ap_puzzle28_puzzle8",
+            "posX": 401,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 9,
+            "filenamePrefix": "ap_puzzle28_puzzle9",
+            "posX": 798,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 10,
+            "filenamePrefix": "ap_puzzle28_puzzle10",
+            "posX": 1200,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 11,
+            "filenamePrefix": "ap_puzzle28_puzzle11",
+            "posX": 1601,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 12,
+            "filenamePrefix": "ap_puzzle28_puzzle12",
+            "posX": 2005,
+            "posY": 617,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 13,
+            "filenamePrefix": "ap_puzzle28_puzzle13",
+            "posX": 0,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 14,
+            "filenamePrefix": "ap_puzzle28_puzzle14",
+            "posX": 302,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 15,
+            "filenamePrefix": "ap_puzzle28_puzzle15",
+            "posX": 710,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 16,
+            "filenamePrefix": "ap_puzzle28_puzzle16",
+            "posX": 1110,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 17,
+            "filenamePrefix": "ap_puzzle28_puzzle17",
+            "posX": 1514,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 18,
+            "filenamePrefix": "ap_puzzle28_puzzle18",
+            "posX": 1912,
+            "posY": 292,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 19,
+            "filenamePrefix": "ap_puzzle28_puzzle19",
+            "posX": 0,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 20,
+            "filenamePrefix": "ap_puzzle28_puzzle20",
+            "posX": 401,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 21,
+            "filenamePrefix": "ap_puzzle28_puzzle21",
+            "posX": 798,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 22,
+            "filenamePrefix": "ap_puzzle28_puzzle22",
+            "posX": 1200,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 23,
+            "filenamePrefix": "ap_puzzle28_puzzle23",
+            "posX": 1601,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          },
+          {
+            "pieceNumber": 24,
+            "filenamePrefix": "ap_puzzle28_puzzle24",
+            "posX": 2005,
+            "posY": -30,
+            "depth": null,
+            "shadow": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "1": ["egg", "sun", "bug", "dad", "hen", "sea", "kid"],
+    "2": ["nest", "fish", "lion", "duck", "book", "fire", "news", "farm"],
+    "3": ["clock", "light", "quail", "snake", "river", "chair", "woman", "water"],
+    "4": ["flower", "potato", "donkey", "desert", "basket", "school", "toilet", "number"]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "levels": {
+    "1": {
+      "problems": [
+        { "question": "2 + 3 =", "answer": 5, "choices": [4, 5, 6, 7] },
+        { "question": "1 + 4 =", "answer": 5, "choices": [3, 4, 5, 6] },
+        { "question": "3 + 3 =", "answer": 6, "choices": [5, 6, 7, 8] },
+        { "question": "4 + 2 =", "answer": 6, "choices": [4, 5, 6, 8] },
+        { "question": "5 + 3 =", "answer": 8, "choices": [6, 7, 8, 9] },
+        { "question": "2 + 7 =", "answer": 9, "choices": [7, 8, 9, 10] }
+      ]
+    },
+    "2": {
+      "problems": [
+        { "question": "6 + 4 =", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "question": "3 + 5 =", "answer": 8, "choices": [6, 7, 8, 9] },
+        { "question": "4 + 4 =", "answer": 8, "choices": [7, 8, 9, 10] },
+        { "question": "1 + 8 =", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "question": "5 + 5 =", "answer": 10, "choices": [8, 9, 10, 11] },
+        { "question": "7 + 2 =", "answer": 9, "choices": [8, 9, 10, 11] }
+      ]
+    },
+    "3": {
+      "problems": [
+        { "question": "5 - 2 =", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "question": "8 - 3 =", "answer": 5, "choices": [3, 4, 5, 6] },
+        { "question": "7 - 4 =", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "question": "9 - 5 =", "answer": 4, "choices": [3, 4, 5, 6] },
+        { "question": "6 - 2 =", "answer": 4, "choices": [3, 4, 5, 6] },
+        { "question": "10 - 6 =", "answer": 4, "choices": [3, 4, 5, 6] }
+      ]
+    },
+    "4": {
+      "problems": [
+        { "question": "9 - 3 =", "answer": 6, "choices": [4, 5, 6, 7] },
+        { "question": "8 - 5 =", "answer": 3, "choices": [2, 3, 4, 5] },
+        { "question": "10 - 4 =", "answer": 6, "choices": [5, 6, 7, 8] },
+        { "question": "7 - 2 =", "answer": 5, "choices": [4, 5, 6, 7] },
+        { "question": "9 - 1 =", "answer": 8, "choices": [6, 7, 8, 9] },
+        { "question": "10 - 7 =", "answer": 3, "choices": [2, 3, 4, 5] }
+      ]
+    },
+    "5": {
+      "problems": [
+        { "question": "11 + 5 =", "answer": 16, "choices": [14, 15, 16, 17] },
+        { "question": "13 + 7 =", "answer": 20, "choices": [18, 19, 20, 21] },
+        { "question": "15 - 6 =", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "question": "18 - 9 =", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "question": "12 + 8 =", "answer": 20, "choices": [17, 18, 19, 20] },
+        { "question": "17 - 8 =", "answer": 9, "choices": [8, 9, 10, 11] }
+      ]
+    },
+    "6": {
+      "problems": [
+        { "question": "14 + 6 =", "answer": 20, "choices": [18, 19, 20, 21] },
+        { "question": "16 - 7 =", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "question": "9 + 11 =", "answer": 20, "choices": [18, 19, 20, 21] },
+        { "question": "20 - 11 =", "answer": 9, "choices": [7, 8, 9, 10] },
+        { "question": "13 + 4 =", "answer": 17, "choices": [15, 16, 17, 18] },
+        { "question": "19 - 7 =", "answer": 12, "choices": [10, 11, 12, 13] }
+      ]
+    },
+    "7": {
+      "problems": [
+        { "question": "2 × 3 =", "answer": 6, "choices": [4, 5, 6, 8] },
+        { "question": "4 × 2 =", "answer": 8, "choices": [6, 8, 10, 12] },
+        { "question": "3 × 3 =", "answer": 9, "choices": [6, 7, 9, 12] },
+        { "question": "5 × 2 =", "answer": 10, "choices": [8, 9, 10, 12] },
+        { "question": "4 × 3 =", "answer": 12, "choices": [8, 10, 12, 14] },
+        { "question": "5 × 3 =", "answer": 15, "choices": [10, 12, 15, 18] }
+      ]
+    },
+    "8": {
+      "problems": [
+        { "question": "2 × 5 =", "answer": 10, "choices": [8, 9, 10, 12] },
+        { "question": "3 × 4 =", "answer": 12, "choices": [9, 10, 12, 15] },
+        { "question": "5 × 4 =", "answer": 20, "choices": [15, 18, 20, 25] },
+        { "question": "4 × 4 =", "answer": 16, "choices": [12, 14, 16, 20] },
+        { "question": "5 × 5 =", "answer": 25, "choices": [20, 22, 25, 30] },
+        { "question": "3 × 5 =", "answer": 15, "choices": [10, 12, 15, 18] }
+      ]
+    },
+    "9": {
+      "problems": [
+        { "question": "6 × 3 =", "answer": 18, "choices": [15, 16, 18, 21] },
+        { "question": "7 × 4 =", "answer": 28, "choices": [24, 25, 28, 32] },
+        { "question": "8 × 5 =", "answer": 40, "choices": [35, 38, 40, 45] },
+        { "question": "9 × 2 =", "answer": 18, "choices": [14, 16, 18, 20] },
+        { "question": "6 × 7 =", "answer": 42, "choices": [35, 40, 42, 48] },
+        { "question": "8 × 3 =", "answer": 24, "choices": [18, 21, 24, 27] }
+      ]
+    },
+    "10": {
+      "problems": [
+        { "question": "7 × 8 =", "answer": 56, "choices": [48, 54, 56, 63] },
+        { "question": "9 × 6 =", "answer": 54, "choices": [45, 48, 54, 63] },
+        { "question": "8 × 8 =", "answer": 64, "choices": [56, 60, 64, 72] },
+        { "question": "7 × 9 =", "answer": 63, "choices": [54, 56, 63, 72] },
+        { "question": "9 × 9 =", "answer": 81, "choices": [72, 76, 81, 90] },
+        { "question": "10 × 7 =", "answer": 70, "choices": [60, 63, 70, 77] }
+      ]
+    },
+    "11": {
+      "problems": [
+        { "question": "2 × 4 =", "answer": 8, "choices": [6, 8, 10, 12] },
+        { "question": "3 × 3 =", "answer": 9, "choices": [6, 9, 12, 15] },
+        { "question": "4 × 4 =", "answer": 16, "choices": [12, 14, 16, 20] },
+        { "question": "5 × 3 =", "answer": 15, "choices": [10, 12, 15, 18] },
+        { "question": "5 × 4 =", "answer": 20, "choices": [15, 18, 20, 25] },
+        { "question": "5 × 5 =", "answer": 25, "choices": [20, 22, 25, 30] },
+        { "question": "3 × 4 =", "answer": 12, "choices": [9, 10, 12, 15] }
+      ]
+    },
+    "12": {
+      "problems": [
+        { "question": "6 × 3 =", "answer": 18, "choices": [15, 16, 18, 21] },
+        { "question": "7 × 2 =", "answer": 14, "choices": [10, 12, 14, 16] },
+        { "question": "6 × 4 =", "answer": 24, "choices": [20, 22, 24, 28] },
+        { "question": "7 × 5 =", "answer": 35, "choices": [28, 30, 35, 40] },
+        { "question": "6 × 6 =", "answer": 36, "choices": [30, 32, 36, 42] },
+        { "question": "7 × 6 =", "answer": 42, "choices": [35, 40, 42, 48] },
+        { "question": "7 × 7 =", "answer": 49, "choices": [42, 45, 49, 56] }
+      ]
+    },
+    "13": {
+      "problems": [
+        { "question": "8 × 3 =", "answer": 24, "choices": [18, 21, 24, 27] },
+        { "question": "9 × 4 =", "answer": 36, "choices": [27, 32, 36, 40] },
+        { "question": "8 × 6 =", "answer": 48, "choices": [40, 42, 48, 56] },
+        { "question": "9 × 7 =", "answer": 63, "choices": [54, 56, 63, 72] },
+        { "question": "8 × 8 =", "answer": 64, "choices": [56, 60, 64, 72] },
+        { "question": "9 × 8 =", "answer": 72, "choices": [63, 64, 72, 81] },
+        { "question": "9 × 9 =", "answer": 81, "choices": [72, 76, 81, 90] }
+      ]
+    },
+    "14": {
+      "problems": [
+        { "question": "4 × 3 =", "answer": 12, "choices": [9, 12, 15, 18] },
+        { "question": "12 ÷ 3 =", "answer": 4, "choices": [3, 4, 5, 6] },
+        { "question": "5 × 6 =", "answer": 30, "choices": [24, 28, 30, 35] },
+        { "question": "30 ÷ 5 =", "answer": 6, "choices": [4, 5, 6, 7] },
+        { "question": "7 × 4 =", "answer": 28, "choices": [21, 24, 28, 35] },
+        { "question": "28 ÷ 7 =", "answer": 4, "choices": [3, 4, 5, 6] },
+        { "question": "9 × 5 =", "answer": 45, "choices": [36, 40, 45, 54] },
+        { "question": "45 ÷ 9 =", "answer": 5, "choices": [4, 5, 6, 7] }
+      ]
+    }
+  }
+}

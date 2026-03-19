@@ -1,0 +1,148 @@
+{
+  "levels": {
+    "1": {
+      "words": [
+        "cat",
+        "dog",
+        "sun",
+        "pig",
+        "bus"
+      ]
+    },
+    "2": {
+      "words": [
+        "bed",
+        "red",
+        "box",
+        "bug",
+        "car"
+      ]
+    },
+    "3": {
+      "words": [
+        "hen",
+        "rat",
+        "cow",
+        "egg",
+        "man"
+      ]
+    },
+    "4": {
+      "words": [
+        "fish",
+        "frog",
+        "tree",
+        "rain",
+        "cake"
+      ]
+    },
+    "5": {
+      "words": [
+        "book",
+        "duck",
+        "leaf",
+        "lion",
+        "milk"
+      ]
+    },
+    "6": {
+      "words": [
+        "corn",
+        "nest",
+        "song",
+        "farm",
+        "rice"
+      ]
+    },
+    "7": {
+      "words": [
+        "house",
+        "water",
+        "grass",
+        "train",
+        "snake"
+      ]
+    },
+    "8": {
+      "words": [
+        "heart",
+        "honey",
+        "green",
+        "chair",
+        "clock"
+      ]
+    },
+    "9": {
+      "words": [
+        "child",
+        "today",
+        "money",
+        "floor",
+        "lemon"
+      ]
+    },
+    "10": {
+      "words": [
+        "school",
+        "friend",
+        "family",
+        "mother",
+        "father"
+      ]
+    },
+    "11": {
+      "words": [
+        "sister",
+        "pencil",
+        "market",
+        "orange",
+        "mirror"
+      ]
+    },
+    "12": {
+      "words": [
+        "people",
+        "flower",
+        "forest",
+        "bottle",
+        "donkey"
+      ]
+    },
+    "13": {
+      "words": [
+        "basket",
+        "desert",
+        "rocket",
+        "toilet",
+        "freckle"
+      ]
+    },
+    "14": {
+      "words": [
+        "brother",
+        "pumpkin",
+        "hundred",
+        "rooster",
+        "drought"
+      ]
+    },
+    "15": {
+      "words": [
+        "elephant",
+        "children",
+        "mosquito",
+        "classroom",
+        "pineapple"
+      ]
+    },
+    "16": {
+      "words": [
+        "crocodile",
+        "pictures",
+        "potatoes",
+        "grandfather",
+        "grandmother"
+      ]
+    }
+  }
+}

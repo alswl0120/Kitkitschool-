@@ -1,0 +1,61 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/crayon/oneColorFlower_",
+                "succ": "LineMatching/Images/crayon/flower_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/dot/dot_",
+                "succ": "LineMatching/Images/dot/dot_succ_"
+            }
+        ],
+        "UseColorCount": 4,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/cookie/cookie_",
+                "succ": "LineMatching/Images/cookie/cookie_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/crayon/multiColorFlower_",
+                "succ": "LineMatching/Images/crayon/flower_succ_"
+            }
+        ],
+        "UseColorCount": 4,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    }
+}

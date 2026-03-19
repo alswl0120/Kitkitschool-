@@ -1,0 +1,382 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "scene": "face",
+      "sceneEmoji": "😊",
+      "sceneImage": "/assets/games/labeling/scene_face.svg",
+      "sceneLabel": "Human Face",
+      "labels": [
+        { "id": "head",  "word": "Head",  "x": 50, "y": 8  },
+        { "id": "eyes",  "word": "Eyes",  "x": 35, "y": 32 },
+        { "id": "nose",  "word": "Nose",  "x": 50, "y": 50 },
+        { "id": "mouth", "word": "Mouth", "x": 50, "y": 68 }
+      ],
+      "wordBank": ["Head", "Eyes", "Nose", "Mouth", "Ears"]
+    },
+    {
+      "level": 2,
+      "scene": "dog",
+      "sceneEmoji": "🐕",
+      "sceneImage": "/assets/games/labeling/scene_dog.svg",
+      "sceneLabel": "Dog",
+      "labels": [
+        { "id": "ear",  "word": "Ear",  "x": 72, "y": 18 },
+        { "id": "nose", "word": "Nose", "x": 88, "y": 48 },
+        { "id": "paw",  "word": "Paw",  "x": 50, "y": 82 },
+        { "id": "tail", "word": "Tail", "x": 12, "y": 48 }
+      ],
+      "wordBank": ["Ear", "Nose", "Paw", "Tail", "Eye"]
+    },
+    {
+      "level": 3,
+      "scene": "house",
+      "sceneEmoji": "🏠",
+      "sceneImage": "/assets/games/labeling/scene_house.svg",
+      "sceneLabel": "House",
+      "labels": [
+        { "id": "roof",     "word": "Roof",     "x": 50, "y": 12 },
+        { "id": "chimney",  "word": "Chimney",  "x": 72, "y": 20 },
+        { "id": "window",   "word": "Window",   "x": 28, "y": 55 },
+        { "id": "door",     "word": "Door",     "x": 55, "y": 72 }
+      ],
+      "wordBank": ["Roof", "Chimney", "Window", "Door", "Wall"]
+    },
+    {
+      "level": 4,
+      "scene": "tree",
+      "sceneEmoji": "🌳",
+      "sceneImage": "/assets/games/labeling/scene_tree.svg",
+      "sceneLabel": "Tree",
+      "labels": [
+        { "id": "leaf",   "word": "Leaf",   "x": 70, "y": 18 },
+        { "id": "branch", "word": "Branch", "x": 68, "y": 38 },
+        { "id": "trunk",  "word": "Trunk",  "x": 50, "y": 65 },
+        { "id": "root",   "word": "Root",   "x": 32, "y": 88 },
+        { "id": "flower", "word": "Flower", "x": 25, "y": 22 }
+      ],
+      "wordBank": ["Leaf", "Branch", "Trunk", "Root", "Flower"]
+    },
+    {
+      "level": 5,
+      "scene": "car",
+      "sceneEmoji": "🚗",
+      "sceneImage": "/assets/games/labeling/scene_car.svg",
+      "sceneLabel": "Car",
+      "labels": [
+        { "id": "hood",   "word": "Hood",   "x": 80, "y": 48 },
+        { "id": "window", "word": "Window", "x": 50, "y": 28 },
+        { "id": "door",   "word": "Door",   "x": 45, "y": 62 },
+        { "id": "wheel",  "word": "Wheel",  "x": 28, "y": 82 },
+        { "id": "trunk",  "word": "Trunk",  "x": 12, "y": 52 }
+      ],
+      "wordBank": ["Hood", "Window", "Door", "Wheel", "Trunk"]
+    },
+    {
+      "level": 6,
+      "scene": "kitchen",
+      "sceneEmoji": "🍽️",
+      "sceneImage": "/assets/games/labeling/scene_kitchen.svg",
+      "sceneLabel": "Kitchen Items",
+      "labels": [
+        { "id": "plate",  "word": "Plate",  "x": 50, "y": 55 },
+        { "id": "fork",   "word": "Fork",   "x": 25, "y": 50 },
+        { "id": "knife",  "word": "Knife",  "x": 75, "y": 50 },
+        { "id": "spoon",  "word": "Spoon",  "x": 85, "y": 65 },
+        { "id": "cup",    "word": "Cup",    "x": 78, "y": 22 }
+      ],
+      "wordBank": ["Plate", "Fork", "Knife", "Spoon", "Cup"]
+    },
+    {
+      "level": 7,
+      "scene": "classroom",
+      "sceneEmoji": "📚",
+      "sceneImage": "/assets/games/labeling/scene_classroom.svg",
+      "sceneLabel": "Classroom",
+      "labels": [
+        { "id": "book",   "word": "Book",   "x": 30, "y": 30 },
+        { "id": "pen",    "word": "Pen",    "x": 58, "y": 48 },
+        { "id": "ruler",  "word": "Ruler",  "x": 72, "y": 62 },
+        { "id": "eraser", "word": "Eraser", "x": 42, "y": 68 },
+        { "id": "desk",   "word": "Desk",   "x": 50, "y": 85 }
+      ],
+      "wordBank": ["Book", "Pen", "Ruler", "Eraser", "Desk"]
+    },
+    {
+      "level": 8,
+      "scene": "garden",
+      "sceneEmoji": "🌻",
+      "sceneImage": "/assets/games/labeling/scene_garden.svg",
+      "sceneLabel": "Garden",
+      "labels": [
+        { "id": "flower", "word": "Flower", "x": 50, "y": 12 },
+        { "id": "leaf",   "word": "Leaf",   "x": 72, "y": 38 },
+        { "id": "stem",   "word": "Stem",   "x": 50, "y": 55 },
+        { "id": "root",   "word": "Root",   "x": 50, "y": 78 },
+        { "id": "soil",   "word": "Soil",   "x": 50, "y": 92 }
+      ],
+      "wordBank": ["Flower", "Leaf", "Stem", "Root", "Soil"]
+    },
+    {
+      "level": 9,
+      "scene": "playground",
+      "sceneEmoji": "🛝",
+      "sceneLabel": "Playground Actions",
+      "labels": [
+        { "id": "run",   "word": "Run",   "x": 25, "y": 55 },
+        { "id": "jump",  "word": "Jump",  "x": 50, "y": 30 },
+        { "id": "slide", "word": "Slide", "x": 75, "y": 45 },
+        { "id": "swing", "word": "Swing", "x": 50, "y": 65 },
+        { "id": "climb", "word": "Climb", "x": 38, "y": 40 }
+      ],
+      "wordBank": ["Run", "Jump", "Slide", "Swing", "Climb", "Play"]
+    },
+    {
+      "level": 10,
+      "scene": "kitchen_actions",
+      "sceneEmoji": "🍳",
+      "sceneLabel": "Kitchen Actions",
+      "labels": [
+        { "id": "cook",  "word": "Cook",  "x": 50, "y": 35 },
+        { "id": "wash",  "word": "Wash",  "x": 25, "y": 60 },
+        { "id": "cut",   "word": "Cut",   "x": 72, "y": 48 },
+        { "id": "pour",  "word": "Pour",  "x": 55, "y": 65 },
+        { "id": "stir",  "word": "Stir",  "x": 40, "y": 55 }
+      ],
+      "wordBank": ["Cook", "Wash", "Cut", "Pour", "Stir", "Eat"]
+    },
+    {
+      "level": 11,
+      "scene": "school_actions",
+      "sceneEmoji": "✏️",
+      "sceneLabel": "School Actions",
+      "labels": [
+        { "id": "read",  "word": "Read",  "x": 30, "y": 38 },
+        { "id": "write", "word": "Write", "x": 55, "y": 52 },
+        { "id": "draw",  "word": "Draw",  "x": 75, "y": 35 },
+        { "id": "count", "word": "Count", "x": 45, "y": 70 },
+        { "id": "sit",   "word": "Sit",   "x": 60, "y": 78 }
+      ],
+      "wordBank": ["Read", "Write", "Draw", "Count", "Sit", "Listen"]
+    },
+    {
+      "level": 12,
+      "scene": "farm",
+      "sceneEmoji": "🌾",
+      "sceneLabel": "Farm Actions",
+      "labels": [
+        { "id": "plant", "word": "Plant", "x": 28, "y": 70 },
+        { "id": "water", "word": "Water", "x": 50, "y": 55 },
+        { "id": "pick",  "word": "Pick",  "x": 72, "y": 40 },
+        { "id": "feed",  "word": "Feed",  "x": 35, "y": 45 },
+        { "id": "dig",   "word": "Dig",   "x": 62, "y": 72 }
+      ],
+      "wordBank": ["Plant", "Water", "Pick", "Feed", "Dig", "Grow"]
+    },
+    {
+      "level": 13,
+      "scene": "bedroom_actions",
+      "sceneEmoji": "🛏️",
+      "sceneLabel": "Bedroom Actions",
+      "labels": [
+        { "id": "sleep",   "word": "Sleep",   "x": 50, "y": 45 },
+        { "id": "wake",    "word": "Wake",    "x": 70, "y": 32 },
+        { "id": "dress",   "word": "Dress",   "x": 28, "y": 55 },
+        { "id": "brush",   "word": "Brush",   "x": 55, "y": 68 },
+        { "id": "tidy",    "word": "Tidy",    "x": 38, "y": 78 },
+        { "id": "stretch", "word": "Stretch", "x": 68, "y": 62 }
+      ],
+      "wordBank": ["Sleep", "Wake", "Dress", "Brush", "Tidy", "Stretch", "Rest"]
+    },
+    {
+      "level": 14,
+      "scene": "sports",
+      "sceneEmoji": "⚽",
+      "sceneLabel": "Sports Actions",
+      "labels": [
+        { "id": "kick",   "word": "Kick",   "x": 35, "y": 65 },
+        { "id": "throw",  "word": "Throw",  "x": 62, "y": 35 },
+        { "id": "catch",  "word": "Catch",  "x": 80, "y": 50 },
+        { "id": "hit",    "word": "Hit",    "x": 48, "y": 45 },
+        { "id": "swim",   "word": "Swim",   "x": 22, "y": 72 },
+        { "id": "race",   "word": "Race",   "x": 55, "y": 80 }
+      ],
+      "wordBank": ["Kick", "Throw", "Catch", "Hit", "Swim", "Race", "Score"]
+    },
+    {
+      "level": 15,
+      "scene": "colorful_fruits",
+      "sceneEmoji": "🍎",
+      "sceneLabel": "Colorful Fruits",
+      "labels": [
+        { "id": "red_apple",    "word": "Red Apple",    "x": 25, "y": 30 },
+        { "id": "yellow_banana","word": "Yellow Banana","x": 60, "y": 25 },
+        { "id": "orange",       "word": "Orange",       "x": 78, "y": 45 },
+        { "id": "green_grape",  "word": "Green Grape",  "x": 40, "y": 65 },
+        { "id": "purple_plum",  "word": "Purple Plum",  "x": 20, "y": 70 }
+      ],
+      "wordBank": ["Red Apple", "Yellow Banana", "Orange", "Green Grape", "Purple Plum", "Blue Berry"]
+    },
+    {
+      "level": 16,
+      "scene": "shapes",
+      "sceneEmoji": "🔵",
+      "sceneLabel": "Shapes and Colors",
+      "labels": [
+        { "id": "big_circle",    "word": "Big Circle",    "x": 22, "y": 35 },
+        { "id": "small_square",  "word": "Small Square",  "x": 60, "y": 25 },
+        { "id": "red_triangle",  "word": "Red Triangle",  "x": 75, "y": 55 },
+        { "id": "blue_rectangle","word": "Blue Rectangle","x": 40, "y": 70 },
+        { "id": "yellow_star",   "word": "Yellow Star",   "x": 55, "y": 50 }
+      ],
+      "wordBank": ["Big Circle", "Small Square", "Red Triangle", "Blue Rectangle", "Yellow Star", "Green Diamond"]
+    },
+    {
+      "level": 17,
+      "scene": "animals_sizes",
+      "sceneEmoji": "🐘",
+      "sceneLabel": "Animal Sizes",
+      "labels": [
+        { "id": "big_elephant",  "word": "Big Elephant",  "x": 20, "y": 45 },
+        { "id": "small_mouse",   "word": "Small Mouse",   "x": 72, "y": 72 },
+        { "id": "tall_giraffe",  "word": "Tall Giraffe",  "x": 55, "y": 15 },
+        { "id": "short_frog",    "word": "Short Frog",    "x": 38, "y": 75 },
+        { "id": "fat_hippo",     "word": "Fat Hippo",     "x": 65, "y": 55 }
+      ],
+      "wordBank": ["Big Elephant", "Small Mouse", "Tall Giraffe", "Short Frog", "Fat Hippo", "Tiny Ant"]
+    },
+    {
+      "level": 18,
+      "scene": "clothes",
+      "sceneEmoji": "👕",
+      "sceneLabel": "Clothes and Colors",
+      "labels": [
+        { "id": "red_shirt",    "word": "Red Shirt",    "x": 45, "y": 28 },
+        { "id": "blue_pants",   "word": "Blue Pants",   "x": 45, "y": 60 },
+        { "id": "green_hat",    "word": "Green Hat",    "x": 48, "y": 10 },
+        { "id": "yellow_shoes", "word": "Yellow Shoes", "x": 42, "y": 88 },
+        { "id": "white_socks",  "word": "White Socks",  "x": 42, "y": 78 }
+      ],
+      "wordBank": ["Red Shirt", "Blue Pants", "Green Hat", "Yellow Shoes", "White Socks", "Brown Coat"]
+    },
+    {
+      "level": 19,
+      "scene": "weather",
+      "sceneEmoji": "🌤️",
+      "sceneLabel": "Weather Descriptions",
+      "labels": [
+        { "id": "hot_sun",     "word": "Hot Sun",     "x": 75, "y": 15 },
+        { "id": "cold_snow",   "word": "Cold Snow",   "x": 30, "y": 75 },
+        { "id": "dark_cloud",  "word": "Dark Cloud",  "x": 40, "y": 25 },
+        { "id": "strong_wind", "word": "Strong Wind", "x": 65, "y": 45 },
+        { "id": "wet_rain",    "word": "Wet Rain",    "x": 20, "y": 55 },
+        { "id": "bright_sky",  "word": "Bright Sky",  "x": 55, "y": 10 }
+      ],
+      "wordBank": ["Hot Sun", "Cold Snow", "Dark Cloud", "Strong Wind", "Wet Rain", "Bright Sky", "Cool Breeze"]
+    },
+    {
+      "level": 20,
+      "scene": "food_sizes",
+      "sceneEmoji": "🍕",
+      "sceneLabel": "Food Descriptions",
+      "labels": [
+        { "id": "big_pizza",    "word": "Big Pizza",    "x": 25, "y": 42 },
+        { "id": "small_cookie", "word": "Small Cookie", "x": 70, "y": 65 },
+        { "id": "sweet_cake",   "word": "Sweet Cake",   "x": 55, "y": 28 },
+        { "id": "hot_soup",     "word": "Hot Soup",     "x": 38, "y": 68 },
+        { "id": "cold_ice_cream","word": "Cold Ice Cream","x": 72, "y": 35 },
+        { "id": "crunchy_bread","word": "Crunchy Bread","x": 45, "y": 80 }
+      ],
+      "wordBank": ["Big Pizza", "Small Cookie", "Sweet Cake", "Hot Soup", "Cold Ice Cream", "Crunchy Bread", "Fresh Salad"]
+    },
+    {
+      "level": 21,
+      "scene": "park_scene",
+      "sceneEmoji": "🏞️",
+      "sceneLabel": "Park Scene",
+      "labels": [
+        { "id": "the_dog_runs",    "word": "The dog runs",    "x": 28, "y": 62 },
+        { "id": "a_bird_flies",    "word": "A bird flies",    "x": 62, "y": 22 },
+        { "id": "kids_play",       "word": "Kids play",       "x": 50, "y": 75 },
+        { "id": "trees_are_tall",  "word": "Trees are tall",  "x": 20, "y": 35 },
+        { "id": "sun_is_bright",   "word": "Sun is bright",   "x": 75, "y": 12 }
+      ],
+      "wordBank": ["The dog runs", "A bird flies", "Kids play", "Trees are tall", "Sun is bright", "Flowers bloom"]
+    },
+    {
+      "level": 22,
+      "scene": "ocean_scene",
+      "sceneEmoji": "🌊",
+      "sceneLabel": "Ocean Scene",
+      "labels": [
+        { "id": "fish_swim_fast",   "word": "Fish swim fast",   "x": 45, "y": 55 },
+        { "id": "waves_are_big",    "word": "Waves are big",    "x": 55, "y": 30 },
+        { "id": "boat_sails_away",  "word": "Boat sails away",  "x": 72, "y": 22 },
+        { "id": "crabs_walk_slow",  "word": "Crabs walk slow",  "x": 25, "y": 80 },
+        { "id": "sky_is_blue",      "word": "Sky is blue",      "x": 50, "y": 10 },
+        { "id": "sand_is_warm",     "word": "Sand is warm",     "x": 35, "y": 88 }
+      ],
+      "wordBank": ["Fish swim fast", "Waves are big", "Boat sails away", "Crabs walk slow", "Sky is blue", "Sand is warm", "Seagulls call"]
+    },
+    {
+      "level": 23,
+      "scene": "farm_scene",
+      "sceneEmoji": "🐄",
+      "sceneLabel": "Farm Scene",
+      "labels": [
+        { "id": "cow_eats_grass",   "word": "Cow eats grass",   "x": 30, "y": 65 },
+        { "id": "hen_lays_eggs",    "word": "Hen lays eggs",    "x": 65, "y": 55 },
+        { "id": "farmer_works_hard","word": "Farmer works hard","x": 48, "y": 42 },
+        { "id": "crops_grow_tall",  "word": "Crops grow tall",  "x": 72, "y": 30 },
+        { "id": "pig_rolls_mud",    "word": "Pig rolls in mud", "x": 22, "y": 78 },
+        { "id": "rooster_crows",    "word": "Rooster crows",    "x": 55, "y": 18 }
+      ],
+      "wordBank": ["Cow eats grass", "Hen lays eggs", "Farmer works hard", "Crops grow tall", "Pig rolls in mud", "Rooster crows", "Dog guards farm"]
+    },
+    {
+      "level": 24,
+      "scene": "city_scene",
+      "sceneEmoji": "🏙️",
+      "sceneLabel": "City Scene",
+      "labels": [
+        { "id": "cars_drive_fast",   "word": "Cars drive fast",   "x": 50, "y": 72 },
+        { "id": "people_walk_by",    "word": "People walk by",    "x": 30, "y": 62 },
+        { "id": "buildings_stand_tall","word": "Buildings stand tall","x": 55, "y": 25 },
+        { "id": "bus_stops_here",    "word": "Bus stops here",    "x": 22, "y": 75 },
+        { "id": "lights_flash_green","word": "Lights flash green","x": 75, "y": 55 },
+        { "id": "shops_are_open",    "word": "Shops are open",    "x": 40, "y": 48 }
+      ],
+      "wordBank": ["Cars drive fast", "People walk by", "Buildings stand tall", "Bus stops here", "Lights flash green", "Shops are open", "Horns beep loud"]
+    },
+    {
+      "level": 25,
+      "scene": "rainforest",
+      "sceneEmoji": "🦜",
+      "sceneLabel": "Rainforest Scene",
+      "labels": [
+        { "id": "monkeys_swing_high",  "word": "Monkeys swing high",  "x": 55, "y": 28 },
+        { "id": "rain_falls_hard",     "word": "Rain falls hard",     "x": 35, "y": 18 },
+        { "id": "frogs_leap_far",      "word": "Frogs leap far",      "x": 28, "y": 70 },
+        { "id": "parrot_calls_loud",   "word": "Parrot calls loud",   "x": 75, "y": 35 },
+        { "id": "vines_hang_down",     "word": "Vines hang down",     "x": 48, "y": 50 },
+        { "id": "river_flows_deep",    "word": "River flows deep",    "x": 55, "y": 80 }
+      ],
+      "wordBank": ["Monkeys swing high", "Rain falls hard", "Frogs leap far", "Parrot calls loud", "Vines hang down", "River flows deep", "Leaves drip wet"]
+    },
+    {
+      "level": 26,
+      "scene": "space",
+      "sceneEmoji": "🚀",
+      "sceneLabel": "Space Scene",
+      "labels": [
+        { "id": "rocket_flies_up",     "word": "Rocket flies up",     "x": 50, "y": 25 },
+        { "id": "stars_shine_bright",  "word": "Stars shine bright",  "x": 78, "y": 18 },
+        { "id": "moon_glows_white",    "word": "Moon glows white",    "x": 22, "y": 30 },
+        { "id": "astronaut_floats_free","word": "Astronaut floats free","x": 62, "y": 50 },
+        { "id": "planets_spin_slowly", "word": "Planets spin slowly", "x": 32, "y": 60 },
+        { "id": "earth_looks_small",   "word": "Earth looks small",   "x": 50, "y": 80 }
+      ],
+      "wordBank": ["Rocket flies up", "Stars shine bright", "Moon glows white", "Astronaut floats free", "Planets spin slowly", "Earth looks small", "Comets streak past"]
+    }
+  ]
+}

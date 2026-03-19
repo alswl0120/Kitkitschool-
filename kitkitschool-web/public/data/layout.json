@@ -1,0 +1,1897 @@
+{
+  "_meta": {
+    "description": "Extracted from C++ Cocos2d-x source code",
+    "designResolution": "2560×1800 (Google Pixel C)",
+    "coordinateSystem": "Cocos2d-x: Y=0 at bottom, Y increases upward",
+    "generatedAt": "2026-03-08T15:56:20.975Z"
+  },
+  "coopScene": {
+    "designSize": {
+      "width": 2560,
+      "height": 1800
+    },
+    "birdScale": 0.7,
+    "birdInternalScale": 2.857142857142857,
+    "bgSize": {
+      "height": 1630,
+      "width": 3202
+    },
+    "assets": {
+      "nestEnglish": {
+        "width": 562,
+        "height": 215
+      },
+      "nestMath": {
+        "width": 562,
+        "height": 215
+      },
+      "panelEnglish": {
+        "width": 520,
+        "height": 92
+      },
+      "panelMath": {
+        "width": 520,
+        "height": 92
+      },
+      "panelPrek": {
+        "width": 520,
+        "height": 92
+      },
+      "birdShadow": {
+        "width": 407,
+        "height": 156
+      },
+      "eggShadow": {
+        "width": 354,
+        "height": 82
+      }
+    },
+    "slots": [
+      {
+        "key": "L_0",
+        "category": "L",
+        "level": 0,
+        "gridX": 1,
+        "gridY": 2,
+        "panelPos": {
+          "x": 960,
+          "y": 1090
+        },
+        "birdPos": {
+          "x": 960,
+          "y": 1210
+        },
+        "nestPos": {
+          "x": 960,
+          "y": 1110
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 1090
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 1110
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird1",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.02
+          },
+          "pos": {
+            "x": 960,
+            "y": 1210
+          },
+          "rawFrameSize": {
+            "width": 99,
+            "height": 100
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 198,
+            "height": 200
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 960,
+            "y": 1210
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 0.4864864864864865,
+          "pos": {
+            "x": 960,
+            "y": 1210
+          }
+        },
+        "css": {
+          "leftPct": 37.5,
+          "panelBottomPct": 60.55555555555555,
+          "nestBottomPct": 61.66666666666667,
+          "birdBottomPct": 67.22222222222223,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 7.734375,
+          "birdVisualHeightPct": 11.11111111111111,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "L_1",
+        "category": "L",
+        "level": 1,
+        "gridX": 0,
+        "gridY": 2,
+        "panelPos": {
+          "x": 320,
+          "y": 1090
+        },
+        "birdPos": {
+          "x": 320,
+          "y": 1210
+        },
+        "nestPos": {
+          "x": 320,
+          "y": 1110
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 1090
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 1110
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird5",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.02
+          },
+          "pos": {
+            "x": 320,
+            "y": 1210
+          },
+          "rawFrameSize": {
+            "width": 161,
+            "height": 213
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 322,
+            "height": 426
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 320,
+            "y": 1210
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 0.7911547911547911,
+          "pos": {
+            "x": 320,
+            "y": 1210
+          }
+        },
+        "css": {
+          "leftPct": 12.5,
+          "panelBottomPct": 60.55555555555555,
+          "nestBottomPct": 61.66666666666667,
+          "birdBottomPct": 67.22222222222223,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 12.578125000000002,
+          "birdVisualHeightPct": 23.666666666666668,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "L_2",
+        "category": "L",
+        "level": 2,
+        "gridX": 1,
+        "gridY": 1,
+        "panelPos": {
+          "x": 960,
+          "y": 545
+        },
+        "birdPos": {
+          "x": 960,
+          "y": 665
+        },
+        "nestPos": {
+          "x": 960,
+          "y": 565
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 545
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 565
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird4",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.02
+          },
+          "pos": {
+            "x": 960,
+            "y": 665
+          },
+          "rawFrameSize": {
+            "width": 195,
+            "height": 221
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 390,
+            "height": 442
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 960,
+            "y": 665
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 0.9582309582309583,
+          "pos": {
+            "x": 960,
+            "y": 665
+          }
+        },
+        "css": {
+          "leftPct": 37.5,
+          "panelBottomPct": 30.277777777777775,
+          "nestBottomPct": 31.38888888888889,
+          "birdBottomPct": 36.94444444444444,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 15.234375,
+          "birdVisualHeightPct": 24.555555555555557,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "L_3",
+        "category": "L",
+        "level": 3,
+        "gridX": 0,
+        "gridY": 1,
+        "panelPos": {
+          "x": 320,
+          "y": 545
+        },
+        "birdPos": {
+          "x": 320,
+          "y": 665
+        },
+        "nestPos": {
+          "x": 320,
+          "y": 565
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 545
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 565
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird3",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.02
+          },
+          "pos": {
+            "x": 320,
+            "y": 665
+          },
+          "rawFrameSize": {
+            "width": 220,
+            "height": 256
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 440,
+            "height": 512
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 320,
+            "y": 665
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.0810810810810811,
+          "pos": {
+            "x": 320,
+            "y": 665
+          }
+        },
+        "css": {
+          "leftPct": 12.5,
+          "panelBottomPct": 30.277777777777775,
+          "nestBottomPct": 31.38888888888889,
+          "birdBottomPct": 36.94444444444444,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 17.1875,
+          "birdVisualHeightPct": 28.444444444444443,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "L_4",
+        "category": "L",
+        "level": 4,
+        "gridX": 1,
+        "gridY": 0,
+        "panelPos": {
+          "x": 960,
+          "y": 0
+        },
+        "birdPos": {
+          "x": 960,
+          "y": 120
+        },
+        "nestPos": {
+          "x": 960,
+          "y": 20
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 0
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 960,
+            "y": 20
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird6",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 960,
+            "y": 120
+          },
+          "rawFrameSize": {
+            "width": 152,
+            "height": 246
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 304,
+            "height": 492
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 960,
+            "y": 120
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 0.7469287469287469,
+          "pos": {
+            "x": 960,
+            "y": 120
+          }
+        },
+        "css": {
+          "leftPct": 37.5,
+          "panelBottomPct": 0,
+          "nestBottomPct": 1.1111111111111112,
+          "birdBottomPct": 6.666666666666667,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 11.875,
+          "birdVisualHeightPct": 27.333333333333332,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "L_5",
+        "category": "L",
+        "level": 5,
+        "gridX": 0,
+        "gridY": 0,
+        "panelPos": {
+          "x": 320,
+          "y": 0
+        },
+        "birdPos": {
+          "x": 320,
+          "y": 120
+        },
+        "nestPos": {
+          "x": 320,
+          "y": 20
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 0
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 320,
+            "y": 20
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird7",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.02
+          },
+          "pos": {
+            "x": 320,
+            "y": 120
+          },
+          "rawFrameSize": {
+            "width": 279,
+            "height": 239
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 558,
+            "height": 478
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 320,
+            "y": 120
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.371007371007371,
+          "pos": {
+            "x": 320,
+            "y": 120
+          }
+        },
+        "css": {
+          "leftPct": 12.5,
+          "panelBottomPct": 0,
+          "nestBottomPct": 1.1111111111111112,
+          "birdBottomPct": 6.666666666666667,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 21.796875,
+          "birdVisualHeightPct": 26.555555555555554,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_0",
+        "category": "M",
+        "level": 0,
+        "gridX": 2,
+        "gridY": 2,
+        "panelPos": {
+          "x": 1600,
+          "y": 1090
+        },
+        "birdPos": {
+          "x": 1600,
+          "y": 1210
+        },
+        "nestPos": {
+          "x": 1600,
+          "y": 1110
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 1090
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 1110
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird2",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 1600,
+            "y": 1210
+          },
+          "rawFrameSize": {
+            "width": 153,
+            "height": 91
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 306,
+            "height": 182
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 1600,
+            "y": 1210
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 0.7518427518427518,
+          "pos": {
+            "x": 1600,
+            "y": 1210
+          }
+        },
+        "css": {
+          "leftPct": 62.5,
+          "panelBottomPct": 60.55555555555555,
+          "nestBottomPct": 61.66666666666667,
+          "birdBottomPct": 67.22222222222223,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 11.953125,
+          "birdVisualHeightPct": 10.11111111111111,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_1",
+        "category": "M",
+        "level": 1,
+        "gridX": 3,
+        "gridY": 2,
+        "panelPos": {
+          "x": 2240,
+          "y": 1090
+        },
+        "birdPos": {
+          "x": 2240,
+          "y": 1210
+        },
+        "nestPos": {
+          "x": 2240,
+          "y": 1110
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 1090
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 1110
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird8",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.12
+          },
+          "pos": {
+            "x": 2240,
+            "y": 1210
+          },
+          "rawFrameSize": {
+            "width": 233,
+            "height": 136
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 466,
+            "height": 272
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 2240,
+            "y": 1210
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.144963144963145,
+          "pos": {
+            "x": 2240,
+            "y": 1210
+          }
+        },
+        "css": {
+          "leftPct": 87.5,
+          "panelBottomPct": 60.55555555555555,
+          "nestBottomPct": 61.66666666666667,
+          "birdBottomPct": 67.22222222222223,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 18.203125,
+          "birdVisualHeightPct": 15.11111111111111,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_2",
+        "category": "M",
+        "level": 2,
+        "gridX": 2,
+        "gridY": 1,
+        "panelPos": {
+          "x": 1600,
+          "y": 545
+        },
+        "birdPos": {
+          "x": 1600,
+          "y": 665
+        },
+        "nestPos": {
+          "x": 1600,
+          "y": 565
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 545
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 565
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird9",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.18
+          },
+          "pos": {
+            "x": 1600,
+            "y": 665
+          },
+          "rawFrameSize": {
+            "width": 254,
+            "height": 178
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 508,
+            "height": 356
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 1600,
+            "y": 665
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.2481572481572483,
+          "pos": {
+            "x": 1600,
+            "y": 665
+          }
+        },
+        "css": {
+          "leftPct": 62.5,
+          "panelBottomPct": 30.277777777777775,
+          "nestBottomPct": 31.38888888888889,
+          "birdBottomPct": 36.94444444444444,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 19.84375,
+          "birdVisualHeightPct": 19.77777777777778,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_3",
+        "category": "M",
+        "level": 3,
+        "gridX": 3,
+        "gridY": 1,
+        "panelPos": {
+          "x": 2240,
+          "y": 545
+        },
+        "birdPos": {
+          "x": 2240,
+          "y": 665
+        },
+        "nestPos": {
+          "x": 2240,
+          "y": 565
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 545
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 565
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird11",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.1
+          },
+          "pos": {
+            "x": 2240,
+            "y": 665
+          },
+          "rawFrameSize": {
+            "width": 255,
+            "height": 188
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 510,
+            "height": 376
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 2240,
+            "y": 665
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.253071253071253,
+          "pos": {
+            "x": 2240,
+            "y": 665
+          }
+        },
+        "css": {
+          "leftPct": 87.5,
+          "panelBottomPct": 30.277777777777775,
+          "nestBottomPct": 31.38888888888889,
+          "birdBottomPct": 36.94444444444444,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 19.921875,
+          "birdVisualHeightPct": 20.88888888888889,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_4",
+        "category": "M",
+        "level": 4,
+        "gridX": 2,
+        "gridY": 0,
+        "panelPos": {
+          "x": 1600,
+          "y": 0
+        },
+        "birdPos": {
+          "x": 1600,
+          "y": 120
+        },
+        "nestPos": {
+          "x": 1600,
+          "y": 20
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 0
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 1600,
+            "y": 20
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird10",
+          "anchor": {
+            "x": 0.55,
+            "y": 0.1
+          },
+          "pos": {
+            "x": 1600,
+            "y": 120
+          },
+          "rawFrameSize": {
+            "width": 275,
+            "height": 165
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 550,
+            "height": 330
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 1600,
+            "y": 120
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.3513513513513513,
+          "pos": {
+            "x": 1600,
+            "y": 120
+          }
+        },
+        "css": {
+          "leftPct": 62.5,
+          "panelBottomPct": 0,
+          "nestBottomPct": 1.1111111111111112,
+          "birdBottomPct": 6.666666666666667,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 21.484375,
+          "birdVisualHeightPct": 18.333333333333332,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      },
+      {
+        "key": "M_5",
+        "category": "M",
+        "level": 5,
+        "gridX": 3,
+        "gridY": 0,
+        "panelPos": {
+          "x": 2240,
+          "y": 0
+        },
+        "birdPos": {
+          "x": 2240,
+          "y": 120
+        },
+        "nestPos": {
+          "x": 2240,
+          "y": 20
+        },
+        "panel": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 0
+          },
+          "size": {
+            "width": 520,
+            "height": 92
+          },
+          "labelFontSize": 42,
+          "labelOffset": {
+            "x": 0,
+            "y": -5
+          }
+        },
+        "nest": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0
+          },
+          "pos": {
+            "x": 2240,
+            "y": 20
+          },
+          "size": {
+            "width": 562,
+            "height": 215
+          }
+        },
+        "bird": {
+          "birdName": "bird12",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.08
+          },
+          "pos": {
+            "x": 2240,
+            "y": 120
+          },
+          "rawFrameSize": {
+            "width": 267,
+            "height": 199
+          },
+          "nodeScale": 0.7,
+          "internalScale": 2.857142857142857,
+          "effectiveScale": 2,
+          "visualSize": {
+            "width": 534,
+            "height": 398
+          }
+        },
+        "egg": {
+          "anchor": {
+            "x": 0.5,
+            "y": 0.05
+          },
+          "pos": {
+            "x": 2240,
+            "y": 120
+          },
+          "size": {
+            "width": 298,
+            "height": 382
+          }
+        },
+        "shadow": {
+          "birdShadowSize": {
+            "width": 407,
+            "height": 156
+          },
+          "eggShadowSize": {
+            "width": 354,
+            "height": 82
+          },
+          "birdShadowScale": 1.3120393120393121,
+          "pos": {
+            "x": 2240,
+            "y": 120
+          }
+        },
+        "css": {
+          "leftPct": 87.5,
+          "panelBottomPct": 0,
+          "nestBottomPct": 1.1111111111111112,
+          "birdBottomPct": 6.666666666666667,
+          "nestWidthPct": 21.953125,
+          "panelWidthPct": 20.3125,
+          "birdVisualWidthPct": 20.859375,
+          "birdVisualHeightPct": 22.11111111111111,
+          "eggWidthPct": 11.640625,
+          "eggHeightPct": 21.22222222222222
+        }
+      }
+    ]
+  },
+  "daySelect": {
+    "designSize": {
+      "width": 2560,
+      "height": 1800
+    },
+    "board": {
+      "pos": {
+        "x": 122,
+        "y": 1800
+      },
+      "anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "size": {
+        "width": 1430,
+        "height": 1568
+      }
+    },
+    "buttonGrid": {
+      "btnSize": {
+        "width": 289,
+        "height": 358
+      },
+      "btnMargin": {
+        "width": 36,
+        "height": 38
+      },
+      "numBtnX": 4,
+      "leftX": 83,
+      "topY": 1188,
+      "dayLabelY": 62,
+      "dayLabelYComp": 56,
+      "positions": [
+        {
+          "index": 0,
+          "x": 227.5,
+          "y": 1009
+        },
+        {
+          "index": 1,
+          "x": 552.5,
+          "y": 1009
+        },
+        {
+          "index": 2,
+          "x": 877.5,
+          "y": 1009
+        },
+        {
+          "index": 3,
+          "x": 1202.5,
+          "y": 1009
+        },
+        {
+          "index": 4,
+          "x": 227.5,
+          "y": 613
+        },
+        {
+          "index": 5,
+          "x": 552.5,
+          "y": 613
+        },
+        {
+          "index": 6,
+          "x": 877.5,
+          "y": 613
+        },
+        {
+          "index": 7,
+          "x": 1202.5,
+          "y": 613
+        },
+        {
+          "index": 8,
+          "x": 227.5,
+          "y": 217
+        },
+        {
+          "index": 9,
+          "x": 552.5,
+          "y": 217
+        },
+        {
+          "index": 10,
+          "x": 877.5,
+          "y": 217
+        },
+        {
+          "index": 11,
+          "x": 1202.5,
+          "y": 217
+        },
+        {
+          "index": 12,
+          "x": 227.5,
+          "y": -179
+        },
+        {
+          "index": 13,
+          "x": 552.5,
+          "y": -179
+        },
+        {
+          "index": 14,
+          "x": 877.5,
+          "y": -179
+        },
+        {
+          "index": 15,
+          "x": 1202.5,
+          "y": -179
+        }
+      ]
+    },
+    "titlePanel": {
+      "anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "posInBoard": {
+        "x": 715,
+        "y": 1268
+      },
+      "sizes": {
+        "english": {
+          "width": 813,
+          "height": 156
+        },
+        "math": {
+          "width": 813,
+          "height": 156
+        },
+        "prek": {
+          "width": 813,
+          "height": 156
+        }
+      }
+    },
+    "stage": {
+      "size": {
+        "width": 960,
+        "height": 1700
+      },
+      "anchor": {
+        "x": 1,
+        "y": 1
+      },
+      "pos": {
+        "x": 2560,
+        "y": 1800
+      },
+      "treestump": {
+        "anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "pos": {
+          "x": 480,
+          "y": 0
+        },
+        "size": {
+          "width": 1088,
+          "height": 531
+        }
+      },
+      "treeshadow": {
+        "pos": {
+          "x": 480,
+          "y": 438
+        },
+        "size": {
+          "width": 730,
+          "height": 184
+        }
+      },
+      "bird": {
+        "pos": {
+          "x": 480,
+          "y": 448
+        }
+      },
+      "treetop": {
+        "anchor": {
+          "x": 1,
+          "y": 1
+        },
+        "size": {
+          "width": 825,
+          "height": 360
+        }
+      }
+    },
+    "beam": {
+      "anchor": {
+        "x": 1,
+        "y": 1
+      },
+      "pos": {
+        "x": 960,
+        "y": 1700
+      },
+      "size": {
+        "width": 1111,
+        "height": 1329
+      }
+    },
+    "bg": {
+      "size": {
+        "height": 1800,
+        "width": 2560
+      }
+    },
+    "icons": {
+      "todo": {
+        "width": 289,
+        "height": 358
+      },
+      "todoComplete": {
+        "width": 289,
+        "height": 358
+      },
+      "challenge": {
+        "width": 289,
+        "height": 358
+      },
+      "challengeComplete": {
+        "width": 289,
+        "height": 358
+      }
+    }
+  },
+  "mainScene": {
+    "designSize": {
+      "width": 2560,
+      "height": 1800
+    },
+    "skySize": {
+      "width": 2560,
+      "height": 3600
+    },
+    "rootNode": {
+      "size": {
+        "width": 2560,
+        "height": 1800
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0
+      }
+    },
+    "sky": {
+      "size": {
+        "width": 2560,
+        "height": 3600
+      },
+      "scale": 1,
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "grass": {
+      "size": {
+        "width": 2560,
+        "height": 1016
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      },
+      "pos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "leavesLeft": {
+      "size": {
+        "width": 474,
+        "height": 820
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      },
+      "bottomOffset": 474
+    },
+    "leavesRight": {
+      "size": {
+        "width": 488,
+        "height": 806
+      },
+      "anchor": {
+        "x": 1,
+        "y": 0
+      },
+      "bottomOffset": 382
+    },
+    "clouds": {
+      "cloud1": {
+        "size": {
+          "width": 776,
+          "height": 570
+        },
+        "startX": "visibleSize.width",
+        "yRange": [
+          1350,
+          1450
+        ],
+        "speedRange": [
+          40,
+          50
+        ],
+        "moveRange": "visibleSize.width + 1000",
+        "resetX": -500
+      },
+      "cloud2": {
+        "size": {
+          "width": 566,
+          "height": 418
+        },
+        "startX": "visibleSize.width",
+        "yRange": [
+          1450,
+          1550
+        ],
+        "speedRange": [
+          35,
+          40
+        ],
+        "moveRange": "visibleSize.width + 1000",
+        "resetX": -500
+      },
+      "cloud3": {
+        "size": {
+          "width": 927,
+          "height": 590
+        },
+        "startX": "visibleSize.width",
+        "yRange": [
+          1650,
+          1750
+        ],
+        "speedRange": [
+          25,
+          35
+        ],
+        "moveRange": "visibleSize.width + 1000",
+        "resetX": -500
+      }
+    },
+    "bird": {
+      "pos": {
+        "x": 1280,
+        "y": 600
+      },
+      "shadowSize": {
+        "width": 1050,
+        "height": 252
+      }
+    },
+    "panelNode": {
+      "size": {
+        "width": 670,
+        "height": 162
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "panels": {
+      "english": {
+        "width": 670,
+        "height": 162
+      },
+      "math": {
+        "width": 670,
+        "height": 162
+      },
+      "prek": {
+        "width": 670,
+        "height": 162
+      }
+    },
+    "dayPanel": {
+      "size": {
+        "width": 156,
+        "height": 114
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "pos": {
+        "x": 626,
+        "y": 60
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": -5
+      },
+      "labelFontSize": 70
+    },
+    "panelLabel": {
+      "fontSize": 55,
+      "offset": {
+        "x": 0,
+        "y": -25
+      }
+    },
+    "gameIcons": {
+      "y": 150,
+      "designWidth": 2560,
+      "iconFrame": {
+        "width": 250,
+        "height": 260
+      },
+      "levelCircle": {
+        "size": {
+          "width": 103,
+          "height": 102
+        },
+        "anchor": {
+          "x": 1,
+          "y": 0
+        },
+        "pos": {
+          "x": 250,
+          "y": 15
+        }
+      }
+    },
+    "iconAssets": {
+      "frame": {
+        "width": 250,
+        "height": 260
+      },
+      "frameEggQuiz": {
+        "width": 250,
+        "height": 260
+      },
+      "frameShadow": {
+        "width": 250,
+        "height": 260
+      },
+      "completed": {
+        "width": 250,
+        "height": 260
+      },
+      "levelCircle": {
+        "width": 103,
+        "height": 102
+      }
+    },
+    "css": {
+      "birdBottomPct": 33.33333333333333,
+      "birdLeftPct": 50,
+      "gameIconBottomPct": 8.333333333333332,
+      "grassHeightPct": 56.44444444444444,
+      "leavesLeftTopPct": 26.333333333333332,
+      "leavesRightTopPct": 21.22222222222222
+    }
+  }
+}

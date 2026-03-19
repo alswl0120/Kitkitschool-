@@ -1,0 +1,158 @@
+{
+  "title": "Letter L",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "L"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "for"
+                },
+                {
+                  "text": "lion."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Lion"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "L."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Lamp"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "L."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Leaf"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "L."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Lemon"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "L."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Can"
+                },
+                {
+                  "text": "you"
+                },
+                {
+                  "text": "find"
+                },
+                {
+                  "text": "more"
+                },
+                {
+                  "text": "L"
+                },
+                {
+                  "text": "words?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

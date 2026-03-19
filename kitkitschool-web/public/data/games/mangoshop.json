@@ -1,0 +1,609 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {
+          "price": 3,
+          "choices": [
+            1,
+            3,
+            5,
+            7
+          ],
+          "correct": 1
+        },
+        {
+          "price": 5,
+          "choices": [
+            2,
+            4,
+            5,
+            8
+          ],
+          "correct": 2
+        },
+        {
+          "price": 1,
+          "choices": [
+            1,
+            3,
+            6,
+            9
+          ],
+          "correct": 0
+        },
+        {
+          "price": 7,
+          "choices": [
+            2,
+            5,
+            7,
+            9
+          ],
+          "correct": 2
+        },
+        {
+          "price": 4,
+          "choices": [
+            4,
+            6,
+            8,
+            10
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {
+          "price": 6,
+          "choices": [
+            3,
+            6,
+            8,
+            10
+          ],
+          "correct": 1
+        },
+        {
+          "price": 9,
+          "choices": [
+            5,
+            7,
+            9,
+            2
+          ],
+          "correct": 2
+        },
+        {
+          "price": 2,
+          "choices": [
+            2,
+            4,
+            6,
+            8
+          ],
+          "correct": 0
+        },
+        {
+          "price": 8,
+          "choices": [
+            3,
+            5,
+            8,
+            10
+          ],
+          "correct": 2
+        },
+        {
+          "price": 10,
+          "choices": [
+            6,
+            8,
+            10,
+            4
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {
+          "price": 4,
+          "choices": [
+            2,
+            4,
+            7,
+            9
+          ],
+          "correct": 1
+        },
+        {
+          "price": 7,
+          "choices": [
+            1,
+            5,
+            7,
+            10
+          ],
+          "correct": 2
+        },
+        {
+          "price": 3,
+          "choices": [
+            3,
+            5,
+            8,
+            6
+          ],
+          "correct": 0
+        },
+        {
+          "price": 9,
+          "choices": [
+            4,
+            6,
+            9,
+            2
+          ],
+          "correct": 2
+        },
+        {
+          "price": 6,
+          "choices": [
+            2,
+            4,
+            6,
+            8
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {
+          "price": 10,
+          "choices": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "correct": 0
+        },
+        {
+          "price": 20,
+          "choices": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "correct": 1
+        },
+        {
+          "price": 15,
+          "choices": [
+            10,
+            15,
+            20,
+            25
+          ],
+          "correct": 1
+        },
+        {
+          "price": 30,
+          "choices": [
+            20,
+            25,
+            30,
+            35
+          ],
+          "correct": 2
+        },
+        {
+          "price": 25,
+          "choices": [
+            15,
+            20,
+            25,
+            30
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {
+          "price": 35,
+          "choices": [
+            25,
+            30,
+            35,
+            40
+          ],
+          "correct": 2
+        },
+        {
+          "price": 40,
+          "choices": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "correct": 2
+        },
+        {
+          "price": 12,
+          "choices": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "correct": 1
+        },
+        {
+          "price": 23,
+          "choices": [
+            21,
+            23,
+            25,
+            27
+          ],
+          "correct": 1
+        },
+        {
+          "price": 45,
+          "choices": [
+            40,
+            43,
+            45,
+            48
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {
+          "price": 11,
+          "choices": [
+            9,
+            11,
+            13,
+            15
+          ],
+          "correct": 1
+        },
+        {
+          "price": 34,
+          "choices": [
+            30,
+            34,
+            38,
+            42
+          ],
+          "correct": 1
+        },
+        {
+          "price": 42,
+          "choices": [
+            38,
+            40,
+            42,
+            44
+          ],
+          "correct": 2
+        },
+        {
+          "price": 27,
+          "choices": [
+            23,
+            25,
+            27,
+            29
+          ],
+          "correct": 2
+        },
+        {
+          "price": 50,
+          "choices": [
+            40,
+            45,
+            50,
+            55
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {
+          "price": 60,
+          "choices": [
+            50,
+            60,
+            70,
+            80
+          ],
+          "correct": 1
+        },
+        {
+          "price": 75,
+          "choices": [
+            65,
+            70,
+            75,
+            80
+          ],
+          "correct": 2
+        },
+        {
+          "price": 83,
+          "choices": [
+            80,
+            83,
+            86,
+            89
+          ],
+          "correct": 1
+        },
+        {
+          "price": 51,
+          "choices": [
+            49,
+            51,
+            53,
+            55
+          ],
+          "correct": 1
+        },
+        {
+          "price": 92,
+          "choices": [
+            88,
+            90,
+            92,
+            94
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {
+          "price": 67,
+          "choices": [
+            60,
+            65,
+            67,
+            70
+          ],
+          "correct": 2
+        },
+        {
+          "price": 84,
+          "choices": [
+            80,
+            84,
+            88,
+            92
+          ],
+          "correct": 1
+        },
+        {
+          "price": 73,
+          "choices": [
+            70,
+            71,
+            73,
+            75
+          ],
+          "correct": 2
+        },
+        {
+          "price": 58,
+          "choices": [
+            54,
+            56,
+            58,
+            62
+          ],
+          "correct": 2
+        },
+        {
+          "price": 96,
+          "choices": [
+            92,
+            94,
+            96,
+            98
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {
+          "price": 100,
+          "choices": [
+            80,
+            90,
+            100,
+            110
+          ],
+          "correct": 2
+        },
+        {
+          "price": 55,
+          "choices": [
+            45,
+            50,
+            55,
+            60
+          ],
+          "correct": 2
+        },
+        {
+          "price": 78,
+          "choices": [
+            74,
+            76,
+            78,
+            80
+          ],
+          "correct": 2
+        },
+        {
+          "price": 63,
+          "choices": [
+            59,
+            61,
+            63,
+            65
+          ],
+          "correct": 2
+        },
+        {
+          "price": 89,
+          "choices": [
+            85,
+            87,
+            89,
+            91
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {
+          "price": 47,
+          "choices": [
+            43,
+            45,
+            47,
+            49
+          ],
+          "correct": 2
+        },
+        {
+          "price": 91,
+          "choices": [
+            87,
+            89,
+            91,
+            93
+          ],
+          "correct": 2
+        },
+        {
+          "price": 66,
+          "choices": [
+            62,
+            64,
+            66,
+            70
+          ],
+          "correct": 2
+        },
+        {
+          "price": 82,
+          "choices": [
+            76,
+            79,
+            82,
+            85
+          ],
+          "correct": 2
+        },
+        {
+          "price": 74,
+          "choices": [
+            70,
+            72,
+            74,
+            76
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "problems": [
+        {
+          "price": 125,
+          "choices": [
+            115,
+            120,
+            125,
+            130
+          ],
+          "correct": 2
+        },
+        {
+          "price": 250,
+          "choices": [
+            240,
+            245,
+            250,
+            255
+          ],
+          "correct": 2
+        },
+        {
+          "price": 178,
+          "choices": [
+            174,
+            176,
+            178,
+            180
+          ],
+          "correct": 2
+        },
+        {
+          "price": 99,
+          "choices": [
+            95,
+            97,
+            99,
+            101
+          ],
+          "correct": 2
+        },
+        {
+          "price": 312,
+          "choices": [
+            308,
+            310,
+            312,
+            314
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}

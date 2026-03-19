@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" width="340" height="340">
+  <!-- Sky -->
+  <rect width="340" height="340" fill="#BBDEFB" rx="20"/>
+
+  <!-- Ground / soil level at y≈285 -->
+  <rect x="0" y="285" width="340" height="55" rx="0" fill="#8BC34A"/>
+  <!-- Soil – label Soil (50%=170, 92%=313) -->
+  <rect x="25" y="298" width="290" height="42" rx="0 0 18 18" fill="#795548"/>
+  <!-- Soil texture -->
+  <circle cx="70" cy="318" r="8" fill="#6D4C41" opacity="0.5"/>
+  <circle cx="120" cy="312" r="6" fill="#6D4C41" opacity="0.4"/>
+  <circle cx="170" cy="320" r="7" fill="#6D4C41" opacity="0.5"/>
+  <circle cx="220" cy="312" r="9" fill="#6D4C41" opacity="0.4"/>
+  <circle cx="270" cy="318" r="7" fill="#6D4C41" opacity="0.5"/>
+  <!-- Small rocks -->
+  <ellipse cx="95" cy="316" rx="8" ry="5" fill="#9E9E9E" opacity="0.5"/>
+  <ellipse cx="245" cy="314" rx="7" ry="4" fill="#9E9E9E" opacity="0.5"/>
+
+  <!-- Roots – label Root (50%=170, 78%=265) -->
+  <path d="M165 290 Q145 295 130 310" stroke="#5D4037" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M165 290 Q162 300 160 318" stroke="#5D4037" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M175 290 Q195 295 212 310" stroke="#5D4037" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M165 290 Q135 305 118 320" stroke="#5D4037" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M175 290 Q218 305 228 322" stroke="#5D4037" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Stem – label Stem (50%=170, 55%=187) -->
+  <line x1="170" y1="100" x2="170" y2="292" stroke="#558B2F" stroke-width="16" stroke-linecap="round"/>
+  <!-- Stem highlight -->
+  <line x1="166" y1="102" x2="166" y2="290" stroke="#8BC34A" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Left leaf (small, for balance) -->
+  <path d="M170 200 Q130 185 108 195 Q125 215 170 215 Z" fill="#7CB342"/>
+  <path d="M170 200 Q130 185 108 195" stroke="#558B2F" stroke-width="2" fill="none"/>
+  <line x1="170" y1="207" x2="110" y2="193" stroke="#558B2F" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Right leaf – label Leaf (72%=245, 38%=129) -->
+  <path d="M170 155 Q210 130 248 132 Q240 162 170 170 Z" fill="#7CB342"/>
+  <path d="M170 155 Q210 130 248 132" stroke="#558B2F" stroke-width="2" fill="none"/>
+  <!-- Leaf veins -->
+  <line x1="170" y1="162" x2="246" y2="135" stroke="#558B2F" stroke-width="2" opacity="0.5"/>
+  <path d="M200 153 Q205 145 215 148" stroke="#558B2F" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M220 148 Q226 142 232 145" stroke="#558B2F" stroke-width="1.5" fill="none" opacity="0.4"/>
+
+  <!-- Flower head – label Flower (50%=170, 12%=41) -->
+  <!-- Petals (outer ring) -->
+  <ellipse cx="170" cy="25" rx="14" ry="22" fill="#FFEE58"/>
+  <ellipse cx="170" cy="85" rx="14" ry="22" fill="#FFEE58"/>
+  <ellipse cx="132" cy="55" rx="22" ry="14" fill="#FFEE58"/>
+  <ellipse cx="208" cy="55" rx="22" ry="14" fill="#FFEE58"/>
+  <!-- Diagonal petals -->
+  <ellipse cx="145" cy="32" rx="14" ry="22" fill="#FFD600" transform="rotate(-45 145 32)"/>
+  <ellipse cx="195" cy="32" rx="14" ry="22" fill="#FFD600" transform="rotate(45 195 32)"/>
+  <ellipse cx="145" cy="78" rx="14" ry="22" fill="#FFD600" transform="rotate(45 145 78)"/>
+  <ellipse cx="195" cy="78" rx="14" ry="22" fill="#FFD600" transform="rotate(-45 195 78)"/>
+  <!-- Flower center disc -->
+  <circle cx="170" cy="55" r="32" fill="#5D4037"/>
+  <circle cx="170" cy="55" r="26" fill="#795548"/>
+  <!-- Seed pattern -->
+  <circle cx="170" cy="44" r="4" fill="#3E2723"/>
+  <circle cx="160" cy="50" r="4" fill="#3E2723"/>
+  <circle cx="180" cy="50" r="4" fill="#3E2723"/>
+  <circle cx="157" cy="60" r="4" fill="#3E2723"/>
+  <circle cx="170" cy="64" r="4" fill="#3E2723"/>
+  <circle cx="183" cy="60" r="4" fill="#3E2723"/>
+  <circle cx="162" cy="40" r="3" fill="#3E2723"/>
+  <circle cx="178" cy="40" r="3" fill="#3E2723"/>
+</svg>

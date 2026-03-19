@@ -1,0 +1,429 @@
+/* MainScenePage – Daily game session screen */
+
+.main-loading {
+  width: 100vw;
+  height: 100vh;
+  background: #1a1a2e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 24px;
+  gap: 16px;
+}
+
+.main-loading button {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.main-root {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background: #87CEEB;
+}
+
+/* Sky */
+.main-sky {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.main-sky-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Clouds */
+.main-cloud {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+  opacity: 0.9;
+}
+
+/* C++ cloud speeds: cloud1=40-50s, cloud2=35-40s, cloud3=25-35s
+   for MoveBy(visibleSize.width+1000). In CSS we traverse ~135vw.
+   Duration = C++ seconds * (135% / (100%+~39%)) ≈ same.
+   Using midpoints: 45s, 37s, 30s. But CSS covers smaller distance
+   proportionally, so we double the durations for a leisurely drift. */
+
+/* C++ cloud sizes: 776, 566, 927 px wide in 2560 design
+   C++ Y positions (in 3600-tall skyNode): 1350-1450, 1450-1550, 1650-1750
+   Mapped to visible 1800: top ≈ 22%, 17%, 6% */
+.main-cloud-1 {
+  width: 30.3%;  /* 776/2560 */
+  top: 18%;
+  animation: cloud-drift-1 90s linear infinite;
+}
+
+.main-cloud-2 {
+  width: 22.1%;  /* 566/2560 */
+  top: 10%;
+  animation: cloud-drift-2 75s linear infinite;
+  animation-delay: -30s;
+}
+
+.main-cloud-3 {
+  width: 36.2%;  /* 927/2560 */
+  top: 2%;
+  animation: cloud-drift-3 60s linear infinite;
+  animation-delay: -15s;
+}
+
+@keyframes cloud-drift-1 {
+  0% { left: -35%; }
+  100% { left: 110%; }
+}
+
+@keyframes cloud-drift-2 {
+  0% { left: -25%; }
+  100% { left: 115%; }
+}
+
+@keyframes cloud-drift-3 {
+  0% { left: -40%; }
+  100% { left: 120%; }
+}
+
+/* Grass – C++: ANCHOR_BOTTOM_LEFT at (0,0), size 2560×1016
+ * Height: 1016/1800 = 56.44% of design */
+.main-grass {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 56.44%;
+  object-fit: cover;
+  object-position: bottom;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Leaves – C++: leavesLeft 474×820, ANCHOR_BOTTOM_LEFT at (0, frameH-474)
+ * In design: bottom edge at 73.67% from bottom, extends above viewport
+ * CSS: width-based sizing, top:0, clipped by overflow:hidden */
+.main-leaves-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18.5%;   /* 474/2560 */
+  height: auto;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* C++: leavesRight 488×806, ANCHOR_BOTTOM_RIGHT at (frameW, frameH-382) */
+.main-leaves-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 19.1%;   /* 488/2560 */
+  height: auto;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Back button – top-left, independent of panel */
+.main-back {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: 'TodoMainCurly', sans-serif;
+  z-index: 30;
+}
+
+.main-back:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* Top panel – C++: panelNode 670×162, ANCHOR_MIDDLE_TOP at (frameW/2, frameH)
+ * Height: 162/1800 = 9%, Width: 670/2560 = 26.17%
+ * Contains both the level panel and the day panel */
+.main-panel-bar {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 9%;               /* 162/1800 */
+  aspect-ratio: 670 / 162;
+  z-index: 20;
+}
+
+/* Panel background image – fills the container exactly (670×162 = panelNode) */
+.main-panel-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Panel label (level title) – C++: fontSize 55, pos = panel center - (0,25)
+ * Center of panel: y=81 in 162-tall node, offset -25 → y=56 from bottom
+ * CSS top: (162-56)/162 = 65.4% from top */
+.main-panel-label {
+  position: absolute;
+  left: 50%;
+  top: 65.4%;
+  transform: translate(-50%, -50%);
+  color: #FFF0B8;           /* C++: Color4B(255, 240, 184, 255) */
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(14px, 3.06vh, 55px);  /* C++: 55/1800 = 3.06vh */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  white-space: nowrap;
+}
+
+/* Day panel – C++: 156×114, ANCHOR_MIDDLE_LEFT at (626, 60) within panelNode
+ * left: 626/670 = 93.4%
+ * CSS top: (162-60)/162 = 63% from top (Cocos Y flip)
+ * ANCHOR_MIDDLE_LEFT → left edge at position, vertical center at position */
+.main-panel-day {
+  position: absolute;
+  left: 93.4%;
+  top: 63%;
+  transform: translateY(-50%);
+  height: 70.4%;            /* 114/162 = 70.4% of panel height */
+  aspect-ratio: 156 / 114;
+}
+
+.main-day-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Day label – C++: fontSize 70, pos = dayNode center + (20, -5)
+ * Center (78, 57) + (20, -5) = (98, 52) in 156×114
+ * CSS left: 98/156 = 62.8%, top: (114-52)/114 = 54.4% */
+.main-day-label {
+  position: absolute;
+  left: 62.8%;
+  top: 54.4%;
+  transform: translate(-50%, -50%);
+  color: #FFCD42;           /* C++: Color4B(255, 205, 66, 255) */
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(14px, 3.89vh, 70px);  /* C++: 70/1800 = 3.89vh */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  white-space: nowrap;
+}
+
+/* Bird character – C++: birdPos = Vec2(1280, 600)
+ * bottom: 600/1800 = 33.33%, left: 50%
+ * Bird default anchor ≈ (0.5, 0.02-0.05) → nearly bottom-center */
+.main-bird {
+  position: absolute;
+  left: 50%;
+  bottom: 33.33%;
+  transform: translate(-50%, 5%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 5;
+}
+
+.main-bird-img {
+  height: clamp(64px, 12vh, 160px);
+  width: auto;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+  cursor: pointer;
+  transition: transform 0.2s;
+  object-fit: contain;
+}
+
+.main-bird-img:hover {
+  transform: scale(1.1);
+}
+
+/* C++ shadow: 1050×252, scaled to match bird width */
+.main-bird-shadow {
+  width: clamp(60px, 12vh, 140px);
+  height: auto;
+  opacity: 0.3;
+  margin-top: -8px;
+}
+
+/* Game icons row – C++: y=150 → bottom: 150/1800 = 8.33%
+ * Icons evenly distributed, frame size 250×260 */
+.main-icons-row {
+  position: absolute;
+  bottom: 8.33%;
+  left: 5%;
+  right: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  z-index: 15;
+  gap: 4px;
+}
+
+/* C++ icon frame: 250×260 → ~9.77% of 2560 width */
+.main-game-icon {
+  position: relative;
+  width: clamp(48px, 9.77vw, 120px);
+  height: clamp(50px, 10.16vw, 125px);
+  cursor: pointer;
+  transition: transform 0.15s;
+  flex-shrink: 0;
+}
+
+.main-game-icon:hover {
+  transform: scale(1.1);
+}
+
+.main-game-icon--disabled {
+  opacity: 0.5;
+}
+
+.main-game-icon--disabled:hover {
+  transform: scale(1.0);
+}
+
+.main-icon-shadow {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.main-icon-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+
+.main-icon-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Level badge – bottom right */
+.main-icon-level-badge {
+  position: absolute;
+  bottom: 2px;
+  right: -4px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+}
+
+.main-level-circle {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.main-level-number {
+  position: relative;
+  color: #fff;
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+/* Completed overlay */
+.main-icon-completed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+  z-index: 4;
+}
+
+.main-icon-check-fallback {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4CAF50;
+  font-size: 32px;
+  font-weight: bold;
+  z-index: 4;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Game name fallback label */
+.main-icon-name {
+  position: absolute;
+  bottom: -16px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 9px;
+  color: #fff;
+  white-space: nowrap;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  z-index: 5;
+}
+
+/* Debug clear */
+.main-debug-clear {
+  position: absolute;
+  top: 60px;
+  right: 16px;
+  z-index: 50;
+}
+
+/* Toast */
+.main-toast {
+  position: fixed;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  z-index: 1000;
+  animation: toast-fade 2s ease-in-out;
+}
+
+@keyframes toast-fade {
+  0% { opacity: 0; transform: translateX(-50%) translateY(10px); }
+  15% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  85% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  100% { opacity: 0; transform: translateX(-50%) translateY(-10px); }
+}

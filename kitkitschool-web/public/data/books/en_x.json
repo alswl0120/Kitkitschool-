@@ -1,0 +1,158 @@
+{
+  "title": "Letter X",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "X"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "for"
+                },
+                {
+                  "text": "xylophone."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Xylophone"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "X."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Fox"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "X."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Box"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "X."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Ox"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "X."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Can"
+                },
+                {
+                  "text": "you"
+                },
+                {
+                  "text": "find"
+                },
+                {
+                  "text": "more"
+                },
+                {
+                  "text": "X"
+                },
+                {
+                  "text": "words?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

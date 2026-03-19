@@ -1,0 +1,151 @@
+{
+  "levels": {
+    "1": [
+      {"word": "cat", "correctEmoji": "🐱", "choices": ["🐱", "🐶", "🐷", "🦊"]},
+      {"word": "dog", "correctEmoji": "🐶", "choices": ["🐱", "🐶", "🐔", "🐻"]},
+      {"word": "pig", "correctEmoji": "🐷", "choices": ["🐱", "🐶", "🐷", "🐔"]},
+      {"word": "hen", "correctEmoji": "🐔", "choices": ["🐶", "🐷", "🐔", "🦊"]},
+      {"word": "cup", "correctEmoji": "☕", "choices": ["☕", "🎩", "☀️", "🚌"]},
+      {"word": "hat", "correctEmoji": "🎩", "choices": ["☕", "🎩", "☀️", "🚌"]}
+    ],
+    "2": [
+      {"word": "sun", "correctEmoji": "☀️", "choices": ["☕", "🎩", "☀️", "🚌"]},
+      {"word": "bus", "correctEmoji": "🚌", "choices": ["☕", "🎩", "☀️", "🚌"]},
+      {"word": "cat", "correctEmoji": "🐱", "choices": ["🐷", "🐱", "🐔", "🐶"]},
+      {"word": "pig", "correctEmoji": "🐷", "choices": ["🐷", "🐱", "☀️", "🎩"]},
+      {"word": "cup", "correctEmoji": "☕", "choices": ["🚌", "🐶", "☕", "🐔"]},
+      {"word": "dog", "correctEmoji": "🐶", "choices": ["🐶", "☀️", "🎩", "🐷"]}
+    ],
+    "3": [
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🏃", "🤸", "🏊", "✈️"]},
+      {"word": "jump", "correctEmoji": "🤸", "choices": ["🏃", "🤸", "🏊", "✈️"]},
+      {"word": "swim", "correctEmoji": "🏊", "choices": ["🏃", "🤸", "🏊", "✈️"]},
+      {"word": "fly", "correctEmoji": "✈️", "choices": ["🏃", "🤸", "🏊", "✈️"]},
+      {"word": "eat", "correctEmoji": "🍽️", "choices": ["🏃", "🍽️", "😴", "🤸"]},
+      {"word": "sleep", "correctEmoji": "😴", "choices": ["🏃", "🍽️", "😴", "🤸"]}
+    ],
+    "4": [
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🏃", "😴", "🍽️", "🏊"]},
+      {"word": "eat", "correctEmoji": "🍽️", "choices": ["✈️", "🍽️", "🤸", "🏃"]},
+      {"word": "jump", "correctEmoji": "🤸", "choices": ["🏊", "😴", "🤸", "✈️"]},
+      {"word": "swim", "correctEmoji": "🏊", "choices": ["🏊", "🏃", "🍽️", "😴"]},
+      {"word": "fly", "correctEmoji": "✈️", "choices": ["🤸", "✈️", "🏃", "😴"]},
+      {"word": "sleep", "correctEmoji": "😴", "choices": ["😴", "🏊", "✈️", "🍽️"]}
+    ],
+    "5": [
+      {"word": "red", "correctEmoji": "🔴", "choices": ["🔴", "🔵", "🟢", "🟡"]},
+      {"word": "blue", "correctEmoji": "🔵", "choices": ["🔴", "🔵", "🟢", "🟡"]},
+      {"word": "green", "correctEmoji": "🟢", "choices": ["🔴", "🔵", "🟢", "🟡"]},
+      {"word": "yellow", "correctEmoji": "🟡", "choices": ["🔴", "🔵", "🟢", "🟡"]},
+      {"word": "orange", "correctEmoji": "🟠", "choices": ["🔴", "🟠", "🟣", "🔵"]},
+      {"word": "purple", "correctEmoji": "🟣", "choices": ["🟢", "🟠", "🟣", "🔴"]}
+    ],
+    "6": [
+      {"word": "red", "correctEmoji": "🔴", "choices": ["🔴", "🟠", "🟣", "🔵"]},
+      {"word": "blue", "correctEmoji": "🔵", "choices": ["🟡", "🔵", "🟠", "🟣"]},
+      {"word": "green", "correctEmoji": "🟢", "choices": ["🟣", "🟡", "🟢", "🟠"]},
+      {"word": "orange", "correctEmoji": "🟠", "choices": ["🔵", "🟠", "🔴", "🟢"]},
+      {"word": "purple", "correctEmoji": "🟣", "choices": ["🟡", "🟠", "🟣", "🔵"]},
+      {"word": "yellow", "correctEmoji": "🟡", "choices": ["🟣", "🔴", "🔵", "🟡"]}
+    ],
+    "7": [
+      {"word": "one", "correctEmoji": "1️⃣", "choices": ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]},
+      {"word": "two", "correctEmoji": "2️⃣", "choices": ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]},
+      {"word": "three", "correctEmoji": "3️⃣", "choices": ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]},
+      {"word": "four", "correctEmoji": "4️⃣", "choices": ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]},
+      {"word": "five", "correctEmoji": "5️⃣", "choices": ["2️⃣", "3️⃣", "4️⃣", "5️⃣"]},
+      {"word": "two", "correctEmoji": "2️⃣", "choices": ["5️⃣", "2️⃣", "3️⃣", "1️⃣"]}
+    ],
+    "8": [
+      {"word": "three", "correctEmoji": "3️⃣", "choices": ["5️⃣", "1️⃣", "3️⃣", "2️⃣"]},
+      {"word": "five", "correctEmoji": "5️⃣", "choices": ["4️⃣", "5️⃣", "1️⃣", "3️⃣"]},
+      {"word": "one", "correctEmoji": "1️⃣", "choices": ["2️⃣", "4️⃣", "5️⃣", "1️⃣"]},
+      {"word": "four", "correctEmoji": "4️⃣", "choices": ["4️⃣", "3️⃣", "2️⃣", "5️⃣"]},
+      {"word": "two", "correctEmoji": "2️⃣", "choices": ["1️⃣", "5️⃣", "2️⃣", "4️⃣"]},
+      {"word": "three", "correctEmoji": "3️⃣", "choices": ["3️⃣", "2️⃣", "5️⃣", "4️⃣"]}
+    ],
+    "9": [
+      {"word": "the", "correctEmoji": "📖", "choices": ["📖", "✏️", "🔤", "📝"]},
+      {"word": "and", "correctEmoji": "➕", "choices": ["📖", "➕", "🔤", "📝"]},
+      {"word": "is", "correctEmoji": "✅", "choices": ["✅", "➕", "🔤", "📝"]},
+      {"word": "are", "correctEmoji": "👥", "choices": ["📖", "➕", "👥", "📝"]},
+      {"word": "was", "correctEmoji": "⏪", "choices": ["✅", "⏪", "🔤", "📝"]},
+      {"word": "can", "correctEmoji": "💪", "choices": ["💪", "➕", "👥", "⏪"]}
+    ],
+    "10": [
+      {"word": "the", "correctEmoji": "📖", "choices": ["➕", "📖", "💪", "👥"]},
+      {"word": "can", "correctEmoji": "💪", "choices": ["✅", "⏪", "💪", "📝"]},
+      {"word": "and", "correctEmoji": "➕", "choices": ["➕", "✅", "📖", "⏪"]},
+      {"word": "was", "correctEmoji": "⏪", "choices": ["👥", "⏪", "💪", "📖"]},
+      {"word": "are", "correctEmoji": "👥", "choices": ["📖", "✅", "👥", "➕"]},
+      {"word": "is", "correctEmoji": "✅", "choices": ["⏪", "💪", "📖", "✅"]}
+    ],
+    "11": [
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🏃", "🦘", "🏊", "😴"]},
+      {"word": "jump", "correctEmoji": "🦘", "choices": ["🏃", "🦘", "🏊", "😴"]},
+      {"word": "swim", "correctEmoji": "🏊", "choices": ["🏃", "🦘", "🏊", "😴"]},
+      {"word": "sleep", "correctEmoji": "😴", "choices": ["🏃", "🦘", "🏊", "😴"]},
+      {"word": "eat", "correctEmoji": "🍽️", "choices": ["🍽️", "🥤", "🦘", "🏃"]},
+      {"word": "drink", "correctEmoji": "🥤", "choices": ["🍽️", "🥤", "🦘", "🏊"]}
+    ],
+    "12": [
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🏃", "😴", "🍽️", "🥤"]},
+      {"word": "jump", "correctEmoji": "🦘", "choices": ["🏊", "🦘", "🍽️", "😴"]},
+      {"word": "eat", "correctEmoji": "🍽️", "choices": ["🥤", "🏊", "🍽️", "🏃"]},
+      {"word": "drink", "correctEmoji": "🥤", "choices": ["🏃", "🥤", "😴", "🦘"]},
+      {"word": "swim", "correctEmoji": "🏊", "choices": ["🍽️", "😴", "🏊", "🏃"]},
+      {"word": "sleep", "correctEmoji": "😴", "choices": ["😴", "🏃", "🥤", "🦘"]}
+    ],
+    "13": [
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🏃", "✍️", "🎤", "👏"]},
+      {"word": "write", "correctEmoji": "✍️", "choices": ["🏃", "✍️", "🎤", "👏"]},
+      {"word": "sing", "correctEmoji": "🎤", "choices": ["🏃", "✍️", "🎤", "👏"]},
+      {"word": "clap", "correctEmoji": "👏", "choices": ["🏃", "✍️", "🎤", "👏"]},
+      {"word": "read", "correctEmoji": "📖", "choices": ["📖", "✍️", "🏃", "👏"]},
+      {"word": "draw", "correctEmoji": "✏️", "choices": ["📖", "✏️", "🎤", "🏃"]}
+    ],
+    "14": [
+      {"word": "write", "correctEmoji": "✍️", "choices": ["✏️", "✍️", "🎤", "👏"]},
+      {"word": "read", "correctEmoji": "📖", "choices": ["📖", "✍️", "👏", "🏃"]},
+      {"word": "draw", "correctEmoji": "✏️", "choices": ["✍️", "📖", "✏️", "🎤"]},
+      {"word": "sing", "correctEmoji": "🎤", "choices": ["👏", "📖", "✍️", "🎤"]},
+      {"word": "clap", "correctEmoji": "👏", "choices": ["🏃", "👏", "✏️", "📖"]},
+      {"word": "run", "correctEmoji": "🏃", "choices": ["🎤", "✍️", "🏃", "✏️"]},
+      {"word": "swim", "correctEmoji": "🏊", "choices": ["🏊", "🏃", "👏", "📖"]}
+    ],
+    "15": [
+      {"word": "big", "correctEmoji": "🐘", "choices": ["🐘", "🐭", "🔥", "🧊"]},
+      {"word": "small", "correctEmoji": "🐭", "choices": ["🐘", "🐭", "🔥", "🧊"]},
+      {"word": "hot", "correctEmoji": "🔥", "choices": ["🐘", "🐭", "🔥", "🧊"]},
+      {"word": "cold", "correctEmoji": "🧊", "choices": ["🐘", "🐭", "🔥", "🧊"]},
+      {"word": "happy", "correctEmoji": "😊", "choices": ["😊", "😢", "🐭", "🔥"]},
+      {"word": "sad", "correctEmoji": "😢", "choices": ["😊", "😢", "🧊", "🐘"]}
+    ],
+    "16": [
+      {"word": "big", "correctEmoji": "🐘", "choices": ["🐭", "🐘", "😊", "😢"]},
+      {"word": "small", "correctEmoji": "🐭", "choices": ["🐭", "🔥", "🧊", "🐘"]},
+      {"word": "hot", "correctEmoji": "🔥", "choices": ["🧊", "😢", "🔥", "🐘"]},
+      {"word": "cold", "correctEmoji": "🧊", "choices": ["🔥", "😊", "🐭", "🧊"]},
+      {"word": "happy", "correctEmoji": "😊", "choices": ["😢", "🐘", "😊", "🔥"]},
+      {"word": "sad", "correctEmoji": "😢", "choices": ["😊", "🧊", "🐭", "😢"]}
+    ],
+    "17": [
+      {"word": "fast", "correctEmoji": "🚀", "choices": ["🚀", "🐢", "😠", "😨"]},
+      {"word": "slow", "correctEmoji": "🐢", "choices": ["🚀", "🐢", "😠", "😨"]},
+      {"word": "angry", "correctEmoji": "😠", "choices": ["🚀", "🐢", "😠", "😨"]},
+      {"word": "scared", "correctEmoji": "😨", "choices": ["🚀", "🐢", "😠", "😨"]},
+      {"word": "tall", "correctEmoji": "🦒", "choices": ["🦒", "🐜", "😠", "🐢"]},
+      {"word": "tiny", "correctEmoji": "🐜", "choices": ["🦒", "🐜", "🚀", "😨"]},
+      {"word": "heavy", "correctEmoji": "⚖️", "choices": ["⚖️", "🦒", "😠", "🐢"]}
+    ],
+    "18": [
+      {"word": "fast", "correctEmoji": "🚀", "choices": ["🐢", "🚀", "😨", "⚖️"]},
+      {"word": "slow", "correctEmoji": "🐢", "choices": ["🚀", "🦒", "🐢", "😠"]},
+      {"word": "angry", "correctEmoji": "😠", "choices": ["😨", "🐜", "🚀", "😠"]},
+      {"word": "scared", "correctEmoji": "😨", "choices": ["😠", "😨", "🦒", "🐢"]},
+      {"word": "tall", "correctEmoji": "🦒", "choices": ["🐜", "⚖️", "🦒", "🚀"]},
+      {"word": "tiny", "correctEmoji": "🐜", "choices": ["🦒", "😨", "🐢", "🐜"]},
+      {"word": "heavy", "correctEmoji": "⚖️", "choices": ["🚀", "⚖️", "😠", "🐜"]}
+    ]
+  }
+}

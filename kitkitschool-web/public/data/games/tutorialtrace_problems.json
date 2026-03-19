@@ -1,0 +1,170 @@
+{
+  "levels": {
+    "1": [1, 2, 3, 4, 5, 6],
+    "2": [7, 8, 9, 10, 11, 12, 13],
+    "3": [14, 15, 16, 17, 18, 19]
+  },
+  "problems": [
+    {
+      "problem": 1,
+      "strokeFile": "strokes/custom.tutorialtracing.1.json",
+      "strokes": [
+        {"x": 195, "y": 1106, "top": "images/1/tutorialtracing1_line1top.png", "bottom": "images/1/tutorialtracing1_line1bottom.png"},
+        {"x": 195, "y": 633, "top": "images/1/tutorialtracing1_line2top.png", "bottom": "images/1/tutorialtracing1_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 2,
+      "strokeFile": "strokes/custom.tutorialtracing.2.json",
+      "strokes": [
+        {"x": 195, "y": 1106, "top": "images/2/tutorialtracing2_line1-4top.png", "bottom": "images/2/tutorialtracing2_line1bottom.png"},
+        {"x": 1396, "y": 1106, "top": "images/2/tutorialtracing2_line1-4top.png", "bottom": "images/2/tutorialtracing2_line2bottom.png"},
+        {"x": 195, "y": 633, "top": "images/2/tutorialtracing2_line1-4top.png", "bottom": "images/2/tutorialtracing2_line3bottom.png"},
+        {"x": 1396, "y": 633, "top": "images/2/tutorialtracing2_line1-4top.png", "bottom": "images/2/tutorialtracing2_line4bottom.png"}
+      ]
+    },
+    {
+      "problem": 3,
+      "strokeFile": "strokes/custom.tutorialtracing.3.json",
+      "strokes": [
+        {"x": 560, "y": 387, "top": "images/3/tutorialtracing3_line1-3top.png", "bottom": "images/3/tutorialtracing3_line1bottom.png"},
+        {"x": 1251, "y": 387, "top": "images/3/tutorialtracing3_line1-3top.png", "bottom": "images/3/tutorialtracing3_line2bottom.png"},
+        {"x": 1942, "y": 387, "top": "images/3/tutorialtracing3_line1-3top.png", "bottom": "images/3/tutorialtracing3_line3bottom.png"}
+      ]
+    },
+    {
+      "problem": 4,
+      "strokeFile": "strokes/custom.tutorialtracing.4.json",
+      "strokes": [
+        {"x": 424, "y": 518, "top": "images/4/tutorialtracing4_linetop.png", "bottom": "images/4/tutorialtracing4_linebottom.png"}
+      ]
+    },
+    {
+      "problem": 5,
+      "strokeFile": "strokes/custom.tutorialtracing.5.json",
+      "strokes": [
+        {"x": 446, "y": 1006, "top": "images/5/tutorialtracing5_line1top.png", "bottom": "images/5/tutorialtracing5_line1bottom.png"},
+        {"x": 446, "y": 1006, "top": "images/5/tutorialtracing5_line2top.png", "bottom": "images/5/tutorialtracing5_line2bottom.png"},
+        {"x": 1514, "y": 1006, "top": "images/5/tutorialtracing5_line1top.png", "bottom": "images/5/tutorialtracing5_line1bottom.png"},
+        {"x": 1514, "y": 1006, "top": "images/5/tutorialtracing5_line2top.png", "bottom": "images/5/tutorialtracing5_line2bottom.png"},
+        {"x": 446, "y": 192, "top": "images/5/tutorialtracing5_line1top.png", "bottom": "images/5/tutorialtracing5_line1bottom.png"},
+        {"x": 446, "y": 192, "top": "images/5/tutorialtracing5_line2top.png", "bottom": "images/5/tutorialtracing5_line2bottom.png"},
+        {"x": 1514, "y": 192, "top": "images/5/tutorialtracing5_line1top.png", "bottom": "images/5/tutorialtracing5_line1bottom.png"},
+        {"x": 1514, "y": 192, "top": "images/5/tutorialtracing5_line2top.png", "bottom": "images/5/tutorialtracing5_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 6,
+      "strokeFile": "strokes/custom.tutorialtracing.6.json",
+      "strokes": [
+        {"x": 441, "y": 242, "top": "images/6/tutorialtracing6_line1-3top.png", "bottom": "images/6/tutorialtracing6_line1bottom.png"},
+        {"x": 1090, "y": 242, "top": "images/6/tutorialtracing6_line1-3top.png", "bottom": "images/6/tutorialtracing6_line2bottom.png"},
+        {"x": 1739, "y": 242, "top": "images/6/tutorialtracing6_line1-3top.png", "bottom": "images/6/tutorialtracing6_line3bottom.png"}
+      ]
+    },
+    {
+      "problem": 7,
+      "strokeFile": "strokes/custom.tutorialtracing.7.json",
+      "strokes": [
+        {"x": 341, "y": 1030, "top": "images/7/tutorialtracing7_line1top.png", "bottom": "images/7/tutorialtracing7_line1bottom.png"},
+        {"x": 341, "y": 458, "top": "images/7/tutorialtracing7_line2top.png", "bottom": "images/7/tutorialtracing7_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 8,
+      "strokeFile": "strokes/custom.tutorialtracing.8.json",
+      "strokes": [
+        {"x": 256, "y": 995, "top": "images/8/tutorialtracing8_line1top.png", "bottom": "images/8/tutorialtracing8_line1bottom.png"},
+        {"x": 256, "y": 375, "top": "images/8/tutorialtracing8_line2top.png", "bottom": "images/8/tutorialtracing8_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 9,
+      "strokeFile": "strokes/custom.tutorialtracing.9.json",
+      "strokes": [
+        {"x": 193, "y": 998, "top": "images/9/tutorialtracing9_line1top.png", "bottom": "images/9/tutorialtracing9_line1bottom.png"},
+        {"x": 193, "y": 515, "top": "images/9/tutorialtracing9_line2top.png", "bottom": "images/9/tutorialtracing9_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 10,
+      "strokeFile": "strokes/custom.tutorialtracing.10.json",
+      "strokes": [
+        {"x": 200, "y": 1056, "top": "images/10/tutorialtracing10_line1top.png", "bottom": "images/10/tutorialtracing10_line1bottom.png"},
+        {"x": 200, "y": 500, "top": "images/10/tutorialtracing10_line2top.png", "bottom": "images/10/tutorialtracing10_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 11,
+      "strokeFile": "strokes/custom.tutorialtracing.11.json",
+      "strokes": [
+        {"x": 195, "y": 1054, "top": "images/11/tutorialtracing11_line1top.png", "bottom": "images/11/tutorialtracing11_line1bottom.png"},
+        {"x": 195, "y": 420, "top": "images/11/tutorialtracing11_line2top.png", "bottom": "images/11/tutorialtracing11_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 12,
+      "strokeFile": "strokes/custom.tutorialtracing.12.json",
+      "strokes": [
+        {"x": 228, "y": 996, "top": "images/12/tutorialtracing12_line1top.png", "bottom": "images/12/tutorialtracing12_line1bottom.png"},
+        {"x": 228, "y": 356, "top": "images/12/tutorialtracing12_line2top.png", "bottom": "images/12/tutorialtracing12_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 13,
+      "strokeFile": "strokes/custom.tutorialtracing.13.json",
+      "strokes": [
+        {"x": 157, "y": 968, "top": "images/13/tutorialtracing13_line1top.png", "bottom": "images/13/tutorialtracing13_line1bottom.png"},
+        {"x": 157, "y": 276, "top": "images/13/tutorialtracing13_line2top.png", "bottom": "images/13/tutorialtracing13_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 14,
+      "strokeFile": "strokes/custom.tutorialtracing.14.json",
+      "strokes": [
+        {"x": 200, "y": 305, "top": "images/14/tutorialtracing14_linetop.png", "bottom": "images/14/tutorialtracing14_linebottom.png"}
+      ]
+    },
+    {
+      "problem": 15,
+      "strokeFile": "strokes/custom.tutorialtracing.15.json",
+      "strokes": [
+        {"x": 216, "y": 296, "top": "images/15/tutorialtracing15_linetop_rectangle.xenosoz.png", "bottom": "images/15/tutorialtracing15_linebottom_rectangle.png"},
+        {"x": 216, "y": 296, "top": "images/15/tutorialtracing15_linetop_horizontal.png", "bottom": "images/15/tutorialtracing15_linebottom_horizontal.png"},
+        {"x": 216, "y": 296, "top": "images/15/tutorialtracing15_linetop_vertical.png", "bottom": "images/15/tutorialtracing15_linebottom_vertical.png"}
+      ]
+    },
+    {
+      "problem": 16,
+      "strokeFile": "strokes/custom.tutorialtracing.16.json",
+      "strokes": [
+        {"x": 345, "y": 285, "top": "images/16/tutorialtracing16_line1top.png", "bottom": "images/16/tutorialtracing16_line1bottom.png"},
+        {"x": 1350, "y": 800, "top": "images/16/tutorialtracing16_line2top.png", "bottom": "images/16/tutorialtracing16_line2bottom.png"}
+      ]
+    },
+    {
+      "problem": 17,
+      "strokeFile": "strokes/custom.tutorialtracing.17.json",
+      "strokes": [
+        {"x": 321, "y": 800, "top": "images/17/tutorialtracing17_circle1top.png", "bottom": "images/17/tutorialtracing17_circle1bottom.png"},
+        {"x": 590, "y": 224, "top": "images/17/tutorialtracing17_circle2top.png", "bottom": "images/17/tutorialtracing17_circle2bottom.png"},
+        {"x": 1134, "y": 194, "top": "images/17/tutorialtracing17_circle3top.png", "bottom": "images/17/tutorialtracing17_circle3bottom.png"}
+      ]
+    },
+    {
+      "problem": 18,
+      "strokeFile": "strokes/custom.tutorialtracing.18.json",
+      "strokes": [
+        {"x": 574, "y": 230, "top": "images/18/tutorialtracing18_startop.png", "bottom": "images/18/tutorialtracing18_starbottom.png"}
+      ]
+    },
+    {
+      "problem": 19,
+      "strokeFile": "strokes/custom.tutorialtracing.19.json",
+      "strokes": [
+        {"x": 277, "y": 260, "top": "images/19/tutorialtracing19_star1top.png", "bottom": "images/19/tutorialtracing19_star1bottom.png"},
+        {"x": 1125, "y": 465, "top": "images/19/tutorialtracing19_star2top.png", "bottom": "images/19/tutorialtracing19_star2bottom.png"}
+      ]
+    }
+  ]
+}

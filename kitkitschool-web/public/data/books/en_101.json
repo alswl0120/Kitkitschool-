@@ -1,0 +1,62 @@
+{
+  "title": "Animals",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "This"}, {"text": "is"}, {"text": "a"}, {"text": "dog."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "This"}, {"text": "is"}, {"text": "a"}, {"text": "cat."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "This"}, {"text": "is"}, {"text": "a"}, {"text": "bird."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "This"}, {"text": "is"}, {"text": "a"}, {"text": "fish."}
+          ]
+        }]
+      }]
+    },
+    {
+      "pageNumber": 5,
+      "paragraphs": [{
+        "sentences": [{
+          "words": [
+            {"text": "Animals"}, {"text": "are"}, {"text": "everywhere!"}
+          ]
+        }]
+      }]
+    }
+  ]
+}

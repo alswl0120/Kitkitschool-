@@ -1,0 +1,73 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 4,
+        "UseOneObject": false,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/animal/chicken_",
+                "succ": "LineMatching/Images/animal/chicken_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/cow_",
+                "succ": "LineMatching/Images/animal/cow_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/dog_",
+                "succ": "LineMatching/Images/animal/dog_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/goat_",
+                "succ": "LineMatching/Images/animal/goat_succ_"
+            }
+        ],
+        "UseColorCount": 2,
+        "UseOneColor": true,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "big.png",
+            "small.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 4,
+        "UseOneObject": false,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/animal/cat_",
+                "succ": "LineMatching/Images/animal/cat_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/elephant_",
+                "succ": "LineMatching/Images/animal/elephant_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/tiger_",
+                "succ": "LineMatching/Images/animal/tiger_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/animal/fish_",
+                "succ": "LineMatching/Images/animal/fish_succ_"
+            }
+        ],
+        "UseColorCount": 2,
+        "UseOneColor": true,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "all.png",
+            "back.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    }
+}

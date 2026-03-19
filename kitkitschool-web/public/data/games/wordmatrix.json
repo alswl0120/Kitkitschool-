@@ -1,0 +1,649 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["cat", "bat", "mat"],
+          "horizontalWords": ["cap", "bag", "map"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["dog", "log", "fog"],
+          "horizontalWords": ["dot", "lot", "for"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["hat", "hit", "hot"],
+          "horizontalWords": ["ham", "him", "hop"]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["fish", "dish", "wish"],
+          "horizontalWords": ["fill", "dill", "will"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["book", "cook", "hook"],
+          "horizontalWords": ["bore", "core", "home"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["cake", "lake", "make"],
+          "horizontalWords": ["call", "lamp", "mask"]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["tree", "free", "knee"],
+          "horizontalWords": ["trip", "frog", "knit"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["hand", "land", "sand"],
+          "horizontalWords": ["hang", "lane", "safe"]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["black", "slack", "crack"],
+          "horizontalWords": ["bland", "sleep", "crane"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["light", "night", "sight"],
+          "horizontalWords": ["linen", "nixie", "sixth"]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["apple", "maple", "staple"],
+          "horizontalWords": ["arrow", "marsh", "stamp"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["table", "fable", "cable"],
+          "horizontalWords": ["tamed", "faced", "carry"]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["clip", "clap", "clop"],
+          "horizontalWords": ["clog", "clan", "club"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["drip", "drop", "drag"],
+          "horizontalWords": ["drum", "drew", "drab"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["flat", "flab", "flan"],
+          "horizontalWords": ["flag", "flip", "fled"]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["grip", "grin", "grim"],
+          "horizontalWords": ["grab", "grid", "grew"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["plop", "plan", "plod"],
+          "horizontalWords": ["plum", "plug", "pled"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["slim", "slip", "slid"],
+          "horizontalWords": ["slab", "slug", "slop"]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["snap", "snag", "snip"],
+          "horizontalWords": ["snob", "snub", "snug"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["spin", "spit", "span"],
+          "horizontalWords": ["sped", "spud", "spec"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["twin", "twig", "twit"],
+          "horizontalWords": ["trap", "trim", "trek"]
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["band", "bend", "bond"],
+          "horizontalWords": ["bang", "best", "bolt"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["damp", "dump", "dusk"],
+          "horizontalWords": ["dark", "dunk", "dust"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["fast", "fist", "fuss"],
+          "horizontalWords": ["farm", "film", "fund"]
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["help", "hemp", "helm"],
+          "horizontalWords": ["held", "heft", "herb"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["jump", "just", "junk"],
+          "horizontalWords": ["jolt", "jest", "jazz"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["lamp", "limp", "lump"],
+          "horizontalWords": ["land", "lint", "lung"]
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["bake", "bike", "bone"],
+          "horizontalWords": ["base", "bite", "bore"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["cave", "cove", "cute"],
+          "horizontalWords": ["came", "code", "cube"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["dine", "dome", "dune"],
+          "horizontalWords": ["dive", "dole", "duke"]
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["fade", "fine", "fore"],
+          "horizontalWords": ["fame", "fire", "fore"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["gate", "gave", "gone"],
+          "horizontalWords": ["game", "gaze", "gore"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["haze", "hide", "hole"],
+          "horizontalWords": ["hate", "hike", "home"]
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["jade", "joke", "june"],
+          "horizontalWords": ["jane", "jibe", "jute"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["kite", "lane", "lime"],
+          "horizontalWords": ["late", "lame", "line"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["mane", "mine", "mole"],
+          "horizontalWords": ["mate", "mice", "mode"]
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["name", "nose", "note"],
+          "horizontalWords": ["nave", "node", "none"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["page", "pine", "pole"],
+          "horizontalWords": ["pale", "pile", "poke"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["rake", "ride", "role"],
+          "horizontalWords": ["race", "rice", "rope"]
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["shade", "shame", "shave"],
+          "horizontalWords": ["shake", "shape", "share"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["smile", "smoke", "spoke"],
+          "horizontalWords": ["smite", "smote", "spore"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["stone", "stove", "store"],
+          "horizontalWords": ["stoke", "stole", "stomp"]
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["rain", "rail", "raid"],
+          "horizontalWords": ["raisin", "railway", "rainbow"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["mail", "main", "maid"],
+          "horizontalWords": ["mailbox", "mainland", "maiden"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["tail", "tain", "taip"],
+          "horizontalWords": ["tailor", "tainted", "taipei"]
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["feet", "feed", "feel"],
+          "horizontalWords": ["freely", "feeder", "feeling"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["seed", "seek", "seen"],
+          "horizontalWords": ["seedy", "seeker", "seeing"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["tree", "trek", "tread"],
+          "horizontalWords": ["freely", "freedom", "treetop"]
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["boat", "boar", "boast"],
+          "horizontalWords": ["boatman", "boarded", "boastful"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["coat", "coal", "coach"],
+          "horizontalWords": ["coating", "coalmine", "coaches"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["road", "roam", "roast"],
+          "horizontalWords": ["roadway", "roaming", "roaster"]
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["bead", "beam", "bean"],
+          "horizontalWords": ["beagle", "beaming", "beanbag"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["deal", "dean", "dear"],
+          "horizontalWords": ["dealer", "dearest", "dealing"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["heal", "heat", "heap"],
+          "horizontalWords": ["health", "heater", "heaping"]
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["moon", "mood", "moot"],
+          "horizontalWords": ["moonlit", "moody", "mooter"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["pool", "poor", "poof"],
+          "horizontalWords": ["poolside", "poorly", "poodle"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["soon", "soot", "sooth"],
+          "horizontalWords": ["sooner", "sooty", "soothe"]
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["butter", "better", "bitter"],
+          "horizontalWords": ["button", "between", "bitten"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["dinner", "diner", "donor"],
+          "horizontalWords": ["dining", "doing", "donkey"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["garden", "golden", "gotten"],
+          "horizontalWords": ["garlic", "golden", "gopher"]
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["happen", "hidden", "harden"],
+          "horizontalWords": ["happy", "hide", "hardly"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["kitten", "mitten", "rotten"],
+          "horizontalWords": ["kitty", "mittens", "rotting"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["little", "middle", "riddle"],
+          "horizontalWords": ["litter", "midday", "ribbon"]
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["master", "mister", "muster"],
+          "horizontalWords": ["matter", "mirror", "muddy"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["napkin", "napkin", "napkin"],
+          "horizontalWords": ["napper", "napping", "naptim"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["pencil", "pebble", "person"],
+          "horizontalWords": ["penny", "pepper", "perky"]
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["rabbit", "ribbon", "robber"],
+          "horizontalWords": ["racing", "riding", "robing"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["saddle", "settle", "subtle"],
+          "horizontalWords": ["sadly", "setting", "subtly"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["tunnel", "tinsel", "tonsil"],
+          "horizontalWords": ["tunny", "tint", "tone"]
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["under", "utter", "upper"],
+          "horizontalWords": ["uncle", "ultimate", "upset"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["velvet", "vendor", "vertex"],
+          "horizontalWords": ["velvety", "vending", "vertical"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["winter", "winner", "winder"],
+          "horizontalWords": ["wintry", "winning", "winding"]
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["sunshine", "sunflower", "sunburn"],
+          "horizontalWords": ["sunset", "sunlit", "sunspot"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["bedroom", "beehive", "beeline"],
+          "horizontalWords": ["bedside", "beeswax", "beekeeper"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["football", "footstep", "foothold"],
+          "horizontalWords": ["footwear", "footprint", "footpath"]
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["rainbow", "raincoat", "rainfall"],
+          "horizontalWords": ["raindrop", "rainwater", "rainforest"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["birthday", "birthplace", "birthmark"],
+          "horizontalWords": ["birdsong", "birdhouse", "birdcage"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["classroom", "classmate", "classwork"],
+          "horizontalWords": ["classing", "clasping", "classic"]
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["daylight", "daydream", "daybreak"],
+          "horizontalWords": ["daytime", "daycare", "daypack"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["eardrum", "earring", "earlobe"],
+          "horizontalWords": ["earwax", "earache", "earwig"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["fishpond", "fisherman", "fishbowl"],
+          "horizontalWords": ["fishhook", "fishcake", "fishnet"]
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["grandfather", "grandmother", "grandchild"],
+          "horizontalWords": ["grandstand", "grandparent", "grandmaster"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["horseback", "horseshoe", "horseplay"],
+          "horizontalWords": ["horsepower", "horserace", "horseman"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["inside", "infield", "income"],
+          "horizontalWords": ["indoor", "insight", "inward"]
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["joyful", "joyride", "joyous"],
+          "horizontalWords": ["joyfully", "joystick", "joyously"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["keyboard", "keystone", "keyhole"],
+          "horizontalWords": ["keychain", "keynote", "keycard"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["landmark", "landslide", "landlord"],
+          "horizontalWords": ["landing", "landfall", "landmass"]
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["moonlight", "moonstone", "moonbeam"],
+          "horizontalWords": ["moonrise", "moonwalk", "moonshine"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["nightfall", "nightgown", "nightlife"],
+          "horizontalWords": ["nighttime", "nightclub", "nightmare"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["outside", "outfield", "outcome"],
+          "horizontalWords": ["outdoor", "outlook", "outward"]
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["paintbrush", "painting", "painter"],
+          "horizontalWords": ["painless", "painstaking", "painted"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["quicksand", "quickly", "quickstep"],
+          "horizontalWords": ["quickfire", "quicksilver", "quicken"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["riverbank", "riverside", "riverbed"],
+          "horizontalWords": ["riverboat", "riverfront", "riverway"]
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "worksheets": [
+        {
+          "id": 1,
+          "verticalWords": ["seashore", "seashell", "seabird"],
+          "horizontalWords": ["seawater", "seafront", "seascape"]
+        },
+        {
+          "id": 2,
+          "verticalWords": ["thunderstorm", "thunderbolt", "thundercloud"],
+          "horizontalWords": ["thunderclap", "thunderbird", "thunderous"]
+        },
+        {
+          "id": 3,
+          "verticalWords": ["understand", "underline", "undermine"],
+          "horizontalWords": ["undertake", "underfoot", "underway"]
+        }
+      ]
+    }
+  ]
+}

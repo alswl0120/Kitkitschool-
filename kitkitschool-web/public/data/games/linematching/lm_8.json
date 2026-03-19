@@ -1,0 +1,219 @@
+{
+    "ObjectCount": 12,
+    "ProblemCount": 16,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 4,
+        "UseObjectCount": 4,
+        "MaxColorCount": 5,
+        "UseColorCount": 4,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/crayon/oneColorCrayon_",
+                "succ": "LineMatching/Images/crayon/crayon_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/button/button_",
+                "succ": "LineMatching/Images/button/button_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/candy/candy_",
+                "succ": "LineMatching/Images/candy/candy_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/cup/cup_",
+                "succ": "LineMatching/Images/cup/cup_succ_"
+            }
+        ],
+        "LeftColors": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+        ],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/line/line_",
+                "succ": "LineMatching/Images/line/line_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/line/line_",
+                "succ": "LineMatching/Images/line/line_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/line/line_",
+                "succ": "LineMatching/Images/line/line_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/line/line_",
+                "succ": "LineMatching/Images/line/line_succ_"
+            }
+        ],
+        "CenterColors": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+        ],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            }
+        ],
+        "RightColors": [
+            {
+                "nor": "numbers/1_object_blue.png",
+                "succ": "numbers/1_object_blue.png"
+            },
+            {
+                "nor": "numbers/2_object_blue.png",
+                "succ": "numbers/2_object_blue.png"
+            },
+            {
+                "nor": "numbers/3_object_blue.png",
+                "succ": "numbers/3_object_blue.png"
+            },
+            {
+                "nor": "numbers/4_object_blue.png",
+                "succ": "numbers/4_object_blue.png"
+            },
+            {
+                "nor": "numbers/5_object_blue.png",
+                "succ": "numbers/5_object_blue.png"
+            }
+        ]
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 4,
+        "UseObjectCount": 4,
+        "MaxColorCount": 8,
+        "UseColorCount": 4,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/frame/frame_",
+                "succ": "LineMatching/Images/frame/frame_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/frame/frame_",
+                "succ": "LineMatching/Images/frame/frame_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/frame/frame_",
+                "succ": "LineMatching/Images/frame/frame_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/frame/frame_",
+                "succ": "LineMatching/Images/frame/frame_succ_"
+            }
+        ],
+        "LeftColors": [
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png",
+            "10.png"
+        ],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/dotPattern/dotPattern_",
+                "succ": "LineMatching/Images/dotPattern/dotPattern_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/dotPattern/dotPattern_",
+                "succ": "LineMatching/Images/dotPattern/dotPattern_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/dotPattern/dotPattern_",
+                "succ": "LineMatching/Images/dotPattern/dotPattern_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/dotPattern/dotPattern_",
+                "succ": "LineMatching/Images/dotPattern/dotPattern_succ_"
+            }
+        ],
+        "CenterColors": [
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png",
+            "10.png"
+        ],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            },
+            {
+                "nor": "LineMatching/Images/",
+                "succ": "LineMatching/Images/"
+            }
+        ],
+        "RightColors": [
+            {
+                "nor": "numbers/3_object_red.png",
+                "succ": "numbers/3_object_succ.png"
+            },
+            {
+                "nor": "numbers/4_object_red.png",
+                "succ": "numbers/4_object_succ.png"
+            },
+            {
+                "nor": "numbers/5_object_red.png",
+                "succ": "numbers/5_object_succ.png"
+            },
+            {
+                "nor": "numbers/6_object_red.png",
+                "succ": "numbers/6_object_succ.png"
+            },
+            {
+                "nor": "numbers/7_object_red.png",
+                "succ": "numbers/7_object_succ.png"
+            },
+            {
+                "nor": "numbers/8_object_red.png",
+                "succ": "numbers/8_object_succ.png"
+            },
+            {
+                "nor": "numbers/9_object_red.png",
+                "succ": "numbers/9_object_succ.png"
+            },
+            {
+                "nor": "numbers/10_object_red.png",
+                "succ": "numbers/10_object_succ.png"
+            }
+        ]
+    }
+}

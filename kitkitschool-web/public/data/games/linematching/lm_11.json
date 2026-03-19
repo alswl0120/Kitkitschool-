@@ -1,0 +1,117 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 4,
+        "UseOneObject": false,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/stick/stick1_",
+                "succ": "LineMatching/Images/stick/stick1_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/stick/stick2_",
+                "succ": "LineMatching/Images/stick/stick2_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/stick/stick3_",
+                "succ": "LineMatching/Images/stick/stick3_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/stick/stick4_",
+                "succ": "LineMatching/Images/stick/stick4_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/stick/stick5_",
+                "succ": "LineMatching/Images/stick/stick5_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/stick/stick6_",
+                "succ": "LineMatching/Images/stick/stick6_succ_"
+            }
+        ],
+        "UseColorCount": 2,
+        "UseOneColor": true,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "piece.png",
+            "set.png"
+        ],
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 2,
+        "UseOneObject": true,
+        "UseRandomCategory": true,
+        "IsSuccFullPath": false,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/woodBlock/woodBlock_",
+                "succ": "LineMatching/Images/woodBlock/woodBlock_succ_"
+            },
+            {
+                "nor": "LineMatching/Images/numbers/",
+                "succ": "LineMatching/Images/numbers/"
+            }
+        ],
+        "UseColorCount": 8,
+        "UseOneColor": false,
+        "Nor_Succ_Same": false,
+        "UseColors": {
+            "0": [
+                {
+                    "nor": "1.png",
+                    "succ": "1.png"
+                },
+                {
+                    "nor": "2.png",
+                    "succ": "2.png"
+                },
+                {
+                    "nor": "3.png",
+                    "succ": "3.png"
+                },
+                {
+                    "nor": "4.png",
+                    "succ": "4.png"
+                },
+                {
+                    "nor": "5.png",
+                    "succ": "5.png"
+                }
+            ],
+            "1": [
+                {
+                    "nor": "1_object_red.png",
+                    "succ": "1_object_succ.png"
+                },
+                {
+                    "nor": "2_object_red.png",
+                    "succ": "2_object_succ.png"
+                },
+                {
+                    "nor": "3_object_red.png",
+                    "succ": "3_object_succ.png"
+                },
+                {
+                    "nor": "4_object_red.png",
+                    "succ": "4_object_succ.png"
+                },
+                {
+                    "nor": "5_object_red.png",
+                    "succ": "5_object_succ.png"
+                }
+            ],
+            "Max": 5,
+            "Choice": 4
+        },
+        "MultipleCategory": [],
+        "EssentialCategory": []
+    }
+}

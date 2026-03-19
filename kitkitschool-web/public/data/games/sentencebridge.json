@@ -1,0 +1,2368 @@
+{
+  "levels": {
+    "1": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "A bus.",
+            "sound": "abus.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              5
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A yellow bus.",
+            "sound": "ayellowbus.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is a bus.",
+            "sound": "itisabus.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "A cat.",
+            "sound": "acat.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              5
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A black cat.",
+            "sound": "ablackcat.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is a cat.",
+            "sound": "itisacat.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "2": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "Two books.",
+            "sound": "twobooks.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              3
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A red apple.",
+            "sound": "aredapple.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              1,
+              5
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I like it.",
+            "sound": "ilikeit.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              1,
+              6
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "Four cups.",
+            "sound": "fourcups.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              4
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A pink dress.",
+            "sound": "apinkdress.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              1,
+              6
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is hot.",
+            "sound": "itishot.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              5
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "3": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He eats.",
+            "sound": "heeats.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She swims.",
+            "sound": "sheswims.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              3,
+              9
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Birds fly.",
+            "sound": "birdsfly.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              5,
+              9
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "He plays.",
+            "sound": "heplays.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She walks.",
+            "sound": "shewalks.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              3,
+              9
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It grows.",
+            "sound": "itgrows.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              8
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "4": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He is a boy.",
+            "sound": "heisaboy.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is an egg.",
+            "sound": "itisanegg.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Look at the sun.",
+            "sound": "lookatthesun.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "It is a lion.",
+            "sound": "itisalion.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is an ant.",
+            "sound": "itisanant.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I know the boy.",
+            "sound": "iknowtheboy.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "5": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "She is happy.",
+            "sound": "sheishappy.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              4,
+              5
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am little.",
+            "sound": "iamlittle.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              3
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "We are fast.",
+            "sound": "wearefast.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              4,
+              5
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "I am a girl.",
+            "sound": "iamagirl.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              3
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "You are tall.",
+            "sound": "youaretall.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              4,
+              5,
+              6
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He is sick.",
+            "sound": "heissick.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              4
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "6": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He is my dad.",
+            "sound": "heismydad.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is a frog.",
+            "sound": "itisafrog.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is my cow.",
+            "sound": "itismycow.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "They are big.",
+            "sound": "theyarebig.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is a duck.",
+            "sound": "itisaduck.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am hungry.",
+            "sound": "iamhungry.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "7": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He has a hen.",
+            "sound": "hehasahen.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "An old house.",
+            "sound": "anoldhouse.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is orange.",
+            "sound": "itisorange.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "I have a pig.",
+            "sound": "ihaveapig.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A blue truck.",
+            "sound": "abluetruck.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is small.",
+            "sound": "itissmall.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "8": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He is a boy.",
+            "sound": "heisaboy.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She is happy.",
+            "sound": "sheishappy.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "You are tall.",
+            "sound": "youaretall.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "It is a lion.",
+            "sound": "itisalion.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "We are fast.",
+            "sound": "wearefast.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am a girl.",
+            "sound": "iamagirl.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "9": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "This is my bag.",
+            "sound": "thisismybag.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              14
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "They are his cats.",
+            "sound": "theyarehiscats.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              9,
+              10,
+              11,
+              17
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She likes her dress.",
+            "sound": "shelikesherdress.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              10,
+              11,
+              12,
+              19
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "Jack is her brother.",
+            "sound": "jackisherbrother.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "These are my books.",
+            "sound": "thesearemybooks.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I like his friends.",
+            "sound": "ilikehisfriends.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "10": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "He eats.",
+            "sound": "heeats.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She swims.",
+            "sound": "sheswims.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              9
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Birds fly.",
+            "sound": "birdsfly.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              9
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "He plays.",
+            "sound": "heplays.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She walks.",
+            "sound": "shewalks.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              9
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It grows.",
+            "sound": "itgrows.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              8
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "11": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "It is a lion.",
+            "sound": "itisalion.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He is a boy.",
+            "sound": "heisaboy.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Look at the sun.",
+            "sound": "lookatthesun.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              15
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "We are fast.",
+            "sound": "wearefast.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "You are tall.",
+            "sound": "youaretall.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "They are his dogs.",
+            "sound": "theyarehisdogs.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              17
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "12": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "This is Ann.",
+            "sound": "thisisAnn.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "We like Mike.",
+            "sound": "welikemike.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am African.",
+            "sound": "iamafrican.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              5
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "This is Tony.",
+            "sound": "thisistony.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I like Josh.",
+            "sound": "ilikejosh.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He is Kenyan.",
+            "sound": "heiskenyan.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              6
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "13": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "She is seven years old.",
+            "sound": "sheissevenyearsold.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              3,
+              6,
+              12,
+              18,
+              22
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "They have two mangoes.",
+            "sound": "theyhavetwomangoes.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              4,
+              9,
+              13,
+              21
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "My mom likes yellow.",
+            "sound": "mymomlikesyellow.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              6,
+              12,
+              19
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "He has three brothers.",
+            "sound": "hehasthreebrothers.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              6,
+              12,
+              21
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "My sister is short.",
+            "sound": "mysisterisshort.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              2,
+              9,
+              12,
+              18
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She wants to be a nurse.",
+            "sound": "shewantstobeanurse.m4a",
+            "uppercase": false,
+            "hasAlphabet": false,
+            "slots": [
+              3,
+              9,
+              12,
+              15,
+              17,
+              23
+            ],
+            "multiLinePos": 13
+          }
+        ]
+      }
+    },
+    "14": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "A cat is on the box.",
+            "sound": "acatisonthebox.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              1,
+              5,
+              9,
+              10,
+              15
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She is in the kitchen.",
+            "sound": "sheisinthekitchen.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              6,
+              9,
+              13
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "They are at school.",
+            "sound": "theyareatschool.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              8,
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "A dog is under the box.",
+            "sound": "adogisunderthebox.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              3,
+              4,
+              8,
+              14,
+              18
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He is in the bedroom.",
+            "sound": "heisinthebedroom.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              5,
+              8,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "The ball is on the chair.",
+            "sound": "theballisonthechair.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              8,
+              11,
+              15,
+              16,
+              17
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "15": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "She is happy.",
+            "sound": "sheishappy.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is a lion.",
+            "sound": "itisalion.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              5,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A cat is on the chair.",
+            "sound": "acatisonthechair.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              3,
+              4,
+              8,
+              11,
+              15
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "You are tall.",
+            "sound": "youaretall.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It is an ant.",
+            "sound": "itisanant.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              5,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "A dog is on the box.",
+            "sound": "adogisonthebox.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              1,
+              5,
+              8,
+              11,
+              16,
+              17,
+              18
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "16": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "It's a bug.",
+            "sound": "itsabug.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Ryan is shy.",
+            "sound": "ryanisshy.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She's kind.",
+            "sound": "sheskind.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "It's a bird.",
+            "sound": "itsabird.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He's young.",
+            "sound": "hesyoung.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Amy is sick.",
+            "sound": "amyissick.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "17": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "I am a cook.",
+            "sound": "iamacook.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              1,
+              4,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "There is a tree.",
+            "sound": "thereisatree.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              5,
+              8,
+              11,
+              12,
+              13,
+              14,
+              15
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I have a pencil.",
+            "sound": "ihaveapencil.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              1,
+              6,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "I have a car.",
+            "sound": "ihaveacar.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              1,
+              6,
+              9,
+              10,
+              11,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She is a teacher.",
+            "sound": "sheisateacher.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              3,
+              6,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He has a book.",
+            "sound": "hehasabook.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              6,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "18": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "She can jump high.",
+            "sound": "shecanjumphigh.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              8,
+              9,
+              10,
+              11,
+              17
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Frogs can swim well.",
+            "sound": "frogscanswimwell.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              10,
+              11,
+              12,
+              13,
+              19
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He is eating fish now.",
+            "sound": "heiseatingfishnow.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              13,
+              14,
+              15,
+              16,
+              21
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "They can run fast.",
+            "sound": "theycanrunfast.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              9,
+              10,
+              11,
+              17
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "This is Sam's grandma.",
+            "sound": "thisissamsgrandma.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She has green mangoes.",
+            "sound": "shehasgreenmangoes.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              8,
+              9,
+              10,
+              11,
+              12,
+              21
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "19": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "I don't sing.",
+            "sound": "idontsing.m4a",
+            "uppercase": false,
+            "hasAlphabet": true,
+            "slots": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He doesn't dance.",
+            "sound": "hedoesntdance.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "It isn't big.",
+            "sound": "itisntbig.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              9,
+              10,
+              11,
+              12
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "They don't eat fish.",
+            "sound": "theydonteatfish.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              11,
+              12,
+              13,
+              19
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She doesn't like cats.",
+            "sound": "shedoesntlikecats.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              12,
+              13,
+              14,
+              15,
+              21
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I can't read.",
+            "sound": "icantread.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              8,
+              9,
+              10,
+              11
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "20": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "Are you sad?",
+            "sound": "areyousad.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Is he strong?",
+            "sound": "ishestrong.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "What is this?",
+            "sound": "whatisthis.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              12
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "Is she fast?",
+            "sound": "isshefast.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "How are you?",
+            "sound": "howareyou.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              11
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Who is she?",
+            "sound": "whoisshe.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              10
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "21": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "They are students.",
+            "sound": "theyarestudents.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              17
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Are they students?",
+            "sound": "aretheystudents.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              17
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Where is the cat?",
+            "sound": "whereisthecat.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              16
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "We like bananas.",
+            "sound": "welikebananas.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              15
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Do you like bananas?",
+            "sound": "doyoulikebananas.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              19
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "Does he like bananas?",
+            "sound": "doeshelikebananas.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              20
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "22": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "It is big.",
+            "sound": "itisbig.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am happy.",
+            "sound": "iamhappy.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "They are sad.",
+            "sound": "theyaresad.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "You are kind.",
+            "sound": "youarekind.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She is short.",
+            "sound": "sheisshort.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "I am fast.",
+            "sound": "iamfast.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "23": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "I dance.",
+            "sound": "idance.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "You sing.",
+            "sound": "yousing.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He sings.",
+            "sound": "hesings.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "multiLinePos": -1
+          }
+        ],
+        "2": [
+          {
+            "sentence": "We jump.",
+            "sound": "wejump.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "She runs.",
+            "sound": "sheruns.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "multiLinePos": -1
+          },
+          {
+            "sentence": "He reads.",
+            "sound": "hereads.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "multiLinePos": -1
+          }
+        ]
+      }
+    },
+    "24": {
+      "worksheets": {
+        "1": [
+          {
+            "sentence": "The boy is tall.",
+            "sound": "theboyistall.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ],
+            "multiLinePos": 11
+          },
+          {
+            "sentence": "This is my sister.",
+            "sound": "thisismysister.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "multiLinePos": 11
+          },
+          {
+            "sentence": "I like bananas.",
+            "sound": "ilikebananas.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ],
+            "multiLinePos": 7
+          }
+        ],
+        "2": [
+          {
+            "sentence": "The girl is hungry.",
+            "sound": "thegirlishungry.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "multiLinePos": 12
+          },
+          {
+            "sentence": "They are my brothers.",
+            "sound": "theyaremybrothers.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ],
+            "multiLinePos": 12
+          },
+          {
+            "sentence": "He likes oranges.",
+            "sound": "helikesoranges.m4a",
+            "uppercase": true,
+            "hasAlphabet": true,
+            "slots": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ],
+            "multiLinePos": 9
+          }
+        ]
+      }
+    }
+  },
+  "durations": {
+    "ablackcat.m4a": 1.49,
+    "abluetruck.m4a": 1.49,
+    "abus.m4a": 0.95,
+    "acat.m4a": 0.95,
+    "acatisonthebox.m4a": 2.55,
+    "acatisonthechair.m4a": 2.37,
+    "adogisonthebox.m4a": 2.51,
+    "adogisunderthebox.m4a": 2.58,
+    "amyissick.m4a": 1.83,
+    "anoldhouse.m4a": 1.76,
+    "apinkdress.m4a": 1.44,
+    "aredapple.m4a": 1.44,
+    "aretheystudents.m4a": 1.79,
+    "areyousad.m4a": 1.6,
+    "ayellowbus.m4a": 1.56,
+    "birdsfly.m4a": 1.35,
+    "doeshelikebananas.m4a": 2.09,
+    "doyoulikebananas.m4a": 1.97,
+    "fourcups.m4a": 1.58,
+    "frogscanswimwell.m4a": 2.48,
+    "hedoesntdance.m4a": 1.81,
+    "heeats.m4a": 1.51,
+    "hehasabook.m4a": 1.76,
+    "hehasahen.m4a": 1.39,
+    "hehasthreebrothers.m4a": 2.46,
+    "heisaboy.m4a": 1.56,
+    "heiseatingfishnow.m4a": 2.32,
+    "heisinthebedroom.m4a": 2.11,
+    "heiskenyan.m4a": 1.95,
+    "heismydad.m4a": 1.86,
+    "heissick.m4a": 1.53,
+    "helikesoranges.m4a": 1.97,
+    "heplays.m4a": 1.32,
+    "hereads.m4a": 1.42,
+    "hesings.m4a": 1.3,
+    "hesyoung.m4a": 1.35,
+    "howareyou.m4a": 1.25,
+    "iamacook.m4a": 1.86,
+    "iamafrican.m4a": 2.21,
+    "iamagirl.m4a": 1.63,
+    "iamfast.m4a": 1.76,
+    "iamhappy.m4a": 1.49,
+    "iamhungry.m4a": 1.81,
+    "iamlittle.m4a": 1.65,
+    "icantread.m4a": 1.63,
+    "idance.m4a": 1.28,
+    "idontsing.m4a": 1.51,
+    "ihaveacar.m4a": 1.72,
+    "ihaveapencil.m4a": 1.86,
+    "ihaveapig.m4a": 1.63,
+    "iknowtheboy.m4a": 1.53,
+    "ilikebananas.m4a": 1.88,
+    "ilikehisfriends.m4a": 1.83,
+    "ilikeit.m4a": 1.16,
+    "ilikejosh.m4a": 1.79,
+    "ishestrong.m4a": 1.65,
+    "isshefast.m4a": 1.53,
+    "itgrows.m4a": 1.28,
+    "itisabus.m4a": 1.67,
+    "itisacat.m4a": 1.65,
+    "itisaduck.m4a": 1.58,
+    "itisafrog.m4a": 1.58,
+    "itisalion.m4a": 1.72,
+    "itisanant.m4a": 1.67,
+    "itisanegg.m4a": 1.76,
+    "itisbig.m4a": 1.58,
+    "itishot.m4a": 1.46,
+    "itismycow.m4a": 1.81,
+    "itisntbig.m4a": 1.56,
+    "itisorange.m4a": 1.97,
+    "itissmall.m4a": 1.67,
+    "itsabird.m4a": 1.46,
+    "itsabug.m4a": 1.32,
+    "jackisherbrother.m4a": 2.18,
+    "lookatthesun.m4a": 1.81,
+    "mymomlikesyellow.m4a": 2.14,
+    "mysisterisshort.m4a": 2.51,
+    "ryanisshy.m4a": 1.72,
+    "shecanjumphigh.m4a": 2.53,
+    "shedoesntlikecats.m4a": 2.48,
+    "shehasgreenmangoes.m4a": 2.21,
+    "sheisateacher.m4a": 1.97,
+    "sheishappy.m4a": 1.88,
+    "sheisinthekitchen.m4a": 2.16,
+    "sheissevenyearsold.m4a": 2.76,
+    "sheisshort.m4a": 1.79,
+    "shelikesherdress.m4a": 2.09,
+    "sheruns.m4a": 1.46,
+    "sheskind.m4a": 1.49,
+    "sheswims.m4a": 1.23,
+    "shewalks.m4a": 1.23,
+    "shewantstobeanurse.m4a": 2.48,
+    "teacheristallest.m4a": 2.79,
+    "theballisonthechair.m4a": 2.41,
+    "theboyistall.m4a": 1.97,
+    "thegirlishungry.m4a": 2,
+    "thereisatree.m4a": 1.74,
+    "thesearemybooks.m4a": 2.28,
+    "theyareatschool.m4a": 2,
+    "theyarebig.m4a": 1.49,
+    "theyarehiscats.m4a": 2.37,
+    "theyarehisdogs.m4a": 2.25,
+    "theyaremybrothers.m4a": 1.95,
+    "theyaresad.m4a": 1.74,
+    "theyarestudents.m4a": 1.83,
+    "theycanrunfast.m4a": 2.23,
+    "theydonteatfish.m4a": 2.18,
+    "theyhavetwomangoes.m4a": 2.51,
+    "thisisann.m4a": 1.74,
+    "thisismybag.m4a": 2.04,
+    "thisismysister.m4a": 2.18,
+    "thisissamsgrandma.m4a": 2.39,
+    "thisistony.m4a": 1.9,
+    "twobooks.m4a": 1.28,
+    "wearefast.m4a": 1.74,
+    "wejump.m4a": 1.16,
+    "welikebananas.m4a": 1.86,
+    "welikemike.m4a": 1.9,
+    "whatisthis.m4a": 1.63,
+    "whereisthecat.m4a": 1.74,
+    "whoisshe.m4a": 1.39,
+    "youarekind.m4a": 1.76,
+    "youaretall.m4a": 1.65,
+    "yousing.m4a": 1.16
+  }
+}

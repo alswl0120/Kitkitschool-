@@ -1,0 +1,158 @@
+{
+  "title": "Letter B",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "B"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "for"
+                },
+                {
+                  "text": "ball."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Ball"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "B."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Bear"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "B."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Bird"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "B."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Banana"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "B."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Can"
+                },
+                {
+                  "text": "you"
+                },
+                {
+                  "text": "find"
+                },
+                {
+                  "text": "more"
+                },
+                {
+                  "text": "B"
+                },
+                {
+                  "text": "words?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

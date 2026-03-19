@@ -1,0 +1,230 @@
+{
+  "levels": {
+    "1": {
+      "problems": [
+        { "word": "cat", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "dog", "blank": 1, "choices": ["a", "o", "u", "e"], "correct": 1 },
+        { "word": "pig", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "cup", "blank": 1, "choices": ["a", "e", "o", "u"], "correct": 3 },
+        { "word": "hen", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "hot", "blank": 1, "choices": ["a", "e", "o", "u"], "correct": 2 }
+      ]
+    },
+    "2": {
+      "problems": [
+        { "word": "bat", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "hit", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "fun", "blank": 1, "choices": ["a", "e", "o", "u"], "correct": 3 },
+        { "word": "bed", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "log", "blank": 1, "choices": ["a", "e", "o", "u"], "correct": 2 },
+        { "word": "sun", "blank": 1, "choices": ["a", "e", "o", "u"], "correct": 3 }
+      ]
+    },
+    "3": {
+      "problems": [
+        { "word": "cat", "blank": 0, "choices": ["c", "b", "d", "h"], "correct": 0 },
+        { "word": "dog", "blank": 2, "choices": ["b", "d", "g", "t"], "correct": 2 },
+        { "word": "pig", "blank": 0, "choices": ["p", "b", "d", "h"], "correct": 0 },
+        { "word": "hat", "blank": 2, "choices": ["d", "n", "s", "t"], "correct": 3 },
+        { "word": "cup", "blank": 2, "choices": ["b", "n", "p", "t"], "correct": 2 },
+        { "word": "bed", "blank": 0, "choices": ["b", "d", "h", "r"], "correct": 0 }
+      ]
+    },
+    "4": {
+      "problems": [
+        { "word": "run", "blank": 0, "choices": ["b", "r", "s", "t"], "correct": 1 },
+        { "word": "map", "blank": 2, "choices": ["b", "n", "p", "t"], "correct": 2 },
+        { "word": "fix", "blank": 2, "choices": ["k", "n", "s", "x"], "correct": 3 },
+        { "word": "gap", "blank": 0, "choices": ["c", "g", "h", "t"], "correct": 1 },
+        { "word": "wet", "blank": 2, "choices": ["d", "n", "s", "t"], "correct": 3 },
+        { "word": "hub", "blank": 2, "choices": ["b", "d", "g", "p"], "correct": 0 }
+      ]
+    },
+    "5": {
+      "problems": [
+        { "word": "jump", "blank": 1, "choices": ["a", "e", "i", "u"], "correct": 3 },
+        { "word": "frog", "blank": 2, "choices": ["a", "e", "o", "u"], "correct": 2 },
+        { "word": "ship", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "clam", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "drip", "blank": 1, "choices": ["a", "e", "i", "r"], "correct": 3 },
+        { "word": "flag", "blank": 2, "choices": ["a", "e", "i", "u"], "correct": 0 }
+      ]
+    },
+    "6": {
+      "problems": [
+        { "word": "step", "blank": 0, "choices": ["s", "c", "d", "t"], "correct": 0 },
+        { "word": "plan", "blank": 3, "choices": ["d", "g", "n", "t"], "correct": 2 },
+        { "word": "trip", "blank": 3, "choices": ["b", "n", "p", "t"], "correct": 2 },
+        { "word": "glad", "blank": 3, "choices": ["b", "d", "n", "t"], "correct": 1 },
+        { "word": "swim", "blank": 3, "choices": ["l", "m", "n", "p"], "correct": 1 },
+        { "word": "crab", "blank": 3, "choices": ["b", "d", "g", "p"], "correct": 0 }
+      ]
+    },
+    "7": {
+      "problems": [
+        { "word": "light", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "bread", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "cloud", "blank": 2, "choices": ["a", "e", "o", "u"], "correct": 2 },
+        { "word": "plant", "blank": 2, "choices": ["a", "e", "i", "u"], "correct": 0 },
+        { "word": "shout", "blank": 2, "choices": ["a", "e", "o", "u"], "correct": 2 },
+        { "word": "train", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 0 }
+      ]
+    },
+    "8": {
+      "problems": [
+        { "word": "brave", "blank": 1, "choices": ["a", "e", "i", "r"], "correct": 3 },
+        { "word": "flute", "blank": 2, "choices": ["a", "e", "u", "o"], "correct": 2 },
+        { "word": "grasp", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "pride", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "stove", "blank": 2, "choices": ["a", "e", "o", "u"], "correct": 2 },
+        { "word": "truce", "blank": 2, "choices": ["a", "e", "i", "u"], "correct": 3 }
+      ]
+    },
+    "9": {
+      "problems": [
+        { "word": "said", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "they", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "come", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 2 },
+        { "word": "have", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 0 },
+        { "word": "here", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "some", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 2 }
+      ]
+    },
+    "10": {
+      "problems": [
+        { "word": "where", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "there", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "their", "blank": 2, "choices": ["a", "e", "i", "o"], "correct": 1 },
+        { "word": "would", "blank": 1, "choices": ["a", "o", "u", "e"], "correct": 1 },
+        { "word": "could", "blank": 1, "choices": ["a", "o", "u", "e"], "correct": 1 },
+        { "word": "again", "blank": 1, "choices": ["a", "e", "i", "o"], "correct": 0 }
+      ]
+    },
+    "11": {
+      "problems": [
+        { "word": "rain", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "tail", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "read", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "bean", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "boat", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 },
+        { "word": "food", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 }
+      ]
+    },
+    "12": {
+      "problems": [
+        { "word": "mail", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "meat", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "soap", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 },
+        { "word": "moon", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 },
+        { "word": "bead", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "road", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 },
+        { "word": "cool", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 }
+      ]
+    },
+    "13": {
+      "problems": [
+        { "word": "pain", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "seal", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "coal", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 },
+        { "word": "tool", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 },
+        { "word": "wait", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "heap", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 }
+      ]
+    },
+    "14": {
+      "problems": [
+        { "word": "bait", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "lean", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 1 },
+        { "word": "foam", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 },
+        { "word": "roof", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 },
+        { "word": "paid", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 0 },
+        { "word": "pool", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 3 },
+        { "word": "toad", "blank": 1, "choices": ["ai", "ea", "oa", "oo"], "correct": 2 }
+      ]
+    },
+    "15": {
+      "problems": [
+        { "word": "chip", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "ship", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "thin", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 2 },
+        { "word": "when", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 3 },
+        { "word": "chop", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "shop", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 1 }
+      ]
+    },
+    "16": {
+      "problems": [
+        { "word": "chat", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "shed", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "that", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 2 },
+        { "word": "whip", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 3 },
+        { "word": "chin", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "shut", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "them", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 2 }
+      ]
+    },
+    "17": {
+      "problems": [
+        { "word": "rich", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "wish", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "with", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 2 },
+        { "word": "each", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "bush", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "path", "blank": 2, "choices": ["ch", "sh", "th", "wh"], "correct": 2 }
+      ]
+    },
+    "18": {
+      "problems": [
+        { "word": "check", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "shell", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "these", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 2 },
+        { "word": "wheat", "blank": 0, "choices": ["ch", "sh", "th", "wh"], "correct": 3 },
+        { "word": "teach", "blank": 3, "choices": ["ch", "sh", "th", "wh"], "correct": 0 },
+        { "word": "brush", "blank": 3, "choices": ["ch", "sh", "th", "wh"], "correct": 1 },
+        { "word": "cloth", "blank": 3, "choices": ["ch", "sh", "th", "wh"], "correct": 2 }
+      ]
+    },
+    "19": {
+      "problems": [
+        { "word": "black", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 0 },
+        { "word": "braid", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 1 },
+        { "word": "clam", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 2 },
+        { "word": "crab", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 3 },
+        { "word": "blot", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 0 },
+        { "word": "brim", "blank": 0, "choices": ["bl", "br", "cl", "cr"], "correct": 1 }
+      ]
+    },
+    "20": {
+      "problems": [
+        { "word": "drip", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 0 },
+        { "word": "flag", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 1 },
+        { "word": "frog", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 2 },
+        { "word": "glad", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 3 },
+        { "word": "drum", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 0 },
+        { "word": "flat", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 1 },
+        { "word": "grab", "blank": 0, "choices": ["dr", "fl", "fr", "gl"], "correct": 2 }
+      ]
+    },
+    "21": {
+      "problems": [
+        { "word": "blend", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 0 },
+        { "word": "brick", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 1 },
+        { "word": "flesh", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 2 },
+        { "word": "frost", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 3 },
+        { "word": "blush", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 0 },
+        { "word": "brave", "blank": 0, "choices": ["bl", "br", "fl", "fr"], "correct": 1 }
+      ]
+    },
+    "22": {
+      "problems": [
+        { "word": "cluck", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 0 },
+        { "word": "crisp", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 1 },
+        { "word": "drift", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 2 },
+        { "word": "gloom", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 3 },
+        { "word": "clash", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 0 },
+        { "word": "cross", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 1 },
+        { "word": "dress", "blank": 0, "choices": ["cl", "cr", "dr", "gl"], "correct": 2 }
+      ]
+    }
+  }
+}

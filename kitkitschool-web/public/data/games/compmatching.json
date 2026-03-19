@@ -1,0 +1,51 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {
+          "questionText": "Draw a line to match.",
+          "leftType": "text",
+          "rightType": "text",
+          "pairs": [
+            {"id": 1, "leftValue": "bus", "rightValue": "bus"},
+            {"id": 2, "leftValue": "train", "rightValue": "train"},
+            {"id": 3, "leftValue": "bike", "rightValue": "bike"}
+          ]
+        },
+        {
+          "questionText": "Draw a line to match.",
+          "leftType": "text",
+          "rightType": "text",
+          "pairs": [
+            {"id": 1, "leftValue": "water", "rightValue": "water"},
+            {"id": 2, "leftValue": "rice", "rightValue": "rice"},
+            {"id": 3, "leftValue": "bread", "rightValue": "bread"}
+          ]
+        },
+        {
+          "questionText": "Draw a line to match.",
+          "leftType": "text",
+          "rightType": "text",
+          "pairs": [
+            {"id": 1, "leftValue": "cat", "rightValue": "cat"},
+            {"id": 2, "leftValue": "dog", "rightValue": "dog"},
+            {"id": 3, "leftValue": "fish", "rightValue": "fish"},
+            {"id": 4, "leftValue": "bird", "rightValue": "bird"}
+          ]
+        },
+        {
+          "questionText": "Draw a line to match.",
+          "leftType": "text",
+          "rightType": "text",
+          "pairs": [
+            {"id": 1, "leftValue": "red", "rightValue": "red"},
+            {"id": 2, "leftValue": "blue", "rightValue": "blue"},
+            {"id": 3, "leftValue": "green", "rightValue": "green"},
+            {"id": 4, "leftValue": "yellow", "rightValue": "yellow"}
+          ]
+        }
+      ]
+    }
+  ]
+}

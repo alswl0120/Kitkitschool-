@@ -1,0 +1,110 @@
+{
+    "ObjectCount": 8,
+    "ProblemCount": 8,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 4,
+        "UseOneObject": false,
+        "UseRandomCategory": false,
+        "IsSuccFullPath": true,
+        "BasicCategory": [
+            {
+                "nor": "LineMatching/Images/planeFigure/triangle_",
+                "succ": "LineMatching/Images/planeFigure/triangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/rectangle_",
+                "succ": "LineMatching/Images/planeFigure/rectangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/circle_",
+                "succ": "LineMatching/Images/planeFigure/circle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/ellipse_",
+                "succ": "LineMatching/Images/planeFigure/ellipse_succ.png"
+            }
+        ],
+        "UseColorCount": 1,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [
+            "blue.png"
+        ],
+        "MultipleCategory": [
+            {
+                "0": "LineMatching/Images/object/triangle.png",
+                "1": "LineMatching/Images/object/triangleruler.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/triangle_succ.png",
+                "succ_1": "LineMatching/Images/object/triangleruler_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/object/television.png",
+                "1": "LineMatching/Images/object/window.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/television_succ.png",
+                "succ_1": "LineMatching/Images/object/window_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/object/donut.png",
+                "1": "LineMatching/Images/object/wheel.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/donut_succ.png",
+                "succ_1": "LineMatching/Images/object/wheel_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/balloon/balloon_orange.png",
+                "1": "LineMatching/Images/object/mirror.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/balloon/balloon_succ_orange.png",
+                "succ_1": "LineMatching/Images/object/mirror_succ.png"
+            }
+        ],
+        "EssentialCategory": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "UseObjectCount": 0,
+        "UseOneObject": false,
+        "UseRandomCategory": false,
+        "IsSuccFullPath": false,
+        "BasicCategory": [],
+        "UseColorCount": 0,
+        "UseOneColor": false,
+        "Nor_Succ_Same": true,
+        "UseColors": [],
+        "MultipleCategory": [
+            {
+                "0": "LineMatching/Images/object/triangle.png",
+                "1": "LineMatching/Images/object/triangleruler.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/triangle_succ.png",
+                "succ_1": "LineMatching/Images/object/triangleruler_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/object/television.png",
+                "1": "LineMatching/Images/object/window.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/television_succ.png",
+                "succ_1": "LineMatching/Images/object/window_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/object/donut.png",
+                "1": "LineMatching/Images/object/wheel.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/object/donut_succ.png",
+                "succ_1": "LineMatching/Images/object/wheel_succ.png"
+            },
+            {
+                "0": "LineMatching/Images/balloon/balloon_orange.png",
+                "1": "LineMatching/Images/object/mirror.png",
+                "maxNum": 1,
+                "succ_0": "LineMatching/Images/balloon/balloon_succ_orange.png",
+                "succ_1": "LineMatching/Images/object/mirror_succ.png"
+            }
+        ],
+        "EssentialCategory": []
+    }
+}

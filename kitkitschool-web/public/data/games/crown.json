@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "levelIndex": 0,
+      "questions": [
+        { "crownNumber": 3, "choices": [{"count": 3, "emoji": "⭐"}, {"count": 5, "emoji": "⭐"}, {"count": 1, "emoji": "⭐"}, {"count": 2, "emoji": "⭐"}], "answer": 0 },
+        { "crownNumber": 1, "choices": [{"count": 4, "emoji": "🌸"}, {"count": 1, "emoji": "🌸"}, {"count": 3, "emoji": "🌸"}, {"count": 2, "emoji": "🌸"}], "answer": 1 },
+        { "crownNumber": 5, "choices": [{"count": 2, "emoji": "🎈"}, {"count": 4, "emoji": "🎈"}, {"count": 5, "emoji": "🎈"}, {"count": 1, "emoji": "🎈"}], "answer": 2 },
+        { "crownNumber": 2, "choices": [{"count": 2, "emoji": "🍎"}, {"count": 5, "emoji": "🍎"}, {"count": 3, "emoji": "🍎"}, {"count": 4, "emoji": "🍎"}], "answer": 0 },
+        { "crownNumber": 4, "choices": [{"count": 1, "emoji": "🦋"}, {"count": 3, "emoji": "🦋"}, {"count": 5, "emoji": "🦋"}, {"count": 4, "emoji": "🦋"}], "answer": 3 },
+        { "crownNumber": 2, "choices": [{"count": 5, "emoji": "🌙"}, {"count": 2, "emoji": "🌙"}, {"count": 4, "emoji": "🌙"}, {"count": 3, "emoji": "🌙"}], "answer": 1 },
+        { "crownNumber": 5, "choices": [{"count": 3, "emoji": "🍭"}, {"count": 1, "emoji": "🍭"}, {"count": 4, "emoji": "🍭"}, {"count": 5, "emoji": "🍭"}], "answer": 3 },
+        { "crownNumber": 3, "choices": [{"count": 5, "emoji": "🌺"}, {"count": 4, "emoji": "🌺"}, {"count": 3, "emoji": "🌺"}, {"count": 1, "emoji": "🌺"}], "answer": 2 }
+      ]
+    },
+    {
+      "levelIndex": 1,
+      "questions": [
+        { "crownNumber": 7, "choices": [{"count": 4, "emoji": "⭐"}, {"count": 7, "emoji": "⭐"}, {"count": 9, "emoji": "⭐"}, {"count": 2, "emoji": "⭐"}], "answer": 1 },
+        { "crownNumber": 3, "choices": [{"count": 8, "emoji": "🎵"}, {"count": 5, "emoji": "🎵"}, {"count": 3, "emoji": "🎵"}, {"count": 10, "emoji": "🎵"}], "answer": 2 },
+        { "crownNumber": 10, "choices": [{"count": 6, "emoji": "🍓"}, {"count": 1, "emoji": "🍓"}, {"count": 8, "emoji": "🍓"}, {"count": 10, "emoji": "🍓"}], "answer": 3 },
+        { "crownNumber": 6, "choices": [{"count": 6, "emoji": "🐸"}, {"count": 9, "emoji": "🐸"}, {"count": 2, "emoji": "🐸"}, {"count": 4, "emoji": "🐸"}], "answer": 0 },
+        { "crownNumber": 8, "choices": [{"count": 3, "emoji": "🌈"}, {"count": 7, "emoji": "🌈"}, {"count": 8, "emoji": "🌈"}, {"count": 5, "emoji": "🌈"}], "answer": 2 },
+        { "crownNumber": 4, "choices": [{"count": 9, "emoji": "🎀"}, {"count": 4, "emoji": "🎀"}, {"count": 6, "emoji": "🎀"}, {"count": 1, "emoji": "🎀"}], "answer": 1 },
+        { "crownNumber": 9, "choices": [{"count": 2, "emoji": "🦄"}, {"count": 5, "emoji": "🦄"}, {"count": 9, "emoji": "🦄"}, {"count": 7, "emoji": "🦄"}], "answer": 2 },
+        { "crownNumber": 5, "choices": [{"count": 10, "emoji": "🍦"}, {"count": 5, "emoji": "🍦"}, {"count": 3, "emoji": "🍦"}, {"count": 8, "emoji": "🍦"}], "answer": 1 }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "questions": [
+        { "crownNumber": 12, "choices": [{"count": 7, "emoji": "⭐"}, {"count": 15, "emoji": "⭐"}, {"count": 12, "emoji": "⭐"}, {"count": 9, "emoji": "⭐"}], "answer": 2 },
+        { "crownNumber": 18, "choices": [{"count": 18, "emoji": "🎯"}, {"count": 11, "emoji": "🎯"}, {"count": 20, "emoji": "🎯"}, {"count": 14, "emoji": "🎯"}], "answer": 0 },
+        { "crownNumber": 6, "choices": [{"count": 13, "emoji": "🌻"}, {"count": 6, "emoji": "🌻"}, {"count": 17, "emoji": "🌻"}, {"count": 10, "emoji": "🌻"}], "answer": 1 },
+        { "crownNumber": 15, "choices": [{"count": 8, "emoji": "🎸"}, {"count": 19, "emoji": "🎸"}, {"count": 5, "emoji": "🎸"}, {"count": 15, "emoji": "🎸"}], "answer": 3 },
+        { "crownNumber": 20, "choices": [{"count": 16, "emoji": "🚂"}, {"count": 20, "emoji": "🚂"}, {"count": 11, "emoji": "🚂"}, {"count": 7, "emoji": "🚂"}], "answer": 1 },
+        { "crownNumber": 9, "choices": [{"count": 14, "emoji": "🦊"}, {"count": 5, "emoji": "🦊"}, {"count": 9, "emoji": "🦊"}, {"count": 17, "emoji": "🦊"}], "answer": 2 },
+        { "crownNumber": 13, "choices": [{"count": 6, "emoji": "🍕"}, {"count": 13, "emoji": "🍕"}, {"count": 18, "emoji": "🍕"}, {"count": 10, "emoji": "🍕"}], "answer": 1 },
+        { "crownNumber": 16, "choices": [{"count": 20, "emoji": "🌍"}, {"count": 8, "emoji": "🌍"}, {"count": 16, "emoji": "🌍"}, {"count": 12, "emoji": "🌍"}], "answer": 2 }
+      ]
+    }
+  ]
+}

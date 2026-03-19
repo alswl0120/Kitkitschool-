@@ -1,0 +1,199 @@
+{
+  "levels": {
+    "1": [
+      { "word": "cat", "hint": "🐱", "letters": ["c","a","t","x","b","s"] },
+      { "word": "dog", "hint": "🐶", "letters": ["d","o","g","p","n","r"] },
+      { "word": "pig", "hint": "🐷", "letters": ["p","i","g","b","u","t"] },
+      { "word": "sun", "hint": "☀️", "letters": ["s","u","n","z","a","f"] },
+      { "word": "hat", "hint": "🎩", "letters": ["h","a","t","e","k","m"] }
+    ],
+    "2": [
+      { "word": "cup", "hint": "☕", "letters": ["c","u","p","r","s","t"] },
+      { "word": "hen", "hint": "🐔", "letters": ["h","e","n","a","o","b"] },
+      { "word": "map", "hint": "🗺️", "letters": ["m","a","p","c","x","r"] },
+      { "word": "fox", "hint": "🦊", "letters": ["f","o","x","p","a","n"] },
+      { "word": "web", "hint": "🕸️", "letters": ["w","e","b","d","r","s"] }
+    ],
+    "3": [
+      { "word": "frog", "hint": "🐸", "letters": ["f","r","o","g","p","s","t"] },
+      { "word": "ship", "hint": "🚢", "letters": ["s","h","i","p","d","r","n"] },
+      { "word": "star", "hint": "⭐", "letters": ["s","t","a","r","c","n","b"] },
+      { "word": "play", "hint": "🎮", "letters": ["p","l","a","y","s","r","t"] },
+      { "word": "drum", "hint": "🥁", "letters": ["d","r","u","m","t","s","n"] }
+    ],
+    "4": [
+      { "word": "bird", "hint": "🐦", "letters": ["b","i","r","d","n","s","t"] },
+      { "word": "cake", "hint": "🎂", "letters": ["c","a","k","e","s","t","r"] },
+      { "word": "fish", "hint": "🐟", "letters": ["f","i","s","h","d","r","n"] },
+      { "word": "tree", "hint": "🌳", "letters": ["t","r","e","e","s","d","n"] },
+      { "word": "snow", "hint": "❄️", "letters": ["s","n","o","w","t","r","b"] }
+    ],
+    "5": [
+      { "word": "plant", "hint": "🌱", "letters": ["p","l","a","n","t","s","r","b"] },
+      { "word": "stone", "hint": "🪨", "letters": ["s","t","o","n","e","r","c","b"] },
+      { "word": "bread", "hint": "🍞", "letters": ["b","r","e","a","d","s","t","n"] },
+      { "word": "sleep", "hint": "😴", "letters": ["s","l","e","e","p","t","r","n"] },
+      { "word": "cloud", "hint": "☁️", "letters": ["c","l","o","u","d","r","s","t"] }
+    ],
+    "6": [
+      { "word": "grape", "hint": "🍇", "letters": ["g","r","a","p","e","s","t","n"] },
+      { "word": "tiger", "hint": "🐯", "letters": ["t","i","g","e","r","s","n","b"] },
+      { "word": "flame", "hint": "🔥", "letters": ["f","l","a","m","e","s","t","r"] },
+      { "word": "shout", "hint": "📣", "letters": ["s","h","o","u","t","r","n","d"] },
+      { "word": "bring", "hint": "🎁", "letters": ["b","r","i","n","g","s","t","d"] }
+    ],
+    "7": [
+      { "word": "castle", "hint": "🏰", "letters": ["c","a","s","t","l","e","r","n","b"] },
+      { "word": "bridge", "hint": "🌉", "letters": ["b","r","i","d","g","e","t","s","n"] },
+      { "word": "flower", "hint": "🌸", "letters": ["f","l","o","w","e","r","s","t","n"] },
+      { "word": "candle", "hint": "🕯️", "letters": ["c","a","n","d","l","e","r","s","t"] },
+      { "word": "animal", "hint": "🦁", "letters": ["a","n","i","m","a","l","s","r","t"] }
+    ],
+    "8": [
+      { "word": "garden", "hint": "🌻", "letters": ["g","a","r","d","e","n","s","t","b","c"] },
+      { "word": "butter", "hint": "🧈", "letters": ["b","u","t","t","e","r","s","n","d","c"] },
+      { "word": "mirror", "hint": "🪞", "letters": ["m","i","r","r","o","r","s","t","n","b"] },
+      { "word": "island", "hint": "🏝️", "letters": ["i","s","l","a","n","d","r","t","b","c"] },
+      { "word": "bottle", "hint": "🍶", "letters": ["b","o","t","t","l","e","s","r","n","d"] }
+    ],
+    "9": [
+      { "word": "cake", "hint": "🎂", "letters": ["c","a","k","e","s","t","r","b"] },
+      { "word": "bike", "hint": "🚲", "letters": ["b","i","k","e","d","r","s","t"] },
+      { "word": "note", "hint": "📝", "letters": ["n","o","t","e","s","r","b","d"] },
+      { "word": "tune", "hint": "🎵", "letters": ["t","u","n","e","s","r","d","b"] },
+      { "word": "gate", "hint": "🚪", "letters": ["g","a","t","e","s","n","r","b"] },
+      { "word": "pine", "hint": "🌲", "letters": ["p","i","n","e","s","t","r","b"] }
+    ],
+    "10": [
+      { "word": "lake", "hint": "🏞️", "letters": ["l","a","k","e","s","t","r","b"] },
+      { "word": "mole", "hint": "🐭", "letters": ["m","o","l","e","s","n","r","t"] },
+      { "word": "rose", "hint": "🌹", "letters": ["r","o","s","e","t","n","b","d"] },
+      { "word": "cube", "hint": "🧊", "letters": ["c","u","b","e","s","t","r","n"] },
+      { "word": "dune", "hint": "🏜️", "letters": ["d","u","n","e","s","r","t","b"] },
+      { "word": "fume", "hint": "💨", "letters": ["f","u","m","e","s","t","r","n"] }
+    ],
+    "11": [
+      { "word": "cape", "hint": "🦸", "letters": ["c","a","p","e","s","t","r","b"] },
+      { "word": "hive", "hint": "🐝", "letters": ["h","i","v","e","s","r","t","n"] },
+      { "word": "bone", "hint": "🦴", "letters": ["b","o","n","e","s","r","t","d"] },
+      { "word": "mute", "hint": "🔇", "letters": ["m","u","t","e","s","r","n","b"] },
+      { "word": "robe", "hint": "👘", "letters": ["r","o","b","e","s","t","n","d"] }
+    ],
+    "12": [
+      { "word": "woke", "hint": "☕", "letters": ["w","o","k","e","s","t","r","b"] },
+      { "word": "kite", "hint": "🪁", "letters": ["k","i","t","e","s","r","n","b"] },
+      { "word": "lame", "hint": "🦶", "letters": ["l","a","m","e","s","t","r","n"] },
+      { "word": "dote", "hint": "💗", "letters": ["d","o","t","e","s","r","n","b"] },
+      { "word": "safe", "hint": "🔒", "letters": ["s","a","f","e","t","r","n","b"] },
+      { "word": "line", "hint": "📏", "letters": ["l","i","n","e","s","t","r","b"] }
+    ],
+    "13": [
+      { "word": "black", "hint": "⬛", "letters": ["b","l","a","c","k","s","t","r","n"] },
+      { "word": "plant", "hint": "🌱", "letters": ["p","l","a","n","t","s","r","b","d"] },
+      { "word": "brick", "hint": "🧱", "letters": ["b","r","i","c","k","s","t","n","d"] },
+      { "word": "clock", "hint": "🕐", "letters": ["c","l","o","c","k","s","t","r","b"] },
+      { "word": "craft", "hint": "✂️", "letters": ["c","r","a","f","t","s","n","b","d"] },
+      { "word": "gloss", "hint": "💋", "letters": ["g","l","o","s","s","t","r","n","b"] }
+    ],
+    "14": [
+      { "word": "blaze", "hint": "🔥", "letters": ["b","l","a","z","e","s","t","r","n"] },
+      { "word": "clamp", "hint": "🔧", "letters": ["c","l","a","m","p","s","t","r","b"] },
+      { "word": "drift", "hint": "🌊", "letters": ["d","r","i","f","t","s","n","b","c"] },
+      { "word": "flint", "hint": "🪨", "letters": ["f","l","i","n","t","s","r","b","d"] },
+      { "word": "grunt", "hint": "💪", "letters": ["g","r","u","n","t","s","b","d","c"] },
+      { "word": "pluck", "hint": "🎸", "letters": ["p","l","u","c","k","s","t","r","b"] }
+    ],
+    "15": [
+      { "word": "crisp", "hint": "🥐", "letters": ["c","r","i","s","p","t","n","b","d"] },
+      { "word": "greet", "hint": "👋", "letters": ["g","r","e","e","t","s","n","b","d"] },
+      { "word": "trend", "hint": "📈", "letters": ["t","r","e","n","d","s","b","c","p"] },
+      { "word": "cross", "hint": "✝️", "letters": ["c","r","o","s","s","t","n","b","d"] },
+      { "word": "blend", "hint": "🥤", "letters": ["b","l","e","n","d","s","t","r","c"] }
+    ],
+    "16": [
+      { "word": "brush", "hint": "🖌️", "letters": ["b","r","u","s","h","t","n","d","c"] },
+      { "word": "clown", "hint": "🤡", "letters": ["c","l","o","w","n","s","t","r","b"] },
+      { "word": "draft", "hint": "📄", "letters": ["d","r","a","f","t","s","n","b","c"] },
+      { "word": "flesh", "hint": "🥩", "letters": ["f","l","e","s","h","t","r","n","b"] },
+      { "word": "prune", "hint": "🍇", "letters": ["p","r","u","n","e","s","t","b","d"] },
+      { "word": "stomp", "hint": "👣", "letters": ["s","t","o","m","p","r","n","b","d"] }
+    ],
+    "17": [
+      { "word": "flower", "hint": "🌸", "letters": ["f","l","o","w","e","r","s","t","n","b"] },
+      { "word": "butter", "hint": "🧈", "letters": ["b","u","t","t","e","r","s","n","d","c"] },
+      { "word": "winter", "hint": "❄️", "letters": ["w","i","n","t","e","r","s","d","b","c"] },
+      { "word": "summer", "hint": "☀️", "letters": ["s","u","m","m","e","r","t","n","b","d"] },
+      { "word": "corner", "hint": "📐", "letters": ["c","o","r","n","e","r","s","t","b","d"] },
+      { "word": "finger", "hint": "☝️", "letters": ["f","i","n","g","e","r","s","t","n","b"] }
+    ],
+    "18": [
+      { "word": "ladder", "hint": "🪜", "letters": ["l","a","d","d","e","r","s","t","n","b"] },
+      { "word": "mirror", "hint": "🪞", "letters": ["m","i","r","r","o","r","s","t","n","b"] },
+      { "word": "pepper", "hint": "🌶️", "letters": ["p","e","p","p","e","r","s","t","n","b"] },
+      { "word": "tender", "hint": "💚", "letters": ["t","e","n","d","e","r","s","b","c","n"] },
+      { "word": "timber", "hint": "🪵", "letters": ["t","i","m","b","e","r","s","n","d","c"] },
+      { "word": "wander", "hint": "🚶", "letters": ["w","a","n","d","e","r","s","t","b","c"] }
+    ],
+    "19": [
+      { "word": "batter", "hint": "🥎", "letters": ["b","a","t","t","e","r","s","n","d","c"] },
+      { "word": "bitter", "hint": "😬", "letters": ["b","i","t","t","e","r","s","n","d","c"] },
+      { "word": "hunter", "hint": "🏹", "letters": ["h","u","n","t","e","r","s","b","d","c"] },
+      { "word": "litter", "hint": "🗑️", "letters": ["l","i","t","t","e","r","s","n","b","d"] },
+      { "word": "matter", "hint": "⚖️", "letters": ["m","a","t","t","e","r","s","n","b","d"] }
+    ],
+    "20": [
+      { "word": "better", "hint": "👍", "letters": ["b","e","t","t","e","r","s","n","d","c"] },
+      { "word": "gather", "hint": "🤝", "letters": ["g","a","t","h","e","r","s","n","b","d"] },
+      { "word": "lather", "hint": "🧴", "letters": ["l","a","t","h","e","r","s","n","b","d"] },
+      { "word": "mother", "hint": "👩", "letters": ["m","o","t","h","e","r","s","n","b","d"] },
+      { "word": "rather", "hint": "🤔", "letters": ["r","a","t","h","e","r","s","n","b","d"] },
+      { "word": "bother", "hint": "😤", "letters": ["b","o","t","h","e","r","s","n","d","c"] }
+    ],
+    "21": [
+      { "word": "chicken", "hint": "🐔", "letters": ["c","h","i","c","k","e","n","s","t","r","b"] },
+      { "word": "blanket", "hint": "🛏️", "letters": ["b","l","a","n","k","e","t","s","r","d","c"] },
+      { "word": "captain", "hint": "⚓", "letters": ["c","a","p","t","a","i","n","s","r","b","d"] },
+      { "word": "crystal", "hint": "💎", "letters": ["c","r","y","s","t","a","l","n","b","d","p"] },
+      { "word": "dolphin", "hint": "🐬", "letters": ["d","o","l","p","h","i","n","s","t","r","b"] },
+      { "word": "glitter", "hint": "✨", "letters": ["g","l","i","t","t","e","r","s","n","b","d"] }
+    ],
+    "22": [
+      { "word": "lantern", "hint": "🏮", "letters": ["l","a","n","t","e","r","n","s","b","d","c"] },
+      { "word": "lobster", "hint": "🦞", "letters": ["l","o","b","s","t","e","r","n","d","c","p"] },
+      { "word": "pilgrim", "hint": "🚶", "letters": ["p","i","l","g","r","i","m","s","t","n","b"] },
+      { "word": "shelter", "hint": "⛺", "letters": ["s","h","e","l","t","e","r","n","b","d","c"] },
+      { "word": "spinner", "hint": "🌀", "letters": ["s","p","i","n","n","e","r","t","b","d","c"] }
+    ],
+    "23": [
+      { "word": "blister", "hint": "🩹", "letters": ["b","l","i","s","t","e","r","n","d","c","p"] },
+      { "word": "chapter", "hint": "📖", "letters": ["c","h","a","p","t","e","r","s","n","b","d"] },
+      { "word": "cluster", "hint": "🍇", "letters": ["c","l","u","s","t","e","r","n","b","d","p"] },
+      { "word": "flutter", "hint": "🦋", "letters": ["f","l","u","t","t","e","r","s","n","b","d"] },
+      { "word": "monster", "hint": "👹", "letters": ["m","o","n","s","t","e","r","b","d","c","p"] },
+      { "word": "plaster", "hint": "🩹", "letters": ["p","l","a","s","t","e","r","n","b","d","c"] }
+    ],
+    "24": [
+      { "word": "elephant", "hint": "🐘", "letters": ["e","l","e","p","h","a","n","t","s","r","b","d"] },
+      { "word": "sandwich", "hint": "🥪", "letters": ["s","a","n","d","w","i","c","h","t","r","b","p"] },
+      { "word": "shoulder", "hint": "💪", "letters": ["s","h","o","u","l","d","e","r","t","n","b","c"] },
+      { "word": "splinter", "hint": "🪵", "letters": ["s","p","l","i","n","t","e","r","b","d","c","n"] },
+      { "word": "standard", "hint": "🏅", "letters": ["s","t","a","n","d","a","r","d","b","c","p","n"] }
+    ],
+    "25": [
+      { "word": "rainbow", "hint": "🌈", "letters": ["r","a","i","n","b","o","w","s","t","d","c","p"] },
+      { "word": "absolute", "hint": "💯", "letters": ["a","b","s","o","l","u","t","e","r","n","d","c"] },
+      { "word": "backbone", "hint": "🦴", "letters": ["b","a","c","k","b","o","n","e","s","t","r","d"] },
+      { "word": "calendar", "hint": "📅", "letters": ["c","a","l","e","n","d","a","r","s","t","b","p"] },
+      { "word": "daughter", "hint": "👧", "letters": ["d","a","u","g","h","t","e","r","s","n","b","c"] },
+      { "word": "triangle", "hint": "📐", "letters": ["t","r","i","a","n","g","l","e","s","b","d","c"] }
+    ],
+    "26": [
+      { "word": "birthday", "hint": "🎂", "letters": ["b","i","r","t","h","d","a","y","s","n","c","p"] },
+      { "word": "children", "hint": "👧", "letters": ["c","h","i","l","d","r","e","n","s","t","b","p"] },
+      { "word": "colorful", "hint": "🌈", "letters": ["c","o","l","o","r","f","u","l","s","t","n","b"] },
+      { "word": "grateful", "hint": "🙏", "letters": ["g","r","a","t","e","f","u","l","s","n","b","d"] },
+      { "word": "multiple", "hint": "✖️", "letters": ["m","u","l","t","i","p","l","e","s","n","b","d"] },
+      { "word": "mountain", "hint": "⛰️", "letters": ["m","o","u","n","t","a","i","n","s","r","b","d"] }
+    ]
+  }
+}

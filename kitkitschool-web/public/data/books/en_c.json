@@ -1,0 +1,158 @@
+{
+  "title": "Letter C",
+  "layout": "portrait",
+  "hasAudio": false,
+  "fontSize": 28,
+  "pages": [
+    {
+      "pageNumber": 0,
+      "paragraphs": []
+    },
+    {
+      "pageNumber": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "C"
+                },
+                {
+                  "text": "is"
+                },
+                {
+                  "text": "for"
+                },
+                {
+                  "text": "cat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Cat"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Car"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "C."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Cap"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Cake"
+                },
+                {
+                  "text": "starts"
+                },
+                {
+                  "text": "with"
+                },
+                {
+                  "text": "C."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "words": [
+                {
+                  "text": "Can"
+                },
+                {
+                  "text": "you"
+                },
+                {
+                  "text": "find"
+                },
+                {
+                  "text": "more"
+                },
+                {
+                  "text": "C"
+                },
+                {
+                  "text": "words?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

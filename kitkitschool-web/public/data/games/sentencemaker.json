@@ -1,0 +1,1897 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Sam",
+            "eats"
+          ],
+          "wrongWords": [],
+          "image": "like_5.png",
+          "sound": "sameats.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Ayanda",
+            "reads"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_7_sentence_reads.png",
+          "sound": "ayandareads.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Mac",
+            "plays"
+          ],
+          "wrongWords": [],
+          "image": "like_2.png",
+          "sound": "macplays.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Lele",
+            "swims"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_5_sentence_swims.png",
+          "sound": "leleswims.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Khalai",
+            "walks"
+          ],
+          "wrongWords": [],
+          "image": "girl_plants_2_sentence_walks.png",
+          "sound": "khalaiwalks.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The plant",
+            "grows"
+          ],
+          "wrongWords": [],
+          "image": "plants_7.png",
+          "sound": "theplantgrows.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The ball",
+            "bounces"
+          ],
+          "wrongWords": [],
+          "image": "ball_5.png",
+          "sound": "theballbounces.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The crocodile",
+            "swims"
+          ],
+          "wrongWords": [],
+          "image": "croc_3.png",
+          "sound": "thecrocodileswims.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "Birds",
+            "fly"
+          ],
+          "wrongWords": [],
+          "image": "soap_2_sentence_birds.png",
+          "sound": "birdsfly.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The cow",
+            "eats"
+          ],
+          "wrongWords": [],
+          "image": "cow_3_sentence_eats.png",
+          "sound": "thecoweats.m4a"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "I",
+            "eat"
+          ],
+          "wrongWords": [],
+          "image": "like_5.png",
+          "sound": "ieat.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "She",
+            "reads"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_7_sentence_reads.png",
+          "sound": "shereads.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "He",
+            "plays"
+          ],
+          "wrongWords": [],
+          "image": "like_2.png",
+          "sound": "heplays.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "She",
+            "swims"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_5_sentence_swims.png",
+          "sound": "sheswims.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "She",
+            "walks"
+          ],
+          "wrongWords": [],
+          "image": "girl_plants_2_sentence_walks.png",
+          "sound": "shewalks.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "It",
+            "grows"
+          ],
+          "wrongWords": [],
+          "image": "plants_7.png",
+          "sound": "itgrows.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "It",
+            "bounces"
+          ],
+          "wrongWords": [],
+          "image": "ball_5.png",
+          "sound": "itbounces.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "It",
+            "swims"
+          ],
+          "wrongWords": [],
+          "image": "croc_3.png",
+          "sound": "itswims.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "They",
+            "fly"
+          ],
+          "wrongWords": [],
+          "image": "soap_2_sentence_birds.png",
+          "sound": "theyfly.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "It",
+            "eats"
+          ],
+          "wrongWords": [],
+          "image": "cow_3_sentence_eats.png",
+          "sound": "iteats.m4a"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "I",
+            "eat"
+          ],
+          "wrongWords": [
+            "play"
+          ],
+          "image": "like_5.png",
+          "sound": "ieat.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "She",
+            "runs"
+          ],
+          "wrongWords": [
+            "swims"
+          ],
+          "image": "good_friends_2_sentence_run.png",
+          "sound": "sheruns.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Mac",
+            "plays"
+          ],
+          "wrongWords": [
+            "eats"
+          ],
+          "image": "like_2.png",
+          "sound": "macplays.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "She",
+            "swims"
+          ],
+          "wrongWords": [
+            "runs"
+          ],
+          "image": "simo_friends_5_sentence_swims.png",
+          "sound": "sheswims.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "She",
+            "walks"
+          ],
+          "wrongWords": [
+            "flies"
+          ],
+          "image": "girl_plants_2_sentence_walks.png",
+          "sound": "shewalks.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The plant",
+            "grows"
+          ],
+          "wrongWords": [
+            "The dog"
+          ],
+          "image": "plants_7.png",
+          "sound": "theplantgrows.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The ball",
+            "bounces"
+          ],
+          "wrongWords": [
+            "The moon"
+          ],
+          "image": "ball_5.png",
+          "sound": "theballbounces.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The crocodile",
+            "swims"
+          ],
+          "wrongWords": [
+            "eats"
+          ],
+          "image": "croc_3.png",
+          "sound": "thecrocodileswims.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The plane",
+            "flies"
+          ],
+          "wrongWords": [
+            "swims"
+          ],
+          "image": "transport_2_cropped_airplane.png",
+          "sound": "theplaneflies.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The cow",
+            "eats"
+          ],
+          "wrongWords": [
+            "crawls"
+          ],
+          "image": "cow_3_sentence_eats.png",
+          "sound": "thecoweats.m4a"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Ayanda",
+            "is",
+            "a girl"
+          ],
+          "wrongWords": [],
+          "image": "animals_10.png",
+          "sound": "ayandaisagirl.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Bahati",
+            "is",
+            "a student"
+          ],
+          "wrongWords": [],
+          "image": "good_friends_9_sentence_student.png",
+          "sound": "bahatiisastudent.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Simo",
+            "is",
+            "tall"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_1_sentence_tall.png",
+          "sound": "simoistall.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Yangu",
+            "is",
+            "a sister"
+          ],
+          "wrongWords": [],
+          "image": "family_5.png",
+          "sound": "yanguisasister.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "John",
+            "is",
+            "a boy"
+          ],
+          "wrongWords": [],
+          "image": "like_1.png",
+          "sound": "johnisaboy.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The airplane",
+            "is",
+            "big"
+          ],
+          "wrongWords": [],
+          "image": "transport_2_cropped_airplane.png",
+          "sound": "theairplaneisbig.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The plant",
+            "is",
+            "green"
+          ],
+          "wrongWords": [],
+          "image": "plants_9.png",
+          "sound": "theplantisgreen.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The milk",
+            "is",
+            "delicious"
+          ],
+          "wrongWords": [],
+          "image": "cow_9_sentence_drinks.png",
+          "sound": "themilkisdelicious.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The elephant",
+            "is",
+            "big"
+          ],
+          "wrongWords": [],
+          "image": "animals_1.png",
+          "sound": "theelephantisbig.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The lion",
+            "is",
+            "strong"
+          ],
+          "wrongWords": [],
+          "image": "animals_7.png",
+          "sound": "thelionisstrong.m4a"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Zizo",
+            "eats",
+            "fast"
+          ],
+          "wrongWords": [],
+          "image": "like_5.png",
+          "sound": "zizoeatsfast.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Jill",
+            "runs",
+            "fast"
+          ],
+          "wrongWords": [],
+          "image": "good_friends_2_sentence_run.png",
+          "sound": "jillrunsfast.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "The dogs",
+            "run",
+            "fast"
+          ],
+          "wrongWords": [],
+          "image": "night_2_sentence_dogs_2.png",
+          "sound": "thedogsrunfast.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Jill",
+            "screams",
+            "loudly"
+          ],
+          "wrongWords": [],
+          "image": "soap_8.png",
+          "sound": "jillscreamsloudly.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "We",
+            "swam",
+            "yesterday"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_15_sentence_swam.png",
+          "sound": "weswamyesterday.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The tree",
+            "grows",
+            "slowly"
+          ],
+          "wrongWords": [],
+          "image": "girl_plants_5_sentence_tree.png",
+          "sound": "thetreegrowsslowly.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The ball",
+            "bounces",
+            "high"
+          ],
+          "wrongWords": [],
+          "image": "ball_8.png",
+          "sound": "theballbounceshigh.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The elephant",
+            "runs",
+            "fast"
+          ],
+          "wrongWords": [],
+          "image": "elephant_frogs_3_sentence_elephant.png",
+          "sound": "theelephantrunsfast.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The bird",
+            "flies",
+            "high"
+          ],
+          "wrongWords": [],
+          "image": "soap_2_sentence_onebird.png",
+          "sound": "thebirdflieshigh.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "Dogs",
+            "bark",
+            "loudly"
+          ],
+          "wrongWords": [],
+          "image": "night_2_sentence_dogs_2.png",
+          "sound": "dogsbarkloudly.m4a"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "an apple"
+          ],
+          "wrongWords": [],
+          "image": "eating_3.png",
+          "sound": "maryeatsanapple.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Lilo",
+            "reads",
+            "a book"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_7_sentence_reads.png",
+          "sound": "liloreadsabook.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Zizo",
+            "plays",
+            "a game"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_16_sentence_game.png",
+          "sound": "zizoplaysagame.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Yaya",
+            "sings",
+            "a song"
+          ],
+          "wrongWords": [],
+          "image": "like_3.png",
+          "sound": "yayasingsasong.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Bahati",
+            "drinks",
+            "milk"
+          ],
+          "wrongWords": [],
+          "image": "cow_9_sentence_drinks.png",
+          "sound": "bahatidrinksmilk.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The tree",
+            "grows",
+            "tall"
+          ],
+          "wrongWords": [],
+          "image": "girl_plants_5_sentence_tree.png",
+          "sound": "thetreegrowstall.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The cow",
+            "makes",
+            "milk"
+          ],
+          "wrongWords": [],
+          "image": "cow_7_sentence_cowmilk.png",
+          "sound": "thecowmakesmilk.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The Post Office",
+            "mails",
+            "letters"
+          ],
+          "wrongWords": [],
+          "image": "letter_7_cropped_post_office.png",
+          "sound": "thepostofficemailsletters.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The truck",
+            "carries",
+            "things"
+          ],
+          "wrongWords": [],
+          "image": "transport_11_sentence_truck.png",
+          "sound": "thetruckcarriesthings.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The tree",
+            "grows",
+            "oranges"
+          ],
+          "wrongWords": [],
+          "image": "orange_tree_1.png",
+          "sound": "thetreegrowsoranges.m4a"
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "is",
+            "a girl"
+          ],
+          "wrongWords": [
+            "a boy"
+          ],
+          "image": "ball_4.png",
+          "sound": "maryisagirl.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Simo",
+            "is",
+            "a boy"
+          ],
+          "wrongWords": [
+            "a girl"
+          ],
+          "image": "simo_friends_1_sentence_boy.png",
+          "sound": "simoisaboy.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Bahati and Rehema",
+            "are",
+            "students"
+          ],
+          "wrongWords": [
+            "doctors"
+          ],
+          "image": "good_friends_9.png",
+          "sound": "bahatiandrehemaarestudents.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "They",
+            "are",
+            "students"
+          ],
+          "wrongWords": [
+            "doctors"
+          ],
+          "image": "good_friends_9.png",
+          "sound": "theyarestudents.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Tumo",
+            "is",
+            "a farmer"
+          ],
+          "wrongWords": [
+            "a lion"
+          ],
+          "image": "tumo_6_sentence_farmer.png",
+          "sound": "tumoisafarmer.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The snake",
+            "is",
+            "long"
+          ],
+          "wrongWords": [
+            "furry"
+          ],
+          "image": "woof_9.png",
+          "sound": "thesnakeislong.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "I",
+            "am",
+            "happy"
+          ],
+          "wrongWords": [
+            "sad"
+          ],
+          "image": "emotions_1.png",
+          "sound": "iamhappy.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The motorbike",
+            "is",
+            "fast"
+          ],
+          "wrongWords": [
+            "slow"
+          ],
+          "image": "transport_16_cropped_motorbike.png",
+          "sound": "themotorbikeisfast.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The tree",
+            "is",
+            "beautiful"
+          ],
+          "wrongWords": [
+            "dry"
+          ],
+          "image": "girl_plants_7_sentence_beautiful.png",
+          "sound": "thetreeisbeautiful.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The ball",
+            "is",
+            "red"
+          ],
+          "wrongWords": [
+            "yellow"
+          ],
+          "image": "ball_1.png",
+          "sound": "theballisred.m4a"
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Zizo",
+            "eats",
+            "fast"
+          ],
+          "wrongWords": [
+            "swims"
+          ],
+          "image": "like_5.png",
+          "sound": "zizoeatsfast.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Jill",
+            "runs",
+            "fast"
+          ],
+          "wrongWords": [
+            "flies"
+          ],
+          "image": "good_friends_2_sentence_run.png",
+          "sound": "jillrunsfast.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "The dog",
+            "runs",
+            "fast"
+          ],
+          "wrongWords": [
+            "The bird"
+          ],
+          "image": "night_2_sentence_dogs.png",
+          "sound": "thedogsrunfast.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Jill",
+            "screams",
+            "loudly"
+          ],
+          "wrongWords": [
+            "writes"
+          ],
+          "image": "soap_8.png",
+          "sound": "jillscreamsloudly.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "We",
+            "swam",
+            "yesterday"
+          ],
+          "wrongWords": [
+            "sang"
+          ],
+          "image": "simo_friends_15_sentence_swam.png",
+          "sound": "weswamyesterday.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The tree",
+            "grows",
+            "slowly"
+          ],
+          "wrongWords": [
+            "The ant"
+          ],
+          "image": "girl_plants_5_sentence_tree.png",
+          "sound": "thetreegrowsslowly.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The ball",
+            "bounces",
+            "high"
+          ],
+          "wrongWords": [
+            "The moon"
+          ],
+          "image": "ball_8.png",
+          "sound": "theballbounceshigh.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The elephant",
+            "runs",
+            "fast"
+          ],
+          "wrongWords": [
+            "swims"
+          ],
+          "image": "elephant_frogs_3_sentence_elephant.png",
+          "sound": "theelephantrunsfast.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The bird",
+            "flies",
+            "high"
+          ],
+          "wrongWords": [
+            "walks"
+          ],
+          "image": "soap_2_sentence_onebird.png",
+          "sound": "thebirdflieshigh.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "Dogs",
+            "bark",
+            "loudly"
+          ],
+          "wrongWords": [
+            "Cats"
+          ],
+          "image": "night_2_sentence_dogs_2.png",
+          "sound": "dogsbarkloudly.m4a"
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "an apple"
+          ],
+          "wrongWords": [
+            "a lion"
+          ],
+          "image": "eating_3.png",
+          "sound": "maryeatsanapple.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Lilo",
+            "reads",
+            "a book"
+          ],
+          "wrongWords": [
+            "sings"
+          ],
+          "image": "simo_friends_7_sentence_reads.png",
+          "sound": "liloreadsabook.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Zizo",
+            "plays",
+            "a game"
+          ],
+          "wrongWords": [
+            "cooks"
+          ],
+          "image": "simo_friends_16_sentence_game.png",
+          "sound": "zizoplaysagame.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Yaya",
+            "sings",
+            "a song"
+          ],
+          "wrongWords": [
+            "runs"
+          ],
+          "image": "like_3.png",
+          "sound": "yayasingsasong.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Bahati",
+            "drinks",
+            "milk"
+          ],
+          "wrongWords": [
+            "meat"
+          ],
+          "image": "cow_9_sentence_drinks.png",
+          "sound": "bahatidrinksmilk.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The tree",
+            "grows",
+            "tall"
+          ],
+          "wrongWords": [
+            "walks"
+          ],
+          "image": "girl_plants_5_sentence_tree.png",
+          "sound": "thetreegrowstall.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The cow",
+            "makes",
+            "milk"
+          ],
+          "wrongWords": [
+            "eggs"
+          ],
+          "image": "cow_7_sentence_cowmilk.png",
+          "sound": "thecowmakesmilk.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The Post Office",
+            "mails",
+            "letters"
+          ],
+          "wrongWords": [
+            "The hospital"
+          ],
+          "image": "letter_7_cropped_post_office.png",
+          "sound": "thepostofficemailsletters.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The truck",
+            "carries",
+            "things"
+          ],
+          "wrongWords": [
+            "mails"
+          ],
+          "image": "transport_11_sentence_truck.png",
+          "sound": "thetruckcarriesthings.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The tree",
+            "grows",
+            "oranges"
+          ],
+          "wrongWords": [
+            "letters"
+          ],
+          "image": "orange_tree_1.png",
+          "sound": "thetreegrowsoranges.m4a"
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Jill",
+            "is",
+            "a smart",
+            "kid"
+          ],
+          "wrongWords": [],
+          "image": "wangari_3_sentence_smartkid.png",
+          "sound": "jillisasmartkid.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Bahati",
+            "is",
+            "a helpful",
+            "friend"
+          ],
+          "wrongWords": [],
+          "image": "good_friends_1.png",
+          "sound": "bahatiisahelpfulfriend.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Simo",
+            "is",
+            "a tall",
+            "boy"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_1_sentence_tall.png",
+          "sound": "simoisatallboy.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Lele",
+            "is",
+            "a fast",
+            "swimmer"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_5_sentence_swims.png",
+          "sound": "leleisafastswimmer.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Tumo",
+            "is",
+            "a good",
+            "farmer"
+          ],
+          "wrongWords": [],
+          "image": "tumo_6_sentence_farmer.png",
+          "sound": "tumoisagoodfarmer.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "It",
+            "is",
+            "a red",
+            "ball"
+          ],
+          "wrongWords": [],
+          "image": "ball_1.png",
+          "sound": "itisaredball.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "It",
+            "is",
+            "a large",
+            "airplane"
+          ],
+          "wrongWords": [],
+          "image": "transport_2_cropped_airplane.png",
+          "sound": "itisalargeairplane.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "It",
+            "is",
+            "a strong",
+            "lion"
+          ],
+          "wrongWords": [],
+          "image": "animals_7.png",
+          "sound": "itisastronglion.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "Where",
+            "is",
+            "the bat?"
+          ],
+          "wrongWords": [],
+          "image": "bat_7.png",
+          "sound": "whereisthebat.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "Where",
+            "is",
+            "the cat?"
+          ],
+          "wrongWords": [],
+          "image": "cat_2_cropped_underchair.png",
+          "sound": "whereisthecat.m4a"
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "an apple",
+            "every day"
+          ],
+          "wrongWords": [],
+          "image": "eating_3.png",
+          "sound": "maryeatsanappleeveryday.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Simo",
+            "reads",
+            "a book",
+            "at school"
+          ],
+          "wrongWords": [],
+          "image": "girl_plants_6_sentence_reads.png",
+          "sound": "simoreadsabookatschool.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Jill",
+            "plays",
+            "a game",
+            "alone"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_4_cropped_playball.png",
+          "sound": "jillplaysagamealone.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "They",
+            "sell",
+            "milk",
+            "together"
+          ],
+          "wrongWords": [],
+          "image": "cow_10_sentence_sellsmilk.png",
+          "sound": "theysellmilktogether.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Bahati",
+            "drinks",
+            "milk",
+            "every day"
+          ],
+          "wrongWords": [],
+          "image": "cow_9_sentence_drinks.png",
+          "sound": "bahatidrinksmilkeveryday.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The",
+            "frogs",
+            "make",
+            "noise",
+            "every night"
+          ],
+          "wrongWords": [],
+          "image": "elephant_frogs_4_sentence_frogs_2.png",
+          "sound": "thefrogsmakenoiseeverynight.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The",
+            "rooster",
+            "crows",
+            "every morning"
+          ],
+          "wrongWords": [],
+          "image": "sun_9_sentence_rooster.png",
+          "sound": "theroostercrowseverymorning.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The",
+            "sun",
+            "shines",
+            "brightly"
+          ],
+          "wrongWords": [],
+          "image": "sun_10_sentence_sun.png",
+          "sound": "thesunshinesbrightly.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The",
+            "van",
+            "drives",
+            "down the road"
+          ],
+          "wrongWords": [],
+          "image": "rats_7.png",
+          "sound": "thevandrivesdowntheroad.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The",
+            "snake",
+            "moves",
+            "slowly"
+          ],
+          "wrongWords": [],
+          "image": "animals_6.png",
+          "sound": "thesnakemovesslowly.m4a"
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "many",
+            "apples"
+          ],
+          "wrongWords": [],
+          "image": "eating_3.png",
+          "sound": "maryeatsmanyapples.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Mary",
+            "eats",
+            "three",
+            "apples"
+          ],
+          "wrongWords": [],
+          "image": "eating_3.png",
+          "sound": "maryeatsthreeapples.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Lilo",
+            "reads",
+            "many",
+            "books"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_7_sentence_tenbooks.png",
+          "sound": "liloreadsmanybooks.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Lilo",
+            "reads",
+            "ten",
+            "books"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_7_sentence_tenbooks.png",
+          "sound": "liloreadstenbooks.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "The orange tree",
+            "has",
+            "many",
+            "oranges"
+          ],
+          "wrongWords": [],
+          "image": "orange_tree_1.png",
+          "sound": "theorangetreehasmanyoranges.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The pond",
+            "has",
+            "many",
+            "frogs"
+          ],
+          "wrongWords": [],
+          "image": "elephant_frogs_4_sentence_frogs_2.png",
+          "sound": "thepondhasmanyfrogs.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The book",
+            "has",
+            "many",
+            "pages"
+          ],
+          "wrongWords": [],
+          "image": "book_1.png",
+          "sound": "thebookhasmanypages.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The earth",
+            "has",
+            "one",
+            "moon"
+          ],
+          "wrongWords": [],
+          "image": "world_1.png",
+          "sound": "theearthhasonemoon.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "I",
+            "have",
+            "many",
+            "friends"
+          ],
+          "wrongWords": [],
+          "image": "simo_friends_3_sentence_friends.png",
+          "sound": "ihavemanyfriends.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The girl",
+            "has",
+            "a purple",
+            "dress"
+          ],
+          "wrongWords": [],
+          "image": "color_15_sentence_dress.png",
+          "sound": "thegirlhasapurpledress.m4a"
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Jill",
+            "is",
+            "a smart",
+            "kid"
+          ],
+          "wrongWords": [
+            "kids"
+          ],
+          "image": "girl_plants_6_sentence_reads.png",
+          "sound": "jillisasmartkid.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Bahati",
+            "is",
+            "a helpful",
+            "friend"
+          ],
+          "wrongWords": [
+            "be"
+          ],
+          "image": "good_friends_1.png",
+          "sound": "bahatiisahelpfulfriend.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Simo",
+            "is",
+            "a tall",
+            "boy"
+          ],
+          "wrongWords": [
+            "tallest"
+          ],
+          "image": "simo_friends_1_sentence_tall.png",
+          "sound": "simoisatallboy.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Lele",
+            "is",
+            "a fast",
+            "swimmer"
+          ],
+          "wrongWords": [
+            "speed"
+          ],
+          "image": "simo_friends_5_sentence_swims.png",
+          "sound": "leleisafastswimmer.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Tumo",
+            "is",
+            "a good",
+            "farmer"
+          ],
+          "wrongWords": [
+            "are"
+          ],
+          "image": "tumo_6_sentence_farmer.png",
+          "sound": "tumoisagoodfarmer.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "It",
+            "is",
+            "a red",
+            "ball"
+          ],
+          "wrongWords": [
+            "They"
+          ],
+          "image": "ball_1.png",
+          "sound": "itisaredball.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "It",
+            "is",
+            "a large",
+            "airplane"
+          ],
+          "wrongWords": [
+            "are"
+          ],
+          "image": "transport_2_cropped_airplane.png",
+          "sound": "itisalargeairplane.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "It",
+            "is",
+            "a strong",
+            "lion"
+          ],
+          "wrongWords": [
+            "are"
+          ],
+          "image": "animals_7.png",
+          "sound": "itisastronglion.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "Where",
+            "is",
+            "the bat?"
+          ],
+          "wrongWords": [
+            "Who"
+          ],
+          "image": "bat_7.png",
+          "sound": "whereisthebat.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "Where",
+            "is",
+            "the cat?"
+          ],
+          "wrongWords": [
+            "Why"
+          ],
+          "image": "cat_2_cropped_underchair.png",
+          "sound": "whereisthecat.m4a"
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "an apple",
+            "every day"
+          ],
+          "wrongWords": [
+            "They"
+          ],
+          "image": "eating_3.png",
+          "sound": "maryeatsanappleeveryday.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Simo",
+            "reads",
+            "a book",
+            "at school"
+          ],
+          "wrongWords": [
+            "It"
+          ],
+          "image": "simo_friends_12_sentence_schoolread.png",
+          "sound": "simoreadsabookatschool.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Jill",
+            "plays",
+            "a game",
+            "alone"
+          ],
+          "wrongWords": [
+            "play"
+          ],
+          "image": "simo_friends_4_cropped_playball.png",
+          "sound": "jillplaysagamealone.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "They",
+            "sell",
+            "milk",
+            "together"
+          ],
+          "wrongWords": [
+            "sells"
+          ],
+          "image": "cow_10_sentence_sellmilk.png",
+          "sound": "theysellmilktogether.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "Bahati",
+            "drinks",
+            "milk",
+            "every day"
+          ],
+          "wrongWords": [
+            "milks"
+          ],
+          "image": "cow_9_sentence_drinks.png",
+          "sound": "bahatidrinksmilkeveryday.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The",
+            "frogs",
+            "make",
+            "noise",
+            "every night"
+          ],
+          "wrongWords": [
+            "makes"
+          ],
+          "image": "elephant_frogs_4_sentence_frogs_2.png",
+          "sound": "thefrogsmakenoiseeverynight.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The",
+            "rooster",
+            "crows",
+            "every morning"
+          ],
+          "wrongWords": [
+            "crow"
+          ],
+          "image": "sun_9_sentence_rooster.png",
+          "sound": "theroostercrowseverymorning.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The",
+            "sun",
+            "shines",
+            "brightly"
+          ],
+          "wrongWords": [
+            "loud"
+          ],
+          "image": "sun_10_sentence_sun.png",
+          "sound": "thesunshinesbrightly.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "The",
+            "van",
+            "drives",
+            "down the road"
+          ],
+          "wrongWords": [
+            "down road"
+          ],
+          "image": "rats_7.png",
+          "sound": "thevandrivesdowntheroad.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The",
+            "snake",
+            "moves",
+            "slowly"
+          ],
+          "wrongWords": [
+            "speed"
+          ],
+          "image": "woof_9.png",
+          "sound": "thesnakemovesslowly.m4a"
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "problems": [
+        {
+          "problem": 1,
+          "words": [
+            "Mary",
+            "eats",
+            "many",
+            "apples"
+          ],
+          "wrongWords": [
+            "We"
+          ],
+          "image": "eating_3.png",
+          "sound": "maryeatsmanyapples.m4a"
+        },
+        {
+          "problem": 2,
+          "words": [
+            "Mary",
+            "eats",
+            "three",
+            "apples"
+          ],
+          "wrongWords": [
+            "It"
+          ],
+          "image": "eating_3.png",
+          "sound": "maryeatsthreeapples.m4a"
+        },
+        {
+          "problem": 3,
+          "words": [
+            "Lilo",
+            "reads",
+            "many",
+            "books"
+          ],
+          "wrongWords": [
+            "reading"
+          ],
+          "image": "simo_friends_7_sentence_tenbooks.png",
+          "sound": "liloreadsmanybooks.m4a"
+        },
+        {
+          "problem": 4,
+          "words": [
+            "Lilo",
+            "reads",
+            "ten",
+            "books"
+          ],
+          "wrongWords": [
+            "reading"
+          ],
+          "image": "simo_friends_7_sentence_tenbooks.png",
+          "sound": "liloreadstenbooks.m4a"
+        },
+        {
+          "problem": 5,
+          "words": [
+            "The orange tree",
+            "has",
+            "many",
+            "oranges"
+          ],
+          "wrongWords": [
+            "have"
+          ],
+          "image": "orange_tree_1.png",
+          "sound": "theorangetreehasmanyoranges.m4a"
+        },
+        {
+          "problem": 6,
+          "words": [
+            "The pond",
+            "has",
+            "many",
+            "frogs"
+          ],
+          "wrongWords": [
+            "have"
+          ],
+          "image": "elephant_frogs_4_sentence_frogs_2.png",
+          "sound": "thepondhasmanyfrogs.m4a"
+        },
+        {
+          "problem": 7,
+          "words": [
+            "The book",
+            "has",
+            "many",
+            "pages"
+          ],
+          "wrongWords": [
+            "lot"
+          ],
+          "image": "book_1.png",
+          "sound": "thebookhasmanypages.m4a"
+        },
+        {
+          "problem": 8,
+          "words": [
+            "The earth",
+            "has",
+            "one",
+            "moon"
+          ],
+          "wrongWords": [
+            "ones"
+          ],
+          "image": "world_1.png",
+          "sound": "theearthhasonemoon.m4a"
+        },
+        {
+          "problem": 9,
+          "words": [
+            "I",
+            "have",
+            "many",
+            "friends"
+          ],
+          "wrongWords": [
+            "friend"
+          ],
+          "image": "simo_friends_3_sentence_friends.png",
+          "sound": "ihavemanyfriends.m4a"
+        },
+        {
+          "problem": 10,
+          "words": [
+            "The girl",
+            "has",
+            "a purple",
+            "dress"
+          ],
+          "wrongWords": [
+            "dresses"
+          ],
+          "image": "color_15_sentence_dress.png",
+          "sound": "thegirlhasapurpledress.m4a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4834 @@
+{
+  "levels": {
+    "1": [
+      [
+        {
+          "question": "1, 2, 3, ?",
+          "sequence": [
+            "1",
+            "2",
+            "3",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "2, 3, 4, ?",
+          "sequence": [
+            "2",
+            "3",
+            "4",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "5",
+          "choices": null
+        },
+        {
+          "question": "2, 3, ?, 5",
+          "sequence": [
+            "2",
+            "3",
+            "?",
+            "5"
+          ],
+          "missingIndex": 2,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "2, ?, 4, 5",
+          "sequence": [
+            "2",
+            "?",
+            "4",
+            "5"
+          ],
+          "missingIndex": 1,
+          "answer": "3",
+          "choices": null
+        },
+        {
+          "question": "1, ?, 3, 4",
+          "sequence": [
+            "1",
+            "?",
+            "3",
+            "4"
+          ],
+          "missingIndex": 1,
+          "answer": "2",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "1, 2, ?, 4",
+          "sequence": [
+            "1",
+            "2",
+            "?",
+            "4"
+          ],
+          "missingIndex": 2,
+          "answer": "3",
+          "choices": null
+        },
+        {
+          "question": "2, 3, 4, ?",
+          "sequence": [
+            "2",
+            "3",
+            "4",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "5",
+          "choices": null
+        },
+        {
+          "question": "2, 3, ?, 5",
+          "sequence": [
+            "2",
+            "3",
+            "?",
+            "5"
+          ],
+          "missingIndex": 2,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "1, ?, 3, 4",
+          "sequence": [
+            "1",
+            "?",
+            "3",
+            "4"
+          ],
+          "missingIndex": 1,
+          "answer": "2",
+          "choices": null
+        },
+        {
+          "question": "2, ?, 4, 5",
+          "sequence": [
+            "2",
+            "?",
+            "4",
+            "5"
+          ],
+          "missingIndex": 1,
+          "answer": "3",
+          "choices": null
+        }
+      ]
+    ],
+    "2": [
+      [
+        {
+          "question": "4, 5, 6, ?",
+          "sequence": [
+            "4",
+            "5",
+            "6",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "5, 6, ?, 8",
+          "sequence": [
+            "5",
+            "6",
+            "?",
+            "8"
+          ],
+          "missingIndex": 2,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "6, 7, 8, ?",
+          "sequence": [
+            "6",
+            "7",
+            "8",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "9",
+          "choices": null
+        },
+        {
+          "question": "3, ?, 5, 6",
+          "sequence": [
+            "3",
+            "?",
+            "5",
+            "6"
+          ],
+          "missingIndex": 1,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "7, ?, 9, 10",
+          "sequence": [
+            "7",
+            "?",
+            "9",
+            "10"
+          ],
+          "missingIndex": 1,
+          "answer": "8",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "5, 6, 7, ?",
+          "sequence": [
+            "5",
+            "6",
+            "7",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "3, 4, ?, 6",
+          "sequence": [
+            "3",
+            "4",
+            "?",
+            "6"
+          ],
+          "missingIndex": 2,
+          "answer": "5",
+          "choices": null
+        },
+        {
+          "question": "7, 8, ?, 10",
+          "sequence": [
+            "7",
+            "8",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "9",
+          "choices": null
+        },
+        {
+          "question": "6, ?, 8, 9",
+          "sequence": [
+            "6",
+            "?",
+            "8",
+            "9"
+          ],
+          "missingIndex": 1,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "4, ?, 6, 7",
+          "sequence": [
+            "4",
+            "?",
+            "6",
+            "7"
+          ],
+          "missingIndex": 1,
+          "answer": "5",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "6, 7, 8, ?",
+          "sequence": [
+            "6",
+            "7",
+            "8",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "9",
+          "choices": null
+        },
+        {
+          "question": "5, ?, 7, 8",
+          "sequence": [
+            "5",
+            "?",
+            "7",
+            "8"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "4, 5, ?, 7",
+          "sequence": [
+            "4",
+            "5",
+            "?",
+            "7"
+          ],
+          "missingIndex": 2,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "7, 8, ?, 10",
+          "sequence": [
+            "7",
+            "8",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "9",
+          "choices": null
+        },
+        {
+          "question": "3, ?, 5, 6",
+          "sequence": [
+            "3",
+            "?",
+            "5",
+            "6"
+          ],
+          "missingIndex": 1,
+          "answer": "4",
+          "choices": null
+        }
+      ]
+    ],
+    "3": [
+      [
+        {
+          "question": "4, 3, 2, ?",
+          "sequence": [
+            "4",
+            "3",
+            "2",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "1",
+          "choices": null
+        },
+        {
+          "question": "5, 4, 3, ?",
+          "sequence": [
+            "5",
+            "4",
+            "3",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "2",
+          "choices": null
+        },
+        {
+          "question": "5, 4, ?, 2",
+          "sequence": [
+            "5",
+            "4",
+            "?",
+            "2"
+          ],
+          "missingIndex": 2,
+          "answer": "3",
+          "choices": null
+        },
+        {
+          "question": "4, ?, 2, 1",
+          "sequence": [
+            "4",
+            "?",
+            "2",
+            "1"
+          ],
+          "missingIndex": 1,
+          "answer": "3",
+          "choices": null
+        },
+        {
+          "question": "5, ?, 3, 2",
+          "sequence": [
+            "5",
+            "?",
+            "3",
+            "2"
+          ],
+          "missingIndex": 1,
+          "answer": "4",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "5, 4, 3, ?",
+          "sequence": [
+            "5",
+            "4",
+            "3",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "2",
+          "choices": null
+        },
+        {
+          "question": "4, 3, ?, 1",
+          "sequence": [
+            "4",
+            "3",
+            "?",
+            "1"
+          ],
+          "missingIndex": 2,
+          "answer": "2",
+          "choices": null
+        },
+        {
+          "question": "5, 4, ?, 2",
+          "sequence": [
+            "5",
+            "4",
+            "?",
+            "2"
+          ],
+          "missingIndex": 2,
+          "answer": "3",
+          "choices": null
+        },
+        {
+          "question": "5, ?, 3, 2",
+          "sequence": [
+            "5",
+            "?",
+            "3",
+            "2"
+          ],
+          "missingIndex": 1,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "4, ?, 2, 1",
+          "sequence": [
+            "4",
+            "?",
+            "2",
+            "1"
+          ],
+          "missingIndex": 1,
+          "answer": "3",
+          "choices": null
+        }
+      ]
+    ],
+    "4": [
+      [
+        {
+          "question": "9, 8, 7, ?",
+          "sequence": [
+            "9",
+            "8",
+            "7",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "10, 9, 8, ?",
+          "sequence": [
+            "10",
+            "9",
+            "8",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "8, 7, ?, 5",
+          "sequence": [
+            "8",
+            "7",
+            "?",
+            "5"
+          ],
+          "missingIndex": 2,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "9, ?, 7, 6",
+          "sequence": [
+            "9",
+            "?",
+            "7",
+            "6"
+          ],
+          "missingIndex": 1,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "10, ?, 8, 7",
+          "sequence": [
+            "10",
+            "?",
+            "8",
+            "7"
+          ],
+          "missingIndex": 1,
+          "answer": "9",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "8, 7, 6, ?",
+          "sequence": [
+            "8",
+            "7",
+            "6",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "5",
+          "choices": null
+        },
+        {
+          "question": "9, 8, ?, 6",
+          "sequence": [
+            "9",
+            "8",
+            "?",
+            "6"
+          ],
+          "missingIndex": 2,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "7, 6, 5, ?",
+          "sequence": [
+            "7",
+            "6",
+            "5",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "10, 9, ?, 7",
+          "sequence": [
+            "10",
+            "9",
+            "?",
+            "7"
+          ],
+          "missingIndex": 2,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "7, ?, 5, 4",
+          "sequence": [
+            "7",
+            "?",
+            "5",
+            "4"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "7, 6, 5, ?",
+          "sequence": [
+            "7",
+            "6",
+            "5",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "8, 7, ?, 5",
+          "sequence": [
+            "8",
+            "7",
+            "?",
+            "5"
+          ],
+          "missingIndex": 2,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "10, 9, ?, 7",
+          "sequence": [
+            "10",
+            "9",
+            "?",
+            "7"
+          ],
+          "missingIndex": 2,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "9, ?, 7, 6",
+          "sequence": [
+            "9",
+            "?",
+            "7",
+            "6"
+          ],
+          "missingIndex": 1,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "8, ?, 6, 5",
+          "sequence": [
+            "8",
+            "?",
+            "6",
+            "5"
+          ],
+          "missingIndex": 1,
+          "answer": "7",
+          "choices": null
+        }
+      ]
+    ],
+    "5": [
+      [
+        {
+          "question": "2, 4, 6, ?",
+          "sequence": [
+            "2",
+            "4",
+            "6",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "2, 4, ?, 8",
+          "sequence": [
+            "2",
+            "4",
+            "?",
+            "8"
+          ],
+          "missingIndex": 2,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "4, 6, ?, 10",
+          "sequence": [
+            "4",
+            "6",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "8",
+          "choices": null
+        },
+        {
+          "question": "2, ?, 6, 8",
+          "sequence": [
+            "2",
+            "?",
+            "6",
+            "8"
+          ],
+          "missingIndex": 1,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "4, ?, 8, 10",
+          "sequence": [
+            "4",
+            "?",
+            "8",
+            "10"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ]
+    ],
+    "6": [
+      [
+        {
+          "question": "11, 12, 13, ?",
+          "sequence": [
+            "11",
+            "12",
+            "13",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "14, 15, ?, 17",
+          "sequence": [
+            "14",
+            "15",
+            "?",
+            "17"
+          ],
+          "missingIndex": 2,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "13, ?, 15, 16",
+          "sequence": [
+            "13",
+            "?",
+            "15",
+            "16"
+          ],
+          "missingIndex": 1,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "12, 13, 14, ?",
+          "sequence": [
+            "12",
+            "13",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "17, 18, ?, 20",
+          "sequence": [
+            "17",
+            "18",
+            "?",
+            "20"
+          ],
+          "missingIndex": 2,
+          "answer": "19",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "12, 13, 14, ?",
+          "sequence": [
+            "12",
+            "13",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "15, 16, ?, 18",
+          "sequence": [
+            "15",
+            "16",
+            "?",
+            "18"
+          ],
+          "missingIndex": 2,
+          "answer": "17",
+          "choices": null
+        },
+        {
+          "question": "14, 15, 16, ?",
+          "sequence": [
+            "14",
+            "15",
+            "16",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "17",
+          "choices": null
+        },
+        {
+          "question": "13, 14, ?, 16",
+          "sequence": [
+            "13",
+            "14",
+            "?",
+            "16"
+          ],
+          "missingIndex": 2,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "16, ?, 18, 19",
+          "sequence": [
+            "16",
+            "?",
+            "18",
+            "19"
+          ],
+          "missingIndex": 1,
+          "answer": "17",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "13, 14, 15, ?",
+          "sequence": [
+            "13",
+            "14",
+            "15",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "11, 12, ?, 14",
+          "sequence": [
+            "11",
+            "12",
+            "?",
+            "14"
+          ],
+          "missingIndex": 2,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "12, ?, 14, 15",
+          "sequence": [
+            "12",
+            "?",
+            "14",
+            "15"
+          ],
+          "missingIndex": 1,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "16, 17, 18, ?",
+          "sequence": [
+            "16",
+            "17",
+            "18",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "19",
+          "choices": null
+        },
+        {
+          "question": "17, ?, 19, 20",
+          "sequence": [
+            "17",
+            "?",
+            "19",
+            "20"
+          ],
+          "missingIndex": 1,
+          "answer": "18",
+          "choices": null
+        }
+      ]
+    ],
+    "7": [
+      [
+        {
+          "question": "12, 14, 16, ?",
+          "sequence": [
+            "12",
+            "14",
+            "16",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "18",
+          "choices": null
+        },
+        {
+          "question": "10, 12, 14, ?",
+          "sequence": [
+            "10",
+            "12",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "14, 16, ?, 20",
+          "sequence": [
+            "14",
+            "16",
+            "?",
+            "20"
+          ],
+          "missingIndex": 2,
+          "answer": "18",
+          "choices": null
+        },
+        {
+          "question": "11, 13, ?, 17",
+          "sequence": [
+            "11",
+            "13",
+            "?",
+            "17"
+          ],
+          "missingIndex": 2,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "7, 9, 11, ?",
+          "sequence": [
+            "7",
+            "9",
+            "11",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "13",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "12, 14, ?, 18",
+          "sequence": [
+            "12",
+            "14",
+            "?",
+            "18"
+          ],
+          "missingIndex": 2,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "6, 8, 10, ?",
+          "sequence": [
+            "6",
+            "8",
+            "10",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "10, 12, ?, 16",
+          "sequence": [
+            "10",
+            "12",
+            "?",
+            "16"
+          ],
+          "missingIndex": 2,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "13, 15, 17, ?",
+          "sequence": [
+            "13",
+            "15",
+            "17",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "19",
+          "choices": null
+        },
+        {
+          "question": "9, 11, ?, 15",
+          "sequence": [
+            "9",
+            "11",
+            "?",
+            "15"
+          ],
+          "missingIndex": 2,
+          "answer": "13",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "10, 12, 14, ?",
+          "sequence": [
+            "10",
+            "12",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "12, ?, 16, 18",
+          "sequence": [
+            "12",
+            "?",
+            "16",
+            "18"
+          ],
+          "missingIndex": 1,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "8, 10, 12, ?",
+          "sequence": [
+            "8",
+            "10",
+            "12",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "11, ?, 15, 17",
+          "sequence": [
+            "11",
+            "?",
+            "15",
+            "17"
+          ],
+          "missingIndex": 1,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "9, 11, 13, ?",
+          "sequence": [
+            "9",
+            "11",
+            "13",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "15",
+          "choices": null
+        }
+      ]
+    ],
+    "8": [
+      [
+        {
+          "question": "14, 13, 12, ?",
+          "sequence": [
+            "14",
+            "13",
+            "12",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "11",
+          "choices": null
+        },
+        {
+          "question": "16, 15, 14, ?",
+          "sequence": [
+            "16",
+            "15",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "18, 17, ?, 15",
+          "sequence": [
+            "18",
+            "17",
+            "?",
+            "15"
+          ],
+          "missingIndex": 2,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "15, ?, 13,12",
+          "sequence": [
+            "15",
+            "?",
+            "13",
+            "12"
+          ],
+          "missingIndex": 1,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "19, ?, 17, 16",
+          "sequence": [
+            "19",
+            "?",
+            "17",
+            "16"
+          ],
+          "missingIndex": 1,
+          "answer": "18",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "15, 14, 13, ?",
+          "sequence": [
+            "15",
+            "14",
+            "13",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "18, 17, 16, ?",
+          "sequence": [
+            "18",
+            "17",
+            "16",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "16, 15, ?, 13",
+          "sequence": [
+            "16",
+            "15",
+            "?",
+            "13"
+          ],
+          "missingIndex": 2,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "14, ?, 12, 11",
+          "sequence": [
+            "14",
+            "?",
+            "12",
+            "11"
+          ],
+          "missingIndex": 1,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "17, ?, 15, 14",
+          "sequence": [
+            "17",
+            "?",
+            "15",
+            "14"
+          ],
+          "missingIndex": 1,
+          "answer": "16",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "19, 18, 17, ?",
+          "sequence": [
+            "19",
+            "18",
+            "17",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "17, 16, 15, ?",
+          "sequence": [
+            "17",
+            "16",
+            "15",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "18, 17, ?, 15",
+          "sequence": [
+            "18",
+            "17",
+            "?",
+            "15"
+          ],
+          "missingIndex": 2,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "15, 14, ?, 12",
+          "sequence": [
+            "15",
+            "14",
+            "?",
+            "12"
+          ],
+          "missingIndex": 2,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "16, ?, 14, 13",
+          "sequence": [
+            "16",
+            "?",
+            "14",
+            "13"
+          ],
+          "missingIndex": 1,
+          "answer": "15",
+          "choices": null
+        }
+      ]
+    ],
+    "9": [
+      [
+        {
+          "question": "23, 24, 25, ?",
+          "sequence": [
+            "23",
+            "24",
+            "25",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "26",
+          "choices": null
+        },
+        {
+          "question": "35, 36, ?, 38",
+          "sequence": [
+            "35",
+            "36",
+            "?",
+            "38"
+          ],
+          "missingIndex": 2,
+          "answer": "37",
+          "choices": null
+        },
+        {
+          "question": "21, ?, 23, 24",
+          "sequence": [
+            "21",
+            "?",
+            "23",
+            "24"
+          ],
+          "missingIndex": 1,
+          "answer": "22",
+          "choices": null
+        },
+        {
+          "question": "46, 47, ?, 49",
+          "sequence": [
+            "46",
+            "47",
+            "?",
+            "49"
+          ],
+          "missingIndex": 2,
+          "answer": "48",
+          "choices": null
+        },
+        {
+          "question": "28, 29, ?, 31",
+          "sequence": [
+            "28",
+            "29",
+            "?",
+            "31"
+          ],
+          "missingIndex": 2,
+          "answer": "30",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "25, 26, 27, ?",
+          "sequence": [
+            "25",
+            "26",
+            "27",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "28",
+          "choices": null
+        },
+        {
+          "question": "32, 33, ?, 35",
+          "sequence": [
+            "32",
+            "33",
+            "?",
+            "35"
+          ],
+          "missingIndex": 2,
+          "answer": "34",
+          "choices": null
+        },
+        {
+          "question": "41, 42, ?, 44",
+          "sequence": [
+            "41",
+            "42",
+            "?",
+            "44"
+          ],
+          "missingIndex": 2,
+          "answer": "43",
+          "choices": null
+        },
+        {
+          "question": "26, ?, 28, 29",
+          "sequence": [
+            "26",
+            "?",
+            "28",
+            "29"
+          ],
+          "missingIndex": 1,
+          "answer": "27",
+          "choices": null
+        },
+        {
+          "question": "38, 39, ?, 41",
+          "sequence": [
+            "38",
+            "39",
+            "?",
+            "41"
+          ],
+          "missingIndex": 2,
+          "answer": "40",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "33, 34, 35, ?",
+          "sequence": [
+            "33",
+            "34",
+            "35",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "36",
+          "choices": null
+        },
+        {
+          "question": "24, 25, ?, 27",
+          "sequence": [
+            "24",
+            "25",
+            "?",
+            "27"
+          ],
+          "missingIndex": 2,
+          "answer": "26",
+          "choices": null
+        },
+        {
+          "question": "31, ?, 33, 34",
+          "sequence": [
+            "31",
+            "?",
+            "33",
+            "34"
+          ],
+          "missingIndex": 1,
+          "answer": "32",
+          "choices": null
+        },
+        {
+          "question": "44, 45, ?, 47",
+          "sequence": [
+            "44",
+            "45",
+            "?",
+            "47"
+          ],
+          "missingIndex": 2,
+          "answer": "46",
+          "choices": null
+        },
+        {
+          "question": "19, ?, 21, 22",
+          "sequence": [
+            "19",
+            "?",
+            "21",
+            "22"
+          ],
+          "missingIndex": 1,
+          "answer": "20",
+          "choices": null
+        }
+      ]
+    ],
+    "10": [
+      [
+        {
+          "question": "10, 20, 30, ?",
+          "sequence": [
+            "10",
+            "20",
+            "30",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "20, 30, 40, ?",
+          "sequence": [
+            "20",
+            "30",
+            "40",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "10, ?, 30, 40",
+          "sequence": [
+            "10",
+            "?",
+            "30",
+            "40"
+          ],
+          "missingIndex": 1,
+          "answer": "20",
+          "choices": null
+        },
+        {
+          "question": "20, 30, ?, 50",
+          "sequence": [
+            "20",
+            "30",
+            "?",
+            "50"
+          ],
+          "missingIndex": 2,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "20, ?, 40, 50",
+          "sequence": [
+            "20",
+            "?",
+            "40",
+            "50"
+          ],
+          "missingIndex": 1,
+          "answer": "30",
+          "choices": null
+        }
+      ]
+    ],
+    "11": [
+      [
+        {
+          "question": "22, 24, 26, ?",
+          "sequence": [
+            "22",
+            "24",
+            "26",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "28",
+          "choices": null
+        },
+        {
+          "question": "30, 32, ?, 36",
+          "sequence": [
+            "30",
+            "32",
+            "?",
+            "36"
+          ],
+          "missingIndex": 2,
+          "answer": "34",
+          "choices": null
+        },
+        {
+          "question": "42, 44, 46, ?",
+          "sequence": [
+            "42",
+            "44",
+            "46",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "48",
+          "choices": null
+        },
+        {
+          "question": "21, 23, ?, 27",
+          "sequence": [
+            "21",
+            "23",
+            "?",
+            "27"
+          ],
+          "missingIndex": 2,
+          "answer": "25",
+          "choices": null
+        },
+        {
+          "question": "32, ?, 36, 38",
+          "sequence": [
+            "32",
+            "?",
+            "36",
+            "38"
+          ],
+          "missingIndex": 1,
+          "answer": "34",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "32, 34, 36, ?",
+          "sequence": [
+            "32",
+            "34",
+            "36",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "38",
+          "choices": null
+        },
+        {
+          "question": "20, 22, ?, 26",
+          "sequence": [
+            "20",
+            "22",
+            "?",
+            "26"
+          ],
+          "missingIndex": 2,
+          "answer": "24",
+          "choices": null
+        },
+        {
+          "question": "42, 44, ?, 48",
+          "sequence": [
+            "42",
+            "44",
+            "?",
+            "48"
+          ],
+          "missingIndex": 2,
+          "answer": "46",
+          "choices": null
+        },
+        {
+          "question": "31, 33, 35, ?",
+          "sequence": [
+            "31",
+            "33",
+            "35",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "37",
+          "choices": null
+        },
+        {
+          "question": "22, ?, 26, 28",
+          "sequence": [
+            "22",
+            "?",
+            "26",
+            "28"
+          ],
+          "missingIndex": 1,
+          "answer": "24",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "30, 32, 34, ?",
+          "sequence": [
+            "30",
+            "32",
+            "34",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "36",
+          "choices": null
+        },
+        {
+          "question": "32, 34, ?, 38",
+          "sequence": [
+            "32",
+            "34",
+            "?",
+            "38"
+          ],
+          "missingIndex": 2,
+          "answer": "36",
+          "choices": null
+        },
+        {
+          "question": "22, 24, ?, 28",
+          "sequence": [
+            "22",
+            "24",
+            "?",
+            "28"
+          ],
+          "missingIndex": 2,
+          "answer": "26",
+          "choices": null
+        },
+        {
+          "question": "41, 43, ?, 47",
+          "sequence": [
+            "41",
+            "43",
+            "?",
+            "47"
+          ],
+          "missingIndex": 2,
+          "answer": "45",
+          "choices": null
+        },
+        {
+          "question": "20, ?, 24, 26",
+          "sequence": [
+            "20",
+            "?",
+            "24",
+            "26"
+          ],
+          "missingIndex": 1,
+          "answer": "22",
+          "choices": null
+        }
+      ]
+    ],
+    "12": [
+      [
+        {
+          "question": "25, 30, 35, ?",
+          "sequence": [
+            "25",
+            "30",
+            "35",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "35, 40, 45, ?",
+          "sequence": [
+            "35",
+            "40",
+            "45",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "30, 35, ?, 45",
+          "sequence": [
+            "30",
+            "35",
+            "?",
+            "45"
+          ],
+          "missingIndex": 2,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "25, ?, 35, 40",
+          "sequence": [
+            "25",
+            "?",
+            "35",
+            "40"
+          ],
+          "missingIndex": 1,
+          "answer": "30",
+          "choices": null
+        },
+        {
+          "question": "20, ?, 30, 35",
+          "sequence": [
+            "20",
+            "?",
+            "30",
+            "35"
+          ],
+          "missingIndex": 1,
+          "answer": "25",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "20, 25, 30, ?",
+          "sequence": [
+            "20",
+            "25",
+            "30",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "35",
+          "choices": null
+        },
+        {
+          "question": "15, 20, ?, 30",
+          "sequence": [
+            "15",
+            "20",
+            "?",
+            "30"
+          ],
+          "missingIndex": 2,
+          "answer": "25",
+          "choices": null
+        },
+        {
+          "question": "20, 25, ?, 35",
+          "sequence": [
+            "20",
+            "25",
+            "?",
+            "35"
+          ],
+          "missingIndex": 2,
+          "answer": "30",
+          "choices": null
+        },
+        {
+          "question": "30, ?, 40, 45",
+          "sequence": [
+            "30",
+            "?",
+            "40",
+            "45"
+          ],
+          "missingIndex": 1,
+          "answer": "35",
+          "choices": null
+        },
+        {
+          "question": "25, ?, 35, 40",
+          "sequence": [
+            "25",
+            "?",
+            "35",
+            "40"
+          ],
+          "missingIndex": 1,
+          "answer": "30",
+          "choices": null
+        }
+      ]
+    ],
+    "13": [
+      [
+        {
+          "question": "25, 24, 23, ?",
+          "sequence": [
+            "25",
+            "24",
+            "23",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "22",
+          "choices": null
+        },
+        {
+          "question": "34, 33, ?, 31",
+          "sequence": [
+            "34",
+            "33",
+            "?",
+            "31"
+          ],
+          "missingIndex": 2,
+          "answer": "32",
+          "choices": null
+        },
+        {
+          "question": "39, 38, ?, 36",
+          "sequence": [
+            "39",
+            "38",
+            "?",
+            "36"
+          ],
+          "missingIndex": 2,
+          "answer": "37",
+          "choices": null
+        },
+        {
+          "question": "45, 44, 43, ?",
+          "sequence": [
+            "45",
+            "44",
+            "43",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "42",
+          "choices": null
+        },
+        {
+          "question": "49, 48, ?, 46",
+          "sequence": [
+            "49",
+            "48",
+            "?",
+            "46"
+          ],
+          "missingIndex": 2,
+          "answer": "47",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "28, 27, 26, ?",
+          "sequence": [
+            "28",
+            "27",
+            "26",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "25",
+          "choices": null
+        },
+        {
+          "question": "24, 23, ?, 21",
+          "sequence": [
+            "24",
+            "23",
+            "?",
+            "21"
+          ],
+          "missingIndex": 2,
+          "answer": "22",
+          "choices": null
+        },
+        {
+          "question": "36, 35, ?, 33",
+          "sequence": [
+            "36",
+            "35",
+            "?",
+            "33"
+          ],
+          "missingIndex": 2,
+          "answer": "34",
+          "choices": null
+        },
+        {
+          "question": "44, 43, 42, ?",
+          "sequence": [
+            "44",
+            "43",
+            "42",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "41",
+          "choices": null
+        },
+        {
+          "question": "47, 46, ?, 44",
+          "sequence": [
+            "47",
+            "46",
+            "?",
+            "44"
+          ],
+          "missingIndex": 2,
+          "answer": "45",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "26, 25, 24, ?",
+          "sequence": [
+            "26",
+            "25",
+            "24",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "23",
+          "choices": null
+        },
+        {
+          "question": "28, ?, 26, 25",
+          "sequence": [
+            "28",
+            "?",
+            "26",
+            "25"
+          ],
+          "missingIndex": 1,
+          "answer": "27",
+          "choices": null
+        },
+        {
+          "question": "34, 33, 32, ?",
+          "sequence": [
+            "34",
+            "33",
+            "32",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "31",
+          "choices": null
+        },
+        {
+          "question": "37, ?, 35, 34",
+          "sequence": [
+            "37",
+            "?",
+            "35",
+            "34"
+          ],
+          "missingIndex": 1,
+          "answer": "36",
+          "choices": null
+        },
+        {
+          "question": "50, 49, ?, 47",
+          "sequence": [
+            "50",
+            "49",
+            "?",
+            "47"
+          ],
+          "missingIndex": 2,
+          "answer": "48",
+          "choices": null
+        }
+      ]
+    ],
+    "14": [
+      [
+        {
+          "question": "50, 40, 30, ?",
+          "sequence": [
+            "50",
+            "40",
+            "30",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "20",
+          "choices": null
+        },
+        {
+          "question": "50, 40, ?, 20",
+          "sequence": [
+            "50",
+            "40",
+            "?",
+            "20"
+          ],
+          "missingIndex": 2,
+          "answer": "30",
+          "choices": null
+        },
+        {
+          "question": "50, ?, 30, 20",
+          "sequence": [
+            "50",
+            "?",
+            "30",
+            "20"
+          ],
+          "missingIndex": 1,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "40, 30, ?, 10",
+          "sequence": [
+            "40",
+            "30",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "20",
+          "choices": null
+        },
+        {
+          "question": "?, 30, 20, 10",
+          "sequence": [
+            "?",
+            "30",
+            "20",
+            "10"
+          ],
+          "missingIndex": 0,
+          "answer": "40",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "40, 30, 20, ?",
+          "sequence": [
+            "40",
+            "30",
+            "20",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "10",
+          "choices": null
+        },
+        {
+          "question": "50, 40, ?, 20",
+          "sequence": [
+            "50",
+            "40",
+            "?",
+            "20"
+          ],
+          "missingIndex": 2,
+          "answer": "30",
+          "choices": null
+        },
+        {
+          "question": "40, ?, 20, 10",
+          "sequence": [
+            "40",
+            "?",
+            "20",
+            "10"
+          ],
+          "missingIndex": 1,
+          "answer": "30",
+          "choices": null
+        },
+        {
+          "question": "50, ?, 30, 20",
+          "sequence": [
+            "50",
+            "?",
+            "30",
+            "20"
+          ],
+          "missingIndex": 1,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "?, 40, 30, 20",
+          "sequence": [
+            "?",
+            "40",
+            "30",
+            "20"
+          ],
+          "missingIndex": 0,
+          "answer": "50",
+          "choices": null
+        }
+      ]
+    ],
+    "15": [
+      [
+        {
+          "question": "53, 54, 55, ?",
+          "sequence": [
+            "53",
+            "54",
+            "55",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "56",
+          "choices": null
+        },
+        {
+          "question": "62, 63, ?, 65",
+          "sequence": [
+            "62",
+            "63",
+            "?",
+            "65"
+          ],
+          "missingIndex": 2,
+          "answer": "64",
+          "choices": null
+        },
+        {
+          "question": "94, 95, 96, ?",
+          "sequence": [
+            "94",
+            "95",
+            "96",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "97",
+          "choices": null
+        },
+        {
+          "question": "82, 83, ?, 85",
+          "sequence": [
+            "82",
+            "83",
+            "?",
+            "85"
+          ],
+          "missingIndex": 2,
+          "answer": "84",
+          "choices": null
+        },
+        {
+          "question": "72, ?, 74, 75",
+          "sequence": [
+            "72",
+            "?",
+            "74",
+            "75"
+          ],
+          "missingIndex": 1,
+          "answer": "73",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "64, 65, 66, ?",
+          "sequence": [
+            "64",
+            "65",
+            "66",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "67",
+          "choices": null
+        },
+        {
+          "question": "56, 57, ?, 59",
+          "sequence": [
+            "56",
+            "57",
+            "?",
+            "59"
+          ],
+          "missingIndex": 2,
+          "answer": "58",
+          "choices": null
+        },
+        {
+          "question": "90, 91, ?, 93",
+          "sequence": [
+            "90",
+            "91",
+            "?",
+            "93"
+          ],
+          "missingIndex": 2,
+          "answer": "92",
+          "choices": null
+        },
+        {
+          "question": "87, 88, 89, ?",
+          "sequence": [
+            "87",
+            "88",
+            "89",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "90",
+          "choices": null
+        },
+        {
+          "question": "73, 74, ?, 76",
+          "sequence": [
+            "73",
+            "74",
+            "?",
+            "76"
+          ],
+          "missingIndex": 2,
+          "answer": "75",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "60, 61, 62, ?",
+          "sequence": [
+            "60",
+            "61",
+            "62",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "63",
+          "choices": null
+        },
+        {
+          "question": "74, 75, ?, 77",
+          "sequence": [
+            "74",
+            "75",
+            "?",
+            "77"
+          ],
+          "missingIndex": 2,
+          "answer": "76",
+          "choices": null
+        },
+        {
+          "question": "82, 83, ?, 85",
+          "sequence": [
+            "82",
+            "83",
+            "?",
+            "85"
+          ],
+          "missingIndex": 2,
+          "answer": "84",
+          "choices": null
+        },
+        {
+          "question": "57, 58, 59, ?",
+          "sequence": [
+            "57",
+            "58",
+            "59",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "60",
+          "choices": null
+        },
+        {
+          "question": "93, 94, ?, 96",
+          "sequence": [
+            "93",
+            "94",
+            "?",
+            "96"
+          ],
+          "missingIndex": 2,
+          "answer": "95",
+          "choices": null
+        }
+      ]
+    ],
+    "16": [
+      [
+        {
+          "question": "50, 60, 70, ?",
+          "sequence": [
+            "50",
+            "60",
+            "70",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "80",
+          "choices": null
+        },
+        {
+          "question": "60, 70, ?, 90",
+          "sequence": [
+            "60",
+            "70",
+            "?",
+            "90"
+          ],
+          "missingIndex": 2,
+          "answer": "80",
+          "choices": null
+        },
+        {
+          "question": "30, 40, ?, 60",
+          "sequence": [
+            "30",
+            "40",
+            "?",
+            "60"
+          ],
+          "missingIndex": 2,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "40, ?, 60, 70",
+          "sequence": [
+            "40",
+            "?",
+            "60",
+            "70"
+          ],
+          "missingIndex": 1,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "60, ?, 80, 90",
+          "sequence": [
+            "60",
+            "?",
+            "80",
+            "90"
+          ],
+          "missingIndex": 1,
+          "answer": "70",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "60, 70, 80, ?",
+          "sequence": [
+            "60",
+            "70",
+            "80",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "90",
+          "choices": null
+        },
+        {
+          "question": "30, 40, ?, 60",
+          "sequence": [
+            "30",
+            "40",
+            "?",
+            "60"
+          ],
+          "missingIndex": 2,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "40, 50, ?, 70",
+          "sequence": [
+            "40",
+            "50",
+            "?",
+            "70"
+          ],
+          "missingIndex": 2,
+          "answer": "60",
+          "choices": null
+        },
+        {
+          "question": "50, 60, ?, 80",
+          "sequence": [
+            "50",
+            "60",
+            "?",
+            "80"
+          ],
+          "missingIndex": 2,
+          "answer": "70",
+          "choices": null
+        },
+        {
+          "question": "50, ?, 70, 80",
+          "sequence": [
+            "50",
+            "?",
+            "70",
+            "80"
+          ],
+          "missingIndex": 1,
+          "answer": "60",
+          "choices": null
+        }
+      ]
+    ],
+    "17": [
+      [
+        {
+          "question": "52, 54, 56, ?",
+          "sequence": [
+            "52",
+            "54",
+            "56",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "58",
+          "choices": null
+        },
+        {
+          "question": "60, 62, ?, 66",
+          "sequence": [
+            "60",
+            "62",
+            "?",
+            "66"
+          ],
+          "missingIndex": 2,
+          "answer": "64",
+          "choices": null
+        },
+        {
+          "question": "71, 73, 75, ?",
+          "sequence": [
+            "71",
+            "73",
+            "75",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "77",
+          "choices": null
+        },
+        {
+          "question": "63, 65, ?, 69",
+          "sequence": [
+            "63",
+            "65",
+            "?",
+            "69"
+          ],
+          "missingIndex": 2,
+          "answer": "67",
+          "choices": null
+        },
+        {
+          "question": "50, ?, 54, 56",
+          "sequence": [
+            "50",
+            "?",
+            "54",
+            "56"
+          ],
+          "missingIndex": 1,
+          "answer": "52",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "62, 64, 66, ?",
+          "sequence": [
+            "62",
+            "64",
+            "66",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "68",
+          "choices": null
+        },
+        {
+          "question": "80, 82, ?, 86",
+          "sequence": [
+            "80",
+            "82",
+            "?",
+            "86"
+          ],
+          "missingIndex": 2,
+          "answer": "84",
+          "choices": null
+        },
+        {
+          "question": "53, 55, ?, 59",
+          "sequence": [
+            "53",
+            "55",
+            "?",
+            "59"
+          ],
+          "missingIndex": 2,
+          "answer": "57",
+          "choices": null
+        },
+        {
+          "question": "72, 74, ?, 78",
+          "sequence": [
+            "72",
+            "74",
+            "?",
+            "78"
+          ],
+          "missingIndex": 2,
+          "answer": "76",
+          "choices": null
+        },
+        {
+          "question": "61, ?, 65, 67",
+          "sequence": [
+            "61",
+            "?",
+            "65",
+            "67"
+          ],
+          "missingIndex": 1,
+          "answer": "63",
+          "choices": null
+        }
+      ]
+    ],
+    "18": [
+      [
+        {
+          "question": "50, 55, 60, ?",
+          "sequence": [
+            "50",
+            "55",
+            "60",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "65",
+          "choices": null
+        },
+        {
+          "question": "65, 70, 75, ?",
+          "sequence": [
+            "65",
+            "70",
+            "75",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "80",
+          "choices": null
+        },
+        {
+          "question": "45, 50, ?, 60",
+          "sequence": [
+            "45",
+            "50",
+            "?",
+            "60"
+          ],
+          "missingIndex": 2,
+          "answer": "55",
+          "choices": null
+        },
+        {
+          "question": "75, 80, ?, 90",
+          "sequence": [
+            "75",
+            "80",
+            "?",
+            "90"
+          ],
+          "missingIndex": 2,
+          "answer": "85",
+          "choices": null
+        },
+        {
+          "question": "60, ?, 70, 75",
+          "sequence": [
+            "60",
+            "?",
+            "70",
+            "75"
+          ],
+          "missingIndex": 1,
+          "answer": "65",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "55, 60, 65, ?",
+          "sequence": [
+            "55",
+            "60",
+            "65",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "70",
+          "choices": null
+        },
+        {
+          "question": "40, 45, 50, ?",
+          "sequence": [
+            "40",
+            "45",
+            "50",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "55",
+          "choices": null
+        },
+        {
+          "question": "70, 75, ?, 85",
+          "sequence": [
+            "70",
+            "75",
+            "?",
+            "85"
+          ],
+          "missingIndex": 2,
+          "answer": "80",
+          "choices": null
+        },
+        {
+          "question": "80, 85, ?, 95",
+          "sequence": [
+            "80",
+            "85",
+            "?",
+            "95"
+          ],
+          "missingIndex": 2,
+          "answer": "90",
+          "choices": null
+        },
+        {
+          "question": "50, ?, 60, 65",
+          "sequence": [
+            "50",
+            "?",
+            "60",
+            "65"
+          ],
+          "missingIndex": 1,
+          "answer": "55",
+          "choices": null
+        }
+      ]
+    ],
+    "19": [
+      [
+        {
+          "question": "65, 64, 63, ?",
+          "sequence": [
+            "65",
+            "64",
+            "63",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "62",
+          "choices": null
+        },
+        {
+          "question": "87, 86, ?, 84",
+          "sequence": [
+            "87",
+            "86",
+            "?",
+            "84"
+          ],
+          "missingIndex": 2,
+          "answer": "85",
+          "choices": null
+        },
+        {
+          "question": "60, 59, ?, 57",
+          "sequence": [
+            "60",
+            "59",
+            "?",
+            "57"
+          ],
+          "missingIndex": 2,
+          "answer": "58",
+          "choices": null
+        },
+        {
+          "question": "71, 70, 69, ?",
+          "sequence": [
+            "71",
+            "70",
+            "69",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "68",
+          "choices": null
+        },
+        {
+          "question": "94, 93, ?, 91",
+          "sequence": [
+            "94",
+            "93",
+            "?",
+            "91"
+          ],
+          "missingIndex": 2,
+          "answer": "92",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "74, 73, 72, ?",
+          "sequence": [
+            "74",
+            "73",
+            "72",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "71",
+          "choices": null
+        },
+        {
+          "question": "58, 57, ?, 55",
+          "sequence": [
+            "58",
+            "57",
+            "?",
+            "55"
+          ],
+          "missingIndex": 2,
+          "answer": "56",
+          "choices": null
+        },
+        {
+          "question": "90, 89, ?, 87",
+          "sequence": [
+            "90",
+            "89",
+            "?",
+            "87"
+          ],
+          "missingIndex": 2,
+          "answer": "88",
+          "choices": null
+        },
+        {
+          "question": "82, 81, ?, 79",
+          "sequence": [
+            "82",
+            "81",
+            "?",
+            "79"
+          ],
+          "missingIndex": 2,
+          "answer": "80",
+          "choices": null
+        },
+        {
+          "question": "67, ?, 65, 64",
+          "sequence": [
+            "67",
+            "?",
+            "65",
+            "64"
+          ],
+          "missingIndex": 1,
+          "answer": "66",
+          "choices": null
+        }
+      ]
+    ],
+    "20": [
+      [
+        {
+          "question": "90, 80, 70, ?",
+          "sequence": [
+            "90",
+            "80",
+            "70",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "60",
+          "choices": null
+        },
+        {
+          "question": "60, 50, ?, 30",
+          "sequence": [
+            "60",
+            "50",
+            "?",
+            "30"
+          ],
+          "missingIndex": 2,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "70, 60, ?, 40",
+          "sequence": [
+            "70",
+            "60",
+            "?",
+            "40"
+          ],
+          "missingIndex": 2,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "80, ?, 60, 50",
+          "sequence": [
+            "80",
+            "?",
+            "60",
+            "50"
+          ],
+          "missingIndex": 1,
+          "answer": "70",
+          "choices": null
+        },
+        {
+          "question": "?, 60, 50, 40",
+          "sequence": [
+            "?",
+            "60",
+            "50",
+            "40"
+          ],
+          "missingIndex": 0,
+          "answer": "70",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "80, 70, 60, ?",
+          "sequence": [
+            "80",
+            "70",
+            "60",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "50",
+          "choices": null
+        },
+        {
+          "question": "70, 60, 50, ?",
+          "sequence": [
+            "70",
+            "60",
+            "50",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "40",
+          "choices": null
+        },
+        {
+          "question": "90, 80, ?, 60",
+          "sequence": [
+            "90",
+            "80",
+            "?",
+            "60"
+          ],
+          "missingIndex": 2,
+          "answer": "70",
+          "choices": null
+        },
+        {
+          "question": "70, ?, 50, 40",
+          "sequence": [
+            "70",
+            "?",
+            "50",
+            "40"
+          ],
+          "missingIndex": 1,
+          "answer": "60",
+          "choices": null
+        },
+        {
+          "question": "?, 70, 60, 50",
+          "sequence": [
+            "?",
+            "70",
+            "60",
+            "50"
+          ],
+          "missingIndex": 0,
+          "answer": "80",
+          "choices": null
+        }
+      ]
+    ],
+    "21": [
+      [
+        {
+          "question": "3, 6, ?, 12",
+          "sequence": [
+            "3",
+            "6",
+            "?",
+            "12"
+          ],
+          "missingIndex": 2,
+          "answer": "9",
+          "choices": null
+        },
+        {
+          "question": "6, 9, 12, ?",
+          "sequence": [
+            "6",
+            "9",
+            "12",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "3, ?, 9, 12",
+          "sequence": [
+            "3",
+            "?",
+            "9",
+            "12"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "3, 6, 9, ?",
+          "sequence": [
+            "3",
+            "6",
+            "9",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "6, 9, ?, 15",
+          "sequence": [
+            "6",
+            "9",
+            "?",
+            "15"
+          ],
+          "missingIndex": 2,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "9, 12, ?, 18",
+          "sequence": [
+            "9",
+            "12",
+            "?",
+            "18"
+          ],
+          "missingIndex": 2,
+          "answer": "15",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "3, 6, 9, ?",
+          "sequence": [
+            "3",
+            "6",
+            "9",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "6, 9, ?, 15",
+          "sequence": [
+            "6",
+            "9",
+            "?",
+            "15"
+          ],
+          "missingIndex": 2,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "3, ?, 9, 12",
+          "sequence": [
+            "3",
+            "?",
+            "9",
+            "12"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ]
+    ],
+    "22": [
+      [
+        {
+          "question": "30, 33, 36, ?",
+          "sequence": [
+            "30",
+            "33",
+            "36",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "39",
+          "choices": null
+        },
+        {
+          "question": "27, 30, ?, 36",
+          "sequence": [
+            "27",
+            "30",
+            "?",
+            "36"
+          ],
+          "missingIndex": 2,
+          "answer": "33",
+          "choices": null
+        },
+        {
+          "question": "36, ?, 42, 45",
+          "sequence": [
+            "36",
+            "?",
+            "42",
+            "45"
+          ],
+          "missingIndex": 1,
+          "answer": "39",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "36, 39, 42, ?",
+          "sequence": [
+            "36",
+            "39",
+            "42",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "45",
+          "choices": null
+        },
+        {
+          "question": "45, 48, 51, ?",
+          "sequence": [
+            "45",
+            "48",
+            "51",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "54",
+          "choices": null
+        },
+        {
+          "question": "33, ?, 39, 42",
+          "sequence": [
+            "33",
+            "?",
+            "39",
+            "42"
+          ],
+          "missingIndex": 1,
+          "answer": "36",
+          "choices": null
+        }
+      ]
+    ],
+    "23": [
+      [
+        {
+          "question": "8, 6, 4, ?",
+          "sequence": [
+            "8",
+            "6",
+            "4",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "2",
+          "choices": null
+        },
+        {
+          "question": "10, 8, ?, 4",
+          "sequence": [
+            "10",
+            "8",
+            "?",
+            "4"
+          ],
+          "missingIndex": 2,
+          "answer": "6",
+          "choices": null
+        },
+        {
+          "question": "8, ?, 4, 2",
+          "sequence": [
+            "8",
+            "?",
+            "4",
+            "2"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "10, 8, 6, ?",
+          "sequence": [
+            "10",
+            "8",
+            "6",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "8, 6, ?, 2",
+          "sequence": [
+            "8",
+            "6",
+            "?",
+            "2"
+          ],
+          "missingIndex": 2,
+          "answer": "4",
+          "choices": null
+        },
+        {
+          "question": "8, ?, 4, 2",
+          "sequence": [
+            "8",
+            "?",
+            "4",
+            "2"
+          ],
+          "missingIndex": 1,
+          "answer": "6",
+          "choices": null
+        }
+      ]
+    ],
+    "24": [
+      [
+        {
+          "question": "18, 16, ?, 12",
+          "sequence": [
+            "18",
+            "16",
+            "?",
+            "12"
+          ],
+          "missingIndex": 2,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "20, 18, ?, 14",
+          "sequence": [
+            "20",
+            "18",
+            "?",
+            "14"
+          ],
+          "missingIndex": 2,
+          "answer": "16",
+          "choices": null
+        },
+        {
+          "question": "16, ?, 12, 10",
+          "sequence": [
+            "16",
+            "?",
+            "12",
+            "10"
+          ],
+          "missingIndex": 1,
+          "answer": "14",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "16, 14, ?, 10",
+          "sequence": [
+            "16",
+            "14",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "12",
+          "choices": null
+        },
+        {
+          "question": "20, 18, 16, ?",
+          "sequence": [
+            "20",
+            "18",
+            "16",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "18, ?, 14, 12",
+          "sequence": [
+            "18",
+            "?",
+            "14",
+            "12"
+          ],
+          "missingIndex": 1,
+          "answer": "16",
+          "choices": null
+        }
+      ]
+    ],
+    "25": [
+      [
+        {
+          "question": "38, 36, ?, 32",
+          "sequence": [
+            "38",
+            "36",
+            "?",
+            "32"
+          ],
+          "missingIndex": 2,
+          "answer": "34",
+          "choices": null
+        },
+        {
+          "question": "28, ?, 24, 22",
+          "sequence": [
+            "28",
+            "?",
+            "24",
+            "22"
+          ],
+          "missingIndex": 1,
+          "answer": "26",
+          "choices": null
+        },
+        {
+          "question": "46, 44, ?, 40",
+          "sequence": [
+            "46",
+            "44",
+            "?",
+            "40"
+          ],
+          "missingIndex": 2,
+          "answer": "42",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "30, 28, 26, ?",
+          "sequence": [
+            "30",
+            "28",
+            "26",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "24",
+          "choices": null
+        },
+        {
+          "question": "38, ?, 34, 32",
+          "sequence": [
+            "38",
+            "?",
+            "34",
+            "32"
+          ],
+          "missingIndex": 1,
+          "answer": "36",
+          "choices": null
+        },
+        {
+          "question": "26, 24, 22, ?",
+          "sequence": [
+            "26",
+            "24",
+            "22",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "20",
+          "choices": null
+        }
+      ]
+    ],
+    "26": [
+      [
+        {
+          "question": "76, 74, ?, 70",
+          "sequence": [
+            "76",
+            "74",
+            "?",
+            "70"
+          ],
+          "missingIndex": 2,
+          "answer": "72",
+          "choices": null
+        },
+        {
+          "question": "68, ?, 64, 62",
+          "sequence": [
+            "68",
+            "?",
+            "64",
+            "62"
+          ],
+          "missingIndex": 1,
+          "answer": "66",
+          "choices": null
+        },
+        {
+          "question": "90, 88, ?, 84",
+          "sequence": [
+            "90",
+            "88",
+            "?",
+            "84"
+          ],
+          "missingIndex": 2,
+          "answer": "86",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "58, 56, 54, ?",
+          "sequence": [
+            "58",
+            "56",
+            "54",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "52",
+          "choices": null
+        },
+        {
+          "question": "80, ?, 76, 74",
+          "sequence": [
+            "80",
+            "?",
+            "76",
+            "74"
+          ],
+          "missingIndex": 1,
+          "answer": "78",
+          "choices": null
+        },
+        {
+          "question": "96, 94, ?, 90",
+          "sequence": [
+            "96",
+            "94",
+            "?",
+            "90"
+          ],
+          "missingIndex": 2,
+          "answer": "92",
+          "choices": null
+        }
+      ]
+    ],
+    "27": [
+      [
+        {
+          "question": "20, 15, 10, ?",
+          "sequence": [
+            "20",
+            "15",
+            "10",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "5",
+          "choices": null
+        },
+        {
+          "question": "35, 30, ?, 20",
+          "sequence": [
+            "35",
+            "30",
+            "?",
+            "20"
+          ],
+          "missingIndex": 2,
+          "answer": "25",
+          "choices": null
+        },
+        {
+          "question": "40, ?, 30, 25",
+          "sequence": [
+            "40",
+            "?",
+            "30",
+            "25"
+          ],
+          "missingIndex": 1,
+          "answer": "35",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "35, 30, 25, ?",
+          "sequence": [
+            "35",
+            "30",
+            "25",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "20",
+          "choices": null
+        },
+        {
+          "question": "25, 20, ?, 10",
+          "sequence": [
+            "25",
+            "20",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "15",
+          "choices": null
+        },
+        {
+          "question": "45, ?, 35, 30",
+          "sequence": [
+            "45",
+            "?",
+            "35",
+            "30"
+          ],
+          "missingIndex": 1,
+          "answer": "40",
+          "choices": null
+        }
+      ]
+    ],
+    "28": [
+      [
+        {
+          "question": "452, 453, 454, ?",
+          "sequence": [
+            "452",
+            "453",
+            "454",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "455",
+          "choices": [
+            "450",
+            "455",
+            "460",
+            "465"
+          ]
+        },
+        {
+          "question": "341, 342, ?, 344",
+          "sequence": [
+            "341",
+            "342",
+            "?",
+            "344"
+          ],
+          "missingIndex": 2,
+          "answer": "343",
+          "choices": [
+            "343",
+            "434",
+            "535",
+            "443"
+          ]
+        },
+        {
+          "question": "560, ?, 562, 563",
+          "sequence": [
+            "560",
+            "?",
+            "562",
+            "563"
+          ],
+          "missingIndex": 1,
+          "answer": "561",
+          "choices": [
+            "561",
+            "571",
+            "581",
+            "591"
+          ]
+        },
+        {
+          "question": "348, 349, ?,  351",
+          "sequence": [
+            "348",
+            "349",
+            "?",
+            "351"
+          ],
+          "missingIndex": 2,
+          "answer": "350",
+          "choices": [
+            "340",
+            "350",
+            "360",
+            "370"
+          ]
+        },
+        {
+          "question": "258, 259, ?, 261",
+          "sequence": [
+            "258",
+            "259",
+            "?",
+            "261"
+          ],
+          "missingIndex": 2,
+          "answer": "260",
+          "choices": [
+            "250",
+            "260",
+            "270",
+            "280"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "745, 746, 747, ?",
+          "sequence": [
+            "745",
+            "746",
+            "747",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "748",
+          "choices": [
+            "718",
+            "728",
+            "738",
+            "748"
+          ]
+        },
+        {
+          "question": "234, 235, ?, 237",
+          "sequence": [
+            "234",
+            "235",
+            "?",
+            "237"
+          ],
+          "missingIndex": 2,
+          "answer": "236",
+          "choices": [
+            "232",
+            "234",
+            "236",
+            "238"
+          ]
+        },
+        {
+          "question": "678, 679, ?, 681",
+          "sequence": [
+            "678",
+            "679",
+            "?",
+            "681"
+          ],
+          "missingIndex": 2,
+          "answer": "680",
+          "choices": [
+            "650",
+            "660",
+            "670",
+            "680"
+          ]
+        },
+        {
+          "question": "533, 534, ?, 536",
+          "sequence": [
+            "533",
+            "534",
+            "?",
+            "536"
+          ],
+          "missingIndex": 2,
+          "answer": "535",
+          "choices": [
+            "235",
+            "345",
+            "445",
+            "535"
+          ]
+        },
+        {
+          "question": "478, 479, ?, 481",
+          "sequence": [
+            "478",
+            "479",
+            "?",
+            "481"
+          ],
+          "missingIndex": 2,
+          "answer": "480",
+          "choices": [
+            "450",
+            "460",
+            "470",
+            "480"
+          ]
+        }
+      ]
+    ],
+    "29": [
+      [
+        {
+          "question": "400, 500, ?, 700",
+          "sequence": [
+            "400",
+            "500",
+            "?",
+            "700"
+          ],
+          "missingIndex": 2,
+          "answer": "600",
+          "choices": [
+            "200",
+            "400",
+            "600",
+            "800"
+          ]
+        },
+        {
+          "question": "?, 300, 400, 500",
+          "sequence": [
+            "?",
+            "300",
+            "400",
+            "500"
+          ],
+          "missingIndex": 0,
+          "answer": "200",
+          "choices": [
+            "100",
+            "200",
+            "300",
+            "400"
+          ]
+        },
+        {
+          "question": "330, 430, 530, ?",
+          "sequence": [
+            "330",
+            "430",
+            "530",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "630",
+          "choices": [
+            "600",
+            "610",
+            "620",
+            "630"
+          ]
+        },
+        {
+          "question": "550, 650, ?, 850",
+          "sequence": [
+            "550",
+            "650",
+            "?",
+            "850"
+          ],
+          "missingIndex": 2,
+          "answer": "750",
+          "choices": [
+            "700",
+            "730",
+            "750",
+            "770"
+          ]
+        },
+        {
+          "question": "251, 351, ?, 551",
+          "sequence": [
+            "251",
+            "351",
+            "?",
+            "551"
+          ],
+          "missingIndex": 2,
+          "answer": "451",
+          "choices": [
+            "451",
+            "452",
+            "453",
+            "454"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "100, 200, ?, 400",
+          "sequence": [
+            "100",
+            "200",
+            "?",
+            "400"
+          ],
+          "missingIndex": 2,
+          "answer": "300",
+          "choices": [
+            "100",
+            "300",
+            "500",
+            "700"
+          ]
+        },
+        {
+          "question": "?, 500, 600, 700",
+          "sequence": [
+            "?",
+            "500",
+            "600",
+            "700"
+          ],
+          "missingIndex": 0,
+          "answer": "400",
+          "choices": [
+            "400",
+            "450",
+            "500",
+            "550"
+          ]
+        },
+        {
+          "question": "670, 770, ?, 970",
+          "sequence": [
+            "670",
+            "770",
+            "?",
+            "970"
+          ],
+          "missingIndex": 2,
+          "answer": "870",
+          "choices": [
+            "850",
+            "860",
+            "870",
+            "880"
+          ]
+        },
+        {
+          "question": "340, 440, ?, 640",
+          "sequence": [
+            "340",
+            "440",
+            "?",
+            "640"
+          ],
+          "missingIndex": 2,
+          "answer": "540",
+          "choices": [
+            "510",
+            "520",
+            "530",
+            "540"
+          ]
+        },
+        {
+          "question": "456, 556, ?, 756",
+          "sequence": [
+            "456",
+            "556",
+            "?",
+            "756"
+          ],
+          "missingIndex": 2,
+          "answer": "656",
+          "choices": [
+            "646",
+            "656",
+            "676",
+            "686"
+          ]
+        }
+      ]
+    ],
+    "30": [
+      [
+        {
+          "question": "500, 510, 520, ?",
+          "sequence": [
+            "500",
+            "510",
+            "520",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "530",
+          "choices": [
+            "530",
+            "630",
+            "730",
+            "830"
+          ]
+        },
+        {
+          "question": "360, 370, ?, 390",
+          "sequence": [
+            "360",
+            "370",
+            "?",
+            "390"
+          ],
+          "missingIndex": 2,
+          "answer": "380",
+          "choices": [
+            "180",
+            "280",
+            "380",
+            "480"
+          ]
+        },
+        {
+          "question": "750, ?, 770, 780",
+          "sequence": [
+            "750",
+            "?",
+            "770",
+            "780"
+          ],
+          "missingIndex": 1,
+          "answer": "760",
+          "choices": [
+            "560",
+            "660",
+            "760",
+            "860"
+          ]
+        },
+        {
+          "question": "624, 634, 644, ?",
+          "sequence": [
+            "624",
+            "634",
+            "644",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "654",
+          "choices": [
+            "454",
+            "554",
+            "654",
+            "754"
+          ]
+        },
+        {
+          "question": "235, 245, ?, 265",
+          "sequence": [
+            "235",
+            "245",
+            "?",
+            "265"
+          ],
+          "missingIndex": 2,
+          "answer": "255",
+          "choices": [
+            "255",
+            "355",
+            "455",
+            "555"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "400, 410, 420, ?",
+          "sequence": [
+            "400",
+            "410",
+            "420",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "430",
+          "choices": [
+            "330",
+            "430",
+            "530",
+            "630"
+          ]
+        },
+        {
+          "question": "630, 640, ?, 660",
+          "sequence": [
+            "630",
+            "640",
+            "?",
+            "660"
+          ],
+          "missingIndex": 2,
+          "answer": "650",
+          "choices": [
+            "350",
+            "450",
+            "550",
+            "650"
+          ]
+        },
+        {
+          "question": "850, ?, 870, 880",
+          "sequence": [
+            "850",
+            "?",
+            "870",
+            "880"
+          ],
+          "missingIndex": 1,
+          "answer": "860",
+          "choices": [
+            "660",
+            "760",
+            "860",
+            "960"
+          ]
+        },
+        {
+          "question": "535, 545, ?, 565",
+          "sequence": [
+            "535",
+            "545",
+            "?",
+            "565"
+          ],
+          "missingIndex": 2,
+          "answer": "555",
+          "choices": [
+            "444",
+            "555",
+            "666",
+            "777"
+          ]
+        },
+        {
+          "question": "367, ?, 387, 397",
+          "sequence": [
+            "367",
+            "?",
+            "387",
+            "397"
+          ],
+          "missingIndex": 1,
+          "answer": "377",
+          "choices": [
+            "177",
+            "377",
+            "577",
+            "777"
+          ]
+        }
+      ]
+    ],
+    "31": [
+      [
+        {
+          "question": "310, 315, 320,?",
+          "sequence": [
+            "310",
+            "315",
+            "320",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "325",
+          "choices": [
+            "300",
+            "325",
+            "350",
+            "375"
+          ]
+        },
+        {
+          "question": "725, 730, 735, ?",
+          "sequence": [
+            "725",
+            "730",
+            "735",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "740",
+          "choices": [
+            "710",
+            "720",
+            "730",
+            "740"
+          ]
+        },
+        {
+          "question": "810, 815, ?, 825",
+          "sequence": [
+            "810",
+            "815",
+            "?",
+            "825"
+          ],
+          "missingIndex": 2,
+          "answer": "820",
+          "choices": [
+            "620",
+            "720",
+            "820",
+            "920"
+          ]
+        },
+        {
+          "question": "575, 580, ?, 590",
+          "sequence": [
+            "575",
+            "580",
+            "?",
+            "590"
+          ],
+          "missingIndex": 2,
+          "answer": "585",
+          "choices": [
+            "385",
+            "485",
+            "585",
+            "685"
+          ]
+        },
+        {
+          "question": "430, ?, 440, 445",
+          "sequence": [
+            "430",
+            "?",
+            "440",
+            "445"
+          ],
+          "missingIndex": 1,
+          "answer": "435",
+          "choices": [
+            "235",
+            "325",
+            "435",
+            "525"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "250, 255, 260, ?",
+          "sequence": [
+            "250",
+            "255",
+            "260",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "265",
+          "choices": [
+            "225",
+            "245",
+            "265",
+            "285"
+          ]
+        },
+        {
+          "question": "615, 620, ?, 630",
+          "sequence": [
+            "615",
+            "620",
+            "?",
+            "630"
+          ],
+          "missingIndex": 2,
+          "answer": "625",
+          "choices": [
+            "625",
+            "635",
+            "645",
+            "655"
+          ]
+        },
+        {
+          "question": "430, 435, ?, 445",
+          "sequence": [
+            "430",
+            "435",
+            "?",
+            "445"
+          ],
+          "missingIndex": 2,
+          "answer": "440",
+          "choices": [
+            "220",
+            "330",
+            "440",
+            "550"
+          ]
+        },
+        {
+          "question": "710, ?, 720, 725",
+          "sequence": [
+            "710",
+            "?",
+            "720",
+            "725"
+          ],
+          "missingIndex": 1,
+          "answer": "715",
+          "choices": [
+            "700",
+            "715",
+            "730",
+            "745"
+          ]
+        },
+        {
+          "question": "800, ?, 810, 815",
+          "sequence": [
+            "800",
+            "?",
+            "810",
+            "815"
+          ],
+          "missingIndex": 1,
+          "answer": "805",
+          "choices": [
+            "605",
+            "705",
+            "805",
+            "905"
+          ]
+        }
+      ]
+    ],
+    "32": [
+      [
+        {
+          "question": "404, 403, ?, 401",
+          "sequence": [
+            "404",
+            "403",
+            "?",
+            "401"
+          ],
+          "missingIndex": 2,
+          "answer": "402",
+          "choices": [
+            "442",
+            "432",
+            "412",
+            "402"
+          ]
+        },
+        {
+          "question": "299, 298, 297, ?",
+          "sequence": [
+            "299",
+            "298",
+            "297",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "296",
+          "choices": [
+            "296",
+            "295",
+            "294",
+            "293"
+          ]
+        },
+        {
+          "question": "555, 554, ?, 552",
+          "sequence": [
+            "555",
+            "554",
+            "?",
+            "552"
+          ],
+          "missingIndex": 2,
+          "answer": "553",
+          "choices": [
+            "653",
+            "553",
+            "453",
+            "353"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "814, 813, 812, ?",
+          "sequence": [
+            "814",
+            "813",
+            "812",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "811",
+          "choices": [
+            "911",
+            "811",
+            "711",
+            "611"
+          ]
+        },
+        {
+          "question": "998, 997, 996, ?",
+          "sequence": [
+            "998",
+            "997",
+            "996",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "995",
+          "choices": [
+            "995",
+            "885",
+            "775",
+            "665"
+          ]
+        },
+        {
+          "question": "145, 144, ?, 142",
+          "sequence": [
+            "145",
+            "144",
+            "?",
+            "142"
+          ],
+          "missingIndex": 2,
+          "answer": "143",
+          "choices": [
+            "443",
+            "343",
+            "243",
+            "143"
+          ]
+        }
+      ]
+    ],
+    "33": [
+      [
+        {
+          "question": "800, 700, ?, 500",
+          "sequence": [
+            "800",
+            "700",
+            "?",
+            "500"
+          ],
+          "missingIndex": 2,
+          "answer": "600",
+          "choices": [
+            "900",
+            "600",
+            "300",
+            "100"
+          ]
+        },
+        {
+          "question": "450, 350, ?, 150",
+          "sequence": [
+            "450",
+            "350",
+            "?",
+            "150"
+          ],
+          "missingIndex": 2,
+          "answer": "250",
+          "choices": [
+            "250",
+            "200",
+            "100",
+            "50"
+          ]
+        },
+        {
+          "question": "744, 644, ?, 444",
+          "sequence": [
+            "744",
+            "644",
+            "?",
+            "444"
+          ],
+          "missingIndex": 2,
+          "answer": "544",
+          "choices": [
+            "555",
+            "544",
+            "533",
+            "522"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "500, 400, ?, 200",
+          "sequence": [
+            "500",
+            "400",
+            "?",
+            "200"
+          ],
+          "missingIndex": 2,
+          "answer": "300",
+          "choices": [
+            "900",
+            "600",
+            "300",
+            "100"
+          ]
+        },
+        {
+          "question": "730, 630, ?, 430",
+          "sequence": [
+            "730",
+            "630",
+            "?",
+            "430"
+          ],
+          "missingIndex": 2,
+          "answer": "530",
+          "choices": [
+            "550",
+            "540",
+            "530",
+            "520"
+          ]
+        },
+        {
+          "question": "645, 545, ?, 345",
+          "sequence": [
+            "645",
+            "545",
+            "?",
+            "345"
+          ],
+          "missingIndex": 2,
+          "answer": "445",
+          "choices": [
+            "445",
+            "444",
+            "443",
+            "442"
+          ]
+        }
+      ]
+    ],
+    "34": [
+      [
+        {
+          "question": "750, 740, 730, ?",
+          "sequence": [
+            "750",
+            "740",
+            "730",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "720",
+          "choices": [
+            "920",
+            "820",
+            "720",
+            "620"
+          ]
+        },
+        {
+          "question": "380, 370, ?, 350",
+          "sequence": [
+            "380",
+            "370",
+            "?",
+            "350"
+          ],
+          "missingIndex": 2,
+          "answer": "360",
+          "choices": [
+            "580",
+            "470",
+            "360",
+            "250"
+          ]
+        },
+        {
+          "question": "575, 565,?, 545",
+          "sequence": [
+            "575",
+            "565",
+            "?",
+            "545"
+          ],
+          "missingIndex": 2,
+          "answer": "555",
+          "choices": [
+            "777",
+            "666",
+            "555",
+            "444"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "550, 540, 530, ?",
+          "sequence": [
+            "550",
+            "540",
+            "530",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "520",
+          "choices": [
+            "520",
+            "510",
+            "500",
+            "490"
+          ]
+        },
+        {
+          "question": "800, 790, ?, 770",
+          "sequence": [
+            "800",
+            "790",
+            "?",
+            "770"
+          ],
+          "missingIndex": 2,
+          "answer": "780",
+          "choices": [
+            "880",
+            "780",
+            "680",
+            "580"
+          ]
+        },
+        {
+          "question": "150, ?, 130, 120",
+          "sequence": [
+            "150",
+            "?",
+            "130",
+            "120"
+          ],
+          "missingIndex": 1,
+          "answer": "140",
+          "choices": [
+            "440",
+            "340",
+            "240",
+            "140"
+          ]
+        }
+      ]
+    ],
+    "35": [
+      [
+        {
+          "question": "345, 340, 335, ?",
+          "sequence": [
+            "345",
+            "340",
+            "335",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "330",
+          "choices": [
+            "530",
+            "430",
+            "330",
+            "230"
+          ]
+        },
+        {
+          "question": "725, ?, 715, 710",
+          "sequence": [
+            "725",
+            "?",
+            "715",
+            "710"
+          ],
+          "missingIndex": 1,
+          "answer": "720",
+          "choices": [
+            "740",
+            "730",
+            "720",
+            "710"
+          ]
+        },
+        {
+          "question": "515, 510, 505, ?",
+          "sequence": [
+            "515",
+            "510",
+            "505",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "500",
+          "choices": [
+            "600",
+            "500",
+            "400",
+            "300"
+          ]
+        }
+      ],
+      [
+        {
+          "question": "655, 650, 645, ?",
+          "sequence": [
+            "655",
+            "650",
+            "645",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "640",
+          "choices": [
+            "640",
+            "630",
+            "620",
+            "610"
+          ]
+        },
+        {
+          "question": "295, 290, ?, 280",
+          "sequence": [
+            "295",
+            "290",
+            "?",
+            "280"
+          ],
+          "missingIndex": 2,
+          "answer": "285",
+          "choices": [
+            "585",
+            "485",
+            "385",
+            "285"
+          ]
+        },
+        {
+          "question": "415, ?, 405, 400",
+          "sequence": [
+            "415",
+            "?",
+            "405",
+            "400"
+          ],
+          "missingIndex": 1,
+          "answer": "410",
+          "choices": [
+            "610",
+            "510",
+            "410",
+            "310"
+          ]
+        }
+      ]
+    ],
+    "36": [
+      [
+        {
+          "question": "4, 9, 14, ?",
+          "sequence": [
+            "4",
+            "9",
+            "14",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "19",
+          "choices": null
+        },
+        {
+          "question": "3, 8, ?, 18",
+          "sequence": [
+            "3",
+            "8",
+            "?",
+            "18"
+          ],
+          "missingIndex": 2,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "2, ?, 12, 17",
+          "sequence": [
+            "2",
+            "?",
+            "12",
+            "17"
+          ],
+          "missingIndex": 1,
+          "answer": "7",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "2, 7, 12, ?",
+          "sequence": [
+            "2",
+            "7",
+            "12",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "17",
+          "choices": null
+        },
+        {
+          "question": "4, 9, ?, 19",
+          "sequence": [
+            "4",
+            "9",
+            "?",
+            "19"
+          ],
+          "missingIndex": 2,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "3, ?, 13, 18",
+          "sequence": [
+            "3",
+            "?",
+            "13",
+            "18"
+          ],
+          "missingIndex": 1,
+          "answer": "8",
+          "choices": null
+        }
+      ]
+    ],
+    "37": [
+      [
+        {
+          "question": "4, 7, 10, ?",
+          "sequence": [
+            "4",
+            "7",
+            "10",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "1, 4, ?, 10",
+          "sequence": [
+            "1",
+            "4",
+            "?",
+            "10"
+          ],
+          "missingIndex": 2,
+          "answer": "7",
+          "choices": null
+        },
+        {
+          "question": "5, ?, 11, 14",
+          "sequence": [
+            "5",
+            "?",
+            "11",
+            "14"
+          ],
+          "missingIndex": 1,
+          "answer": "8",
+          "choices": null
+        }
+      ],
+      [
+        {
+          "question": "5, 8, 11, ?",
+          "sequence": [
+            "5",
+            "8",
+            "11",
+            "?"
+          ],
+          "missingIndex": 3,
+          "answer": "14",
+          "choices": null
+        },
+        {
+          "question": "7, 10,  ?, 16",
+          "sequence": [
+            "7",
+            "10",
+            "?",
+            "16"
+          ],
+          "missingIndex": 2,
+          "answer": "13",
+          "choices": null
+        },
+        {
+          "question": "2, ?, 8, 11",
+          "sequence": [
+            "2",
+            "?",
+            "8",
+            "11"
+          ],
+          "missingIndex": 1,
+          "answer": "5",
+          "choices": null
+        }
+      ]
+    ]
+  }
+}

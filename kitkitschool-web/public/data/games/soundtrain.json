@@ -1,0 +1,184 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "cars": [
+        { "label": "B", "words": ["ball", "bat", "bug", "bus"] },
+        { "label": "C", "words": ["cat", "cup", "cow", "cap"] }
+      ],
+      "allWords": ["ball", "cat", "bat", "cup", "bug", "cow", "bus", "cap"]
+    },
+    {
+      "level": 2,
+      "cars": [
+        { "label": "D", "words": ["dog", "dig", "dot", "dip"] },
+        { "label": "F", "words": ["fan", "fig", "fog", "fun"] },
+        { "label": "G", "words": ["gap", "got", "gum", "get"] }
+      ],
+      "allWords": ["dog", "fan", "gap", "dig", "fig", "got", "dot", "fog", "gum", "dip", "fun", "get"]
+    },
+    {
+      "level": 3,
+      "cars": [
+        { "label": "a", "words": ["cat", "hat", "map", "ran"] },
+        { "label": "e", "words": ["bed", "red", "hen", "pet"] }
+      ],
+      "allWords": ["cat", "bed", "hat", "red", "map", "hen", "ran", "pet"]
+    },
+    {
+      "level": 4,
+      "cars": [
+        { "label": "i", "words": ["pig", "sit", "big", "win"] },
+        { "label": "o", "words": ["hot", "top", "log", "pop"] },
+        { "label": "u", "words": ["bug", "run", "cup", "sun"] }
+      ],
+      "allWords": ["pig", "hot", "bug", "sit", "top", "run", "big", "log", "cup", "win", "pop", "sun"]
+    },
+    {
+      "level": 5,
+      "cars": [
+        { "label": "-t", "words": ["cat", "bat", "hot", "sat"] },
+        { "label": "-g", "words": ["bag", "dog", "bug", "fig"] }
+      ],
+      "allWords": ["cat", "bag", "bat", "dog", "hot", "bug", "sat", "fig"]
+    },
+    {
+      "level": 6,
+      "cars": [
+        { "label": "-n", "words": ["pan", "ten", "pin", "sun"] },
+        { "label": "-p", "words": ["cap", "hop", "tip", "cup"] },
+        { "label": "-x", "words": ["box", "fox", "mix", "wax"] }
+      ],
+      "allWords": ["pan", "cap", "box", "ten", "hop", "fox", "pin", "tip", "mix", "sun", "cup", "wax"]
+    },
+    {
+      "level": 7,
+      "cars": [
+        { "label": "bl", "words": ["blue", "blow", "blob", "bled"] },
+        { "label": "cr", "words": ["crab", "crop", "crew", "crib"] }
+      ],
+      "allWords": ["blue", "crab", "blow", "crop", "blob", "crew", "bled", "crib"]
+    },
+    {
+      "level": 8,
+      "cars": [
+        { "label": "st", "words": ["step", "stop", "stem", "stub"] },
+        { "label": "fl", "words": ["flag", "flat", "flip", "fled"] },
+        { "label": "gr", "words": ["grab", "grim", "grin", "grip"] }
+      ],
+      "allWords": ["step", "flag", "grab", "stop", "flat", "grim", "stem", "flip", "grin", "stub", "fled", "grip"]
+    },
+    {
+      "level": 9,
+      "cars": [
+        { "label": "a_e", "words": ["cake", "lake", "wave", "game"] },
+        { "label": "i_e", "words": ["bike", "kite", "fire", "pine"] }
+      ],
+      "allWords": ["cake", "bike", "lake", "kite", "wave", "fire", "game", "pine"]
+    },
+    {
+      "level": 10,
+      "cars": [
+        { "label": "o_e", "words": ["bone", "hole", "rope", "note"] },
+        { "label": "u_e", "words": ["cute", "mule", "tune", "cube"] },
+        { "label": "e_e", "words": ["eve", "here", "these", "theme"] }
+      ],
+      "allWords": ["bone", "cute", "eve", "hole", "mule", "here", "rope", "tune", "these", "note", "cube", "theme"]
+    },
+    {
+      "level": 11,
+      "cars": [
+        { "label": "ch", "words": ["chip", "chin", "chop", "chat"] },
+        { "label": "sh", "words": ["ship", "shop", "shed", "shell"] }
+      ],
+      "allWords": ["chip", "ship", "chin", "shop", "chop", "shed", "chat", "shell"]
+    },
+    {
+      "level": 12,
+      "cars": [
+        { "label": "th", "words": ["thin", "this", "that", "them"] },
+        { "label": "wh", "words": ["when", "whip", "whiz", "whet"] },
+        { "label": "ch", "words": ["check", "chest", "child", "champ"] }
+      ],
+      "allWords": ["thin", "when", "check", "this", "whip", "chest", "that", "whiz", "child", "them", "whet", "champ"]
+    },
+    {
+      "level": 13,
+      "cars": [
+        { "label": "-ch", "words": ["much", "such", "rich", "each"] },
+        { "label": "-sh", "words": ["wish", "fish", "rush", "dish"] }
+      ],
+      "allWords": ["much", "wish", "such", "fish", "rich", "rush", "each", "dish"]
+    },
+    {
+      "level": 14,
+      "cars": [
+        { "label": "-th", "words": ["math", "path", "bath", "cloth"] },
+        { "label": "-ng", "words": ["ring", "sing", "king", "long"] },
+        { "label": "-nk", "words": ["sink", "pink", "tank", "wink"] }
+      ],
+      "allWords": ["math", "ring", "sink", "path", "sing", "pink", "bath", "king", "tank", "cloth", "long", "wink"]
+    },
+    {
+      "level": 15,
+      "cars": [
+        { "label": "bl", "words": ["black", "blade", "blank", "blend"] },
+        { "label": "br", "words": ["braid", "brave", "bride", "brine"] }
+      ],
+      "allWords": ["black", "braid", "blade", "brave", "blank", "bride", "blend", "brine"]
+    },
+    {
+      "level": 16,
+      "cars": [
+        { "label": "cl", "words": ["clam", "clap", "clay", "clue"] },
+        { "label": "cr", "words": ["crane", "crate", "cream", "crime"] },
+        { "label": "dr", "words": ["drain", "drake", "dream", "drive"] }
+      ],
+      "allWords": ["clam", "crane", "drain", "clap", "crate", "drake", "clay", "cream", "dream", "clue", "crime", "drive"]
+    },
+    {
+      "level": 17,
+      "cars": [
+        { "label": "fl", "words": ["flame", "flake", "flute", "flock"] },
+        { "label": "fr", "words": ["frame", "frank", "frown", "frost"] }
+      ],
+      "allWords": ["flame", "frame", "flake", "frank", "flute", "frown", "flock", "frost"]
+    },
+    {
+      "level": 18,
+      "cars": [
+        { "label": "gl", "words": ["glad", "glade", "glare", "glide"] },
+        { "label": "gr", "words": ["grace", "grade", "grape", "graze"] },
+        { "label": "pl", "words": ["place", "plain", "plane", "plate"] }
+      ],
+      "allWords": ["glad", "grace", "place", "glade", "grade", "plain", "glare", "grape", "plane", "glide", "graze", "plate"]
+    },
+    {
+      "level": 19,
+      "cars": [
+        { "label": "pr", "words": ["price", "pride", "prime", "prize"] },
+        { "label": "tr", "words": ["trace", "trade", "trail", "train"] }
+      ],
+      "allWords": ["price", "trace", "pride", "trade", "prime", "trail", "prize", "train"]
+    },
+    {
+      "level": 20,
+      "cars": [
+        { "label": "sc", "words": ["scale", "scare", "scone", "score"] },
+        { "label": "sk", "words": ["skate", "skill", "skirt", "skull"] },
+        { "label": "sl", "words": ["slate", "slave", "sleep", "slide"] }
+      ],
+      "allWords": ["scale", "skate", "slate", "scare", "skill", "slave", "scone", "skirt", "sleep", "score", "skull", "slide"]
+    },
+    {
+      "level": 21,
+      "cars": [
+        { "label": "sm", "words": ["small", "smart", "smell", "smile"] },
+        { "label": "sn", "words": ["snake", "snare", "sneak", "snore"] },
+        { "label": "sp", "words": ["space", "spare", "speak", "spine"] },
+        { "label": "sw", "words": ["swam", "sweet", "swift", "swing"] }
+      ],
+      "allWords": ["small", "snake", "space", "swam", "smart", "snare", "spare", "sweet", "smell", "sneak", "speak", "swift", "smile", "snore", "spine", "swing"]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "pattern": "at",
+      "feedWords": ["cat", "bat", "hat"],
+      "decoys": ["dog", "fish", "cup"],
+      "allWords": ["cat", "dog", "bat", "fish", "hat", "cup"]
+    },
+    {
+      "level": 2,
+      "pattern": "at",
+      "feedWords": ["rat", "mat", "sat"],
+      "decoys": ["big", "sun", "top", "hen"],
+      "allWords": ["rat", "big", "mat", "sun", "sat", "top", "hen"]
+    },
+    {
+      "level": 3,
+      "pattern": "an",
+      "feedWords": ["can", "fan", "man"],
+      "decoys": ["hot", "pig", "red"],
+      "allWords": ["can", "hot", "fan", "pig", "man", "red"]
+    },
+    {
+      "level": 4,
+      "pattern": "an",
+      "feedWords": ["pan", "ran", "van"],
+      "decoys": ["cup", "bed", "fox", "log"],
+      "allWords": ["pan", "cup", "ran", "bed", "van", "fox", "log"]
+    },
+    {
+      "level": 5,
+      "pattern": "ig",
+      "feedWords": ["big", "dig", "fig"],
+      "decoys": ["hat", "run", "wet"],
+      "allWords": ["big", "hat", "dig", "run", "fig", "wet"]
+    },
+    {
+      "level": 6,
+      "pattern": "ig",
+      "feedWords": ["pig", "wig", "jig"],
+      "decoys": ["cat", "top", "fan", "mud"],
+      "allWords": ["pig", "cat", "wig", "top", "jig", "fan", "mud"]
+    },
+    {
+      "level": 7,
+      "pattern": "ot",
+      "feedWords": ["dot", "hot", "lot"],
+      "decoys": ["big", "pan", "wet"],
+      "allWords": ["dot", "big", "hot", "pan", "lot", "wet"]
+    },
+    {
+      "level": 8,
+      "pattern": "ot",
+      "feedWords": ["pot", "rot", "got"],
+      "decoys": ["cap", "fig", "sun", "hen"],
+      "allWords": ["pot", "cap", "rot", "fig", "got", "sun", "hen"]
+    },
+    {
+      "level": 9,
+      "pattern": "un",
+      "feedWords": ["bun", "fun", "gun"],
+      "decoys": ["hot", "mat", "dig"],
+      "allWords": ["bun", "hot", "fun", "mat", "gun", "dig"]
+    },
+    {
+      "level": 10,
+      "pattern": "un",
+      "feedWords": ["run", "sun", "nun"],
+      "decoys": ["bat", "top", "big", "pan"],
+      "allWords": ["run", "bat", "sun", "top", "nun", "big", "pan"]
+    },
+    {
+      "level": 11,
+      "pattern": "oi",
+      "feedWords": ["oil", "coil", "foil"],
+      "decoys": ["cat", "run", "hot", "big"],
+      "allWords": ["oil", "cat", "coil", "run", "foil", "hot", "big"]
+    },
+    {
+      "level": 12,
+      "pattern": "ou",
+      "feedWords": ["out", "loud", "cloud"],
+      "decoys": ["sit", "bun", "pot", "mat"],
+      "allWords": ["out", "sit", "loud", "bun", "cloud", "pot", "mat"]
+    },
+    {
+      "level": 13,
+      "pattern": "ow",
+      "feedWords": ["cow", "owl", "plow"],
+      "decoys": ["hot", "fan", "dig", "cup"],
+      "allWords": ["cow", "hot", "owl", "fan", "plow", "dig", "cup"]
+    },
+    {
+      "level": 14,
+      "pattern": "aw",
+      "feedWords": ["saw", "jaw", "draw"],
+      "decoys": ["pin", "hot", "bun", "top"],
+      "allWords": ["saw", "pin", "jaw", "hot", "draw", "bun", "top"]
+    },
+    {
+      "level": 15,
+      "pattern": "kn",
+      "feedWords": ["knit", "knee", "knot"],
+      "decoys": ["fan", "dig", "sun", "cow"],
+      "allWords": ["knit", "fan", "knee", "dig", "knot", "sun", "cow"]
+    },
+    {
+      "level": 16,
+      "pattern": "oo",
+      "feedWords": ["moon", "pool", "food"],
+      "decoys": ["hat", "pig", "run", "jaw"],
+      "allWords": ["moon", "hat", "pool", "pig", "food", "run", "jaw"]
+    }
+  ]
+}

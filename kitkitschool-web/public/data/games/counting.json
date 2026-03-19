@@ -1,0 +1,1121 @@
+{
+  "game": "counting",
+  "language": "en-US",
+  "levels": [
+    {
+      "level": 1,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 1,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 2,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 4,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 5,
+              "tallyCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 2,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 2
+            },
+            {
+              "problem": 5,
+              "stoneCount": 5,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 1,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 3,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 5,
+              "stoneCount": 3,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 2,
+              "stoneCount": 2,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 1,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 5,
+              "stoneCount": 5,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 2
+            },
+            {
+              "problem": 5,
+              "stoneCount": 1,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 4,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 2
+            },
+            {
+              "problem": 4,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 4,
+              "tallyCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 3,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 6,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 8,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 3,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 6,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 5,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 3,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 7,
+              "stoneCount": 5,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 6,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 0,
+              "tallyCount": 4
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 3
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 7,
+              "stoneCount": 8,
+              "tallyCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 2
+            },
+            {
+              "problem": 2,
+              "stoneCount": 4,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 3,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 2,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 0,
+              "tallyCount": 4
+            },
+            {
+              "problem": 8,
+              "stoneCount": 8,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 4,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 2
+            },
+            {
+              "problem": 7,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 7,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 4,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 0,
+              "tallyCount": 4
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 3,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 7,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 9,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 8,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 5,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 6,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 0,
+              "tallyCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 10,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 11,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 12,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 13,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 14,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 15,
+              "tallyCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 16
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 17
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 18
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 19
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 19
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 18
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 12
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 11
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 16
+            },
+            {
+              "problem": 7,
+              "stoneCount": 0,
+              "tallyCount": 13
+            },
+            {
+              "problem": 8,
+              "stoneCount": 0,
+              "tallyCount": 17
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 14
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 19
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 20
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 18
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 13
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 7,
+              "stoneCount": 0,
+              "tallyCount": 16
+            },
+            {
+              "problem": 8,
+              "stoneCount": 0,
+              "tallyCount": 11
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 12,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 20,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 13,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 10,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 17,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 14,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 11,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 19,
+              "tallyCount": 0
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 14
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 18
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 20
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 17
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 7,
+              "stoneCount": 0,
+              "tallyCount": 16
+            },
+            {
+              "problem": 8,
+              "stoneCount": 0,
+              "tallyCount": 12
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 18,
+              "tallyCount": 0
+            },
+            {
+              "problem": 2,
+              "stoneCount": 13,
+              "tallyCount": 0
+            },
+            {
+              "problem": 3,
+              "stoneCount": 17,
+              "tallyCount": 0
+            },
+            {
+              "problem": 4,
+              "stoneCount": 11,
+              "tallyCount": 0
+            },
+            {
+              "problem": 5,
+              "stoneCount": 15,
+              "tallyCount": 0
+            },
+            {
+              "problem": 6,
+              "stoneCount": 12,
+              "tallyCount": 0
+            },
+            {
+              "problem": 7,
+              "stoneCount": 20,
+              "tallyCount": 0
+            },
+            {
+              "problem": 8,
+              "stoneCount": 19,
+              "tallyCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "worksheets": [
+        {
+          "worksheet": 1,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 30
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 5
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 20
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 35
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 15
+            }
+          ]
+        },
+        {
+          "worksheet": 2,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 25
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 20
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 5
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 35
+            }
+          ]
+        },
+        {
+          "worksheet": 3,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 35
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 30
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 25
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 20
+            }
+          ]
+        },
+        {
+          "worksheet": 4,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 30
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 35
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 25
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 5
+            }
+          ]
+        },
+        {
+          "worksheet": 5,
+          "problems": [
+            {
+              "problem": 1,
+              "stoneCount": 0,
+              "tallyCount": 5
+            },
+            {
+              "problem": 2,
+              "stoneCount": 0,
+              "tallyCount": 10
+            },
+            {
+              "problem": 3,
+              "stoneCount": 0,
+              "tallyCount": 35
+            },
+            {
+              "problem": 4,
+              "stoneCount": 0,
+              "tallyCount": 25
+            },
+            {
+              "problem": 5,
+              "stoneCount": 0,
+              "tallyCount": 15
+            },
+            {
+              "problem": 6,
+              "stoneCount": 0,
+              "tallyCount": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

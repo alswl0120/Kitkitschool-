@@ -1,0 +1,578 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "operation": "+",
+      "problems": [
+        {"first": 1, "second": 1, "answer": 2, "choices": [2,3,4,5,6,7,8]},
+        {"first": 1, "second": 2, "answer": 3, "choices": [1,3,4,5,6,7,8]},
+        {"first": 2, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 1, "second": 3, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 2, "second": 3, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 3, "second": 3, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 1, "second": 4, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 2, "second": 4, "answer": 6, "choices": [4,5,6,7,8,9,10]}
+      ]
+    },
+    {
+      "level": 2,
+      "operation": "+",
+      "problems": [
+        {"first": 3, "second": 4, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 4, "second": 4, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 3, "second": 5, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 4, "second": 5, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 5, "second": 5, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 4, "second": 6, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 5, "second": 6, "answer": 11, "choices": [9,10,11,12,13,14,15]},
+        {"first": 6, "second": 6, "answer": 12, "choices": [10,11,12,13,14,15,16]}
+      ]
+    },
+    {
+      "level": 3,
+      "operation": "-",
+      "problems": [
+        {"first": 5, "second": 1, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 5, "second": 2, "answer": 3, "choices": [1,2,3,4,5,6,7]},
+        {"first": 6, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 7, "second": 3, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 8, "second": 4, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 9, "second": 4, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 10, "second": 5, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 10, "second": 6, "answer": 4, "choices": [2,3,4,5,6,7,8]}
+      ]
+    },
+    {
+      "level": 4,
+      "operation": "-",
+      "problems": [
+        {"first": 10, "second": 3, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 11, "second": 4, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 12, "second": 5, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 13, "second": 6, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 14, "second": 7, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 15, "second": 8, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 16, "second": 8, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 17, "second": 9, "answer": 8, "choices": [6,7,8,9,10,11,12]}
+      ]
+    },
+    {
+      "level": 5,
+      "operation": "+",
+      "problems": [
+        {"first": 10, "second": 5, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 10, "second": 8, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 20, "second": 5, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 20, "second": 7, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 30, "second": 4, "answer": 34, "choices": [32,33,34,35,36,37,38]},
+        {"first": 40, "second": 6, "answer": 46, "choices": [44,45,46,47,48,49,50]},
+        {"first": 50, "second": 9, "answer": 59, "choices": [57,58,59,60,61,62,63]},
+        {"first": 60, "second": 7, "answer": 67, "choices": [65,66,67,68,69,70,71]}
+      ]
+    },
+    {
+      "level": 6,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 1, "answer": 2, "choices": [1,2,3,4,5,6,7]},
+        {"first": 2, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 2, "second": 3, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 2, "second": 4, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 2, "second": 5, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 3, "second": 2, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 3, "second": 3, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 3, "second": 4, "answer": 12, "choices": [10,11,12,13,14,15,16]}
+      ]
+    },
+    {
+      "level": 7,
+      "operation": "*",
+      "problems": [
+        {"first": 4, "second": 4, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 4, "second": 5, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 5, "second": 5, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 5, "second": 6, "answer": 30, "choices": [28,29,30,31,32,33,34]},
+        {"first": 6, "second": 6, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 6, "second": 7, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 7, "second": 7, "answer": 49, "choices": [47,48,49,50,51,52,53]},
+        {"first": 7, "second": 8, "answer": 56, "choices": [54,55,56,57,58,59,60]}
+      ]
+    },
+    {
+      "level": 8,
+      "operation": "+",
+      "problems": [
+        {"first": 6, "second": 7, "answer": 13, "choices": [11,12,13,14,15,16,17]},
+        {"first": 7, "second": 7, "answer": 14, "choices": [12,13,14,15,16,17,18]},
+        {"first": 6, "second": 8, "answer": 14, "choices": [12,13,14,15,16,17,18]},
+        {"first": 7, "second": 8, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 8, "second": 8, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 7, "second": 9, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 8, "second": 9, "answer": 17, "choices": [15,16,17,18,19,20,21]},
+        {"first": 9, "second": 9, "answer": 18, "choices": [16,17,18,19,20,21,22]}
+      ]
+    },
+    {
+      "level": 9,
+      "operation": "+",
+      "problems": [
+        {"first": 9, "second": 3, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 8, "second": 5, "answer": 13, "choices": [11,12,13,14,15,16,17]},
+        {"first": 7, "second": 6, "answer": 13, "choices": [11,12,13,14,15,16,17]},
+        {"first": 9, "second": 6, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 8, "second": 7, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 9, "second": 7, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 6, "second": 9, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 5, "second": 8, "answer": 13, "choices": [11,12,13,14,15,16,17]}
+      ]
+    },
+    {
+      "level": 10,
+      "operation": "-",
+      "problems": [
+        {"first": 13, "second": 4, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 14, "second": 5, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 15, "second": 6, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 16, "second": 7, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 17, "second": 8, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 18, "second": 9, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 15, "second": 7, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 16, "second": 9, "answer": 7, "choices": [5,6,7,8,9,10,11]}
+      ]
+    },
+    {
+      "level": 11,
+      "operation": "-",
+      "problems": [
+        {"first": 20, "second": 4, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 20, "second": 7, "answer": 13, "choices": [11,12,13,14,15,16,17]},
+        {"first": 20, "second": 11, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 20, "second": 13, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 20, "second": 15, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 20, "second": 8, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 20, "second": 12, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 20, "second": 16, "answer": 4, "choices": [2,3,4,5,6,7,8]}
+      ]
+    },
+    {
+      "level": 12,
+      "operation": "+",
+      "problems": [
+        {"first": 11, "second": 9, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 12, "second": 9, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 13, "second": 8, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 14, "second": 7, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 15, "second": 7, "answer": 22, "choices": [20,21,22,23,24,25,26]},
+        {"first": 16, "second": 6, "answer": 22, "choices": [20,21,22,23,24,25,26]},
+        {"first": 17, "second": 5, "answer": 22, "choices": [20,21,22,23,24,25,26]},
+        {"first": 18, "second": 4, "answer": 22, "choices": [20,21,22,23,24,25,26]}
+      ]
+    },
+    {
+      "level": 13,
+      "operation": "-",
+      "problems": [
+        {"first": 25, "second": 6, "answer": 19, "choices": [17,18,19,20,21,22,23]},
+        {"first": 25, "second": 8, "answer": 17, "choices": [15,16,17,18,19,20,21]},
+        {"first": 25, "second": 9, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 30, "second": 7, "answer": 23, "choices": [21,22,23,24,25,26,27]},
+        {"first": 30, "second": 12, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 35, "second": 8, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 40, "second": 13, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 45, "second": 9, "answer": 36, "choices": [34,35,36,37,38,39,40]}
+      ]
+    },
+    {
+      "level": 14,
+      "operation": "+",
+      "problems": [
+        {"first": 25, "second": 8, "answer": 33, "choices": [31,32,33,34,35,36,37]},
+        {"first": 27, "second": 6, "answer": 33, "choices": [31,32,33,34,35,36,37]},
+        {"first": 34, "second": 7, "answer": 41, "choices": [39,40,41,42,43,44,45]},
+        {"first": 36, "second": 9, "answer": 45, "choices": [43,44,45,46,47,48,49]},
+        {"first": 43, "second": 8, "answer": 51, "choices": [49,50,51,52,53,54,55]},
+        {"first": 47, "second": 5, "answer": 52, "choices": [50,51,52,53,54,55,56]},
+        {"first": 54, "second": 9, "answer": 63, "choices": [61,62,63,64,65,66,67]},
+        {"first": 58, "second": 7, "answer": 65, "choices": [63,64,65,66,67,68,69]}
+      ]
+    },
+    {
+      "level": 15,
+      "operation": "-",
+      "problems": [
+        {"first": 50, "second": 8, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 50, "second": 13, "answer": 37, "choices": [35,36,37,38,39,40,41]},
+        {"first": 60, "second": 7, "answer": 53, "choices": [51,52,53,54,55,56,57]},
+        {"first": 60, "second": 14, "answer": 46, "choices": [44,45,46,47,48,49,50]},
+        {"first": 70, "second": 9, "answer": 61, "choices": [59,60,61,62,63,64,65]},
+        {"first": 70, "second": 16, "answer": 54, "choices": [52,53,54,55,56,57,58]},
+        {"first": 80, "second": 11, "answer": 69, "choices": [67,68,69,70,71,72,73]},
+        {"first": 90, "second": 15, "answer": 75, "choices": [73,74,75,76,77,78,79]}
+      ]
+    },
+    {
+      "level": 16,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 6, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 2, "second": 7, "answer": 14, "choices": [12,13,14,15,16,17,18]},
+        {"first": 2, "second": 8, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 2, "second": 9, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 5, "second": 2, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 5, "second": 3, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 5, "second": 4, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 5, "second": 6, "answer": 30, "choices": [28,29,30,31,32,33,34]}
+      ]
+    },
+    {
+      "level": 17,
+      "operation": "*",
+      "problems": [
+        {"first": 5, "second": 7, "answer": 35, "choices": [33,34,35,36,37,38,39]},
+        {"first": 5, "second": 8, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 5, "second": 9, "answer": 45, "choices": [43,44,45,46,47,48,49]},
+        {"first": 10, "second": 2, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 10, "second": 3, "answer": 30, "choices": [28,29,30,31,32,33,34]},
+        {"first": 10, "second": 4, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 10, "second": 5, "answer": 50, "choices": [48,49,50,51,52,53,54]},
+        {"first": 10, "second": 6, "answer": 60, "choices": [58,59,60,61,62,63,64]}
+      ]
+    },
+    {
+      "level": 18,
+      "operation": "-",
+      "problems": [
+        {"first": 30, "second": 15, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 40, "second": 18, "answer": 22, "choices": [20,21,22,23,24,25,26]},
+        {"first": 50, "second": 24, "answer": 26, "choices": [24,25,26,27,28,29,30]},
+        {"first": 60, "second": 27, "answer": 33, "choices": [31,32,33,34,35,36,37]},
+        {"first": 70, "second": 33, "answer": 37, "choices": [35,36,37,38,39,40,41]},
+        {"first": 80, "second": 36, "answer": 44, "choices": [42,43,44,45,46,47,48]},
+        {"first": 90, "second": 42, "answer": 48, "choices": [46,47,48,49,50,51,52]},
+        {"first": 100, "second": 45, "answer": 55, "choices": [53,54,55,56,57,58,59]}
+      ]
+    },
+    {
+      "level": 19,
+      "operation": "*",
+      "problems": [
+        {"first": 10, "second": 7, "answer": 70, "choices": [68,69,70,71,72,73,74]},
+        {"first": 10, "second": 8, "answer": 80, "choices": [78,79,80,81,82,83,84]},
+        {"first": 10, "second": 9, "answer": 90, "choices": [88,89,90,91,92,93,94]},
+        {"first": 3, "second": 5, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 3, "second": 6, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 3, "second": 7, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 3, "second": 8, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 3, "second": 9, "answer": 27, "choices": [25,26,27,28,29,30,31]}
+      ]
+    },
+    {
+      "level": 20,
+      "operation": "+",
+      "problems": [
+        {"first": 14, "second": 18, "answer": 32, "choices": [30,31,32,33,34,35,36]},
+        {"first": 23, "second": 19, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 35, "second": 17, "answer": 52, "choices": [50,51,52,53,54,55,56]},
+        {"first": 46, "second": 16, "answer": 62, "choices": [60,61,62,63,64,65,66]},
+        {"first": 28, "second": 25, "answer": 53, "choices": [51,52,53,54,55,56,57]},
+        {"first": 37, "second": 26, "answer": 63, "choices": [61,62,63,64,65,66,67]},
+        {"first": 44, "second": 29, "answer": 73, "choices": [71,72,73,74,75,76,77]},
+        {"first": 55, "second": 28, "answer": 83, "choices": [81,82,83,84,85,86,87]}
+      ]
+    },
+    {
+      "level": 21,
+      "operation": "-",
+      "problems": [
+        {"first": 42, "second": 17, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 53, "second": 28, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 64, "second": 37, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 71, "second": 46, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 83, "second": 54, "answer": 29, "choices": [27,28,29,30,31,32,33]},
+        {"first": 90, "second": 63, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 75, "second": 48, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 96, "second": 67, "answer": 29, "choices": [27,28,29,30,31,32,33]}
+      ]
+    },
+    {
+      "level": 22,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 2, "second": 3, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 2, "second": 4, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 2, "second": 5, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 3, "second": 3, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 3, "second": 4, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 3, "second": 5, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 4, "second": 4, "answer": 16, "choices": [14,15,16,17,18,19,20]}
+      ]
+    },
+    {
+      "level": 23,
+      "operation": "*",
+      "problems": [
+        {"first": 4, "second": 2, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 4, "second": 3, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 4, "second": 5, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 5, "second": 2, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 5, "second": 3, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 5, "second": 4, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 5, "second": 5, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 4, "second": 4, "answer": 16, "choices": [14,15,16,17,18,19,20]}
+      ]
+    },
+    {
+      "level": 24,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 6, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 3, "second": 6, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 4, "second": 6, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 5, "second": 6, "answer": 30, "choices": [28,29,30,31,32,33,34]},
+        {"first": 2, "second": 7, "answer": 14, "choices": [12,13,14,15,16,17,18]},
+        {"first": 3, "second": 7, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 4, "second": 7, "answer": 28, "choices": [26,27,28,29,30,31,32]},
+        {"first": 5, "second": 7, "answer": 35, "choices": [33,34,35,36,37,38,39]}
+      ]
+    },
+    {
+      "level": 25,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 8, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 3, "second": 8, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 4, "second": 8, "answer": 32, "choices": [30,31,32,33,34,35,36]},
+        {"first": 5, "second": 8, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 2, "second": 9, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 3, "second": 9, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 4, "second": 9, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 5, "second": 9, "answer": 45, "choices": [43,44,45,46,47,48,49]}
+      ]
+    },
+    {
+      "level": 26,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 3, "second": 3, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 4, "second": 4, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 5, "second": 5, "answer": 25, "choices": [23,24,25,26,27,28,29]},
+        {"first": 2, "second": 5, "answer": 10, "choices": [8,9,10,11,12,13,14]},
+        {"first": 3, "second": 4, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 4, "second": 5, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 2, "second": 4, "answer": 8, "choices": [6,7,8,9,10,11,12]}
+      ]
+    },
+    {
+      "level": 27,
+      "operation": "*",
+      "problems": [
+        {"first": 3, "second": 2, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 4, "second": 3, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 5, "second": 4, "answer": 20, "choices": [18,19,20,21,22,23,24]},
+        {"first": 3, "second": 5, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 4, "second": 2, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 5, "second": 3, "answer": 15, "choices": [13,14,15,16,17,18,19]},
+        {"first": 2, "second": 3, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 5, "second": 2, "answer": 10, "choices": [8,9,10,11,12,13,14]}
+      ]
+    },
+    {
+      "level": 28,
+      "operation": "*",
+      "problems": [
+        {"first": 2, "second": 9, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 3, "second": 8, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 4, "second": 7, "answer": 28, "choices": [26,27,28,29,30,31,32]},
+        {"first": 5, "second": 6, "answer": 30, "choices": [28,29,30,31,32,33,34]},
+        {"first": 4, "second": 9, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 3, "second": 7, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 5, "second": 8, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 5, "second": 9, "answer": 45, "choices": [43,44,45,46,47,48,49]}
+      ]
+    },
+    {
+      "level": 29,
+      "operation": "*",
+      "problems": [
+        {"first": 6, "second": 2, "answer": 12, "choices": [10,11,12,13,14,15,16]},
+        {"first": 6, "second": 3, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 6, "second": 4, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 6, "second": 5, "answer": 30, "choices": [28,29,30,31,32,33,34]},
+        {"first": 7, "second": 2, "answer": 14, "choices": [12,13,14,15,16,17,18]},
+        {"first": 7, "second": 3, "answer": 21, "choices": [19,20,21,22,23,24,25]},
+        {"first": 7, "second": 4, "answer": 28, "choices": [26,27,28,29,30,31,32]},
+        {"first": 7, "second": 5, "answer": 35, "choices": [33,34,35,36,37,38,39]}
+      ]
+    },
+    {
+      "level": 30,
+      "operation": "*",
+      "problems": [
+        {"first": 6, "second": 6, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 6, "second": 7, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 7, "second": 6, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 7, "second": 7, "answer": 49, "choices": [47,48,49,50,51,52,53]},
+        {"first": 6, "second": 8, "answer": 48, "choices": [46,47,48,49,50,51,52]},
+        {"first": 7, "second": 8, "answer": 56, "choices": [54,55,56,57,58,59,60]},
+        {"first": 6, "second": 9, "answer": 54, "choices": [52,53,54,55,56,57,58]},
+        {"first": 7, "second": 9, "answer": 63, "choices": [61,62,63,64,65,66,67]}
+      ]
+    },
+    {
+      "level": 31,
+      "operation": "*",
+      "problems": [
+        {"first": 8, "second": 2, "answer": 16, "choices": [14,15,16,17,18,19,20]},
+        {"first": 8, "second": 3, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 8, "second": 4, "answer": 32, "choices": [30,31,32,33,34,35,36]},
+        {"first": 8, "second": 5, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 9, "second": 2, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 9, "second": 3, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 9, "second": 4, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 9, "second": 5, "answer": 45, "choices": [43,44,45,46,47,48,49]}
+      ]
+    },
+    {
+      "level": 32,
+      "operation": "*",
+      "problems": [
+        {"first": 8, "second": 6, "answer": 48, "choices": [46,47,48,49,50,51,52]},
+        {"first": 8, "second": 7, "answer": 56, "choices": [54,55,56,57,58,59,60]},
+        {"first": 8, "second": 8, "answer": 64, "choices": [62,63,64,65,66,67,68]},
+        {"first": 8, "second": 9, "answer": 72, "choices": [70,71,72,73,74,75,76]},
+        {"first": 9, "second": 6, "answer": 54, "choices": [52,53,54,55,56,57,58]},
+        {"first": 9, "second": 7, "answer": 63, "choices": [61,62,63,64,65,66,67]},
+        {"first": 9, "second": 8, "answer": 72, "choices": [70,71,72,73,74,75,76]},
+        {"first": 9, "second": 9, "answer": 81, "choices": [79,80,81,82,83,84,85]}
+      ]
+    },
+    {
+      "level": 33,
+      "operation": "*",
+      "problems": [
+        {"first": 6, "second": 6, "answer": 36, "choices": [34,35,36,37,38,39,40]},
+        {"first": 7, "second": 7, "answer": 49, "choices": [47,48,49,50,51,52,53]},
+        {"first": 8, "second": 8, "answer": 64, "choices": [62,63,64,65,66,67,68]},
+        {"first": 9, "second": 9, "answer": 81, "choices": [79,80,81,82,83,84,85]},
+        {"first": 6, "second": 9, "answer": 54, "choices": [52,53,54,55,56,57,58]},
+        {"first": 7, "second": 8, "answer": 56, "choices": [54,55,56,57,58,59,60]},
+        {"first": 8, "second": 6, "answer": 48, "choices": [46,47,48,49,50,51,52]},
+        {"first": 9, "second": 7, "answer": 63, "choices": [61,62,63,64,65,66,67]}
+      ]
+    },
+    {
+      "level": 34,
+      "operation": "*",
+      "problems": [
+        {"first": 6, "second": 7, "answer": 42, "choices": [40,41,42,43,44,45,46]},
+        {"first": 6, "second": 8, "answer": 48, "choices": [46,47,48,49,50,51,52]},
+        {"first": 7, "second": 9, "answer": 63, "choices": [61,62,63,64,65,66,67]},
+        {"first": 8, "second": 9, "answer": 72, "choices": [70,71,72,73,74,75,76]},
+        {"first": 9, "second": 6, "answer": 54, "choices": [52,53,54,55,56,57,58]},
+        {"first": 8, "second": 7, "answer": 56, "choices": [54,55,56,57,58,59,60]},
+        {"first": 9, "second": 8, "answer": 72, "choices": [70,71,72,73,74,75,76]},
+        {"first": 7, "second": 6, "answer": 42, "choices": [40,41,42,43,44,45,46]}
+      ]
+    },
+    {
+      "level": 35,
+      "operation": "*",
+      "problems": [
+        {"first": 6, "second": 3, "answer": 18, "choices": [16,17,18,19,20,21,22]},
+        {"first": 7, "second": 4, "answer": 28, "choices": [26,27,28,29,30,31,32]},
+        {"first": 8, "second": 5, "answer": 40, "choices": [38,39,40,41,42,43,44]},
+        {"first": 9, "second": 3, "answer": 27, "choices": [25,26,27,28,29,30,31]},
+        {"first": 6, "second": 4, "answer": 24, "choices": [22,23,24,25,26,27,28]},
+        {"first": 7, "second": 5, "answer": 35, "choices": [33,34,35,36,37,38,39]},
+        {"first": 8, "second": 4, "answer": 32, "choices": [30,31,32,33,34,35,36]},
+        {"first": 9, "second": 4, "answer": 36, "choices": [34,35,36,37,38,39,40]}
+      ]
+    },
+    {
+      "level": 36,
+      "operation": "/",
+      "problems": [
+        {"first": 6, "second": 2, "answer": 3, "choices": [1,2,3,4,5,6,7]},
+        {"first": 8, "second": 2, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 10, "second": 2, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 12, "second": 2, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 9, "second": 3, "answer": 3, "choices": [1,2,3,4,5,6,7]},
+        {"first": 12, "second": 3, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 15, "second": 3, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 18, "second": 3, "answer": 6, "choices": [4,5,6,7,8,9,10]}
+      ]
+    },
+    {
+      "level": 37,
+      "operation": "/",
+      "problems": [
+        {"first": 16, "second": 4, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 20, "second": 4, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 24, "second": 4, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 28, "second": 4, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 25, "second": 5, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 30, "second": 5, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 35, "second": 5, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 40, "second": 5, "answer": 8, "choices": [6,7,8,9,10,11,12]}
+      ]
+    },
+    {
+      "level": 38,
+      "operation": "/",
+      "problems": [
+        {"first": 36, "second": 6, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 42, "second": 6, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 48, "second": 6, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 54, "second": 6, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 49, "second": 7, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 56, "second": 7, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 63, "second": 7, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 42, "second": 7, "answer": 6, "choices": [4,5,6,7,8,9,10]}
+      ]
+    },
+    {
+      "level": 39,
+      "operation": "/",
+      "problems": [
+        {"first": 64, "second": 8, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 72, "second": 8, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 56, "second": 8, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 48, "second": 8, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 81, "second": 9, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 72, "second": 9, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 63, "second": 9, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 54, "second": 9, "answer": 6, "choices": [4,5,6,7,8,9,10]}
+      ]
+    },
+    {
+      "level": 40,
+      "operation": "/",
+      "problems": [
+        {"first": 14, "second": 2, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 21, "second": 3, "answer": 7, "choices": [5,6,7,8,9,10,11]},
+        {"first": 32, "second": 4, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 45, "second": 5, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 24, "second": 6, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 35, "second": 7, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 40, "second": 8, "answer": 5, "choices": [3,4,5,6,7,8,9]},
+        {"first": 36, "second": 9, "answer": 4, "choices": [2,3,4,5,6,7,8]}
+      ]
+    },
+    {
+      "level": 41,
+      "operation": "/",
+      "problems": [
+        {"first": 18, "second": 2, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 24, "second": 3, "answer": 8, "choices": [6,7,8,9,10,11,12]},
+        {"first": 36, "second": 4, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 30, "second": 5, "answer": 6, "choices": [4,5,6,7,8,9,10]},
+        {"first": 54, "second": 6, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 28, "second": 7, "answer": 4, "choices": [2,3,4,5,6,7,8]},
+        {"first": 72, "second": 8, "answer": 9, "choices": [7,8,9,10,11,12,13]},
+        {"first": 45, "second": 9, "answer": 5, "choices": [3,4,5,6,7,8,9]}
+      ]
+    }
+  ]
+}

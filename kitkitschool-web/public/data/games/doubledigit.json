@@ -1,0 +1,238 @@
+{
+  "levels": {
+    "1": {
+      "type": "addition",
+      "digits1": 2,
+      "digits2": 1,
+      "maxNum": 30
+    },
+    "2": {
+      "type": "addition",
+      "digits1": 2,
+      "digits2": 1,
+      "maxNum": 50
+    },
+    "3": {
+      "type": "subtraction",
+      "digits1": 2,
+      "digits2": 1,
+      "maxNum": 50
+    },
+    "4": {
+      "type": "addition",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "5": {
+      "type": "subtraction",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "6": {
+      "type": "mixed",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "7": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 500
+    },
+    "8": {
+      "type": "subtraction",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 500
+    },
+    "9": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "10": {
+      "type": "mixed",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "11": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "12": {
+      "type": "subtraction",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "13": {
+      "type": "mixed",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "14": {
+      "type": "addition",
+      "digits1": 4,
+      "digits2": 3,
+      "maxNum": 9999
+    },
+    "15": {
+      "type": "subtraction",
+      "digits1": 4,
+      "digits2": 3,
+      "maxNum": 9999
+    },
+    "16": {
+      "type": "mixed",
+      "digits1": 4,
+      "digits2": 3,
+      "maxNum": 9999
+    },
+    "17": {
+      "type": "addition",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "18": {
+      "type": "subtraction",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "19": {
+      "type": "mixed",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "20": {
+      "type": "mixed",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "21": {
+      "type": "addition",
+      "digits1": 2,
+      "digits2": 1,
+      "maxNum": 50
+    },
+    "22": {
+      "type": "subtraction",
+      "digits1": 2,
+      "digits2": 1,
+      "maxNum": 50
+    },
+    "23": {
+      "type": "addition",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "24": {
+      "type": "subtraction",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "25": {
+      "type": "mixed",
+      "digits1": 2,
+      "digits2": 2,
+      "maxNum": 99
+    },
+    "26": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 500
+    },
+    "27": {
+      "type": "subtraction",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 500
+    },
+    "28": {
+      "type": "mixed",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 999
+    },
+    "29": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "30": {
+      "type": "mixed",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "31": {
+      "type": "subtraction",
+      "digits1": 3,
+      "digits2": 2,
+      "maxNum": 500
+    },
+    "32": {
+      "type": "addition",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "33": {
+      "type": "subtraction",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "34": {
+      "type": "mixed",
+      "digits1": 3,
+      "digits2": 3,
+      "maxNum": 999
+    },
+    "35": {
+      "type": "addition",
+      "digits1": 4,
+      "digits2": 3,
+      "maxNum": 9999
+    },
+    "36": {
+      "type": "subtraction",
+      "digits1": 4,
+      "digits2": 3,
+      "maxNum": 9999
+    },
+    "37": {
+      "type": "mixed",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "38": {
+      "type": "addition",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    },
+    "39": {
+      "type": "mixed",
+      "digits1": 4,
+      "digits2": 4,
+      "maxNum": 9999
+    }
+  }
+}

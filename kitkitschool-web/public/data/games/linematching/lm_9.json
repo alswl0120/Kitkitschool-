@@ -1,0 +1,255 @@
+{
+    "ObjectCount": 12,
+    "ProblemCount": 16,
+    "IsTutorial": false,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 10,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/triangle_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/triangle_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/square_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/square_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/pentagon_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/pentagon_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/hexagon_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/hexagon_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/star_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/star_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/heart_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/addition_halfLeft_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_halfLeft.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_halfLeft_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/triangle_blue.png",
+                "succ": "LineMatching/Images/planeFigure/triangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/square_blue.png",
+                "succ": "LineMatching/Images/planeFigure/square_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/pentagon_blue.png",
+                "succ": "LineMatching/Images/planeFigure/pentagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/hexagon_blue.png",
+                "succ": "LineMatching/Images/planeFigure/hexagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/star_blue.png",
+                "succ": "LineMatching/Images/planeFigure/star_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_blue.png",
+                "succ": "LineMatching/Images/planeFigure/heart_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_blue.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_blue.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_blue.png",
+                "succ": "LineMatching/Images/planeFigure/addition_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_blue.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/triangle_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/triangle_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/square_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/square_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/pentagon_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/pentagon_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/hexagon_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/hexagon_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/star_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/star_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/heart_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/addition_halfRight_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_halfRight.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_halfRight_succ.png"
+            }
+        ],
+        "RightColors": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 8,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/star_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/heart_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/addition_zigzag1_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_zigzag1.png",
+                "succ": "LineMatching/Images/planeFigure/packman_zigzag1_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_purple.png",
+                "succ": "LineMatching/Images/planeFigure/star_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_purple.png",
+                "succ": "LineMatching/Images/planeFigure/heart_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_purple.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_purple.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_purple.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_purple.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_purple.png",
+                "succ": "LineMatching/Images/planeFigure/addition_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_purple.png",
+                "succ": "LineMatching/Images/planeFigure/packman_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/star_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/heart_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/addition_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/addition_zigzag2_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_zigzag2.png",
+                "succ": "LineMatching/Images/planeFigure/packman_zigzag2_succ.png"
+            }
+        ],
+        "RightColors": []
+    }
+}

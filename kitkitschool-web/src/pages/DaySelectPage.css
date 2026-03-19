@@ -1,0 +1,298 @@
+/* DaySelectPage – Session selection grid */
+
+/* ─── Entrance animations ─── */
+/* C++ show(): cover fades 0.3s, then board drops 0.5s with EaseOut(3.0) */
+@keyframes daysel-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes daysel-board-drop {
+  from { transform: translateY(-110%); }
+  to   { transform: translateY(0); }
+}
+
+.daysel-loading {
+  width: 100vw;
+  height: 100vh;
+  background: #1a3a5c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 24px;
+  gap: 16px;
+}
+
+.daysel-loading button {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* C++: _mainView ANCHOR_MIDDLE_TOP at (winW/2, winH) → top-center */
+.daysel-root {
+  width: 100vw;
+  height: 100vh;
+  background: #1a3a5c;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.daysel-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* C++ show(): popup fades in over 0.3s */
+.daysel-container {
+  position: relative;
+  width: 100%;
+  max-width: calc(100vh * 2560 / 1800);
+  aspect-ratio: 2560 / 1800;
+  display: flex;
+  z-index: 1;
+  animation: daysel-fade-in 0.3s ease-out both;
+}
+
+.daysel-back {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'TodoMainCurly', sans-serif;
+}
+
+.daysel-back:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* Board – C++: 1430×1568 at (122, 1800) ANCHOR_TOP_LEFT
+ * (122+1430)/2560 = 60.6% from left edge
+ * Board width: 1430/2560 = 55.86% of design */
+/* C++ show(): board starts above screen, drops with EaseOut 0.5s after 0.3s delay */
+.daysel-board {
+  position: relative;
+  width: 60.6%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3% 2.5% 3% 5%;
+  animation: daysel-board-drop 0.5s cubic-bezier(0.22, 1, 0.36, 1) 0.3s both;
+}
+
+/* C++: board image 1430×1568 at x=122 in 2560-wide design
+ * Within board div (60.6%): left = 122/(0.606*2560) = 7.87%
+ * width = 1430/(0.606*2560) = 92.2%, height = 1568/1800 = 87.1% */
+.daysel-board-bg {
+  position: absolute;
+  top: 0;
+  left: 8%;
+  width: 92%;
+  height: 87%;
+  object-fit: contain;
+  object-position: top;
+  pointer-events: none;
+}
+
+/* Title – C++: panel 813×156 at (715, 1268) in board, anchor (0.5, 0)
+ * Title top = 8% from design top, fontSize 70 */
+.daysel-title {
+  position: relative;
+  z-index: 2;
+  margin-top: 4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.daysel-title-panel {
+  height: clamp(32px, 8.67vh, 80px);  /* C++: 156/1800 = 8.67vh */
+  width: auto;
+}
+
+.daysel-title-label {
+  position: absolute;
+  color: #FFFCEC;
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(14px, 3.89vh, 70px);  /* C++: fontSize 70, 70/1800 = 3.89vh */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  white-space: nowrap;
+}
+
+/* Day grid – C++: 4 columns, btn 289×358, margin 36×38
+ * Grid total: (4*289 + 3*36) = 1264 wide
+ * leftX = (1430-1264)/2 = 83 → grid is 1264/1430 = 88.4% of board
+ * C++ gap: 36×38 → horizontal 36/289=12.5% of btn, vertical 38/358=10.6% */
+.daysel-grid {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(4px, 1.2vw, 18px);
+  margin-top: 2%;
+  width: 88%;
+  max-height: 78%;
+  overflow-y: auto;
+  padding: 4px;
+}
+
+/* Scrollbar styling */
+.daysel-grid::-webkit-scrollbar {
+  width: 6px;
+}
+.daysel-grid::-webkit-scrollbar-track {
+  background: transparent;
+}
+.daysel-grid::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+.daysel-day-btn {
+  position: relative;
+  aspect-ratio: 289 / 358;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.15s;
+}
+
+.daysel-day-btn:hover:not(.daysel-day-btn--locked) {
+  transform: scale(1.05);
+}
+
+.daysel-day-btn--locked {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.daysel-day-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* C++: dayLabel at (btnW/2, 62) in 289×358 btn, fontSize 65, ANCHOR_MIDDLE
+ * center at bottom: 62/358 = 17.3%, completed: 56/358 = 15.6%
+ * translateY(50%) shifts center to the bottom% position */
+.daysel-day-number {
+  position: absolute;
+  bottom: 17.3%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  color: #FFFCEC;
+  font-family: 'TodoMainCurly', sans-serif;
+  font-size: clamp(12px, 3.61vh, 65px);  /* C++: fontSize 65, 65/1800 = 3.61vh */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+.daysel-day-btn--cleared .daysel-day-number {
+  bottom: 15.6%;
+}
+
+.daysel-day-lock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(16px, 2vw, 32px);
+}
+
+/* Right stage – C++: 960×1700 ANCHOR_TOP_RIGHT at (2560,1800)
+ * Stage width: 960/2560 = 37.5% of design
+ * Stage bottom: y=100 → 5.56% from container bottom */
+.daysel-stage {
+  position: relative;
+  flex: 1;
+  z-index: 2;
+}
+
+/* Beam – C++: 1111×1329, ANCHOR_TOP_RIGHT at stageSize (top-right of stage)
+ * Width: 1111/960 = 115.7% of stage. Forms the wooden post/frame. */
+.daysel-beam {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 115.7%;
+  height: auto;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Treetop – C++: added to popup (not stage), ANCHOR_TOP_RIGHT at winSize
+ * Positioned at top-right of viewport. Width: 825/2560 = 32.2% of design */
+.daysel-treetop {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 32.2%;
+  height: auto;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Treestump – C++: 1088×531, ANCHOR_MIDDLE_BOTTOM at (480, 0) in stage
+ * Center X: 50%, bottom at stage bottom (y=100 → 5.56%)
+ * Wider than stage (1088 > 960) = 113.3% */
+.daysel-treestump {
+  position: absolute;
+  bottom: 5.56%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 113%;
+  height: auto;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Tree shadow – C++: at (480, 438) in stage
+ * bottom: (100+438)/1800 = 29.9% */
+.daysel-treeshadow {
+  position: absolute;
+  bottom: 29.9%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  width: 76%;           /* 730/960 = 76% of stage */
+  height: auto;
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: 3;
+}
+
+/* Bird – C++: at (480, 448) in stage, anchor ~(0.5, 0.02)
+ * bottom: (100+448)/1800 = 30.4% from container bottom
+ * Anchor near bottom → translateX(-50%) only */
+.daysel-bird-img {
+  position: absolute;
+  bottom: 30.4%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: clamp(60px, 10vw, 140px);
+  height: auto;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  object-fit: contain;
+  z-index: 4;
+}

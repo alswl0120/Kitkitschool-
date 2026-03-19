@@ -1,0 +1,542 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "worksheet": 1,
+      "puzzleType": "OrderedPuzzle",
+      "gameID": "latin_capital",
+      "boardImage": "_wp_alphabetboard.png",
+      "pieces": [
+        {
+          "id": 1,
+          "motif": "A",
+          "x": 279,
+          "y": 1511,
+          "face": "a_1.png",
+          "depth": "a_2.png",
+          "shadow": "a_3.png",
+          "slot": "a_4.png"
+        },
+        {
+          "id": 2,
+          "motif": "B",
+          "x": 633,
+          "y": 1512,
+          "face": "b_1.png",
+          "depth": "b_2.png",
+          "shadow": "b_3.png",
+          "slot": "b_4.png"
+        },
+        {
+          "id": 3,
+          "motif": "C",
+          "x": 986,
+          "y": 1518,
+          "face": "c_1.png",
+          "depth": "c_2.png",
+          "shadow": "c_3.png",
+          "slot": "c_4.png"
+        },
+        {
+          "id": 4,
+          "motif": "D",
+          "x": 1354,
+          "y": 1513,
+          "face": "d_1.png",
+          "depth": "d_2.png",
+          "shadow": "d_3.png",
+          "slot": "d_4.png"
+        },
+        {
+          "id": 5,
+          "motif": "E",
+          "x": 1676,
+          "y": 1512,
+          "face": "e_1.png",
+          "depth": "e_2.png",
+          "shadow": "e_3.png",
+          "slot": "e_4.png"
+        },
+        {
+          "id": 6,
+          "motif": "F",
+          "x": 244,
+          "y": 1182,
+          "face": "f_1.png",
+          "depth": "f_2.png",
+          "shadow": "f_3.png",
+          "slot": "f_4.png"
+        },
+        {
+          "id": 7,
+          "motif": "G",
+          "x": 535,
+          "y": 1187,
+          "face": "g_1.png",
+          "depth": "g_2.png",
+          "shadow": "g_3.png",
+          "slot": "g_4.png"
+        },
+        {
+          "id": 8,
+          "motif": "H",
+          "x": 860.5,
+          "y": 1183,
+          "face": "h_1.png",
+          "depth": "h_2.png",
+          "shadow": "h_3.png",
+          "slot": "h_4.png"
+        },
+        {
+          "id": 9,
+          "motif": "I",
+          "x": 1100,
+          "y": 1184,
+          "face": "i_1.png",
+          "depth": "i_2.png",
+          "shadow": "i_3.png",
+          "slot": "i_4.png"
+        },
+        {
+          "id": 10,
+          "motif": "J",
+          "x": 1307,
+          "y": 1187,
+          "face": "j_1.png",
+          "depth": "j_2.png",
+          "shadow": "j_3.png",
+          "slot": "j_4.png"
+        },
+        {
+          "id": 11,
+          "motif": "K",
+          "x": 1624,
+          "y": 1184,
+          "face": "k_1.png",
+          "depth": "k_2.png",
+          "shadow": "k_3.png",
+          "slot": "k_4.png"
+        },
+        {
+          "id": 12,
+          "motif": "L",
+          "x": 263,
+          "y": 858,
+          "face": "l_1.png",
+          "depth": "l_2.png",
+          "shadow": "l_3.png",
+          "slot": "l_4.png"
+        },
+        {
+          "id": 13,
+          "motif": "M",
+          "x": 583,
+          "y": 858,
+          "face": "m_1.png",
+          "depth": "m_2.png",
+          "shadow": "m_3.png",
+          "slot": "m_4.png"
+        },
+        {
+          "id": 14,
+          "motif": "N",
+          "x": 951,
+          "y": 859,
+          "face": "n_1.png",
+          "depth": "n_2.png",
+          "shadow": "n_3.png",
+          "slot": "n_4.png"
+        },
+        {
+          "id": 15,
+          "motif": "O",
+          "x": 1301,
+          "y": 864,
+          "face": "o_1.png",
+          "depth": "o_2.png",
+          "shadow": "o_3.png",
+          "slot": "o_4.png"
+        },
+        {
+          "id": 16,
+          "motif": "P",
+          "x": 1638,
+          "y": 860,
+          "face": "p_1.png",
+          "depth": "p_2.png",
+          "shadow": "p_3.png",
+          "slot": "p_4.png"
+        },
+        {
+          "id": 17,
+          "motif": "Q",
+          "x": 287,
+          "y": 536,
+          "face": "q_1.png",
+          "depth": "q_2.png",
+          "shadow": "q_3.png",
+          "slot": "q_4.png"
+        },
+        {
+          "id": 18,
+          "motif": "R",
+          "x": 646,
+          "y": 529,
+          "face": "r_1.png",
+          "depth": "r_2.png",
+          "shadow": "r_3.png",
+          "slot": "r_4.png"
+        },
+        {
+          "id": 19,
+          "motif": "S",
+          "x": 969,
+          "y": 533.5,
+          "face": "s_1.png",
+          "depth": "s_2.png",
+          "shadow": "s_3.png",
+          "slot": "s_4.png"
+        },
+        {
+          "id": 20,
+          "motif": "T",
+          "x": 1300,
+          "y": 529,
+          "face": "t_1.png",
+          "depth": "t_2.png",
+          "shadow": "t_3.png",
+          "slot": "t_4.png"
+        },
+        {
+          "id": 21,
+          "motif": "U",
+          "x": 1639,
+          "y": 531,
+          "face": "u_1.png",
+          "depth": "u_2.png",
+          "shadow": "u_3.png",
+          "slot": "u_4.png"
+        },
+        {
+          "id": 22,
+          "motif": "V",
+          "x": 267,
+          "y": 203,
+          "face": "v_1.png",
+          "depth": "v_2.png",
+          "shadow": "v_3.png",
+          "slot": "v_4.png"
+        },
+        {
+          "id": 23,
+          "motif": "W",
+          "x": 640,
+          "y": 202,
+          "face": "w_1.png",
+          "depth": "w_2.png",
+          "shadow": "w_3.png",
+          "slot": "w_4.png"
+        },
+        {
+          "id": 24,
+          "motif": "X",
+          "x": 1038,
+          "y": 202,
+          "face": "x_1.png",
+          "depth": "x_2.png",
+          "shadow": "x_3.png",
+          "slot": "x_4.png"
+        },
+        {
+          "id": 25,
+          "motif": "Y",
+          "x": 1355,
+          "y": 202,
+          "face": "y_1.png",
+          "depth": "y_2.png",
+          "shadow": "y_3.png",
+          "slot": "y_4.png"
+        },
+        {
+          "id": 26,
+          "motif": "Z",
+          "x": 1662,
+          "y": 203,
+          "face": "z_1.png",
+          "depth": "z_2.png",
+          "shadow": "z_3.png",
+          "slot": "z_4.png"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "worksheet": 1,
+      "puzzleType": "OrderedPuzzle",
+      "gameID": "latin_small",
+      "boardImage": "_wp_alphabetboard.png",
+      "pieces": [
+        {
+          "id": 1,
+          "motif": "a",
+          "x": 277,
+          "y": 1494,
+          "face": "lowercase_a_1.png",
+          "depth": "lowercase_a_2.png",
+          "shadow": "lowercase_a_3.png",
+          "slot": "lowercase_a_4.png"
+        },
+        {
+          "id": 2,
+          "motif": "b",
+          "x": 621,
+          "y": 1516,
+          "face": "lowercase_b_1.png",
+          "depth": "lowercase_b_2.png",
+          "shadow": "lowercase_b_3.png",
+          "slot": "lowercase_b_4.png"
+        },
+        {
+          "id": 3,
+          "motif": "c",
+          "x": 963,
+          "y": 1495,
+          "face": "lowercase_c_1.png",
+          "depth": "lowercase_c_2.png",
+          "shadow": "lowercase_c_3.png",
+          "slot": "lowercase_c_4.png"
+        },
+        {
+          "id": 4,
+          "motif": "d",
+          "x": 1289,
+          "y": 1520,
+          "face": "lowercase_d_1.png",
+          "depth": "lowercase_d_2.png",
+          "shadow": "lowercase_d_3.png",
+          "slot": "lowercase_d_4.png"
+        },
+        {
+          "id": 5,
+          "motif": "e",
+          "x": 1610,
+          "y": 1495,
+          "face": "lowercase_e_1.png",
+          "depth": "lowercase_e_2.png",
+          "shadow": "lowercase_e_3.png",
+          "slot": "lowercase_e_4.png"
+        },
+        {
+          "id": 6,
+          "motif": "f",
+          "x": 242,
+          "y": 1192,
+          "face": "lowercase_f_1.png",
+          "depth": "lowercase_f_2.png",
+          "shadow": "lowercase_f_3.png",
+          "slot": "lowercase_f_4.png"
+        },
+        {
+          "id": 7,
+          "motif": "g",
+          "x": 537,
+          "y": 1158,
+          "face": "lowercase_g_1.png",
+          "depth": "lowercase_g_2.png",
+          "shadow": "lowercase_g_3.png",
+          "slot": "lowercase_g_4.png"
+        },
+        {
+          "id": 8,
+          "motif": "h",
+          "x": 852,
+          "y": 1192,
+          "face": "lowercase_h_1.png",
+          "depth": "lowercase_h_2.png",
+          "shadow": "lowercase_h_3.png",
+          "slot": "lowercase_h_4.png"
+        },
+        {
+          "id": 9,
+          "motif": "i",
+          "x": 1116,
+          "y": 1189,
+          "face": "lowercase_i_1.png",
+          "depth": "lowercase_i_2.png",
+          "shadow": "lowercase_i_3.png",
+          "slot": "lowercase_i_4.png"
+        },
+        {
+          "id": 10,
+          "motif": "j",
+          "x": 1337,
+          "y": 1168,
+          "face": "lowercase_j_1.png",
+          "depth": "lowercase_j_2.png",
+          "shadow": "lowercase_j_3.png",
+          "slot": "lowercase_j_4.png"
+        },
+        {
+          "id": 11,
+          "motif": "k",
+          "x": 1608,
+          "y": 1197,
+          "face": "lowercase_k_1.png",
+          "depth": "lowercase_k_2.png",
+          "shadow": "lowercase_k_3.png",
+          "slot": "lowercase_k_4.png"
+        },
+        {
+          "id": 12,
+          "motif": "l",
+          "x": 243,
+          "y": 861,
+          "face": "lowercase_l_1.png",
+          "depth": "lowercase_l_2.png",
+          "shadow": "lowercase_l_3.png",
+          "slot": "lowercase_l_4.png"
+        },
+        {
+          "id": 13,
+          "motif": "m",
+          "x": 564,
+          "y": 851,
+          "face": "lowercase_m_1.png",
+          "depth": "lowercase_m_2.png",
+          "shadow": "lowercase_m_3.png",
+          "slot": "lowercase_m_4.png"
+        },
+        {
+          "id": 14,
+          "motif": "n",
+          "x": 941,
+          "y": 846,
+          "face": "lowercase_n_1.png",
+          "depth": "lowercase_n_2.png",
+          "shadow": "lowercase_n_3.png",
+          "slot": "lowercase_n_4.png"
+        },
+        {
+          "id": 15,
+          "motif": "o",
+          "x": 1270,
+          "y": 845,
+          "face": "lowercase_o_1.png",
+          "depth": "lowercase_o_2.png",
+          "shadow": "lowercase_o_3.png",
+          "slot": "lowercase_o_4.png"
+        },
+        {
+          "id": 16,
+          "motif": "p",
+          "x": 1624,
+          "y": 838,
+          "face": "lowercase_p_1.png",
+          "depth": "lowercase_p_2.png",
+          "shadow": "lowercase_p_3.png",
+          "slot": "lowercase_p_4.png"
+        },
+        {
+          "id": 17,
+          "motif": "q",
+          "x": 266,
+          "y": 533,
+          "face": "lowercase_q_1.png",
+          "depth": "lowercase_q_2.png",
+          "shadow": "lowercase_q_3.png",
+          "slot": "lowercase_q_4.png"
+        },
+        {
+          "id": 18,
+          "motif": "r",
+          "x": 608,
+          "y": 545,
+          "face": "lowercase_r_1.png",
+          "depth": "lowercase_r_2.png",
+          "shadow": "lowercase_r_3.png",
+          "slot": "lowercase_r_4.png"
+        },
+        {
+          "id": 19,
+          "motif": "s",
+          "x": 937,
+          "y": 546,
+          "face": "lowercase_s_1.png",
+          "depth": "lowercase_s_2.png",
+          "shadow": "lowercase_s_3.png",
+          "slot": "lowercase_s_4.png"
+        },
+        {
+          "id": 20,
+          "motif": "t",
+          "x": 1267,
+          "y": 550,
+          "face": "lowercase_t_1.png",
+          "depth": "lowercase_t_2.png",
+          "shadow": "lowercase_t_3.png",
+          "slot": "lowercase_t_4.png"
+        },
+        {
+          "id": 21,
+          "motif": "u",
+          "x": 1615,
+          "y": 548,
+          "face": "lowercase_u_1.png",
+          "depth": "lowercase_u_2.png",
+          "shadow": "lowercase_u_3.png",
+          "slot": "lowercase_u_4.png"
+        },
+        {
+          "id": 22,
+          "motif": "v",
+          "x": 258,
+          "y": 231,
+          "face": "lowercase_v_1.png",
+          "depth": "lowercase_v_2.png",
+          "shadow": "lowercase_v_3.png",
+          "slot": "lowercase_v_4.png"
+        },
+        {
+          "id": 23,
+          "motif": "w",
+          "x": 638,
+          "y": 236,
+          "face": "lowercase_w_1.png",
+          "depth": "lowercase_w_2.png",
+          "shadow": "lowercase_w_3.png",
+          "slot": "lowercase_w_4.png"
+        },
+        {
+          "id": 24,
+          "motif": "x",
+          "x": 1003,
+          "y": 234,
+          "face": "lowercase_x_1.png",
+          "depth": "lowercase_x_2.png",
+          "shadow": "lowercase_x_3.png",
+          "slot": "lowercase_x_4.png"
+        },
+        {
+          "id": 25,
+          "motif": "y",
+          "x": 1315,
+          "y": 210,
+          "face": "lowercase_y_1.png",
+          "depth": "lowercase_y_2.png",
+          "shadow": "lowercase_y_3.png",
+          "slot": "lowercase_y_4.png"
+        },
+        {
+          "id": 26,
+          "motif": "z",
+          "x": 1618,
+          "y": 231,
+          "face": "lowercase_z_1.png",
+          "depth": "lowercase_z_2.png",
+          "shadow": "lowercase_z_3.png",
+          "slot": "lowercase_z_4.png"
+        }
+      ]
+    }
+  ]
+}

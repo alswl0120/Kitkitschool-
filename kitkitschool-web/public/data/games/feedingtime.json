@@ -1,0 +1,202 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {"left": 3, "right": 7, "ask": "more"},
+        {"left": 5, "right": 2, "ask": "more"},
+        {"left": 1, "right": 6, "ask": "less"},
+        {"left": 8, "right": 4, "ask": "more"},
+        {"left": 2, "right": 9, "ask": "less"},
+        {"left": 6, "right": 3, "ask": "less"}
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {"left": 4, "right": 9, "ask": "more"},
+        {"left": 7, "right": 2, "ask": "less"},
+        {"left": 5, "right": 10, "ask": "more"},
+        {"left": 8, "right": 3, "ask": "more"},
+        {"left": 1, "right": 7, "ask": "less"},
+        {"left": 6, "right": 4, "ask": "less"}
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {"left": 9, "right": 3, "ask": "more"},
+        {"left": 2, "right": 8, "ask": "more"},
+        {"left": 10, "right": 5, "ask": "less"},
+        {"left": 4, "right": 7, "ask": "less"},
+        {"left": 6, "right": 1, "ask": "more"},
+        {"left": 3, "right": 9, "ask": "less"}
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {"left": 12, "right": 5, "ask": "more"},
+        {"left": 7, "right": 18, "ask": "more"},
+        {"left": 15, "right": 3, "ask": "less"},
+        {"left": 9, "right": 20, "ask": "less"},
+        {"left": 16, "right": 8, "ask": "more"},
+        {"left": 4, "right": 13, "ask": "less"}
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {"left": 11, "right": 19, "ask": "more"},
+        {"left": 17, "right": 6, "ask": "more"},
+        {"left": 14, "right": 20, "ask": "less"},
+        {"left": 20, "right": 9, "ask": "less"},
+        {"left": 3, "right": 16, "ask": "more"},
+        {"left": 18, "right": 7, "ask": "less"}
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {"left": 13, "right": 4, "ask": "more"},
+        {"left": 8, "right": 17, "ask": "more"},
+        {"left": 20, "right": 11, "ask": "less"},
+        {"left": 5, "right": 19, "ask": "less"},
+        {"left": 14, "right": 2, "ask": "more"},
+        {"left": 6, "right": 15, "ask": "less"}
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {"left": 32, "right": 15, "ask": "more"},
+        {"left": 8, "right": 41, "ask": "more"},
+        {"left": 45, "right": 22, "ask": "less"},
+        {"left": 17, "right": 38, "ask": "less"},
+        {"left": 50, "right": 29, "ask": "more"},
+        {"left": 11, "right": 46, "ask": "less"}
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {"left": 24, "right": 47, "ask": "more"},
+        {"left": 50, "right": 13, "ask": "more"},
+        {"left": 36, "right": 9, "ask": "less"},
+        {"left": 5, "right": 43, "ask": "less"},
+        {"left": 48, "right": 27, "ask": "more"},
+        {"left": 19, "right": 35, "ask": "less"}
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {"left": 7, "right": 13, "ask": "more"},
+        {"left": 15, "right": 6, "ask": "more"},
+        {"left": 11, "right": 18, "ask": "less"},
+        {"left": 9, "right": 4, "ask": "less"},
+        {"left": 12, "right": 5, "ask": "more"},
+        {"left": 3, "right": 16, "ask": "less"}
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {"left": 14, "right": 8, "ask": "more"},
+        {"left": 6, "right": 19, "ask": "more"},
+        {"left": 17, "right": 11, "ask": "less"},
+        {"left": 4, "right": 13, "ask": "less"},
+        {"left": 20, "right": 9, "ask": "more"},
+        {"left": 7, "right": 18, "ask": "less"}
+      ]
+    },
+    {
+      "level": 11,
+      "problems": [
+        {"left": 13, "right": 19, "ask": "more"},
+        {"left": 20, "right": 7, "ask": "more"},
+        {"left": 8, "right": 16, "ask": "less"},
+        {"left": 18, "right": 5, "ask": "less"},
+        {"left": 11, "right": 17, "ask": "more"},
+        {"left": 15, "right": 9, "ask": "less"}
+      ]
+    },
+    {
+      "level": 12,
+      "problems": [
+        {"left": 6, "right": 14, "ask": "more"},
+        {"left": 19, "right": 12, "ask": "more"},
+        {"left": 16, "right": 20, "ask": "less"},
+        {"left": 10, "right": 3, "ask": "less"},
+        {"left": 17, "right": 8, "ask": "more"},
+        {"left": 5, "right": 20, "ask": "less"}
+      ]
+    },
+    {
+      "level": 13,
+      "problems": [
+        {"left": 9, "right": 15, "ask": "more"},
+        {"left": 20, "right": 4, "ask": "more"},
+        {"left": 13, "right": 19, "ask": "less"},
+        {"left": 16, "right": 7, "ask": "less"},
+        {"left": 5, "right": 18, "ask": "more"},
+        {"left": 14, "right": 6, "ask": "less"}
+      ]
+    },
+    {
+      "level": 14,
+      "problems": [
+        {"left": 12, "right": 18, "ask": "more"},
+        {"left": 20, "right": 11, "ask": "more"},
+        {"left": 7, "right": 15, "ask": "less"},
+        {"left": 19, "right": 8, "ask": "less"},
+        {"left": 14, "right": 3, "ask": "more"},
+        {"left": 6, "right": 17, "ask": "less"}
+      ]
+    },
+    {
+      "level": 19,
+      "problems": [
+        {"left": 43, "right": 78, "ask": "more"},
+        {"left": 91, "right": 35, "ask": "more"},
+        {"left": 62, "right": 14, "ask": "less"},
+        {"left": 27, "right": 85, "ask": "less"},
+        {"left": 76, "right": 49, "ask": "more"},
+        {"left": 18, "right": 64, "ask": "less"}
+      ]
+    },
+    {
+      "level": 22,
+      "problems": [
+        {"left": 57, "right": 93, "ask": "more"},
+        {"left": 84, "right": 21, "ask": "more"},
+        {"left": 39, "right": 72, "ask": "less"},
+        {"left": 96, "right": 48, "ask": "less"},
+        {"left": 15, "right": 68, "ask": "more"},
+        {"left": 74, "right": 31, "ask": "less"}
+      ]
+    },
+    {
+      "level": 23,
+      "problems": [
+        {"left": 82, "right": 37, "ask": "more"},
+        {"left": 26, "right": 71, "ask": "more"},
+        {"left": 95, "right": 53, "ask": "less"},
+        {"left": 44, "right": 89, "ask": "less"},
+        {"left": 63, "right": 18, "ask": "more"},
+        {"left": 30, "right": 77, "ask": "less"}
+      ]
+    },
+    {
+      "level": 24,
+      "problems": [
+        {"left": 47, "right": 83, "ask": "more"},
+        {"left": 99, "right": 56, "ask": "more"},
+        {"left": 22, "right": 61, "ask": "less"},
+        {"left": 75, "right": 38, "ask": "less"},
+        {"left": 14, "right": 90, "ask": "more"},
+        {"left": 68, "right": 25, "ask": "less"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+    "ObjectCount": 12,
+    "ProblemCount": 16,
+    "IsTutorial": true,
+    "Set_0": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 4,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/match/match_triangle.png",
+                "succ": "LineMatching/Images/match/triangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/match/match_square.png",
+                "succ": "LineMatching/Images/match/square_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/match/match_pentagon.png",
+                "succ": "LineMatching/Images/match/pentagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/match/match_hexagon.png",
+                "succ": "LineMatching/Images/match/hexagon_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/dotLine/dotLine_triangle.png",
+                "succ": "LineMatching/Images/dotLine/triangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/dotLine/dotLine_square.png",
+                "succ": "LineMatching/Images/dotLine/square_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/dotLine/dotLine_pentagon.png",
+                "succ": "LineMatching/Images/dotLine/pentagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/dotLine/dotLine_hexagon.png",
+                "succ": "LineMatching/Images/dotLine/hexagon_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/triangle_orange.png",
+                "succ": "LineMatching/Images/planeFigure/triangle_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/square_orange.png",
+                "succ": "LineMatching/Images/planeFigure/square_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/pentagon_orange.png",
+                "succ": "LineMatching/Images/planeFigure/pentagon_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/hexagon_orange.png",
+                "succ": "LineMatching/Images/planeFigure/hexagon_succ.png"
+            }
+        ],
+        "RightColors": []
+    },
+    "Set_1": {
+        "LineMatchingRandom": true,
+        "MaxObjectCount": 8,
+        "UseObjectCount": 4,
+        "MaxColorCount": 0,
+        "UseColorCount": 0,
+        "********** COMMENT **********": "RIGHT",
+        "LeftImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/star_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/heart_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/house_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/house_dotcolor_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_dotcolor.png",
+                "succ": "LineMatching/Images/planeFigure/packman_dotcolor_succ.png"
+            }
+        ],
+        "LeftColors": [],
+        "CenterImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_purple.png",
+                "succ": "LineMatching/Images/planeFigure/star_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_purple.png",
+                "succ": "LineMatching/Images/planeFigure/heart_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_purple.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_purple.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_purple.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_purple.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/house_purple.png",
+                "succ": "LineMatching/Images/planeFigure/house_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_purple.png",
+                "succ": "LineMatching/Images/planeFigure/packman_succ.png"
+            }
+        ],
+        "CenterColors": [],
+        "RightImages": [
+            {
+                "nor": "LineMatching/Images/planeFigure/star_check.png",
+                "succ": "LineMatching/Images/planeFigure/star_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/heart_check.png",
+                "succ": "LineMatching/Images/planeFigure/heart_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/arrow_check.png",
+                "succ": "LineMatching/Images/planeFigure/arrow_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/snowMan_check.png",
+                "succ": "LineMatching/Images/planeFigure/snowMan_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/butterfly_check.png",
+                "succ": "LineMatching/Images/planeFigure/butterfly_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/crescent_check.png",
+                "succ": "LineMatching/Images/planeFigure/crescent_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/house_check.png",
+                "succ": "LineMatching/Images/planeFigure/house_check_succ.png"
+            },
+            {
+                "nor": "LineMatching/Images/planeFigure/packman_check.png",
+                "succ": "LineMatching/Images/planeFigure/packman_check_succ.png"
+            }
+        ],
+        "RightColors": []
+    }
+}

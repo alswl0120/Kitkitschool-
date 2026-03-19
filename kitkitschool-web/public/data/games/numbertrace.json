@@ -1,0 +1,54 @@
+{
+  "levels": {
+    "1": [
+      {"assetType": "Ant", "count": 1},
+      {"assetType": "Bee", "count": 2},
+      {"assetType": "Beetle", "count": 3}
+    ],
+    "2": [
+      {"assetType": "BlueButterfly", "count": 4},
+      {"assetType": "StagBeetle", "count": 5},
+      {"assetType": "Ladybug", "count": 6}
+    ],
+    "3": [
+      {"assetType": "Moth", "count": 7},
+      {"assetType": "Spider", "count": 8},
+      {"assetType": "StagBeetle", "count": 9}
+    ],
+    "4": [
+      {"assetType": "YellowButterfly", "count": 10},
+      {"assetType": "Ant", "count": 1},
+      {"assetType": "Beetle", "count": 2}
+    ],
+    "5": [
+      {"assetType": "Bee", "count": 3},
+      {"assetType": "Ladybug", "count": 4},
+      {"assetType": "Moth", "count": 5}
+    ],
+    "6": [
+      {"assetType": "Spider", "count": 6},
+      {"assetType": "BlueButterfly", "count": 7},
+      {"assetType": "StagBeetle", "count": 8}
+    ],
+    "7": [
+      {"assetType": "YellowButterfly", "count": 9},
+      {"assetType": "Ant", "count": 10},
+      {"assetType": "Beetle", "count": 1}
+    ],
+    "8": [
+      {"assetType": "Bee", "count": 2},
+      {"assetType": "Ladybug", "count": 3},
+      {"assetType": "Moth", "count": 4}
+    ],
+    "9": [
+      {"assetType": "Spider", "count": 5},
+      {"assetType": "StagBeetle", "count": 6},
+      {"assetType": "BlueButterfly", "count": 7}
+    ],
+    "10": [
+      {"assetType": "YellowButterfly", "count": 8},
+      {"assetType": "Ant", "count": 9},
+      {"assetType": "Cockroach", "count": 10}
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "levels": [
+    {
+      "levelIndex": 0,
+      "label": "Up to 20",
+      "description": "Count up to 20 chickens",
+      "maxChickens": 20,
+      "questions": [
+        { "groups": [3],        "total": 3,  "choices": [2, 3, 4, 5],          "answer": 1 },
+        { "groups": [5],        "total": 5,  "choices": [3, 4, 5, 6],          "answer": 2 },
+        { "groups": [4, 3],     "total": 7,  "choices": [5, 6, 7, 8],          "answer": 2 },
+        { "groups": [6, 2],     "total": 8,  "choices": [6, 7, 8, 9],          "answer": 2 },
+        { "groups": [5, 4],     "total": 9,  "choices": [7, 8, 9, 10],         "answer": 2 },
+        { "groups": [10],       "total": 10, "choices": [8, 9, 10, 11],        "answer": 2 },
+        { "groups": [10, 5],    "total": 15, "choices": [13, 14, 15, 16],      "answer": 2 },
+        { "groups": [10, 10],   "total": 20, "choices": [18, 19, 20, 21],      "answer": 2 }
+      ]
+    },
+    {
+      "levelIndex": 1,
+      "label": "Up to 50",
+      "description": "Count up to 50 chickens",
+      "maxChickens": 50,
+      "questions": [
+        { "groups": [10, 5],       "total": 15, "choices": [12, 15, 17, 20],      "answer": 1 },
+        { "groups": [10, 10],      "total": 20, "choices": [15, 20, 22, 25],      "answer": 1 },
+        { "groups": [10, 10, 5],   "total": 25, "choices": [20, 25, 28, 30],      "answer": 1 },
+        { "groups": [10, 10, 10],  "total": 30, "choices": [25, 28, 30, 35],      "answer": 2 },
+        { "groups": [10, 10, 8],   "total": 28, "choices": [24, 26, 28, 30],      "answer": 2 },
+        { "groups": [10, 10, 10, 7], "total": 37, "choices": [33, 35, 37, 40],   "answer": 2 },
+        { "groups": [10, 10, 10, 10, 3], "total": 43, "choices": [40, 43, 45, 48], "answer": 1 },
+        { "groups": [10, 10, 10, 10, 10], "total": 50, "choices": [45, 48, 50, 53], "answer": 2 }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "label": "Up to 100",
+      "description": "Count up to 100 chickens",
+      "maxChickens": 100,
+      "questions": [
+        { "groups": [10, 10, 10, 10],          "total": 40,  "choices": [35, 38, 40, 45],       "answer": 2 },
+        { "groups": [10, 10, 10, 10, 5],       "total": 45,  "choices": [40, 43, 45, 48],       "answer": 2 },
+        { "groups": [10, 10, 10, 10, 10],      "total": 50,  "choices": [45, 50, 52, 55],       "answer": 1 },
+        { "groups": [10, 10, 10, 10, 10, 8],   "total": 58,  "choices": [54, 56, 58, 60],       "answer": 2 },
+        { "groups": [10, 10, 10, 10, 10, 10],  "total": 60,  "choices": [55, 58, 60, 65],       "answer": 2 },
+        { "groups": [10, 10, 10, 10, 10, 10, 10, 4], "total": 74, "choices": [70, 72, 74, 78], "answer": 2 },
+        { "groups": [10, 10, 10, 10, 10, 10, 10, 10, 3], "total": 83, "choices": [79, 81, 83, 85], "answer": 2 },
+        { "groups": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10], "total": 100, "choices": [90, 95, 100, 105], "answer": 2 }
+      ]
+    }
+  ]
+}

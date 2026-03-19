@@ -1,0 +1,764 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "problems": [
+        {
+          "shape": "circle",
+          "choices": [
+            "circle",
+            "square",
+            "triangle",
+            "rectangle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "square",
+          "choices": [
+            "triangle",
+            "square",
+            "circle",
+            "rectangle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "triangle",
+          "choices": [
+            "circle",
+            "rectangle",
+            "triangle",
+            "square"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "rectangle",
+          "choices": [
+            "square",
+            "circle",
+            "rectangle",
+            "triangle"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "square",
+          "choices": [
+            "circle",
+            "square",
+            "triangle",
+            "rectangle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "circle",
+          "choices": [
+            "triangle",
+            "rectangle",
+            "square",
+            "circle"
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "problems": [
+        {
+          "shape": "rectangle",
+          "choices": [
+            "circle",
+            "triangle",
+            "rectangle",
+            "square"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "triangle",
+          "choices": [
+            "triangle",
+            "circle",
+            "square",
+            "rectangle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "circle",
+          "choices": [
+            "square",
+            "rectangle",
+            "triangle",
+            "circle"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "square",
+          "choices": [
+            "square",
+            "circle",
+            "triangle",
+            "rectangle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "rectangle",
+          "choices": [
+            "triangle",
+            "rectangle",
+            "circle",
+            "square"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "triangle",
+          "choices": [
+            "circle",
+            "square",
+            "rectangle",
+            "triangle"
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "problems": [
+        {
+          "shape": "star",
+          "choices": [
+            "star",
+            "heart",
+            "circle",
+            "square"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "heart",
+          "choices": [
+            "circle",
+            "heart",
+            "star",
+            "triangle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "square",
+            "triangle",
+            "heart",
+            "star"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "circle",
+          "choices": [
+            "heart",
+            "star",
+            "circle",
+            "square"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "heart",
+          "choices": [
+            "heart",
+            "star",
+            "triangle",
+            "circle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "circle",
+            "star",
+            "heart",
+            "rectangle"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "problems": [
+        {
+          "shape": "heart",
+          "choices": [
+            "square",
+            "triangle",
+            "heart",
+            "star"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "heart",
+            "circle",
+            "rectangle",
+            "star"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "triangle",
+          "choices": [
+            "star",
+            "triangle",
+            "heart",
+            "circle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "heart",
+          "choices": [
+            "circle",
+            "rectangle",
+            "star",
+            "heart"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "star",
+            "heart",
+            "square",
+            "triangle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "square",
+          "choices": [
+            "heart",
+            "star",
+            "square",
+            "circle"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "problems": [
+        {
+          "shape": "diamond",
+          "choices": [
+            "diamond",
+            "square",
+            "circle",
+            "heart"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "circle",
+            "oval",
+            "square",
+            "star"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "square",
+            "heart",
+            "diamond",
+            "oval"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "oval",
+            "circle",
+            "rectangle",
+            "diamond"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "circle",
+            "star",
+            "oval",
+            "diamond"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "heart",
+            "diamond",
+            "square",
+            "oval"
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "problems": [
+        {
+          "shape": "triangle",
+          "choices": [
+            "oval",
+            "triangle",
+            "diamond",
+            "heart"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "diamond",
+            "oval",
+            "star",
+            "circle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "star",
+            "square",
+            "oval",
+            "diamond"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "oval",
+            "diamond",
+            "circle",
+            "star"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "rectangle",
+          "choices": [
+            "rectangle",
+            "oval",
+            "diamond",
+            "heart"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "circle",
+            "oval",
+            "diamond",
+            "star"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "problems": [
+        {
+          "shape": "circle",
+          "choices": [
+            "oval",
+            "circle",
+            "diamond",
+            "square"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "circle",
+            "diamond",
+            "oval",
+            "heart"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "square",
+          "choices": [
+            "rectangle",
+            "square",
+            "diamond",
+            "oval"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "rectangle",
+          "choices": [
+            "square",
+            "oval",
+            "diamond",
+            "rectangle"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "triangle",
+          "choices": [
+            "diamond",
+            "oval",
+            "triangle",
+            "heart"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "heart",
+          "choices": [
+            "heart",
+            "oval",
+            "star",
+            "diamond"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "problems": [
+        {
+          "shape": "star",
+          "choices": [
+            "diamond",
+            "oval",
+            "heart",
+            "star"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "oval",
+            "diamond",
+            "rectangle",
+            "circle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "square",
+            "heart",
+            "star",
+            "oval"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "heart",
+          "choices": [
+            "diamond",
+            "heart",
+            "oval",
+            "triangle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "rectangle",
+          "choices": [
+            "oval",
+            "diamond",
+            "rectangle",
+            "star"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "circle",
+          "choices": [
+            "circle",
+            "oval",
+            "square",
+            "diamond"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {
+          "shape": "pentagon",
+          "choices": [
+            "pentagon",
+            "hexagon",
+            "circle",
+            "diamond"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "diamond",
+            "pentagon",
+            "hexagon",
+            "square"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "pentagon",
+          "choices": [
+            "oval",
+            "hexagon",
+            "star",
+            "pentagon"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "hexagon",
+            "triangle",
+            "oval",
+            "pentagon"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "pentagon",
+          "choices": [
+            "circle",
+            "pentagon",
+            "hexagon",
+            "heart"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "star",
+            "oval",
+            "pentagon",
+            "hexagon"
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {
+          "shape": "pentagon",
+          "choices": [
+            "hexagon",
+            "oval",
+            "pentagon",
+            "diamond"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "pentagon",
+            "hexagon",
+            "star",
+            "circle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "hexagon",
+            "pentagon",
+            "oval",
+            "diamond"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "oval",
+            "pentagon",
+            "hexagon",
+            "star"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "diamond",
+            "oval",
+            "hexagon",
+            "pentagon"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "pentagon",
+          "choices": [
+            "star",
+            "hexagon",
+            "circle",
+            "pentagon"
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "problems": [
+        {
+          "shape": "hexagon",
+          "choices": [
+            "hexagon",
+            "pentagon",
+            "circle",
+            "star"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "pentagon",
+          "choices": [
+            "hexagon",
+            "pentagon",
+            "square",
+            "oval"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "star",
+            "diamond",
+            "heart",
+            "circle"
+          ],
+          "correct": 0
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "circle",
+            "oval",
+            "square",
+            "triangle"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "diamond",
+          "choices": [
+            "heart",
+            "star",
+            "diamond",
+            "rectangle"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "problems": [
+        {
+          "shape": "heart",
+          "choices": [
+            "diamond",
+            "star",
+            "circle",
+            "heart"
+          ],
+          "correct": 3
+        },
+        {
+          "shape": "hexagon",
+          "choices": [
+            "pentagon",
+            "hexagon",
+            "oval",
+            "square"
+          ],
+          "correct": 1
+        },
+        {
+          "shape": "pentagon",
+          "choices": [
+            "hexagon",
+            "star",
+            "pentagon",
+            "diamond"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "star",
+          "choices": [
+            "heart",
+            "oval",
+            "star",
+            "circle"
+          ],
+          "correct": 2
+        },
+        {
+          "shape": "oval",
+          "choices": [
+            "oval",
+            "circle",
+            "square",
+            "triangle"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  ]
+}

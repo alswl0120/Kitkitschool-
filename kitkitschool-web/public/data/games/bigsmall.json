@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "levelIndex": 0,
+      "questions": [
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🐘", "label": "Elephant", "size": "big"}, {"emoji": "🐭", "label": "Mouse", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🦕", "label": "Dinosaur", "size": "big"}, {"emoji": "🐝", "label": "Bee", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🐋", "label": "Whale", "size": "big"}, {"emoji": "🐟", "label": "Fish", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🦁", "label": "Lion", "size": "big"}, {"emoji": "🐛", "label": "Caterpillar", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🏔️", "label": "Mountain", "size": "big"}, {"emoji": "🪨", "label": "Pebble", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🌳", "label": "Tree", "size": "big"}, {"emoji": "🌱", "label": "Sprout", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🐊", "label": "Crocodile", "size": "big"}, {"emoji": "🐛", "label": "Worm", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🚀", "label": "Rocket", "size": "big"}, {"emoji": "✏️", "label": "Pencil", "size": "small"}], "answer": "small" }
+      ]
+    },
+    {
+      "levelIndex": 1,
+      "questions": [
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🦁", "label": "Lion", "size": "big"}, {"emoji": "🐱", "label": "Cat", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🐻", "label": "Bear", "size": "big"}, {"emoji": "🐹", "label": "Hamster", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🐴", "label": "Horse", "size": "big"}, {"emoji": "🐇", "label": "Rabbit", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🦊", "label": "Fox", "size": "big"}, {"emoji": "🐭", "label": "Mouse", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🦅", "label": "Eagle", "size": "big"}, {"emoji": "🐦", "label": "Sparrow", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🐺", "label": "Wolf", "size": "big"}, {"emoji": "🐿️", "label": "Squirrel", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🦆", "label": "Duck", "size": "big"}, {"emoji": "🐣", "label": "Chick", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🦋", "label": "Butterfly", "size": "big"}, {"emoji": "🐜", "label": "Ant", "size": "small"}], "answer": "small" }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "questions": [
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🏠", "label": "Big House", "size": "big"}, {"emoji": "🏡", "label": "Small House", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🌕", "label": "Full Moon", "size": "big"}, {"emoji": "🌟", "label": "Little Star", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "☁️", "label": "Big Cloud", "size": "big"}, {"emoji": "🌫️", "label": "Small Mist", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🍉", "label": "Watermelon", "size": "big"}, {"emoji": "🍇", "label": "Grapes", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🎂", "label": "Big Cake", "size": "big"}, {"emoji": "🍩", "label": "Donut", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🛸", "label": "Spaceship", "size": "big"}, {"emoji": "🔭", "label": "Telescope", "size": "small"}], "answer": "small" },
+        { "question": "Tap the BIGGER one!", "items": [{"emoji": "🌊", "label": "Ocean Wave", "size": "big"}, {"emoji": "💧", "label": "Water Drop", "size": "small"}], "answer": "big" },
+        { "question": "Tap the SMALLER one!", "items": [{"emoji": "🎪", "label": "Big Tent", "size": "big"}, {"emoji": "⛺", "label": "Small Tent", "size": "small"}], "answer": "small" }
+      ]
+    }
+  ]
+}

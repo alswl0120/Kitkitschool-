@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" width="340" height="340">
+  <!-- Background -->
+  <rect width="340" height="340" fill="#FFF8E1" rx="20"/>
+
+  <!-- Table surface -->
+  <rect x="15" y="115" width="310" height="200" rx="16" fill="#BCAAA4"/>
+  <rect x="15" y="115" width="310" height="200" rx="16" fill="none" stroke="#8D6E63" stroke-width="3"/>
+  <!-- Table top lighter surface -->
+  <rect x="20" y="120" width="300" height="190" rx="14" fill="#D7CCC8"/>
+  <!-- Table grain lines -->
+  <line x1="20" y1="165" x2="320" y2="165" stroke="#BCAAA4" stroke-width="1.5" opacity="0.5"/>
+  <line x1="20" y1="210" x2="320" y2="210" stroke="#BCAAA4" stroke-width="1.5" opacity="0.5"/>
+  <line x1="20" y1="255" x2="320" y2="255" stroke="#BCAAA4" stroke-width="1.5" opacity="0.5"/>
+  <!-- Table legs -->
+  <rect x="35" y="310" width="22" height="30" rx="5" fill="#8D6E63"/>
+  <rect x="283" y="310" width="22" height="30" rx="5" fill="#8D6E63"/>
+
+  <!-- Cup – label Cup (78%=265, 22%=75) -->
+  <!-- Saucer -->
+  <ellipse cx="265" cy="95" rx="35" ry="12" fill="#E0E0E0"/>
+  <!-- Cup body -->
+  <path d="M242 68 Q242 95 265 98 Q288 95 288 68 Z" fill="#EF5350"/>
+  <path d="M242 68 L248 48 L282 48 L288 68 Z" fill="#EF5350"/>
+  <rect x="248" y="48" width="34" height="6" rx="3" fill="#FFCDD2"/>
+  <!-- Cup handle -->
+  <path d="M288 62 Q305 62 305 76 Q305 90 288 90" stroke="#EF5350" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- Steam -->
+  <path d="M258 44 Q255 36 258 28" stroke="#BDBDBD" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M265 42 Q262 32 265 22" stroke="#BDBDBD" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M272 44 Q269 36 272 28" stroke="#BDBDBD" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Fork – label Fork (25%=85, 50%=170) -->
+  <!-- Fork handle -->
+  <rect x="78" y="140" width="14" height="90" rx="7" fill="#9E9E9E"/>
+  <!-- Fork tines -->
+  <rect x="72" y="130" width="4" height="30" rx="2" fill="#9E9E9E"/>
+  <rect x="78" y="128" width="4" height="32" rx="2" fill="#9E9E9E"/>
+  <rect x="84" y="130" width="4" height="30" rx="2" fill="#9E9E9E"/>
+  <rect x="90" y="132" width="4" height="28" rx="2" fill="#9E9E9E"/>
+  <!-- Fork neck -->
+  <path d="M72 160 Q85 162 96 160" stroke="#9E9E9E" stroke-width="4" fill="none"/>
+
+  <!-- Knife – label Knife (75%=255, 50%=170) -->
+  <!-- Knife handle -->
+  <rect x="248" y="148" width="14" height="80" rx="7" fill="#795548"/>
+  <!-- Blade -->
+  <path d="M248 148 L255 125 L262 125 Q268 138 262 148 Z" fill="#BDBDBD"/>
+  <!-- Blade edge highlight -->
+  <path d="M255 126 L261 125 Q266 137 261 148" stroke="#E0E0E0" stroke-width="1.5" fill="none"/>
+
+  <!-- Spoon – label Spoon (85%=289, 65%=221) -->
+  <!-- Spoon handle -->
+  <rect x="282" y="190" width="14" height="85" rx="7" fill="#9E9E9E"/>
+  <!-- Spoon bowl -->
+  <ellipse cx="289" cy="183" rx="16" ry="22" fill="#9E9E9E"/>
+  <ellipse cx="289" cy="183" rx="11" ry="16" fill="#BDBDBD"/>
+
+  <!-- Plate – label Plate (50%=170, 55%=187) -->
+  <!-- Outer plate rim -->
+  <circle cx="170" cy="200" r="80" fill="#E0E0E0"/>
+  <circle cx="170" cy="200" r="80" fill="none" stroke="#BDBDBD" stroke-width="3"/>
+  <!-- Inner plate -->
+  <circle cx="170" cy="200" r="64" fill="#F5F5F5"/>
+  <!-- Food on plate -->
+  <!-- Rice/grains -->
+  <ellipse cx="160" cy="196" rx="28" ry="20" fill="#FFF9C4"/>
+  <!-- Vegetable (green) -->
+  <ellipse cx="185" cy="210" rx="20" ry="14" fill="#C5E1A5"/>
+  <!-- Meat/protein -->
+  <ellipse cx="155" cy="215" rx="18" ry="12" fill="#FFAB91"/>
+  <!-- Plate shadow -->
+  <circle cx="170" cy="200" r="64" fill="none" stroke="#EEEEEE" stroke-width="4"/>
+</svg>

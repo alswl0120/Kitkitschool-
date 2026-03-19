@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "levelIndex": 1,
+      "questions": [
+        { "left": 3,  "right": 5,  "answer": "<" },
+        { "left": 7,  "right": 2,  "answer": ">" },
+        { "left": 4,  "right": 4,  "answer": "=" },
+        { "left": 1,  "right": 9,  "answer": "<" },
+        { "left": 8,  "right": 3,  "answer": ">" },
+        { "left": 6,  "right": 6,  "answer": "=" },
+        { "left": 2,  "right": 7,  "answer": "<" },
+        { "left": 10, "right": 5,  "answer": ">" }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "questions": [
+        { "left": 11, "right": 15, "answer": "<" },
+        { "left": 18, "right": 9,  "answer": ">" },
+        { "left": 13, "right": 13, "answer": "=" },
+        { "left": 4,  "right": 17, "answer": "<" },
+        { "left": 20, "right": 12, "answer": ">" },
+        { "left": 7,  "right": 7,  "answer": "=" },
+        { "left": 16, "right": 19, "answer": "<" },
+        { "left": 14, "right": 6,  "answer": ">" }
+      ]
+    },
+    {
+      "levelIndex": 3,
+      "questions": [
+        { "left": 34,  "right": 78,  "answer": "<" },
+        { "left": 91,  "right": 45,  "answer": ">" },
+        { "left": 56,  "right": 56,  "answer": "=" },
+        { "left": 12,  "right": 88,  "answer": "<" },
+        { "left": 73,  "right": 29,  "answer": ">" },
+        { "left": 100, "right": 100, "answer": "=" },
+        { "left": 47,  "right": 63,  "answer": "<" },
+        { "left": 85,  "right": 17,  "answer": ">" }
+      ]
+    }
+  ]
+}

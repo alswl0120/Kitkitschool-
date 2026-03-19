@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "levelIndex": 0,
+      "questions": [
+        { "emoji": "🍎", "count": 3, "answer": 3 },
+        { "emoji": "🐢", "count": 7, "answer": 7 },
+        { "emoji": "🌟", "count": 5, "answer": 5 },
+        { "emoji": "🍌", "count": 2, "answer": 2 },
+        { "emoji": "🐸", "count": 9, "answer": 9 },
+        { "emoji": "🎈", "count": 4, "answer": 4 },
+        { "emoji": "🦋", "count": 6, "answer": 6 },
+        { "emoji": "🍭", "count": 1, "answer": 1 }
+      ]
+    },
+    {
+      "levelIndex": 1,
+      "questions": [
+        { "emoji": "🍊", "count": 12, "answer": 12 },
+        { "emoji": "🐞", "count": 15, "answer": 15 },
+        { "emoji": "🌸", "count": 10, "answer": 10 },
+        { "emoji": "🎃", "count": 18, "answer": 18 },
+        { "emoji": "🐠", "count": 11, "answer": 11 },
+        { "emoji": "🍇", "count": 20, "answer": 20 },
+        { "emoji": "🦄", "count": 13, "answer": 13 },
+        { "emoji": "🌈", "count": 16, "answer": 16 }
+      ]
+    },
+    {
+      "levelIndex": 2,
+      "questions": [
+        { "emoji": "🚀", "count": 23, "answer": 23 },
+        { "emoji": "🐧", "count": 47, "answer": 47 },
+        { "emoji": "🍕", "count": 35, "answer": 35 },
+        { "emoji": "🦊", "count": 62, "answer": 62 },
+        { "emoji": "🌮", "count": 19, "answer": 19 },
+        { "emoji": "🐳", "count": 88, "answer": 88 },
+        { "emoji": "🎯", "count": 54, "answer": 54 },
+        { "emoji": "🦁", "count": 71, "answer": 71 }
+      ]
+    }
+  ]
+}
